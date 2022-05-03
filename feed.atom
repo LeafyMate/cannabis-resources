@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-02T01:22:58.059Z</updated>
+    <updated>2022-05-03T01:24:28.910Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cannabis Oil For Brain Cancer Treatment]]></title>
+        <id>https://leafymate.com/resources/?p=5090</id>
+        <link href="https://leafymate.com/resources/health/cannabis-oil-for-brain-cancer-treatment"/>
+        <updated>2022-05-02T12:52:42.000Z</updated>
+        <summary type="html"><![CDATA[What is brain cancer? A brain tumor is basically a mass of abnormal cancer cells growing within your brain.Many different types of brain tumors exist. Some brain tumors are noncancerous, and some brain tumors are cancerous. Brain tumors can begin in your brain, start in other parts of your body as lung cancer, bladder cancer, [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cannabis Breeding 101]]></title>
         <id>https://leafymate.com/resources/?p=5084</id>
