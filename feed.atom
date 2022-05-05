@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-04T01:22:25.140Z</updated>
+    <updated>2022-05-05T01:19:59.083Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make CBD Oil]]></title>
+        <id>https://leafymate.com/resources/?p=5096</id>
+        <link href="https://leafymate.com/resources/cbd/how-to-make-cbd-oil"/>
+        <updated>2022-05-04T14:24:00.000Z</updated>
+        <summary type="html"><![CDATA[A comprehensive guide on how to make CBD oil as well as its many uses and health benefits. What is CBD oil? CBD oil is extracted from the stems, flowers, and leaves of the hemp plant. CBD can be extracted from marijuana plants as well. Marijuana-based CBD has not been approved at a federal level, [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cannabis Oil For Brain Cancer Treatment]]></title>
         <id>https://leafymate.com/resources/?p=5090</id>
@@ -152,16 +162,6 @@
         <link href="https://leafymate.com/resources/lifestyle/find-the-perfect-strain-to-match-your-lifestyle"/>
         <updated>2022-04-07T02:23:00.000Z</updated>
         <summary type="html"><![CDATA[What Strain is Perfect for Me? This is a question many newcomers to consuming cannabis may be asking. It can be an intense process considering there are hundreds of different types of marijuana strains in the world today. Read on and allow us to guide you in the right direction towards your ideal weed strain. [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Cannabis Dependence?]]></title>
-        <id>https://leafymate.com/resources/?p=4849</id>
-        <link href="https://leafymate.com/resources/cannabis-101/cannabis-dependence"/>
-        <updated>2022-04-04T15:49:03.000Z</updated>
-        <summary type="html"><![CDATA[At Leafy Mate, we try to lighten the mood whenever we can. The below clip is a timeless track by rapper Afroman, who released it in the year 2001 during a decade when stoner comedies dominated the box office. Based on the way marijuana use impacts his daily life and activities, Afroman strongly suggests he [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
