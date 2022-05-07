@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-06T01:10:40.550Z</updated>
+    <updated>2022-05-07T01:12:51.249Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best Dispensaries in Trinidad, Colorado]]></title>
+        <id>https://leafymate.com/resources/?p=5585</id>
+        <link href="https://leafymate.com/resources/lifestyle/best-dispensaries-trinidad-co"/>
+        <updated>2022-05-06T18:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Colorado was the first state in the U.S. to legalize recreational marijuana for adult use. The result is a thriving cannabis industry that continues to push the limits of legal weed markets, cultivation, and overall cannabis culture. Top 8 List of Marijuana Dispensaries in Trinidad Colorado Below, we have included eight dispensaries in Trinidad, CO [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Are Edibles Made]]></title>
+        <id>https://leafymate.com/resources/?p=4701</id>
+        <link href="https://leafymate.com/resources/cannabis-101/how-are-edibles-made"/>
+        <updated>2022-05-06T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Plant-based is all the rage these days, so how can we get a dose of our favorite plant into foods we love to eat? We’ve been very successful in discovering new ways to use the cannabis plant for purposes other than getting high. Whether medical or recreational, marijuana use—and the cannabis industry in general—has never [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make CBD Oil]]></title>
         <id>https://leafymate.com/resources/?p=5096</id>
@@ -152,16 +172,6 @@
         <link href="https://leafymate.com/resources/lifestyle/weed-for-spiritual-purposes"/>
         <updated>2022-04-08T14:23:00.000Z</updated>
         <summary type="html"><![CDATA[Cannabis use is involved in spiritual rituals all over the world, weed itself is even celebrated and regarded highly as sacred plants in certain cultures. Join us as we dive into the connection between cannabis and spirituality and the rich history that goes along with it. The History of Cannabis and Spirituality Many religions and [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find The Perfect Strain To Match Your Lifestyle]]></title>
-        <id>https://leafymate.com/resources/?p=5114</id>
-        <link href="https://leafymate.com/resources/lifestyle/find-the-perfect-strain-to-match-your-lifestyle"/>
-        <updated>2022-04-07T02:23:00.000Z</updated>
-        <summary type="html"><![CDATA[What Strain is Perfect for Me? This is a question many newcomers to consuming cannabis may be asking. It can be an intense process considering there are hundreds of different types of marijuana strains in the world today. Read on and allow us to guide you in the right direction towards your ideal weed strain. [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
