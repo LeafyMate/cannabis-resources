@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-10T01:08:57.594Z</updated>
+    <updated>2022-05-11T01:27:22.575Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -152,16 +152,6 @@
         <link href="https://leafymate.com/resources/industry/innovative-women-in-the-cannabis-industry"/>
         <updated>2022-04-13T15:44:00.000Z</updated>
         <summary type="html"><![CDATA[The demand for female representation in the workplace has significantly increased over the past decade; however, many industries continue to struggle to create gender equality within their companies, especially at the executive levels. The cannabis industry, however, has incorporated female influence and leadership since its’ start. The cannabis industry has been a haven for a [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[History of Workplace Drug Testing]]></title>
-        <id>https://leafymate.com/resources/?p=5123</id>
-        <link href="https://leafymate.com/resources/lifestyle/history-of-workplace-drug-testing"/>
-        <updated>2022-04-11T12:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Workplace drug screening is a controversial topic in American politics. Some feel that it is an outdated practice that began at the height of the War On Drugs. Others think it’s necessary to establish a workplace drug testing program for morality and safety reasons. But, where do companies draw the line? What drugs are tested [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
