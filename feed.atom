@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-13T01:39:54.571Z</updated>
+    <updated>2022-05-14T01:42:55.531Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -142,16 +142,6 @@
         <link href="https://leafymate.com/resources/lifestyle/classic-strains-from-the-60s-that-are-still-available-today"/>
         <updated>2022-04-15T15:14:00.000Z</updated>
         <summary type="html"><![CDATA[There are many classic marijuana strains that have been around for centuries. Some of the classic strains have become parent strains to the top marijuana plants in the world today. Read on as we discuss the evolution of marijuana and how that led to the cultivation of the most famous strains of our time. This [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innovative Women In The Cannabis Industry]]></title>
-        <id>https://leafymate.com/resources/?p=5102</id>
-        <link href="https://leafymate.com/resources/industry/innovative-women-in-the-cannabis-industry"/>
-        <updated>2022-04-13T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[The demand for female representation in the workplace has significantly increased over the past decade; however, many industries continue to struggle to create gender equality within their companies, especially at the executive levels. The cannabis industry, however, has incorporated female influence and leadership since its’ start. The cannabis industry has been a haven for a [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
