@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-15T01:41:49.248Z</updated>
+    <updated>2022-05-16T01:17:29.921Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -132,16 +132,6 @@
         <link href="https://leafymate.com/resources/lifestyle/what-is-420"/>
         <updated>2022-04-18T13:30:00.000Z</updated>
         <summary type="html"><![CDATA[Most people know that 4:20 is an international holiday to celebrate and partake in cannabis consumption. However, not many people, even marijuana users, know the real origin behind connecting the number 420 to the cannabis plant itself. A few older stories describe how this national holiday and 4:20 as a special time of day became [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classic Strains From The 60s That Are Still Available Today]]></title>
-        <id>https://leafymate.com/resources/?p=5120</id>
-        <link href="https://leafymate.com/resources/lifestyle/classic-strains-from-the-60s-that-are-still-available-today"/>
-        <updated>2022-04-15T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[There are many classic marijuana strains that have been around for centuries. Some of the classic strains have become parent strains to the top marijuana plants in the world today. Read on as we discuss the evolution of marijuana and how that led to the cultivation of the most famous strains of our time. This [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
