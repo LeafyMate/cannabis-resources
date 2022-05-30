@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-29T01:24:48.527Z</updated>
+    <updated>2022-05-30T01:26:07.650Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -62,16 +62,6 @@
         <link href="https://leafymate.com/resources/health/cannabis-oil-for-brain-cancer-treatment"/>
         <updated>2022-05-02T12:52:42.000Z</updated>
         <summary type="html"><![CDATA[What is brain cancer? A brain tumor is basically a mass of abnormal cancer cells growing within your brain.Many different types of brain tumors exist. Some brain tumors are noncancerous, and some brain tumors are cancerous. Brain tumors can begin in your brain, start in other parts of your body as lung cancer, bladder cancer, [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cannabis Breeding 101]]></title>
-        <id>https://leafymate.com/resources/?p=5084</id>
-        <link href="https://leafymate.com/resources/growing/cannabis-breeding-101"/>
-        <updated>2022-04-29T13:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Cannabis breeding and cultivation is an art that can only be perfected by knowing the ins and outs of the cannabis plant. If you’re interested in getting started with growing or creating a new cannabis strain, continue reading for more information. Cannabis plant anatomy You’ll need to know the specific parts of the male and [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
