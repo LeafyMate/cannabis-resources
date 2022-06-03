@@ -2,16 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-02T01:25:29.819Z</updated>
+    <updated>2022-06-03T01:11:40.275Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022 Father’s Day Gift Guide for Cannabis Products]]></title>
+        <id>https://leafymate.com/resources/?p=6041</id>
+        <link href="https://leafymate.com/resources/lifestyle/fathers-day-cannabis"/>
+        <updated>2022-06-01T15:20:00.000Z</updated>
+        <summary type="html"><![CDATA[In honor of Father’s Day, Leafy Mate has compiled a list of cannabis-themed gifts for dear dad. Today we take a look into the history of Father’s Day and provide some eccentric gift ideas for a stoner dad that you love. Hopefully, by understanding the origins of the holiday, we can better honor and celebrate [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Colorado Hikes For Cannabis Users]]></title>
+        <id>https://leafymate.com/resources/?p=5912</id>
+        <link href="https://leafymate.com/resources/lifestyle/colorado-hikes-for-cannabis-users"/>
+        <updated>2022-05-30T14:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Cannabis used to enhance your hiking experience is an excellent way to get the most out of being outdoors. Colorado is full of areas to escape into nature to feel its therapeutic benefits, including the infamous Rocky Mountain National park which is home to over two hundred of the best backpacking trails in Colorado. Colorado’s [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Rick Simpson Oil?]]></title>
+        <id>https://leafymate.com/resources/?p=5602</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-rick-simpson-oil"/>
+        <updated>2022-05-27T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Created in a Canadian hospital, Rick Simpson Oil (RSO) is a cannabis oil known for its medical benefits, including relieving some cancer symptoms. It has a dark brown color and a thick consistency. You can apply it as a topical or consume it in an edible. Continue reading as we describe who Rick Simpson is [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Weed Make You Tired?]]></title>
+        <id>https://leafymate.com/resources/?p=5141</id>
+        <link href="https://leafymate.com/resources/cannabis-101/does-weed-make-you-tired"/>
+        <updated>2022-05-25T16:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Humans have used the cannabis plant as a sleep aid for many centuries. But why does weed make you sleepy? Certain cannabinoids have relaxing and soothing effects and can even make falling asleep easier. A recent study report that cannabis shortens the time it takes to fall asleep, both for sleep problems and for people who fall [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Edibles For Migraines]]></title>
+        <id>https://leafymate.com/resources/?p=5093</id>
+        <link href="https://leafymate.com/resources/health/best-edibles-for-migraines"/>
+        <updated>2022-05-23T13:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Edible marijuana includes any type of CBD or THC food or drinks that you can ingest. You can make medical cannabis edibles at home and there are also gummies, candies, brownies, and other edible cannabis products at dispensaries in legal states. Edibles often take longer to kick in, but they produce a relaxing body high [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Strains That Help Alleviate PTSD Symptoms]]></title>
+        <id>https://leafymate.com/resources/?p=5129</id>
+        <link href="https://leafymate.com/resources/health/best-strains-for-ptsd"/>
+        <updated>2022-05-20T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[What is PTSD? Post-traumatic stress disorder (PTSD) is a disorder that develops in some people who have experienced a severely shocking or dangerous event. It is typically a devastating condition that can lead to other mental illnesses if left untreated. Is PTSD associated with anxiety? Yes. According to the Anxiety & Depression Association of America [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Marijuana Wax]]></title>
+        <id>https://leafymate.com/resources/?p=5126</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-marijuana-wax"/>
+        <updated>2022-05-18T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Marijuana wax has been gaining popularity in the U.S. cannabis market over the last few years. Whether you are looking for a potent medical remedy or a more intense recreational cannabis high, wax makes an excellent addition to the cannabis experience. Marijuana Wax basics Marijuana wax results from a process known as extraction, which involves [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memorial Day Celebration for Cannabis Users]]></title>
         <id>https://leafymate.com/resources/?p=6044</id>
         <link href="https://leafymate.com/resources/lifestyle/memorial-day-cannabis"/>
         <updated>2022-05-16T12:43:37.000Z</updated>
         <summary type="html"><![CDATA[History of Memorial Day in the U.S. While widely known as the unofficial mark of the summer season, Memorial Day weekend has a much deeper meaning for the United States. Shortly following the Civil War, General John A. Logan ordered a decree stating that May 30, 1868, would be a day of remembrance for the [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Clean A Dab Rig]]></title>
+        <id>https://leafymate.com/resources/?p=5105</id>
+        <link href="https://leafymate.com/resources/cannabis-101/how-to-clean-a-dab-rig"/>
+        <updated>2022-05-12T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Dab rigs are a great addition and a must-have for any enthusiasts of wax concentrates. A dab rig serves a special purpose, as it’s uniquely able to process wax and concentrates in a much more efficient way than a regular water pipe could. A high-quality rig can greatly improve your dabbing experience, but they also [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
