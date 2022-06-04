@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T01:11:40.275Z</updated>
+    <updated>2022-06-04T01:11:59.552Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can You Smoke Weed on Birth Control?]]></title>
+        <id>https://leafymate.com/resources/?p=5132</id>
+        <link href="https://leafymate.com/resources/health/can-you-smoke-weed-on-birth-control"/>
+        <updated>2022-06-03T14:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Since marijuana is still illegal under federal law, scientific research is very limited. Because of the way cannabis interacts with the human body’s endocannabinoid system, certain studies suggest that CBD may be beneficial for those who take birth control, while THC may present an increased risk for others. Further research will surely lead us to [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 Father’s Day Gift Guide for Cannabis Products]]></title>
         <id>https://leafymate.com/resources/?p=6041</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/how-are-edibles-made"/>
         <updated>2022-05-06T14:35:00.000Z</updated>
         <summary type="html"><![CDATA[Plant-based is all the rage these days, so how can we get a dose of our favorite plant into foods we love to eat? We’ve been very successful in discovering new ways to use the cannabis plant for purposes other than getting high. Whether medical or recreational, marijuana use—and the cannabis industry in general—has never [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make CBD Oil]]></title>
-        <id>https://leafymate.com/resources/?p=5096</id>
-        <link href="https://leafymate.com/resources/cbd/how-to-make-cbd-oil"/>
-        <updated>2022-05-04T14:24:00.000Z</updated>
-        <summary type="html"><![CDATA[A comprehensive guide on how to make CBD oil as well as its many uses and health benefits. What is CBD oil? CBD oil is extracted from the stems, flowers, and leaves of the hemp plant. CBD can be extracted from marijuana plants as well. Marijuana-based CBD has not been approved at a federal level, [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
