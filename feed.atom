@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T01:16:31.929Z</updated>
+    <updated>2022-06-08T01:21:22.988Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is THC Syrup?]]></title>
+        <id>https://leafymate.com/resources/?p=5597</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-thc-syrup"/>
+        <updated>2022-06-06T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[If you like the thought of trying THC concentrates to improve health conditions but don’t want to smoke weed, or if you want to try new products on the market, THC syrups may be your new favorite way to use cannabis. Cannabis Syrup 101 THC syrup is a cannabis syrup made by mixing cannabis concentrates [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can You Smoke Weed on Birth Control?]]></title>
         <id>https://leafymate.com/resources/?p=5132</id>
