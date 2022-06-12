@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-11T01:15:09.018Z</updated>
+    <updated>2022-06-12T01:25:29.646Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -102,16 +102,6 @@
         <link href="https://leafymate.com/resources/lifestyle/memorial-day-cannabis"/>
         <updated>2022-05-16T12:43:37.000Z</updated>
         <summary type="html"><![CDATA[History of Memorial Day in the U.S. While widely known as the unofficial mark of the summer season, Memorial Day weekend has a much deeper meaning for the United States. Shortly following the Civil War, General John A. Logan ordered a decree stating that May 30, 1868, would be a day of remembrance for the [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Clean A Dab Rig]]></title>
-        <id>https://leafymate.com/resources/?p=5105</id>
-        <link href="https://leafymate.com/resources/cannabis-101/how-to-clean-a-dab-rig"/>
-        <updated>2022-05-12T13:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Dab rigs are a great addition and a must-have for any enthusiasts of wax concentrates. A dab rig serves a special purpose, as it’s uniquely able to process wax and concentrates in a much more efficient way than a regular water pipe could. A high-quality rig can greatly improve your dabbing experience, but they also [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
