@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-14T01:47:07.339Z</updated>
+    <updated>2022-06-15T01:25:09.448Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -92,16 +92,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/what-is-marijuana-wax"/>
         <updated>2022-05-18T12:47:00.000Z</updated>
         <summary type="html"><![CDATA[Marijuana wax has been gaining popularity in the U.S. cannabis market over the last few years. Whether you are looking for a potent medical remedy or a more intense recreational cannabis high, wax makes an excellent addition to the cannabis experience. Marijuana Wax basics Marijuana wax results from a process known as extraction, which involves [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memorial Day Celebration for Cannabis Users]]></title>
-        <id>https://leafymate.com/resources/?p=6044</id>
-        <link href="https://leafymate.com/resources/lifestyle/memorial-day-cannabis"/>
-        <updated>2022-05-16T12:43:37.000Z</updated>
-        <summary type="html"><![CDATA[History of Memorial Day in the U.S. While widely known as the unofficial mark of the summer season, Memorial Day weekend has a much deeper meaning for the United States. Shortly following the Civil War, General John A. Logan ordered a decree stating that May 30, 1868, would be a day of remembrance for the [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
