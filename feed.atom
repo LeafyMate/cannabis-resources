@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-16T01:21:54.224Z</updated>
+    <updated>2022-06-17T01:17:21.613Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://leafymate.com/resources/health/best-strains-for-ptsd"/>
         <updated>2022-05-20T15:15:00.000Z</updated>
         <summary type="html"><![CDATA[What is PTSD? Post-traumatic stress disorder (PTSD) is a disorder that develops in some people who have experienced a severely shocking or dangerous event. It is typically a devastating condition that can lead to other mental illnesses if left untreated. Is PTSD associated with anxiety? Yes. According to the Anxiety & Depression Association of America [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Marijuana Wax]]></title>
-        <id>https://leafymate.com/resources/?p=5126</id>
-        <link href="https://leafymate.com/resources/cannabis-101/what-is-marijuana-wax"/>
-        <updated>2022-05-18T12:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Marijuana wax has been gaining popularity in the U.S. cannabis market over the last few years. Whether you are looking for a potent medical remedy or a more intense recreational cannabis high, wax makes an excellent addition to the cannabis experience. Marijuana Wax basics Marijuana wax results from a process known as extraction, which involves [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
