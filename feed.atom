@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-21T01:23:13.900Z</updated>
+    <updated>2022-06-22T01:40:41.706Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -62,16 +62,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/does-weed-make-you-tired"/>
         <updated>2022-05-25T16:25:00.000Z</updated>
         <summary type="html"><![CDATA[Humans have used the cannabis plant as a sleep aid for many centuries. But why does weed make you sleepy? Certain cannabinoids have relaxing and soothing effects and can even make falling asleep easier. A recent study report that cannabis shortens the time it takes to fall asleep, both for sleep problems and for people who fall [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Edibles For Migraines]]></title>
-        <id>https://leafymate.com/resources/?p=5093</id>
-        <link href="https://leafymate.com/resources/health/best-edibles-for-migraines"/>
-        <updated>2022-05-23T13:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Edible marijuana includes any type of CBD or THC food or drinks that you can ingest. You can make medical cannabis edibles at home and there are also gummies, candies, brownies, and other edible cannabis products at dispensaries in legal states. Edibles often take longer to kick in, but they produce a relaxing body high [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
