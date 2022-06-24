@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-23T01:19:28.659Z</updated>
+    <updated>2022-06-24T01:21:29.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best Travel Destinations for Stoners]]></title>
+        <id>https://leafymate.com/resources/?p=6305</id>
+        <link href="https://leafymate.com/resources/lifestyle/best-stoner-vacations"/>
+        <updated>2022-06-22T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[If traveling is one of your favorite hobbies, it doesn’t have to exclude weed; you just have to know where to go. There are weed-friendly places to visit worldwide and even popular cannabis tourism here in the United States. From flying with weed to cannabis-friendly resorts, lounges, and events, cannabis culture as we know it [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Strain for Beginner Growers]]></title>
+        <id>https://leafymate.com/resources/?p=4855</id>
+        <link href="https://leafymate.com/resources/growing/best-strain-for-beginner-growers"/>
+        <updated>2022-06-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can homegrown weed be good? Homegrown weed can absolutely be good! High-quality homegrown marijuana can be better for your health than most cannabis products you’ll get from a dispensary. Home growing is likely your best bet if you enjoy knowing exactly what goes into your cannabis plants during the cultivation process. What is a strain? [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Cannabis Coffee]]></title>
+        <id>https://leafymate.com/resources/?p=6259</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-coffee"/>
+        <updated>2022-06-08T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[If you want to know if cannabis and coffee go together or if they are better consumed separately, look no further. Today, we are going to help you decide. Visit a dispensary, and you’ll find a vast selection of weed-infused coffees. If you’re anything like us, starting your morning with a cup of coffee is [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is THC Syrup?]]></title>
         <id>https://leafymate.com/resources/?p=5597</id>
