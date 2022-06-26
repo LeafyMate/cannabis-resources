@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-25T01:24:55.722Z</updated>
+    <updated>2022-06-26T01:40:11.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -122,16 +122,6 @@
         <link href="https://leafymate.com/resources/lifestyle/colorado-hikes-for-cannabis-users"/>
         <updated>2022-05-30T14:41:00.000Z</updated>
         <summary type="html"><![CDATA[Cannabis used to enhance your hiking experience is an excellent way to get the most out of being outdoors. Colorado is full of areas to escape into nature to feel its therapeutic benefits, including the infamous Rocky Mountain National park which is home to over two hundred of the best backpacking trails in Colorado. Colorado’s [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Rick Simpson Oil?]]></title>
-        <id>https://leafymate.com/resources/?p=5602</id>
-        <link href="https://leafymate.com/resources/cannabis-101/what-is-rick-simpson-oil"/>
-        <updated>2022-05-27T13:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Created in a Canadian hospital, Rick Simpson Oil (RSO) is a cannabis oil known for its medical benefits, including relieving some cancer symptoms. It has a dark brown color and a thick consistency. You can apply it as a topical or consume it in an edible. Continue reading as we describe who Rick Simpson is [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
