@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-29T01:24:42.183Z</updated>
+    <updated>2022-06-30T01:25:02.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Aquaponics?]]></title>
+        <id>https://leafymate.com/resources/?p=5135</id>
+        <link href="https://leafymate.com/resources/growing/what-is-aquaponics"/>
+        <updated>2022-06-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step guide for first-time aquaponics growers, filled with tools and tips you’ll need to grow cannabis plants with water at home. Cannabis Cultivation According to a 2017 chart by Marijuana Business Daily, the average cost of weed cultivation per square foot is $45.00. To break that number down further: An indoor grower will spend up [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weed-Friendly Independence Day Celebrations]]></title>
         <id>https://leafymate.com/resources/?p=6314</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/lifestyle/fathers-day-cannabis"/>
         <updated>2022-06-01T15:20:00.000Z</updated>
         <summary type="html"><![CDATA[In honor of Father’s Day, Leafy Mate has compiled a list of cannabis-themed gifts for dear dad. Today we take a look into the history of Father’s Day and provide some eccentric gift ideas for a stoner dad that you love. Hopefully, by understanding the origins of the holiday, we can better honor and celebrate [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Colorado Hikes For Cannabis Users]]></title>
-        <id>https://leafymate.com/resources/?p=5912</id>
-        <link href="https://leafymate.com/resources/lifestyle/colorado-hikes-for-cannabis-users"/>
-        <updated>2022-05-30T14:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Cannabis used to enhance your hiking experience is an excellent way to get the most out of being outdoors. Colorado is full of areas to escape into nature to feel its therapeutic benefits, including the infamous Rocky Mountain National park which is home to over two hundred of the best backpacking trails in Colorado. Colorado’s [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
