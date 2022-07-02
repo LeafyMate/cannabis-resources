@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-01T01:47:15.965Z</updated>
+    <updated>2022-07-02T01:24:54.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is 710 Day?]]></title>
+        <id>https://leafymate.com/resources/?p=6308</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-710-day"/>
+        <updated>2022-07-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Within cannabis culture, 710 Day is basically International Dab Day according to Urban Dictionary. 710 is considered a holiday celebrated on July 10th for many cannabis consumers that enjoy cannabis oil products like dabs or concentrates. The term 710 rotated and upside down spells OIL, a word used to describe these highly potent cannabis products. [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Aquaponics?]]></title>
         <id>https://leafymate.com/resources/?p=5135</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/health/can-you-smoke-weed-on-birth-control"/>
         <updated>2022-06-03T14:22:00.000Z</updated>
         <summary type="html"><![CDATA[Since marijuana is still illegal under federal law, scientific research is very limited. Because of the way cannabis interacts with the human body’s endocannabinoid system, certain studies suggest that CBD may be beneficial for those who take birth control, while THC may present an increased risk for others. Further research will surely lead us to [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Father’s Day Gift Guide for Cannabis Products]]></title>
-        <id>https://leafymate.com/resources/?p=6041</id>
-        <link href="https://leafymate.com/resources/lifestyle/fathers-day-cannabis"/>
-        <updated>2022-06-01T15:20:00.000Z</updated>
-        <summary type="html"><![CDATA[In honor of Father’s Day, Leafy Mate has compiled a list of cannabis-themed gifts for dear dad. Today we take a look into the history of Father’s Day and provide some eccentric gift ideas for a stoner dad that you love. Hopefully, by understanding the origins of the holiday, we can better honor and celebrate [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
