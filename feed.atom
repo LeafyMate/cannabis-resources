@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-03T01:44:31.886Z</updated>
+    <updated>2022-07-04T01:48:37.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -122,16 +122,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/what-is-thc-syrup"/>
         <updated>2022-06-06T14:59:00.000Z</updated>
         <summary type="html"><![CDATA[If you like the thought of trying THC concentrates to improve health conditions but don’t want to smoke weed, or if you want to try new products on the market, THC syrups may be your new favorite way to use cannabis. Cannabis Syrup 101 THC syrup is a cannabis syrup made by mixing cannabis concentrates [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can You Smoke Weed on Birth Control?]]></title>
-        <id>https://leafymate.com/resources/?p=5132</id>
-        <link href="https://leafymate.com/resources/health/can-you-smoke-weed-on-birth-control"/>
-        <updated>2022-06-03T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Since marijuana is still illegal under federal law, scientific research is very limited. Because of the way cannabis interacts with the human body’s endocannabinoid system, certain studies suggest that CBD may be beneficial for those who take birth control, while THC may present an increased risk for others. Further research will surely lead us to [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
