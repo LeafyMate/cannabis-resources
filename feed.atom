@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-10T01:48:42.318Z</updated>
+    <updated>2022-07-11T01:38:54.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -92,16 +92,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/complete-guide-to-delta-10-thc"/>
         <updated>2022-06-13T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Basics of Delta THC Several variations of THC, called chemical analogs, work to distinguish various types of THC from one another. These unique THC compounds are all slightly different. These differences impact how the human body’s endocannabinoid system reacts to them. Some analogs are federally illegal, while another active ingredient may be allowed. 3 [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is CBD Addictive?]]></title>
-        <id>https://leafymate.com/resources/?p=5147</id>
-        <link href="https://leafymate.com/resources/cbd/is-cbd-addictive"/>
-        <updated>2022-06-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CBD has grown in popularity since the Farm Bill and federal legalization in 2018, especially within the world of health and wellness. There are many questions asked about the potential risks and benefits of CBD for public health-related problems, and ongoing misconceptions regarding whether it’s safe to use daily or possibly even addictive. Understanding any [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
