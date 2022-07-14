@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-13T01:27:02.199Z</updated>
+    <updated>2022-07-14T01:43:40.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Cannabis Leaves Can Tell You]]></title>
+        <id>https://leafymate.com/resources/?p=4861</id>
+        <link href="https://leafymate.com/resources/growing/what-cannabis-leaves-can-tell-you"/>
+        <updated>2022-07-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re a novice grower or are well on your way to mastering grower level, it’s crucial to know the differences in cannabis leaves and how to understand the signs of healthy and unhealthy plant growth. Here, we provide you with the tools to fully utilize the leaves of your cannabis plant for a bigger [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Grow Room]]></title>
+        <id>https://leafymate.com/resources/?p=4846</id>
+        <link href="https://leafymate.com/resources/growing/what-is-a-grow-room"/>
+        <updated>2022-07-11T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[A grow room or grow tent is a designated space of a specific size where plants are grown in a controlled environment. Some people use a grow room to avoid the legal repercussions of home growing weed, while others have little to no outdoor space available. Is it safe to grow weed at home? It [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invest In Cannabis Stocks]]></title>
+        <id>https://leafymate.com/resources/?p=4867</id>
+        <link href="https://leafymate.com/resources/industry/invest-in-cannabis-stocks"/>
+        <updated>2022-07-08T14:06:00.000Z</updated>
+        <summary type="html"><![CDATA[As with any new industry, there are many potential investment risks with buying cannabis stocks. Whether you’re a first-time or experienced investor, understanding how this industry works will pay off. Our guide will provide you with the basics and includes our top choices for the marijuana stocks to invest in this year. Cannabis Industry Climate [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannabinoids 101: What Makes Cannabis Medicine?]]></title>
+        <id>https://leafymate.com/resources/?p=5593</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-makes-cannabis-medicine"/>
+        <updated>2022-07-06T15:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Cannabinoids are the chemicals inside cannabis and marijuana plants. In a nutshell, they are the chemical compounds in marijuana that cause people to feel high and the active ingredients in cannabis that produce certain therapeutic effects. While many people think of two cannabinoids like tetrahydrocannabinol (THC), the chemical in marijuana that produces psychoactive effects, or [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 7 Medical Marijuana Dispensaries in Mesa, AZ]]></title>
+        <id>https://leafymate.com/resources/?p=5931</id>
+        <link href="https://leafymate.com/resources/lifestyle/best-dispensaries-in-mesa-az"/>
+        <updated>2022-07-04T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Cannabis has been legal for recreational adult use in Arizona since 2020, and medical marijuana has been legal since 2010 for qualified patients and caregivers. The result has been a thriving cannabis industry that continues to push the limits of legal weed markets, cultivation, and overall industry culture. As legalization becomes more predominant in the [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is 710 Day?]]></title>
         <id>https://leafymate.com/resources/?p=6308</id>
@@ -82,16 +132,6 @@
         <link href="https://leafymate.com/resources/growing/best-strain-for-beginner-growers"/>
         <updated>2022-06-15T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Can homegrown weed be good? Homegrown weed can absolutely be good! High-quality homegrown marijuana can be better for your health than most cannabis products you’ll get from a dispensary. Home growing is likely your best bet if you enjoy knowing exactly what goes into your cannabis plants during the cultivation process. What is a strain? [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete Guide To Delta 10 THC]]></title>
-        <id>https://leafymate.com/resources/?p=5111</id>
-        <link href="https://leafymate.com/resources/cannabis-101/complete-guide-to-delta-10-thc"/>
-        <updated>2022-06-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Basics of Delta THC Several variations of THC, called chemical analogs, work to distinguish various types of THC from one another. These unique THC compounds are all slightly different. These differences impact how the human body’s endocannabinoid system reacts to them. Some analogs are federally illegal, while another active ingredient may be allowed. 3 [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
