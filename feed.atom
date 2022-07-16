@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-15T01:50:58.087Z</updated>
+    <updated>2022-07-16T01:40:13.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -122,16 +122,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/weed-mold"/>
         <updated>2022-06-17T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Since medical and recreational marijuana legalization has gained momentum, there has been more cannabis plant recalls in the past few years in states like Colorado, California, Michigan, and Florida due to health hazards from smoking moldy marijuana. Cannabis plants can begin to grow mold in the growing, drying, or curing stages. It becomes more susceptible [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Strain for Beginner Growers]]></title>
-        <id>https://leafymate.com/resources/?p=4855</id>
-        <link href="https://leafymate.com/resources/growing/best-strain-for-beginner-growers"/>
-        <updated>2022-06-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can homegrown weed be good? Homegrown weed can absolutely be good! High-quality homegrown marijuana can be better for your health than most cannabis products you’ll get from a dispensary. Home growing is likely your best bet if you enjoy knowing exactly what goes into your cannabis plants during the cultivation process. What is a strain? [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
