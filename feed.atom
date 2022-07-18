@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-17T01:49:27.716Z</updated>
+    <updated>2022-07-18T01:45:01.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -112,16 +112,6 @@
         <link href="https://leafymate.com/resources/growing/spraying-terpenes-on-weed"/>
         <updated>2022-06-20T13:47:00.000Z</updated>
         <summary type="html"><![CDATA[Terpenes are what provide the sweet aroma and flavor of your favorite buds. They can also enhance the potency and physical characteristics of cannabis plants. Lately, terpenes spray has been a big hit among cannabis consumers, but why? Join us as we break down the basics of terpenes and the recreational and medical benefits of [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does Weed Mold Look Like?]]></title>
-        <id>https://leafymate.com/resources/?p=5138</id>
-        <link href="https://leafymate.com/resources/cannabis-101/weed-mold"/>
-        <updated>2022-06-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since medical and recreational marijuana legalization has gained momentum, there has been more cannabis plant recalls in the past few years in states like Colorado, California, Michigan, and Florida due to health hazards from smoking moldy marijuana. Cannabis plants can begin to grow mold in the growing, drying, or curing stages. It becomes more susceptible [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
