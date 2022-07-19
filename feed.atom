@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-18T01:45:01.511Z</updated>
+    <updated>2022-07-19T01:50:49.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best 24 Hour Dispensary Near Me]]></title>
+        <id>https://leafymate.com/resources/?p=5590</id>
+        <link href="https://leafymate.com/resources/lifestyle/best-24-hour-dispensary-near-me"/>
+        <updated>2022-07-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the legal cannabis industry is booming, cultivation and dispensary jobs are increasing. In 2020, the marijuana industry employed a quarter of a million people, and sales exceeded twenty billion dollars. As more states legalize weed and begin to farm and sell it, the legal sector will create more jobs. Cannabis Legal Status Since recreational [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Cannabis Leaves Can Tell You]]></title>
         <id>https://leafymate.com/resources/?p=4861</id>
