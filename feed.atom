@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-24T01:47:58.448Z</updated>
+    <updated>2022-07-25T01:40:49.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -122,16 +122,6 @@
         <link href="https://leafymate.com/resources/lifestyle/weed-friendly-independence-day-celebrations"/>
         <updated>2022-06-27T13:37:00.000Z</updated>
         <summary type="html"><![CDATA[The 4th of July, aka Independence Day, has been a federally recognized holiday in the United States since 1941. Independence Day traditions date back to the 18th century and the American Revolution. Read on to discover the connection between smoking hemp and celebrating (marijuana) 4th of July within the cannabis space. The Meaning of July [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: The Vegan Stoner Cookbook]]></title>
-        <id>https://leafymate.com/resources/?p=6281</id>
-        <link href="https://leafymate.com/resources/lifestyle/the-vegan-stoner-cookbook"/>
-        <updated>2022-06-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cannabis consumers and those who adopt a vegan lifestyle have much more in common than you may realize. For one, deciding to remedy illnesses naturally and holistically is a considerable factor in why humans use weed, and it’s also a fundamental reason for choosing raw, natural ingredients to eat. Many surveys suggest that people who [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
