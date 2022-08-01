@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-31T01:51:40.653Z</updated>
+    <updated>2022-08-01T01:49:40.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -92,16 +92,6 @@
         <link href="https://leafymate.com/resources/lifestyle/best-dispensaries-in-mesa-az"/>
         <updated>2022-07-04T15:24:00.000Z</updated>
         <summary type="html"><![CDATA[Cannabis has been legal for recreational adult use in Arizona since 2020, and medical marijuana has been legal since 2010 for qualified patients and caregivers. The result has been a thriving cannabis industry that continues to push the limits of legal weed markets, cultivation, and overall industry culture. As legalization becomes more predominant in the [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is 710 Day?]]></title>
-        <id>https://leafymate.com/resources/?p=6308</id>
-        <link href="https://leafymate.com/resources/cannabis-101/what-is-710-day"/>
-        <updated>2022-07-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Within cannabis culture, 710 Day is basically International Dab Day according to Urban Dictionary. 710 is considered a holiday celebrated on July 10th for many cannabis consumers that enjoy cannabis oil products like dabs or concentrates. The term 710 rotated and upside down spells OIL, a word used to describe these highly potent cannabis products. [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
