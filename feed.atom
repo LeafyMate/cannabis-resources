@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-03T01:42:38.349Z</updated>
+    <updated>2022-08-04T01:39:06.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/what-makes-cannabis-medicine"/>
         <updated>2022-07-06T15:28:00.000Z</updated>
         <summary type="html"><![CDATA[Cannabinoids are the chemicals inside cannabis and marijuana plants. In a nutshell, they are the chemical compounds in marijuana that cause people to feel high and the active ingredients in cannabis that produce certain therapeutic effects. While many people think of two cannabinoids like tetrahydrocannabinol (THC), the chemical in marijuana that produces psychoactive effects, or [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 7 Medical Marijuana Dispensaries in Mesa, AZ]]></title>
-        <id>https://leafymate.com/resources/?p=5931</id>
-        <link href="https://leafymate.com/resources/lifestyle/best-dispensaries-in-mesa-az"/>
-        <updated>2022-07-04T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Cannabis has been legal for recreational adult use in Arizona since 2020, and medical marijuana has been legal since 2010 for qualified patients and caregivers. The result has been a thriving cannabis industry that continues to push the limits of legal weed markets, cultivation, and overall industry culture. As legalization becomes more predominant in the [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
