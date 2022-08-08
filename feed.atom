@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-07T01:41:52.806Z</updated>
+    <updated>2022-08-08T01:34:54.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -102,16 +102,6 @@
         <link href="https://leafymate.com/resources/growing/what-is-a-grow-room"/>
         <updated>2022-07-11T15:22:00.000Z</updated>
         <summary type="html"><![CDATA[A grow room or grow tent is a designated space of a specific size where plants are grown in a controlled environment. Some people use a grow room to avoid the legal repercussions of home growing weed, while others have little to no outdoor space available. Is it safe to grow weed at home? It [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invest In Cannabis Stocks]]></title>
-        <id>https://leafymate.com/resources/?p=4867</id>
-        <link href="https://leafymate.com/resources/industry/invest-in-cannabis-stocks"/>
-        <updated>2022-07-08T14:06:00.000Z</updated>
-        <summary type="html"><![CDATA[As with any new industry, there are many potential investment risks with buying cannabis stocks. Whether you’re a first-time or experienced investor, understanding how this industry works will pay off. Our guide will provide you with the basics and includes our top choices for the marijuana stocks to invest in this year. Cannabis Industry Climate [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
