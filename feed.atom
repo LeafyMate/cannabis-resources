@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-10T01:24:30.027Z</updated>
+    <updated>2022-08-11T01:23:50.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -92,16 +92,6 @@
         <link href="https://leafymate.com/resources/growing/what-cannabis-leaves-can-tell-you"/>
         <updated>2022-07-13T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Whether you’re a novice grower or are well on your way to mastering grower level, it’s crucial to know the differences in cannabis leaves and how to understand the signs of healthy and unhealthy plant growth. Here, we provide you with the tools to fully utilize the leaves of your cannabis plant for a bigger [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Grow Room]]></title>
-        <id>https://leafymate.com/resources/?p=4846</id>
-        <link href="https://leafymate.com/resources/growing/what-is-a-grow-room"/>
-        <updated>2022-07-11T15:22:00.000Z</updated>
-        <summary type="html"><![CDATA[A grow room or grow tent is a designated space of a specific size where plants are grown in a controlled environment. Some people use a grow room to avoid the legal repercussions of home growing weed, while others have little to no outdoor space available. Is it safe to grow weed at home? It [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
