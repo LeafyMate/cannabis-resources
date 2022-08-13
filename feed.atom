@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-12T01:27:28.651Z</updated>
+    <updated>2022-08-13T01:19:19.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://leafymate.com/resources/lifestyle/best-24-hour-dispensary-near-me"/>
         <updated>2022-07-18T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Since the legal cannabis industry is booming, cultivation and dispensary jobs are increasing. In 2020, the marijuana industry employed a quarter of a million people, and sales exceeded twenty billion dollars. As more states legalize weed and begin to farm and sell it, the legal sector will create more jobs. Cannabis Legal Status Since recreational [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Cannabis Leaves Can Tell You]]></title>
-        <id>https://leafymate.com/resources/?p=4861</id>
-        <link href="https://leafymate.com/resources/growing/what-cannabis-leaves-can-tell-you"/>
-        <updated>2022-07-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you’re a novice grower or are well on your way to mastering grower level, it’s crucial to know the differences in cannabis leaves and how to understand the signs of healthy and unhealthy plant growth. Here, we provide you with the tools to fully utilize the leaves of your cannabis plant for a bigger [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
