@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-19T01:43:44.864Z</updated>
+    <updated>2022-08-20T01:39:34.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -62,16 +62,6 @@
         <link href="https://leafymate.com/resources/lifestyle/best-thc-detox-methods"/>
         <updated>2022-07-22T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[A thorough collection of THC detox methods and brands to help you pass a drug test quickly and effectively. Need to Pass a Drug Test? Recently, cannabis use has been legalized in many states on a medical or recreational level, but you still may encounter careers or organizations that require mandatory drug tests. If you’ve [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Popular Fertilizers for Growing Cannabis]]></title>
-        <id>https://leafymate.com/resources/?p=5087</id>
-        <link href="https://leafymate.com/resources/growing/best-fertilizers-for-marijuanas"/>
-        <updated>2022-07-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Your go-to guide on locating, purchasing, and using the top organic fertilizers for cannabis plants in 2022. Cannabis Plant Cycle Cannabis has four main stages of plant growth. It’s important to understand which cannabis nutrients and how much to provide during each step. Step 1: Germination The seed germination life stage can last anywhere from [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
