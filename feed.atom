@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-21T01:37:50.651Z</updated>
+    <updated>2022-08-22T01:41:36.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -42,26 +42,6 @@
         <link href="https://leafymate.com/resources/growing/cannabis-indoor-grow-pots"/>
         <updated>2022-07-25T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover our comprehensive guide to growing weed indoors. Learn everything you need to know about indoor cannabis grow pots and how to use them.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cannabis Administration and Opportunity Act of 2022- What Will it Do?]]></title>
-        <id>https://leafymate.com/resources/?p=10860</id>
-        <link href="https://leafymate.com/resources/industry/cannabis-administration-and-opportunity-act"/>
-        <updated>2022-07-22T19:12:45.000Z</updated>
-        <summary type="html"><![CDATA[Senate leaders introduced legislation Thursday to remove federal prohibitions on marijuana a half of a century after Congress deemed it illegal. Senate Majority Leader Chuck Schumer has proposed the Cannabis Administration and Opportunity Act that would federally decriminalize weed and allow states to form their marijuana laws without retribution from Washington D.C. Cannabis Administration and [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best THC Detox Methods in 2022]]></title>
-        <id>https://leafymate.com/resources/?p=5108</id>
-        <link href="https://leafymate.com/resources/lifestyle/best-thc-detox-methods"/>
-        <updated>2022-07-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A thorough collection of THC detox methods and brands to help you pass a drug test quickly and effectively. Need to Pass a Drug Test? Recently, cannabis use has been legalized in many states on a medical or recreational level, but you still may encounter careers or organizations that require mandatory drug tests. If you’ve [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
