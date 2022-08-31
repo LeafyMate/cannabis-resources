@@ -4,18 +4,7 @@
       "title": "Leafy Mate",
       "feedUrl": "https://leafymate.com/resources/feed",
       "siteUrl": "https://leafymate.com/resources",
-      "articles": [
-        {
-          "id": "https://leafymate.com/resources/?p=6262",
-          "author": "Leafy Mate",
-          "description": "Weed brownies are a great way to medicate without smoking. Learn how to make pot brownies with cannabis butter in this easy step-by-step guide.",
-          "link": "https://leafymate.com/resources/lifestyle/weed-brownies",
-          "publishedOn": "2022-08-01T14:00:00.000Z",
-          "wordCount": 4850,
-          "title": "How to Make Weed Brownies",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/How-To-Make-Weed-Brownies.jpg"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
