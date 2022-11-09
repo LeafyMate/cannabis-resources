@@ -4,7 +4,18 @@
       "title": "Leafy Mate",
       "feedUrl": "https://leafymate.com/resources/feed",
       "siteUrl": "https://leafymate.com/resources",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://leafymate.com/resources/?p=11342",
+          "author": "Leafy Mate",
+          "description": "This election, five states will have voters decide on cannabis legalization. Don't miss out on your chance to make your voice heard!",
+          "link": "https://leafymate.com/resources/lifestyle/five-states-will-have-voters-decide-on-cannabis-legalization",
+          "publishedOn": "2022-11-08T15:00:00.000Z",
+          "wordCount": 3894,
+          "title": "Five States Will Have Voters Decide on Cannabis Legalization",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/voters-decide-on-cannabis-legalization.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
