@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-16T01:22:16.698Z</updated>
+    <updated>2022-11-17T01:22:06.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can you travel with Medical Marijuana?]]></title>
+        <id>https://leafymate.com/resources/?p=9005</id>
+        <link href="https://leafymate.com/resources/lifestyle/can-you-travel-with-medical-marijuana"/>
+        <updated>2022-11-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Traveling with marijuana can be risky, although those risks can be lessened with a medical marijuana card. Now that thirty-eight states have legalized some form of medical cannabis, there are ways to get around the federal law when flying and driving to other locations within the United States. Read on as we go over medical [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Five States Will Have Voters Decide on Cannabis Legalization]]></title>
         <id>https://leafymate.com/resources/?p=11342</id>
@@ -17,11 +27,51 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Strains for Making Cannabis Edibles]]></title>
-        <id>https://leafymate.com/resources/?p=10903</id>
-        <link href="https://leafymate.com/resources/lifestyle/best-strains-for-edibles"/>
-        <updated>2022-10-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Find the best strains for making cannabis edibles. Learn about how to make cannabis butter and cannabis oil with these strain guides.]]></summary>
+        <title type="html"><![CDATA[18 Best Stoner Movies of All Time]]></title>
+        <id>https://leafymate.com/resources/?p=9008</id>
+        <link href="https://leafymate.com/resources/lifestyle/18-best-stoner-movies-of-all-time"/>
+        <updated>2022-11-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for the best stoner movies of all time? Look no further! This list of 18 movies has something for every stoner, from laughs to scares to pure weirdness.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edibles vs Smoking: Pros and Cons]]></title>
+        <id>https://leafymate.com/resources/?p=9011</id>
+        <link href="https://leafymate.com/resources/cannabis-101/edibles-vs-smoking"/>
+        <updated>2022-11-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Weighing the pros and cons of edibles vs smoking? Here's a helpful guide to making the best decision for you.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is HHC?]]></title>
+        <id>https://leafymate.com/resources/?p=9001</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-hhc"/>
+        <updated>2022-10-31T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HHC, or hexahydrocannabinol, is a naturally occurring form of THC that is found in the cannabis plant.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Cannabis-Infused Chipotle Burgers]]></title>
+        <id>https://leafymate.com/resources/?p=10912</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-infused-chipotle-burgers"/>
+        <updated>2022-10-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to make the best spicy cannabis-infused chipotle burgers with this step-by-step guide.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Tea From Your Weed Stems]]></title>
+        <id>https://leafymate.com/resources/?p=10908</id>
+        <link href="https://leafymate.com/resources/lifestyle/how-to-make-tea-from-your-weed-stems"/>
+        <updated>2022-10-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We've all got a bag of weed stems lying around. Here's how to make tea from them.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=9005",
+          "author": "Leafy Mate",
+          "description": "Traveling with marijuana can be risky, although those risks can be lessened with a medical marijuana card. Now that thirty-eight states have legalized some form of medical cannabis, there are ways to get around the federal law when flying and driving to other locations within the United States. Read on as we go over medical [...]",
+          "link": "https://leafymate.com/resources/lifestyle/can-you-travel-with-medical-marijuana",
+          "publishedOn": "2022-11-14T15:00:00.000Z",
+          "wordCount": 4898,
+          "title": "Can you travel with Medical Marijuana?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Can-you-travel-with-Medical-Marijuana-scaled.jpg"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11342",
           "author": "Leafy Mate",
           "description": "This election, five states will have voters decide on cannabis legalization. Don't miss out on your chance to make your voice heard!",
@@ -16,14 +26,54 @@
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/voters-decide-on-cannabis-legalization.jpg"
         },
         {
-          "id": "https://leafymate.com/resources/?p=10903",
+          "id": "https://leafymate.com/resources/?p=9008",
           "author": "Leafy Mate",
-          "description": "Find the best strains for making cannabis edibles. Learn about how to make cannabis butter and cannabis oil with these strain guides.",
-          "link": "https://leafymate.com/resources/lifestyle/best-strains-for-edibles",
-          "publishedOn": "2022-10-17T14:00:00.000Z",
-          "wordCount": 5175,
-          "title": "Best Strains for Making Cannabis Edibles",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/best-strains-for-edibles.jpg"
+          "description": "Are you looking for the best stoner movies of all time? Look no further! This list of 18 movies has something for every stoner, from laughs to scares to pure weirdness.",
+          "link": "https://leafymate.com/resources/lifestyle/18-best-stoner-movies-of-all-time",
+          "publishedOn": "2022-11-07T15:00:00.000Z",
+          "wordCount": 5116,
+          "title": "18 Best Stoner Movies of All Time",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Best-Stoner-Movies.jpg"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=9011",
+          "author": "Leafy Mate",
+          "description": "Weighing the pros and cons of edibles vs smoking? Here's a helpful guide to making the best decision for you.",
+          "link": "https://leafymate.com/resources/cannabis-101/edibles-vs-smoking",
+          "publishedOn": "2022-11-02T14:00:00.000Z",
+          "wordCount": 4436,
+          "title": "Edibles vs Smoking: Pros and Cons",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Edibles-vs-Smoking.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=9001",
+          "author": "Leafy Mate",
+          "description": "HHC, or hexahydrocannabinol, is a naturally occurring form of THC that is found in the cannabis plant.",
+          "link": "https://leafymate.com/resources/cannabis-101/what-is-hhc",
+          "publishedOn": "2022-10-31T14:00:00.000Z",
+          "wordCount": 4853,
+          "title": "What is HHC?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/What-Is-HHC.jpg"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=10912",
+          "author": "Leafy Mate",
+          "description": "Learn how to make the best spicy cannabis-infused chipotle burgers with this step-by-step guide.",
+          "link": "https://leafymate.com/resources/lifestyle/cannabis-infused-chipotle-burgers",
+          "publishedOn": "2022-10-24T14:00:00.000Z",
+          "wordCount": 3943,
+          "title": "How to Make Cannabis-Infused Chipotle Burgers",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/chipotle-weed-burgers.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=10908",
+          "author": "Leafy Mate",
+          "description": "We've all got a bag of weed stems lying around. Here's how to make tea from them.",
+          "link": "https://leafymate.com/resources/lifestyle/how-to-make-tea-from-your-weed-stems",
+          "publishedOn": "2022-10-19T14:00:00.000Z",
+          "wordCount": 4438,
+          "title": "How to Make Tea From Your Weed Stems",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/weed-tea.jpg"
         }
       ]
     }
