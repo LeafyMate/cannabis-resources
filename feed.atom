@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-23T01:15:15.818Z</updated>
+    <updated>2022-11-24T01:20:11.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weed Edibles & Gifts: Your Guide For The 2022 Holiday Season]]></title>
+        <id>https://leafymate.com/resources/?p=11431</id>
+        <link href="https://leafymate.com/resources/lifestyle/weed-edibles-gifts-your-guide-for-the-2022-holiday-season"/>
+        <updated>2022-11-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for the perfect weed-themed gift? Look no further! Check out our selection of weed edibles and gifts - perfect for the cannabis lover in your life.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Family Guy Weed Episodes]]></title>
         <id>https://leafymate.com/resources/?p=10891</id>
@@ -72,16 +82,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/what-is-hhc"/>
         <updated>2022-10-31T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[HHC, or hexahydrocannabinol, is a naturally occurring form of THC that is found in the cannabis plant.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Cannabis-Infused Chipotle Burgers]]></title>
-        <id>https://leafymate.com/resources/?p=10912</id>
-        <link href="https://leafymate.com/resources/lifestyle/cannabis-infused-chipotle-burgers"/>
-        <updated>2022-10-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to make the best spicy cannabis-infused chipotle burgers with this step-by-step guide.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>

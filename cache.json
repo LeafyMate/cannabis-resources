@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11431",
+          "author": "Leafy Mate",
+          "description": "Looking for the perfect weed-themed gift? Look no further! Check out our selection of weed edibles and gifts - perfect for the cannabis lover in your life.",
+          "link": "https://leafymate.com/resources/lifestyle/weed-edibles-gifts-your-guide-for-the-2022-holiday-season",
+          "publishedOn": "2022-11-23T15:00:00.000Z",
+          "wordCount": 4569,
+          "title": "Weed Edibles & Gifts: Your Guide For The 2022 Holiday Season",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/weed-edibles-and-gifts-scaled.jpg"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=10891",
           "author": "Leafy Mate",
           "description": "Ever wondered what happened when Peter smoked weed in Family Guy? Check out our list of the best Family Guy weed episodes.",
@@ -74,16 +84,6 @@
           "wordCount": 4853,
           "title": "What is HHC?",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/What-Is-HHC.jpg"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=10912",
-          "author": "Leafy Mate",
-          "description": "Learn how to make the best spicy cannabis-infused chipotle burgers with this step-by-step guide.",
-          "link": "https://leafymate.com/resources/lifestyle/cannabis-infused-chipotle-burgers",
-          "publishedOn": "2022-10-24T14:00:00.000Z",
-          "wordCount": 3943,
-          "title": "How to Make Cannabis-Infused Chipotle Burgers",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/chipotle-weed-burgers.png"
         }
       ]
     }
