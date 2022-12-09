@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T01:09:48.309Z</updated>
+    <updated>2022-12-09T01:11:04.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -52,16 +52,6 @@
         <link href="https://leafymate.com/resources/industry/congress-set-to-hold-marijuana-hearing-next-week-following-mid-term-elections"/>
         <updated>2022-11-10T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lawmakers in the House of Representatives will hold a hearing next week to discuss marijuana reform issues at the federal and state levels. This critical meeting is set to have bipartisan support and participation.  Is Marijuana Still Federally Illegal?  Yes. Marijuana was listed as a Schedule 1 drug by the federal government in 1970, categorized [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five States Will Have Voters Decide on Cannabis Legalization]]></title>
-        <id>https://leafymate.com/resources/?p=11342</id>
-        <link href="https://leafymate.com/resources/lifestyle/five-states-will-have-voters-decide-on-cannabis-legalization"/>
-        <updated>2022-11-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This election, five states will have voters decide on cannabis legalization. Don't miss out on your chance to make your voice heard!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
