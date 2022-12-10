@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11450",
+          "author": "Haley Mills",
+          "description": "Check out these unique and festive weed strains for the holiday season!",
+          "link": "https://leafymate.com/resources/lifestyle/12-weed-strains-for-the-winter-holidays",
+          "publishedOn": "2022-12-09T15:00:00.000Z",
+          "wordCount": 4204,
+          "title": "12 Weed Strains for the Winter Holidays",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/weed-strains-for-the-winter-holidays.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11442",
           "author": "Leafy Mate",
           "description": "Experience a new level of relaxation in Rhode Island! Recreational Cannabis sales have just begun in the state.",
@@ -44,16 +54,6 @@
           "wordCount": 4898,
           "title": "Can you travel with Medical Marijuana?",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Can-you-travel-with-Medical-Marijuana-scaled.jpg"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11420",
-          "author": "Leafy Mate",
-          "description": "Lawmakers in the House of Representatives will hold a hearing next week to discuss marijuana reform issues at the federal and state levels. This critical meeting is set to have bipartisan support and participation.  Is Marijuana Still Federally Illegal?  Yes. Marijuana was listed as a Schedule 1 drug by the federal government in 1970, categorized [...]",
-          "link": "https://leafymate.com/resources/industry/congress-set-to-hold-marijuana-hearing-next-week-following-mid-term-elections",
-          "publishedOn": "2022-11-10T03:00:00.000Z",
-          "wordCount": 3992,
-          "title": "Congress Set to Hold Marijuana Hearing Next Week following Mid-term Elections",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Congress-Set-to-Hold-Marijuana-Hearing-Next-Week-following-Mid-term-Elections-scaled.jpg"
         }
       ]
     }
