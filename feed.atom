@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T01:10:17.846Z</updated>
+    <updated>2022-12-15T01:12:07.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -42,16 +42,6 @@
         <link href="https://leafymate.com/resources/lifestyle/family-guy-weed-episodes"/>
         <updated>2022-11-16T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ever wondered what happened when Peter smoked weed in Family Guy? Check out our list of the best Family Guy weed episodes.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you travel with Medical Marijuana?]]></title>
-        <id>https://leafymate.com/resources/?p=9005</id>
-        <link href="https://leafymate.com/resources/lifestyle/can-you-travel-with-medical-marijuana"/>
-        <updated>2022-11-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Traveling with marijuana can be risky, although those risks can be lessened with a medical marijuana card. Now that thirty-eight states have legalized some form of medical cannabis, there are ways to get around the federal law when flying and driving to other locations within the United States. Read on as we go over medical [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
