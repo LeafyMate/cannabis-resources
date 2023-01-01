@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T01:05:49.856Z</updated>
+    <updated>2023-01-01T01:17:27.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -24,16 +24,6 @@
         <summary type="html"><![CDATA[Check out these unique and festive weed strains for the holiday season!]]></summary>
         <author>
             <name>Haley Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recreational Cannabis Sales Begin This Week in Rhode Island]]></title>
-        <id>https://leafymate.com/resources/?p=11442</id>
-        <link href="https://leafymate.com/resources/industry/recreational-cannabis-sales-begin-this-week-in-rhode-island"/>
-        <updated>2022-12-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Experience a new level of relaxation in Rhode Island! Recreational Cannabis sales have just begun in the state.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
         </author>
     </entry>
 </feed>
