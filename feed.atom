@@ -2,18 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-15T01:13:09.749Z</updated>
+    <updated>2023-01-16T01:08:40.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[Adult-Use Marijuana Sales will Begin in January for Connecticut Residents]]></title>
-        <id>https://leafymate.com/resources/?p=11456</id>
-        <link href="https://leafymate.com/resources/industry/adult-use-marijuana-sales-will-begin-in-january-for-connecticut-residents"/>
-        <updated>2022-12-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Connecticut residents: get ready to buy adult-use marijuana starting in January! Learn all the details you need to know about access, regulations, and more.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
 </feed>

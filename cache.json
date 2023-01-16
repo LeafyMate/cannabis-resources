@@ -4,18 +4,7 @@
       "title": "Leafy Mate",
       "feedUrl": "https://leafymate.com/resources/feed",
       "siteUrl": "https://leafymate.com/resources",
-      "articles": [
-        {
-          "id": "https://leafymate.com/resources/?p=11456",
-          "author": "Leafy Mate",
-          "description": "Connecticut residents: get ready to buy adult-use marijuana starting in January! Learn all the details you need to know about access, regulations, and more.",
-          "link": "https://leafymate.com/resources/industry/adult-use-marijuana-sales-will-begin-in-january-for-connecticut-residents",
-          "publishedOn": "2022-12-16T15:00:00.000Z",
-          "wordCount": 3593,
-          "title": "Adult-Use Marijuana Sales will Begin in January for Connecticut Residents",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/adult-use-marijuana-sales-will-begin-in-january-for-connecticut-residents-scaled.jpg"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
