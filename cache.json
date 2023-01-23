@@ -4,7 +4,18 @@
       "title": "Leafy Mate",
       "feedUrl": "https://leafymate.com/resources/feed",
       "siteUrl": "https://leafymate.com/resources",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://leafymate.com/resources/?p=11568",
+          "author": "Leafy Mate",
+          "description": "Several weed laws were approved during the past election season, and many are set to go into effect this year. Read on to learn about which states are updating their cannabis laws and when.  Industry Insights- Recreational & Medical Cannabis The global cannabis market is currently valued at approximately 27.7 billion USD and is projected [...]",
+          "link": "https://leafymate.com/resources/industry/which-cannabis-laws-go-into-effect-in-2023",
+          "publishedOn": "2023-01-22T03:00:00.000Z",
+          "wordCount": 4102,
+          "title": "Which Cannabis Laws Go Into Effect in 2023?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Cannabis-Laws-Go-Into-Effect-in-2023.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

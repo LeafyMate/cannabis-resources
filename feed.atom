@@ -2,8 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-22T01:13:08.543Z</updated>
+    <updated>2023-01-23T01:07:38.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Which Cannabis Laws Go Into Effect in 2023?]]></title>
+        <id>https://leafymate.com/resources/?p=11568</id>
+        <link href="https://leafymate.com/resources/industry/which-cannabis-laws-go-into-effect-in-2023"/>
+        <updated>2023-01-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Several weed laws were approved during the past election season, and many are set to go into effect this year. Read on to learn about which states are updating their cannabis laws and when.  Industry Insights- Recreational & Medical Cannabis The global cannabis market is currently valued at approximately 27.7 billion USD and is projected [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
 </feed>
