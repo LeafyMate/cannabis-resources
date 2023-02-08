@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-07T01:09:30.507Z</updated>
+    <updated>2023-02-08T01:11:12.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Should I Work Out While High?]]></title>
+        <id>https://leafymate.com/resources/?p=11526</id>
+        <link href="https://leafymate.com/resources/lifestyle/should-i-work-out-while-high"/>
+        <updated>2023-02-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the potential effects of working out while high. Learn the health benefits or risks associated with this activity and decide if it's right for you.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Which Cannabis Laws Go Into Effect in 2023?]]></title>
         <id>https://leafymate.com/resources/?p=11568</id>
