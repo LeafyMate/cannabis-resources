@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T01:14:57.357Z</updated>
+    <updated>2023-02-22T01:10:21.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Roll the Best Blunt: Beginner’s Guide]]></title>
+        <id>https://leafymate.com/resources/?p=11501</id>
+        <link href="https://leafymate.com/resources/cannabis-101/how-to-roll-the-best-blunt-beginners-guide"/>
+        <updated>2023-02-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to roll the perfect blunt with this beginner's guide. From choosing the right cigarillo, to packing and lighting your blunt, you'll be an expert in no time.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can You Travel With Delta 8 THC?]]></title>
         <id>https://leafymate.com/resources/?p=11473</id>
