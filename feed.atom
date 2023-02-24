@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T01:10:08.431Z</updated>
+    <updated>2023-02-24T01:12:08.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Effects of Weed Rosin]]></title>
+        <id>https://leafymate.com/resources/?p=11494</id>
+        <link href="https://leafymate.com/resources/lifestyle/the-effects-of-weed-rosin"/>
+        <updated>2023-02-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the positive and negative effects of using weed rosin, an increasingly popular form of cannabis. Learn more about how it can affect your health and wellbeing.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Roll the Best Blunt: Beginner’s Guide]]></title>
         <id>https://leafymate.com/resources/?p=11501</id>
