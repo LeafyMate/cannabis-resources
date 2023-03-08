@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T01:18:55.550Z</updated>
+    <updated>2023-03-08T01:16:38.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Live Resin & Should I Try It?]]></title>
+        <id>https://leafymate.com/resources/?p=11486</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-live-resin-should-i-try-it"/>
+        <updated>2023-03-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Experience the ultimate in cannabis concentrates with live resin! Enjoy amazing flavor and potency, perfect for dabbing or vaping.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Cannabis Flowering Stage?]]></title>
         <id>https://leafymate.com/resources/?p=11477</id>
