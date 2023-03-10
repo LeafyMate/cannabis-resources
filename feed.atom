@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-09T01:15:58.705Z</updated>
+    <updated>2023-03-10T01:15:56.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Essential Tips for First Time Weed Smokers]]></title>
+        <id>https://leafymate.com/resources/?p=11505</id>
+        <link href="https://leafymate.com/resources/lifestyle/essential-tips-for-first-time-weed-smokers"/>
+        <updated>2023-03-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the essential tips for first-time weed smokers to have a safe, enjoyable experience. Get all the information you need to know about cannabis and smoking weed.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Live Resin & Should I Try It?]]></title>
         <id>https://leafymate.com/resources/?p=11486</id>
@@ -82,16 +92,6 @@
         <link href="https://leafymate.com/resources/lifestyle/weed-strains-that-set-the-mood-for-valentines-day"/>
         <updated>2023-02-09T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Surprise your Valentine with the perfect weed strain! Find top-rated strains that set the perfect mood for Valentine's Day, from euphoric and energizing to calming and relaxed.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should I Work Out While High?]]></title>
-        <id>https://leafymate.com/resources/?p=11526</id>
-        <link href="https://leafymate.com/resources/lifestyle/should-i-work-out-while-high"/>
-        <updated>2023-02-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the potential effects of working out while high. Learn the health benefits or risks associated with this activity and decide if it's right for you.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>

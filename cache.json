@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11505",
+          "author": "Leafy Mate",
+          "description": "Discover the essential tips for first-time weed smokers to have a safe, enjoyable experience. Get all the information you need to know about cannabis and smoking weed.",
+          "link": "https://leafymate.com/resources/lifestyle/essential-tips-for-first-time-weed-smokers",
+          "publishedOn": "2023-03-09T15:00:00.000Z",
+          "wordCount": 4422,
+          "title": "Essential Tips for First Time Weed Smokers",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/first-time-weed-smokers.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11486",
           "author": "Leafy Mate",
           "description": "Experience the ultimate in cannabis concentrates with live resin! Enjoy amazing flavor and potency, perfect for dabbing or vaping.",
@@ -84,16 +94,6 @@
           "wordCount": 4704,
           "title": "Weed Strains That Set the Mood for Valentine’s Day",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/does-weed-make-you-horny.jpg"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11526",
-          "author": "Leafy Mate",
-          "description": "Discover the potential effects of working out while high. Learn the health benefits or risks associated with this activity and decide if it's right for you.",
-          "link": "https://leafymate.com/resources/lifestyle/should-i-work-out-while-high",
-          "publishedOn": "2023-02-07T15:00:00.000Z",
-          "wordCount": 4087,
-          "title": "Should I Work Out While High?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/working-out-high-scaled.jpg"
         }
       ]
     }
