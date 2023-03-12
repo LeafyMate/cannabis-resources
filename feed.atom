@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T01:04:43.504Z</updated>
+    <updated>2023-03-12T01:16:04.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://leafymate.com/resources/lifestyle/the-beginners-guide-to-smoking-weed"/>
         <updated>2023-02-14T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the world of cannabis and learn how to safely smoke weed with this ultimate beginner's guide. Learn all the tips, tricks and techniques to smoking marijuana!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weed Strains That Set the Mood for Valentine’s Day]]></title>
-        <id>https://leafymate.com/resources/?p=11606</id>
-        <link href="https://leafymate.com/resources/lifestyle/weed-strains-that-set-the-mood-for-valentines-day"/>
-        <updated>2023-02-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Surprise your Valentine with the perfect weed strain! Find top-rated strains that set the perfect mood for Valentine's Day, from euphoric and energizing to calming and relaxed.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
