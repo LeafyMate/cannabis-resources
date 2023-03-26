@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T01:04:11.238Z</updated>
+    <updated>2023-03-26T01:11:25.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -62,16 +62,6 @@
         <link href="https://leafymate.com/resources/lifestyle/what-is-a-percolator-bong"/>
         <updated>2023-02-28T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Want to know what a Percolator Bong is? Find out here - learn all about its unique design, smoking experience and how to use one.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Effects of Weed Rosin]]></title>
-        <id>https://leafymate.com/resources/?p=11494</id>
-        <link href="https://leafymate.com/resources/lifestyle/the-effects-of-weed-rosin"/>
-        <updated>2023-02-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the positive and negative effects of using weed rosin, an increasingly popular form of cannabis. Learn more about how it can affect your health and wellbeing.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
