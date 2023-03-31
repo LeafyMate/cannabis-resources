@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11509",
+          "author": "Leafy Mate",
+          "description": "From the effects to the experience, discover what it's really like to be high on weed. Learn about the sensations, benefits, and risks associated with marijuana use.",
+          "link": "https://leafymate.com/resources/lifestyle/whats-it-feel-like-to-be-high-on-weed",
+          "publishedOn": "2023-03-30T20:30:06.000Z",
+          "wordCount": 4541,
+          "title": "What’s it Feel Like to be High on Weed?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-does-it-feel-like-to-be-high.jpg"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11519",
           "author": "Leafy Mate",
           "description": "Discover the shelf life of magic mushrooms, and learn how to store them properly for maximum freshness. Find out how long your shrooms will last!",
@@ -54,16 +64,6 @@
           "wordCount": 5299,
           "title": "What is a Cannabis Flowering Stage?",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-flowering-stage.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11490",
-          "author": "Leafy Mate",
-          "description": "Want to know what a Percolator Bong is? Find out here - learn all about its unique design, smoking experience and how to use one.",
-          "link": "https://leafymate.com/resources/lifestyle/what-is-a-percolator-bong",
-          "publishedOn": "2023-02-28T15:00:00.000Z",
-          "wordCount": 4431,
-          "title": "What is a Percolator Bong?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/percolator-bongs.png"
         }
       ]
     }
