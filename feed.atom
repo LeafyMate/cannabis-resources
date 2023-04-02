@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T01:06:59.470Z</updated>
+    <updated>2023-04-02T01:08:12.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -52,16 +52,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/what-is-live-resin-should-i-try-it"/>
         <updated>2023-03-07T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Experience the ultimate in cannabis concentrates with live resin! Enjoy amazing flavor and potency, perfect for dabbing or vaping.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Cannabis Flowering Stage?]]></title>
-        <id>https://leafymate.com/resources/?p=11477</id>
-        <link href="https://leafymate.com/resources/growing/what-is-a-cannabis-flowering-stage"/>
-        <updated>2023-03-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the cannabis flowering stage, the most exciting part of growing cannabis plants! Learn about the signs and stages of flowering for successful yields.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
