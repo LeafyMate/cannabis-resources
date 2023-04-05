@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T01:09:49.778Z</updated>
+    <updated>2023-04-05T00:54:41.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Benefits & Uses of Terpineol]]></title>
+        <id>https://leafymate.com/resources/?p=11514</id>
+        <link href="https://leafymate.com/resources/cannabis-101/the-benefits-uses-of-terpineol"/>
+        <updated>2023-04-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the many benefits and uses of Terpineol, a naturally occurring compound found in a variety of plants. Learn how it can be used to improve your health and wellbeing.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s it Feel Like to be High on Weed?]]></title>
         <id>https://leafymate.com/resources/?p=11509</id>
