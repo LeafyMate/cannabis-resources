@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T01:04:16.412Z</updated>
+    <updated>2023-04-07T00:59:26.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Top 10 CBD Products for Pets: A Guide to Choosing the Right One]]></title>
+        <id>https://leafymate.com/resources/?p=11836</id>
+        <link href="https://leafymate.com/resources/lifestyle/cbd-products-for-pets"/>
+        <updated>2023-04-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unsure which CBD product is best for your furry friend? Our guide highlights the top 10 CBD products for pets to help you make an informed decision.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Benefits & Uses of Terpineol]]></title>
         <id>https://leafymate.com/resources/?p=11514</id>
@@ -52,16 +62,6 @@
         <link href="https://leafymate.com/resources/lifestyle/essential-tips-for-first-time-weed-smokers"/>
         <updated>2023-03-09T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the essential tips for first-time weed smokers to have a safe, enjoyable experience. Get all the information you need to know about cannabis and smoking weed.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Live Resin & Should I Try It?]]></title>
-        <id>https://leafymate.com/resources/?p=11486</id>
-        <link href="https://leafymate.com/resources/cannabis-101/what-is-live-resin-should-i-try-it"/>
-        <updated>2023-03-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Experience the ultimate in cannabis concentrates with live resin! Enjoy amazing flavor and potency, perfect for dabbing or vaping.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
