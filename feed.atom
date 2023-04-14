@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T01:02:03.754Z</updated>
+    <updated>2023-04-14T01:03:37.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tourist’s Guide to Cannabis: Finding Top Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=11963</id>
+        <link href="https://leafymate.com/resources/lifestyle/best-cannabis-dispensaries"/>
+        <updated>2023-04-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you're a seasoned smoker or a curious tourist, our guide can help you find the best cannabis dispensaries anywhere you go. We'll explore top-quality strains, knowledgeable budtenders, and more.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Secret Origins of 420: Unraveling the Mysteries of Cannabis Culture’s Biggest Day]]></title>
         <id>https://leafymate.com/resources/?p=12142</id>
@@ -62,16 +72,6 @@
         <link href="https://leafymate.com/resources/lifestyle/how-long-will-magic-shrooms-last"/>
         <updated>2023-03-16T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the shelf life of magic mushrooms, and learn how to store them properly for maximum freshness. Find out how long your shrooms will last!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Battle for Marijuana Legalization in Oklahoma: Why Voters Ultimately Said ‘No’]]></title>
-        <id>https://leafymate.com/resources/?p=11910</id>
-        <link href="https://leafymate.com/resources/industry/the-battle-for-marijuana-legalization-in-oklahoma-why-voters-ultimately-said-no"/>
-        <updated>2023-03-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last week, 63 percent of Oklahoma voters said no to a proposal that would have allowed recreational marijuana use for people over 21. This means that the recreational use of marijuana is still not legal in Oklahoma, even though the state has already approved over 2,800 medical marijuana licenses.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
