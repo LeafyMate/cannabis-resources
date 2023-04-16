@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T01:05:33.268Z</updated>
+    <updated>2023-04-16T01:07:56.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -62,16 +62,6 @@
         <link href="https://leafymate.com/resources/lifestyle/whats-it-feel-like-to-be-high-on-weed"/>
         <updated>2023-03-30T20:30:06.000Z</updated>
         <summary type="html"><![CDATA[From the effects to the experience, discover what it's really like to be high on weed. Learn about the sensations, benefits, and risks associated with marijuana use.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Will Magic Shrooms Last?]]></title>
-        <id>https://leafymate.com/resources/?p=11519</id>
-        <link href="https://leafymate.com/resources/lifestyle/how-long-will-magic-shrooms-last"/>
-        <updated>2023-03-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the shelf life of magic mushrooms, and learn how to store them properly for maximum freshness. Find out how long your shrooms will last!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
