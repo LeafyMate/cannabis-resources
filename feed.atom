@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T01:04:22.871Z</updated>
+    <updated>2023-04-27T01:06:37.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Surprising Hemp Uses: From Beauty to Food]]></title>
+        <id>https://leafymate.com/resources/?p=11856</id>
+        <link href="https://leafymate.com/resources/lifestyle/hemp-uses"/>
+        <updated>2023-04-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that hemp can be used for more than just CBD oil? Discover 7 surprising ways to use hemp in your daily life, from beauty products to food.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Fascinating History of Cannabis: From Ancient Times to Today]]></title>
         <id>https://leafymate.com/resources/?p=11887</id>
