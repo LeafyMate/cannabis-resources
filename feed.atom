@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T01:04:12.767Z</updated>
+    <updated>2023-05-05T00:59:53.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -37,6 +37,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Montana’s Controversial Bill to Eliminate Adult-Use Marijuana Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=12351</id>
+        <link href="https://leafymate.com/resources/industry/montanas-controversial-bill-to-eliminate-adult-use-marijuana-dispensaries"/>
+        <updated>2023-04-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Montana, which legalized recreational marijuana in November 2020, has experienced a booming cannabis industry, with sales reaching $203 million in its first year. However, the introduction of Senate Bill 546 by Sen. Keith Regier, R-Kalispell, has sparked debate as it aims to eliminate adult-use dispensaries and significantly alter Montana’s marijuana marketplace. Understanding Senate Bill 546 [...]]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[7 Surprising Hemp Uses: From Beauty to Food]]></title>
         <id>https://leafymate.com/resources/?p=11856</id>
         <link href="https://leafymate.com/resources/lifestyle/hemp-uses"/>
@@ -52,6 +62,16 @@
         <link href="https://leafymate.com/resources/cannabis-101/history-of-cannabis"/>
         <updated>2023-04-24T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Explore the rich history of cannabis, from its earliest recorded use to its current place in society. Learn about its many uses, its cultural significance, and its ongoing evolution as a natural medicine.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delaware Joins the Ranks as the 22nd State to Legalize Recreational Marijuana]]></title>
+        <id>https://leafymate.com/resources/?p=12357</id>
+        <link href="https://leafymate.com/resources/industry/delaware-joins-the-ranks-as-the-22nd-state-to-legalize-recreational-marijuana"/>
+        <updated>2023-04-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Delaware legalizes recreational marijuana, becoming the 22nd state to do so. The state's new laws allow for personal possession and a regulated adult-use market. The industry is expected to bring in tens of millions of dollars in tax revenue, and the state aims to promote restorative justice and reduce the prison population.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
@@ -102,16 +122,6 @@
         <link href="https://leafymate.com/resources/lifestyle/cbd-products-for-pets"/>
         <updated>2023-04-06T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Unsure which CBD product is best for your furry friend? Our guide highlights the top 10 CBD products for pets to help you make an informed decision.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Benefits & Uses of Terpineol]]></title>
-        <id>https://leafymate.com/resources/?p=11514</id>
-        <link href="https://leafymate.com/resources/cannabis-101/the-benefits-uses-of-terpineol"/>
-        <updated>2023-04-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the many benefits and uses of Terpineol, a naturally occurring compound found in a variety of plants. Learn how it can be used to improve your health and wellbeing.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
