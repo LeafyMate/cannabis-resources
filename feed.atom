@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T00:59:53.444Z</updated>
+    <updated>2023-05-06T01:00:09.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cannabis and Spirituality: Finding Inner Peace and Healing]]></title>
+        <id>https://leafymate.com/resources/?p=11947</id>
+        <link href="https://leafymate.com/resources/lifestyle/spiritual-cannabis-benefits"/>
+        <updated>2023-05-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the spiritual benefits of cannabis and how it can help you find inner peace and healing. Our guide explores the use of cannabis in meditation, yoga, and more.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Terpenes: The Secret to Cannabis’ Unique Flavors and Effects]]></title>
         <id>https://leafymate.com/resources/?p=11860</id>
