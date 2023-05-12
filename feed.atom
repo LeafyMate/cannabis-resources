@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T01:05:24.685Z</updated>
+    <updated>2023-05-12T01:05:01.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -122,26 +122,6 @@
         <link href="https://leafymate.com/resources/lifestyle/best-cannabis-dispensaries"/>
         <updated>2023-04-13T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Whether you're a seasoned smoker or a curious tourist, our guide can help you find the best cannabis dispensaries anywhere you go. We'll explore top-quality strains, knowledgeable budtenders, and more.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Secret Origins of 420: Unraveling the Mysteries of Cannabis Culture’s Biggest Day]]></title>
-        <id>https://leafymate.com/resources/?p=12142</id>
-        <link href="https://leafymate.com/resources/lifestyle/the-secret-origins-of-420"/>
-        <updated>2023-04-11T22:34:09.000Z</updated>
-        <summary type="html"><![CDATA[Discover the true story behind 420, the iconic day celebrated by cannabis enthusiasts around the world. From its intriguing counterculture origins to its role in cannabis advocacy and legalization, explore how 420 became a global phenomenon. Learn about safe consumption, the impact of legalization, and how you can join the festivities!]]></summary>
-        <author>
-            <name>Kevin Fairbanks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 15 Cannabis Instagram Accounts to Follow in 2023]]></title>
-        <id>https://leafymate.com/resources/?p=11939</id>
-        <link href="https://leafymate.com/resources/lifestyle/cannabis-instagram-accounts"/>
-        <updated>2023-04-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the best cannabis Instagram accounts to follow for inspiration, education, and entertainment. Learn about the influencers, brands]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
