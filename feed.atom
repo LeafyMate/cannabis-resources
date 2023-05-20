@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-19T01:06:40.198Z</updated>
+    <updated>2023-05-20T01:03:26.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Top 10 Cannabis Strains for Stress: Find Your Perfect Match]]></title>
+        <id>https://leafymate.com/resources/?p=11967</id>
+        <link href="https://leafymate.com/resources/health/cannabis-strains-stress"/>
+        <updated>2023-05-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Feeling stressed? Our guide highlights the top 10 cannabis strains for stress relief, including their unique effects, flavors, and aromas.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cooking with Cannabis: Tips and Tricks]]></title>
         <id>https://leafymate.com/resources/?p=11998</id>
@@ -62,6 +72,16 @@
         <link href="https://leafymate.com/resources/lifestyle/spiritual-cannabis-benefits"/>
         <updated>2023-05-05T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the spiritual benefits of cannabis and how it can help you find inner peace and healing. Our guide explores the use of cannabis in meditation, yoga, and more.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maryland Embraces Adult-Use Marijuana: Governor’s Signature Clears Way for July 1st Sales]]></title>
+        <id>https://leafymate.com/resources/?p=12447</id>
+        <link href="https://leafymate.com/resources/industry/maryland-embraces-adult-use-marijuana-governors-signature-clears-way-for-july-1st-sales"/>
+        <updated>2023-05-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore Maryland's journey towards adult-use marijuana sales by July 1st. Learn about regulations, licensing, taxation, and the state's inclusive approach for a thriving cannabis market.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
