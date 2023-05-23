@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-22T01:08:54.636Z</updated>
+    <updated>2023-05-23T01:06:12.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Choosing the Right Cannabis Strain for Your Mood]]></title>
+        <id>https://leafymate.com/resources/?p=11832</id>
+        <link href="https://leafymate.com/resources/lifestyle/choosing-right-cannabis-strain"/>
+        <updated>2023-05-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our ultimate guide will help you choose the perfect cannabis strain for your mood, whether you want to relax or get energized.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Top 10 Cannabis Strains for Stress: Find Your Perfect Match]]></title>
         <id>https://leafymate.com/resources/?p=11967</id>
@@ -142,16 +152,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/history-of-cannabis"/>
         <updated>2023-04-24T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Explore the rich history of cannabis, from its earliest recorded use to its current place in society. Learn about its many uses, its cultural significance, and its ongoing evolution as a natural medicine.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delaware Joins the Ranks as the 22nd State to Legalize Recreational Marijuana]]></title>
-        <id>https://leafymate.com/resources/?p=12357</id>
-        <link href="https://leafymate.com/resources/industry/delaware-joins-the-ranks-as-the-22nd-state-to-legalize-recreational-marijuana"/>
-        <updated>2023-04-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Delaware legalizes recreational marijuana, becoming the 22nd state to do so. The state's new laws allow for personal possession and a regulated adult-use market. The industry is expected to bring in tens of millions of dollars in tax revenue, and the state aims to promote restorative justice and reduce the prison population.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>

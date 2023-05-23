@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11832",
+          "author": "Leafy Mate",
+          "description": "Our ultimate guide will help you choose the perfect cannabis strain for your mood, whether you want to relax or get energized.",
+          "link": "https://leafymate.com/resources/lifestyle/choosing-right-cannabis-strain",
+          "publishedOn": "2023-05-22T14:00:00.000Z",
+          "wordCount": 4093,
+          "title": "Choosing the Right Cannabis Strain for Your Mood",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/choosing-right-cannabis-strain2.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11967",
           "author": "Leafy Mate",
           "description": "Feeling stressed? Our guide highlights the top 10 cannabis strains for stress relief, including their unique effects, flavors, and aromas.",
@@ -144,16 +154,6 @@
           "wordCount": 5446,
           "title": "The Fascinating History of Cannabis: From Ancient Times to Today",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/history-of-cannabis-1.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=12357",
-          "author": "Leafy Mate",
-          "description": "Delaware legalizes recreational marijuana, becoming the 22nd state to do so. The state's new laws allow for personal possession and a regulated adult-use market. The industry is expected to bring in tens of millions of dollars in tax revenue, and the state aims to promote restorative justice and reduce the prison population.",
-          "link": "https://leafymate.com/resources/industry/delaware-joins-the-ranks-as-the-22nd-state-to-legalize-recreational-marijuana",
-          "publishedOn": "2023-04-22T14:00:00.000Z",
-          "wordCount": 3435,
-          "title": "Delaware Joins the Ranks as the 22nd State to Legalize Recreational Marijuana",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Delaware-Adult-Use.png"
         }
       ]
     }
