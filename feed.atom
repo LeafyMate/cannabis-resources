@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-24T01:07:59.555Z</updated>
+    <updated>2023-05-25T01:06:45.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cannabis for Pain Relief: Myths Debunked and Solutions Offered]]></title>
+        <id>https://leafymate.com/resources/?p=11871</id>
+        <link href="https://leafymate.com/resources/health/cannabis-pain-relief"/>
+        <updated>2023-05-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can cannabis help relieve pain? Our guide debunks myths and offers solutions to help you manage pain with cannabis safely and effectively.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Choosing the Right Cannabis Strain for Your Mood]]></title>
         <id>https://leafymate.com/resources/?p=11832</id>
@@ -142,16 +152,6 @@
         <link href="https://leafymate.com/resources/lifestyle/hemp-uses"/>
         <updated>2023-04-26T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Did you know that hemp can be used for more than just CBD oil? Discover 7 surprising ways to use hemp in your daily life, from beauty products to food.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fascinating History of Cannabis: From Ancient Times to Today]]></title>
-        <id>https://leafymate.com/resources/?p=11887</id>
-        <link href="https://leafymate.com/resources/cannabis-101/history-of-cannabis"/>
-        <updated>2023-04-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore the rich history of cannabis, from its earliest recorded use to its current place in society. Learn about its many uses, its cultural significance, and its ongoing evolution as a natural medicine.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>

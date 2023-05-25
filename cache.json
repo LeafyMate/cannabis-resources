@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11871",
+          "author": "Leafy Mate",
+          "description": "Can cannabis help relieve pain? Our guide debunks myths and offers solutions to help you manage pain with cannabis safely and effectively.",
+          "link": "https://leafymate.com/resources/health/cannabis-pain-relief",
+          "publishedOn": "2023-05-24T14:00:00.000Z",
+          "wordCount": 5196,
+          "title": "Cannabis for Pain Relief: Myths Debunked and Solutions Offered",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-pain-relief.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11832",
           "author": "Leafy Mate",
           "description": "Our ultimate guide will help you choose the perfect cannabis strain for your mood, whether you want to relax or get energized.",
@@ -144,16 +154,6 @@
           "wordCount": 4570,
           "title": "7 Surprising Hemp Uses: From Beauty to Food",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/hemp-uses-1.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11887",
-          "author": "Leafy Mate",
-          "description": "Explore the rich history of cannabis, from its earliest recorded use to its current place in society. Learn about its many uses, its cultural significance, and its ongoing evolution as a natural medicine.",
-          "link": "https://leafymate.com/resources/cannabis-101/history-of-cannabis",
-          "publishedOn": "2023-04-24T14:00:00.000Z",
-          "wordCount": 5446,
-          "title": "The Fascinating History of Cannabis: From Ancient Times to Today",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/history-of-cannabis-1.png"
         }
       ]
     }
