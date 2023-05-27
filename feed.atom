@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-26T01:05:14.222Z</updated>
+    <updated>2023-05-27T01:07:26.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Delta-8 THC: Risks, Benefits, and Legalities]]></title>
+        <id>https://leafymate.com/resources/?p=11955</id>
+        <link href="https://leafymate.com/resources/cannabis-101/delta-8-thc"/>
+        <updated>2023-05-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about the latest cannabis trend, Delta-8 THC, and its potential risks and benefits. We'll also explore its legal status and whether it's safe to travel with.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cannabis for Pain Relief: Myths Debunked and Solutions Offered]]></title>
         <id>https://leafymate.com/resources/?p=11871</id>
@@ -142,16 +152,6 @@
         <link href="https://leafymate.com/resources/industry/montanas-controversial-bill-to-eliminate-adult-use-marijuana-dispensaries"/>
         <updated>2023-04-27T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Montana, which legalized recreational marijuana in November 2020, has experienced a booming cannabis industry, with sales reaching $203 million in its first year. However, the introduction of Senate Bill 546 by Sen. Keith Regier, R-Kalispell, has sparked debate as it aims to eliminate adult-use dispensaries and significantly alter Montana’s marijuana marketplace. Understanding Senate Bill 546 [...]]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Surprising Hemp Uses: From Beauty to Food]]></title>
-        <id>https://leafymate.com/resources/?p=11856</id>
-        <link href="https://leafymate.com/resources/lifestyle/hemp-uses"/>
-        <updated>2023-04-26T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that hemp can be used for more than just CBD oil? Discover 7 surprising ways to use hemp in your daily life, from beauty products to food.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>

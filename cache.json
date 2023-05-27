@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11955",
+          "author": "Leafy Mate",
+          "description": "Learn about the latest cannabis trend, Delta-8 THC, and its potential risks and benefits. We'll also explore its legal status and whether it's safe to travel with.",
+          "link": "https://leafymate.com/resources/cannabis-101/delta-8-thc",
+          "publishedOn": "2023-05-26T14:00:00.000Z",
+          "wordCount": 5075,
+          "title": "Delta-8 THC: Risks, Benefits, and Legalities",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/delta-8-thc.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11871",
           "author": "Leafy Mate",
           "description": "Can cannabis help relieve pain? Our guide debunks myths and offers solutions to help you manage pain with cannabis safely and effectively.",
@@ -144,16 +154,6 @@
           "wordCount": 3555,
           "title": "Montana’s Controversial Bill to Eliminate Adult-Use Marijuana Dispensaries",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Montana-Controversial-Bill-to-Eliminate-Adult-Use.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11856",
-          "author": "Leafy Mate",
-          "description": "Did you know that hemp can be used for more than just CBD oil? Discover 7 surprising ways to use hemp in your daily life, from beauty products to food.",
-          "link": "https://leafymate.com/resources/lifestyle/hemp-uses",
-          "publishedOn": "2023-04-26T14:00:00.000Z",
-          "wordCount": 4570,
-          "title": "7 Surprising Hemp Uses: From Beauty to Food",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/hemp-uses-1.png"
         }
       ]
     }
