@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-27T01:07:26.528Z</updated>
+    <updated>2023-05-28T01:16:46.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -142,16 +142,6 @@
         <link href="https://leafymate.com/resources/lifestyle/cannabis-strains-creativity"/>
         <updated>2023-04-28T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Can cannabis boost your creativity? Our guide explores the relationship between cannabis and imagination, including how to use it to enhance your creative pursuits.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Montana’s Controversial Bill to Eliminate Adult-Use Marijuana Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=12351</id>
-        <link href="https://leafymate.com/resources/industry/montanas-controversial-bill-to-eliminate-adult-use-marijuana-dispensaries"/>
-        <updated>2023-04-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Montana, which legalized recreational marijuana in November 2020, has experienced a booming cannabis industry, with sales reaching $203 million in its first year. However, the introduction of Senate Bill 546 by Sen. Keith Regier, R-Kalispell, has sparked debate as it aims to eliminate adult-use dispensaries and significantly alter Montana’s marijuana marketplace. Understanding Senate Bill 546 [...]]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
