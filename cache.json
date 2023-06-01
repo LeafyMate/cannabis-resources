@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11983",
+          "author": "Leafy Mate",
+          "description": "Struggling with sleep? Our guide explores how CBD can help improve sleep quality, including recommended dosages and best practices for incorporating it into your bedtime routine.",
+          "link": "https://leafymate.com/resources/health/cbd-for-sleep",
+          "publishedOn": "2023-05-31T14:00:00.000Z",
+          "wordCount": 6084,
+          "title": "CBD and Sleep: The Ultimate Guide",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cbd-for-sleep.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11994",
           "author": "Leafy Mate",
           "description": "Discover the top cannabis strains that can give you a euphoric and happy experience. Find out how Leafy Mate can help you achieve your goals.",
@@ -134,16 +144,6 @@
           "wordCount": 5128,
           "title": "Understanding Terpenes: The Secret to Cannabis’ Unique Flavors and Effects",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-terpenes.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11844",
-          "author": "Leafy Mate",
-          "description": "Our beginner's guide to edible dosage will help you consume cannabis safely by avoiding overconsumption and determining the right dosage for you.",
-          "link": "https://leafymate.com/resources/lifestyle/edible-dosage",
-          "publishedOn": "2023-05-01T14:00:00.000Z",
-          "wordCount": 5251,
-          "title": "A Beginner’s Guide to Edible Dosage: How to Consume Cannabis Safely",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/edible-dosage-1.png"
         }
       ]
     }
