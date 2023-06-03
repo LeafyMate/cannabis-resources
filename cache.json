@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11943",
+          "author": "Leafy Mate",
+          "description": "Make your special day even more unforgettable with our guide to planning a weed-inspired wedding celebration. From unique favors to infused cuisine, we've got you covered.",
+          "link": "https://leafymate.com/resources/lifestyle/cannabis-wedding",
+          "publishedOn": "2023-06-02T14:00:00.000Z",
+          "wordCount": 5005,
+          "title": "Weed Weddings: How to Plan a Cannabis-Inspired Celebration",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-wedding.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11983",
           "author": "Leafy Mate",
           "description": "Struggling with sleep? Our guide explores how CBD can help improve sleep quality, including recommended dosages and best practices for incorporating it into your bedtime routine.",
@@ -134,16 +144,6 @@
           "wordCount": 2460,
           "title": "Maryland Embraces Adult-Use Marijuana: Governor’s Signature Clears Way for July 1st Sales",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Maryland-Embraces-Adult-Use-Marijuana.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11860",
-          "author": "Leafy Mate",
-          "description": "Terpenes are the secret ingredient in cannabis that give it its unique flavors and effects. Our guide explains what terpenes are and how they work.",
-          "link": "https://leafymate.com/resources/cannabis-101/cannabis-terpenes-2",
-          "publishedOn": "2023-05-03T14:00:00.000Z",
-          "wordCount": 5128,
-          "title": "Understanding Terpenes: The Secret to Cannabis’ Unique Flavors and Effects",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-terpenes.png"
         }
       ]
     }
