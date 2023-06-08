@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11959",
+          "author": "Leafy Mate",
+          "description": "Can cannabis enhance your workout? Our guide dispels common myths and explores the potential benefits, as well as best practices for incorporating cannabis into your fitness routine.",
+          "link": "https://leafymate.com/resources/lifestyle/cannabis-fitness",
+          "publishedOn": "2023-06-07T14:00:00.000Z",
+          "wordCount": 5873,
+          "title": "Cannabis and Fitness: Myths, Benefits, and Best Practices",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-fitness.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11899",
           "author": "Leafy Mate",
           "description": "Find relief from anxiety and depression with these top cannabis strains. Learn about the best methods of consumption and dosages, and find out if cannabis is the right choice for you.",
@@ -124,16 +134,6 @@
           "wordCount": 5176,
           "title": "Vaping Cannabis vs. Smoking: Pros, Cons, and Which is Better",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/pros-cons-vaping.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11879",
-          "author": "Leafy Mate",
-          "description": "Learn how to make cannabis concentrates at home with our step-by-step guide. It's easier than you think!",
-          "link": "https://leafymate.com/resources/lifestyle/cannabis-concentrates",
-          "publishedOn": "2023-05-08T14:00:00.000Z",
-          "wordCount": 5957,
-          "title": "How to Make Cannabis Concentrates at Home: A Step-by-Step Guide",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-concentrates-1.png"
         }
       ]
     }

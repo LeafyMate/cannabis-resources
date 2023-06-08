@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T01:18:59.247Z</updated>
+    <updated>2023-06-08T01:16:22.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cannabis and Fitness: Myths, Benefits, and Best Practices]]></title>
+        <id>https://leafymate.com/resources/?p=11959</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-fitness"/>
+        <updated>2023-06-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can cannabis enhance your workout? Our guide dispels common myths and explores the potential benefits, as well as best practices for incorporating cannabis into your fitness routine.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 Top Cannabis Strains for Anxiety and Depression]]></title>
         <id>https://leafymate.com/resources/?p=11899</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/lifestyle/pros-cons-vaping"/>
         <updated>2023-05-10T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Is vaping cannabis better than smoking it? Our guide examines the pros and cons of both methods to help you make an informed decision.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Cannabis Concentrates at Home: A Step-by-Step Guide]]></title>
-        <id>https://leafymate.com/resources/?p=11879</id>
-        <link href="https://leafymate.com/resources/lifestyle/cannabis-concentrates"/>
-        <updated>2023-05-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to make cannabis concentrates at home with our step-by-step guide. It's easier than you think!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
