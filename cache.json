@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11951",
+          "author": "Leafy Mate",
+          "description": "Looking for a creative and unique gift idea? Check out our guide to weed edibles as gifts, from infused chocolates to DIY baking kits.",
+          "link": "https://leafymate.com/resources/lifestyle/cannabis-edible-gifts",
+          "publishedOn": "2023-06-09T14:00:00.000Z",
+          "wordCount": 4282,
+          "title": "Weed Edibles as Gifts: Unique and Creative Ideas",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-edible-gifts.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11959",
           "author": "Leafy Mate",
           "description": "Can cannabis enhance your workout? Our guide dispels common myths and explores the potential benefits, as well as best practices for incorporating cannabis into your fitness routine.",
@@ -124,16 +134,6 @@
           "wordCount": 5017,
           "title": "DIY Cannabis Beauty: The Ultimate Guide",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-beauty-products.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11848",
-          "author": "Leafy Mate",
-          "description": "Is vaping cannabis better than smoking it? Our guide examines the pros and cons of both methods to help you make an informed decision.",
-          "link": "https://leafymate.com/resources/lifestyle/pros-cons-vaping",
-          "publishedOn": "2023-05-10T14:00:00.000Z",
-          "wordCount": 5176,
-          "title": "Vaping Cannabis vs. Smoking: Pros, Cons, and Which is Better",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/pros-cons-vaping.png"
         }
       ]
     }
