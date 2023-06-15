@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11927",
+          "author": "Leafy Mate",
+          "description": "Learn about the different types of percolator bongs and discover which one is right for you. Find out about the benefits of using a percolator bong and learn how to choose the best one for your smoking needs.",
+          "link": "https://leafymate.com/resources/lifestyle/percolator-bongs",
+          "publishedOn": "2023-06-14T14:00:00.000Z",
+          "wordCount": 5510,
+          "title": "Percolator Bongs: Which One is Right for You?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/percolator-bongs2.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=12006",
           "author": "Leafy Mate",
           "description": "Explore the best cannabis dispensaries in California for both tourists and locals. Discover Leafy Mate's recommended products for a great experience.",
@@ -124,16 +134,6 @@
           "wordCount": 4138,
           "title": "Cooking with Cannabis: Tips and Tricks",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-cooking.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11979",
-          "author": "Leafy Mate",
-          "description": "Take your yoga or meditation practice to the next level with our guide to the top 5 cannabis strains for enhancing mindfulness and relaxation.",
-          "link": "https://leafymate.com/resources/health/cannabis-yoga",
-          "publishedOn": "2023-05-15T14:00:00.000Z",
-          "wordCount": 4689,
-          "title": "The Best Cannabis Strains for Yoga and Meditation",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-yoga.png"
         }
       ]
     }
