@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T01:12:59.557Z</updated>
+    <updated>2023-06-17T01:08:38.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Cannabis for Relaxation and Stress Relief]]></title>
+        <id>https://leafymate.com/resources/?p=11891</id>
+        <link href="https://leafymate.com/resources/health/cannabis-relaxation"/>
+        <updated>2023-06-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how cannabis can help you unwind and destress. Learn about the best strains and methods for relaxation, and find out how to use it safely and effectively.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Percolator Bongs: Which One is Right for You?]]></title>
         <id>https://leafymate.com/resources/?p=11927</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/health/cannabis-strains-stress"/>
         <updated>2023-05-19T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Feeling stressed? Our guide highlights the top 10 cannabis strains for stress relief, including their unique effects, flavors, and aromas.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cooking with Cannabis: Tips and Tricks]]></title>
-        <id>https://leafymate.com/resources/?p=11998</id>
-        <link href="https://leafymate.com/resources/lifestyle/cannabis-cooking"/>
-        <updated>2023-05-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to cook with cannabis with our helpful tips and tricks. Leafy Mate offers high-quality products to enhance your infused meals.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>

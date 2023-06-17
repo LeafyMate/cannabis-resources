@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11891",
+          "author": "Leafy Mate",
+          "description": "Discover how cannabis can help you unwind and destress. Learn about the best strains and methods for relaxation, and find out how to use it safely and effectively.",
+          "link": "https://leafymate.com/resources/health/cannabis-relaxation",
+          "publishedOn": "2023-06-16T14:00:00.000Z",
+          "wordCount": 5540,
+          "title": "Using Cannabis for Relaxation and Stress Relief",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-relaxation.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11927",
           "author": "Leafy Mate",
           "description": "Learn about the different types of percolator bongs and discover which one is right for you. Find out about the benefits of using a percolator bong and learn how to choose the best one for your smoking needs.",
@@ -124,16 +134,6 @@
           "wordCount": 3845,
           "title": "The Top 10 Cannabis Strains for Stress: Find Your Perfect Match",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-strains-stress.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11998",
-          "author": "Leafy Mate",
-          "description": "Learn how to cook with cannabis with our helpful tips and tricks. Leafy Mate offers high-quality products to enhance your infused meals.",
-          "link": "https://leafymate.com/resources/lifestyle/cannabis-cooking",
-          "publishedOn": "2023-05-17T14:00:00.000Z",
-          "wordCount": 4138,
-          "title": "Cooking with Cannabis: Tips and Tricks",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-cooking.png"
         }
       ]
     }
