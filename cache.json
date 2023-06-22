@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11935",
+          "author": "Leafy Mate",
+          "description": "Discover how cannabis can enhance intimacy and romance. Learn about the best strains and products for couples, and find out how to use it safely and effectively to take your relationship to the next level.",
+          "link": "https://leafymate.com/resources/lifestyle/cannabis-strains-intimacy",
+          "publishedOn": "2023-06-21T14:00:00.000Z",
+          "wordCount": 5318,
+          "title": "14 Weed Strains for Enhancing Intimacy and Romance",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-strains-intimacy.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11895",
           "author": "Leafy Mate",
           "description": "Learn how cannabis can help manage cancer symptoms and side effects. Discover the best strains and products for cancer patients, and find out if it's right for you.",
@@ -124,16 +134,6 @@
           "wordCount": 5196,
           "title": "Cannabis for Pain Relief: Myths Debunked and Solutions Offered",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-pain-relief.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11832",
-          "author": "Leafy Mate",
-          "description": "Our ultimate guide will help you choose the perfect cannabis strain for your mood, whether you want to relax or get energized.",
-          "link": "https://leafymate.com/resources/lifestyle/choosing-right-cannabis-strain",
-          "publishedOn": "2023-05-22T14:00:00.000Z",
-          "wordCount": 4093,
-          "title": "Choosing the Right Cannabis Strain for Your Mood",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/choosing-right-cannabis-strain2.png"
         }
       ]
     }
