@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11987",
+          "author": "Leafy Mate",
+          "description": "Curious about how cannabis affects the brain? Our guide explores the science behind THC and CBD, including their unique effects on the brain and body.",
+          "link": "https://leafymate.com/resources/cbd/thc-cbd-effects",
+          "publishedOn": "2023-06-23T14:00:00.000Z",
+          "wordCount": 5506,
+          "title": "The Science of Cannabis: Understanding Cannabinoids",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/thc-cbd-effects.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11935",
           "author": "Leafy Mate",
           "description": "Discover how cannabis can enhance intimacy and romance. Learn about the best strains and products for couples, and find out how to use it safely and effectively to take your relationship to the next level.",
@@ -124,16 +134,6 @@
           "wordCount": 5075,
           "title": "Delta-8 THC: Risks, Benefits, and Legalities",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/delta-8-thc.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11871",
-          "author": "Leafy Mate",
-          "description": "Can cannabis help relieve pain? Our guide debunks myths and offers solutions to help you manage pain with cannabis safely and effectively.",
-          "link": "https://leafymate.com/resources/health/cannabis-pain-relief",
-          "publishedOn": "2023-05-24T14:00:00.000Z",
-          "wordCount": 5196,
-          "title": "Cannabis for Pain Relief: Myths Debunked and Solutions Offered",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-pain-relief.png"
         }
       ]
     }
