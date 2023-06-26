@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-25T01:27:53.554Z</updated>
+    <updated>2023-06-26T01:22:39.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -122,16 +122,6 @@
         <link href="https://leafymate.com/resources/lifestyle/cannabis-strains-happiness"/>
         <updated>2023-05-29T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the top cannabis strains that can give you a euphoric and happy experience. Find out how Leafy Mate can help you achieve your goals.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delta-8 THC: Risks, Benefits, and Legalities]]></title>
-        <id>https://leafymate.com/resources/?p=11955</id>
-        <link href="https://leafymate.com/resources/cannabis-101/delta-8-thc"/>
-        <updated>2023-05-26T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn about the latest cannabis trend, Delta-8 THC, and its potential risks and benefits. We'll also explore its legal status and whether it's safe to travel with.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
