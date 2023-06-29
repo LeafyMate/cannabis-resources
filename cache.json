@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=11919",
+          "author": "Leafy Mate",
+          "description": "Discover how cannabis can help improve your sleep quality. Learn about the best strains and methods for sleep, and find out how to use it safely and effectively.",
+          "link": "https://leafymate.com/resources/health/cannabis-sleep",
+          "publishedOn": "2023-06-28T14:00:00.000Z",
+          "wordCount": 5529,
+          "title": "Unique Ways to Use Cannabis for Better Sleep",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-sleep.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=11852",
           "author": "Leafy Mate",
           "description": "Our guide explores the connection between cannabis and mental health, including potential benefits and risks, to help you make an informed decision.",
@@ -124,16 +134,6 @@
           "wordCount": 6084,
           "title": "CBD and Sleep: The Ultimate Guide",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cbd-for-sleep.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11994",
-          "author": "Leafy Mate",
-          "description": "Discover the top cannabis strains that can give you a euphoric and happy experience. Find out how Leafy Mate can help you achieve your goals.",
-          "link": "https://leafymate.com/resources/lifestyle/cannabis-strains-happiness",
-          "publishedOn": "2023-05-29T14:00:00.000Z",
-          "wordCount": 4534,
-          "title": "13 Best Cannabis Strains for Euphoria and Happiness",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-strains-happiness.png"
         }
       ]
     }

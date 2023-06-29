@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-28T01:23:02.257Z</updated>
+    <updated>2023-06-29T01:20:30.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unique Ways to Use Cannabis for Better Sleep]]></title>
+        <id>https://leafymate.com/resources/?p=11919</id>
+        <link href="https://leafymate.com/resources/health/cannabis-sleep"/>
+        <updated>2023-06-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how cannabis can help improve your sleep quality. Learn about the best strains and methods for sleep, and find out how to use it safely and effectively.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Link Between Cannabis and Mental Health: What You Need to Know]]></title>
         <id>https://leafymate.com/resources/?p=11852</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/health/cbd-for-sleep"/>
         <updated>2023-05-31T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Struggling with sleep? Our guide explores how CBD can help improve sleep quality, including recommended dosages and best practices for incorporating it into your bedtime routine.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13 Best Cannabis Strains for Euphoria and Happiness]]></title>
-        <id>https://leafymate.com/resources/?p=11994</id>
-        <link href="https://leafymate.com/resources/lifestyle/cannabis-strains-happiness"/>
-        <updated>2023-05-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the top cannabis strains that can give you a euphoric and happy experience. Find out how Leafy Mate can help you achieve your goals.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
