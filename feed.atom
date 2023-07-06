@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-05T01:22:30.375Z</updated>
+    <updated>2023-07-06T01:23:14.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Are Cannabis Drinkables?]]></title>
+        <id>https://leafymate.com/resources/?p=12590</id>
+        <link href="https://leafymate.com/resources/cannabis-101/cannabis-drinkables"/>
+        <updated>2023-07-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the new way to enjoy cannabis with drinkables! Learn how they work and why they're taking the market by storm.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Cannabis Products for 4th of July]]></title>
         <id>https://leafymate.com/resources/?p=12570</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/lifestyle/cannabis-fitness"/>
         <updated>2023-06-07T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Can cannabis enhance your workout? Our guide dispels common myths and explores the potential benefits, as well as best practices for incorporating cannabis into your fitness routine.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Top Cannabis Strains for Anxiety and Depression]]></title>
-        <id>https://leafymate.com/resources/?p=11899</id>
-        <link href="https://leafymate.com/resources/health/cannabis-strains-anxiety"/>
-        <updated>2023-06-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Find relief from anxiety and depression with these top cannabis strains. Learn about the best methods of consumption and dosages, and find out if cannabis is the right choice for you.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
