@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-09T01:27:23.598Z</updated>
+    <updated>2023-07-10T01:21:11.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -122,16 +122,6 @@
         <link href="https://leafymate.com/resources/lifestyle/california-cannabis-dispensaries"/>
         <updated>2023-06-12T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Explore the best cannabis dispensaries in California for both tourists and locals. Discover Leafy Mate's recommended products for a great experience.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weed Edibles as Gifts: Unique and Creative Ideas]]></title>
-        <id>https://leafymate.com/resources/?p=11951</id>
-        <link href="https://leafymate.com/resources/lifestyle/cannabis-edible-gifts"/>
-        <updated>2023-06-09T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for a creative and unique gift idea? Check out our guide to weed edibles as gifts, from infused chocolates to DIY baking kits.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
