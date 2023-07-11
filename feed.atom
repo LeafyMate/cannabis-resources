@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T01:21:11.741Z</updated>
+    <updated>2023-07-11T01:15:10.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Will Marijuana Be Removed From Schedule I?]]></title>
+        <id>https://leafymate.com/resources/?p=12595</id>
+        <link href="https://leafymate.com/resources/industry/marijuana-schedule-i-removal"/>
+        <updated>2023-07-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Is Marijuana Finally Coming Off Schedule I? Find Out Here!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maximize Your Dispensary Visit: Ask These 5 Questions!]]></title>
         <id>https://leafymate.com/resources/?p=12585</id>
