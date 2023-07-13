@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=12632",
+          "author": "Leafy Mate",
+          "description": "Enhance your fitness routine with cannabis. Learn how THC and CBD can improve your workout performance and recovery. Click to read more.",
+          "link": "https://leafymate.com/resources/health/cannabis-workout-benefits",
+          "publishedOn": "2023-07-12T17:11:23.000Z",
+          "wordCount": 3155,
+          "title": "Can Cannabis Help Your Workout?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Can-Cannabis-Help-Your-Workout.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=12595",
           "author": "Leafy Mate",
           "description": "Is Marijuana Finally Coming Off Schedule I? Find Out Here!",
@@ -124,16 +134,6 @@
           "wordCount": 5510,
           "title": "Percolator Bongs: Which One is Right for You?",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/percolator-bongs2.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=12006",
-          "author": "Leafy Mate",
-          "description": "Explore the best cannabis dispensaries in California for both tourists and locals. Discover Leafy Mate's recommended products for a great experience.",
-          "link": "https://leafymate.com/resources/lifestyle/california-cannabis-dispensaries",
-          "publishedOn": "2023-06-12T14:00:00.000Z",
-          "wordCount": 4946,
-          "title": "Top 10 Cannabis Dispensaries in California",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/california-cannabis-dispensaries.png"
         }
       ]
     }
