@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T01:24:15.891Z</updated>
+    <updated>2023-07-18T01:44:13.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Everything You Want To Know About Cannabis Cocktails]]></title>
+        <id>https://leafymate.com/resources/?p=12697</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-cocktails"/>
+        <updated>2023-07-17T15:51:29.000Z</updated>
+        <summary type="html"><![CDATA[Discover the ultimate guide to cannabis-infused cocktails. Unlock the secrets of mixing marijuana and booze for a mind-blowing experience. Click now!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Comprehensive Guide to the Benefits of Hemp]]></title>
         <id>https://leafymate.com/resources/?p=11923</id>
