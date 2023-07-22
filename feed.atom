@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T01:11:08.868Z</updated>
+    <updated>2023-07-22T01:10:19.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Future Of CBD Cosmetics]]></title>
+        <id>https://leafymate.com/resources/?p=12687</id>
+        <link href="https://leafymate.com/resources/cbd/cbd-cosmetics"/>
+        <updated>2023-07-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the dazzling future of CBD cosmetics - the revolutionary beauty trend that's taking the industry by storm. Click now for an exciting glimpse into the future!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11 Tropical Cannabis Strains To Try This Summer]]></title>
         <id>https://leafymate.com/resources/?p=12692</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/cbd/thc-cbd-effects"/>
         <updated>2023-06-23T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Curious about how cannabis affects the brain? Our guide explores the science behind THC and CBD, including their unique effects on the brain and body.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14 Weed Strains for Enhancing Intimacy and Romance]]></title>
-        <id>https://leafymate.com/resources/?p=11935</id>
-        <link href="https://leafymate.com/resources/lifestyle/cannabis-strains-intimacy"/>
-        <updated>2023-06-21T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how cannabis can enhance intimacy and romance. Learn about the best strains and products for couples, and find out how to use it safely and effectively to take your relationship to the next level.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
