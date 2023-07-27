@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-26T01:10:10.014Z</updated>
+    <updated>2023-07-27T01:02:48.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Does Weed Make Some People Paranoid?]]></title>
+        <id>https://leafymate.com/resources/?p=12652</id>
+        <link href="https://leafymate.com/resources/cannabis-101/weed-paranoia"/>
+        <updated>2023-07-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Mystery: Weed and Paranoia. Discover why some individuals feel anxious after smoking marijuana. The answer might surprise you!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cannabis: The Economic Savior We’ve Been Waiting For]]></title>
         <id>https://leafymate.com/resources/?p=12677</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/health/cannabis-sleep"/>
         <updated>2023-06-28T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover how cannabis can help improve your sleep quality. Learn about the best strains and methods for sleep, and find out how to use it safely and effectively.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Link Between Cannabis and Mental Health: What You Need to Know]]></title>
-        <id>https://leafymate.com/resources/?p=11852</id>
-        <link href="https://leafymate.com/resources/health/cannabis-mental-health"/>
-        <updated>2023-06-26T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our guide explores the connection between cannabis and mental health, including potential benefits and risks, to help you make an informed decision.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
