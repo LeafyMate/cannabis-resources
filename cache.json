@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=12682",
+          "author": "Leafy Mate",
+          "description": "Discover the future of disposable vapes! From cutting-edge innovations to game-changing advancements, this article reveals what's coming next in the world of disposable vaping.",
+          "link": "https://leafymate.com/resources/cannabis-101/disposable-vapes",
+          "publishedOn": "2023-07-28T14:00:00.000Z",
+          "wordCount": 4463,
+          "title": "What’s Next For Disposable Vapes: Innovations On The Horizon",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Whats-Next-For-Disposable-Vapes-Innovations-On-The-Horizon.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=12652",
           "author": "Leafy Mate",
           "description": "Unveiling the Mystery: Weed and Paranoia. Discover why some individuals feel anxious after smoking marijuana. The answer might surprise you!",
@@ -124,16 +134,6 @@
           "wordCount": 6100,
           "title": "Benefits of Medical Marijuana for Chronic Pain Management",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/medical-marijuana-benefits.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=11919",
-          "author": "Leafy Mate",
-          "description": "Discover how cannabis can help improve your sleep quality. Learn about the best strains and methods for sleep, and find out how to use it safely and effectively.",
-          "link": "https://leafymate.com/resources/health/cannabis-sleep",
-          "publishedOn": "2023-06-28T14:00:00.000Z",
-          "wordCount": 5529,
-          "title": "Unique Ways to Use Cannabis for Better Sleep",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-sleep.png"
         }
       ]
     }
