@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-30T01:07:23.318Z</updated>
+    <updated>2023-07-31T01:07:23.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -122,16 +122,6 @@
         <link href="https://leafymate.com/resources/lifestyle/cannabis-products-4th-of-july"/>
         <updated>2023-07-03T15:54:11.000Z</updated>
         <summary type="html"><![CDATA[Celebrate Independence Day with the best cannabis products! Discover our top picks for 4th of July and elevate your holiday.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benefits of Medical Marijuana for Chronic Pain Management]]></title>
-        <id>https://leafymate.com/resources/?p=11883</id>
-        <link href="https://leafymate.com/resources/health/medical-marijuana-benefits"/>
-        <updated>2023-06-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how medical marijuana can help manage chronic pain. Learn about the benefits and find out if it's right for you.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
