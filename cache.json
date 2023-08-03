@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=12672",
+          "author": "Leafy Mate",
+          "description": "Discover the inside scoop on cannabis consumption lounges. Find out what you need to know before you step into this exciting new world.",
+          "link": "https://leafymate.com/resources/lifestyle/cannabis-consumption-lounge",
+          "publishedOn": "2023-08-02T14:00:00.000Z",
+          "wordCount": 5101,
+          "title": "7 Things To Know About A Cannabis Consumption Lounge",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/7-Things-To-Know-About-A-Cannabis-Consumption-Lounge.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=12657",
           "author": "Leafy Mate",
           "description": "Discover how to maximize your cannabis and psychedelic experiences by harnessing the power of set and setting. Unleash the full potential of your mind.",
@@ -124,16 +134,6 @@
           "wordCount": 4815,
           "title": "What Are Cannabis Drinkables?",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-drinkables.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=12570",
-          "author": "Leafy Mate",
-          "description": "Celebrate Independence Day with the best cannabis products! Discover our top picks for 4th of July and elevate your holiday.",
-          "link": "https://leafymate.com/resources/lifestyle/cannabis-products-4th-of-july",
-          "publishedOn": "2023-07-03T15:54:11.000Z",
-          "wordCount": 4767,
-          "title": "Top Cannabis Products for 4th of July",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-products-4th-of-july.png"
         }
       ]
     }
