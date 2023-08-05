@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=12667",
+          "author": "Leafy Mate",
+          "description": "Find out if your boss can test you for weed in your state. Don't be caught off guard - know your rights!",
+          "link": "https://leafymate.com/resources/industry/drug-testing-states",
+          "publishedOn": "2023-08-04T14:00:00.000Z",
+          "wordCount": 5226,
+          "title": "In Which States Can Your Boss Test For Weed?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/drug-testing-states.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=12672",
           "author": "Leafy Mate",
           "description": "Discover the inside scoop on cannabis consumption lounges. Find out what you need to know before you step into this exciting new world.",
@@ -124,16 +134,6 @@
           "wordCount": 3291,
           "title": "Maximize Your Dispensary Visit: Ask These 5 Questions!",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-dispensary-questions.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=12590",
-          "author": "Leafy Mate",
-          "description": "Discover the new way to enjoy cannabis with drinkables! Learn how they work and why they're taking the market by storm.",
-          "link": "https://leafymate.com/resources/cannabis-101/cannabis-drinkables",
-          "publishedOn": "2023-07-05T14:00:00.000Z",
-          "wordCount": 4815,
-          "title": "What Are Cannabis Drinkables?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-drinkables.png"
         }
       ]
     }
