@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=12720",
+          "author": "Leafy Mate",
+          "description": "Discover 11 expert strategies to tackle a cannabis green out head-on. Don't let it ruin your high - click now to find relief!",
+          "link": "https://leafymate.com/resources/cannabis-101/cannabis-green-out",
+          "publishedOn": "2023-08-09T14:00:00.000Z",
+          "wordCount": 6539,
+          "title": "11 Ways To Deal With Cannabis Green Out",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-green-out.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=12662",
           "author": "Leafy Mate",
           "description": "Discover the fascinating world of vaping cannabis concentrates. Uncover the scientific secrets behind this popular trend and revolutionize your smoking experience.",
@@ -124,16 +134,6 @@
           "wordCount": 3155,
           "title": "Can Cannabis Help Your Workout?",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Can-Cannabis-Help-Your-Workout.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=12595",
-          "author": "Leafy Mate",
-          "description": "Is Marijuana Finally Coming Off Schedule I? Find Out Here!",
-          "link": "https://leafymate.com/resources/industry/marijuana-schedule-i-removal",
-          "publishedOn": "2023-07-10T14:00:00.000Z",
-          "wordCount": 4927,
-          "title": "Will Marijuana Be Removed From Schedule I?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/marijuana-schedule-i-removal.png"
         }
       ]
     }
