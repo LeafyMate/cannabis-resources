@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-14T00:54:36.253Z</updated>
+    <updated>2023-08-15T00:53:52.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[High On Savings: Tips For Creating A Weed Budget]]></title>
+        <id>https://leafymate.com/resources/?p=12576</id>
+        <link href="https://leafymate.com/resources/lifestyle/weed-budget"/>
+        <updated>2023-08-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Get high on savings with these weed budgeting tips! Save money while enjoying your favorite herb. Click now to learn more.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9 Captivating Documentaries Every Cannabis Connoisseur Needs To See]]></title>
         <id>https://leafymate.com/resources/?p=12626</id>
