@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=13411",
+          "author": "Leafy Mate",
+          "description": "Locate the best cannabis pre-rolls on the market and how to choose the perfect one for you. Elevate your smoking experience with our ultimate guide!",
+          "link": "https://leafymate.com/resources/cannabis-101/best-cannabis-pre-rolls",
+          "publishedOn": "2023-08-16T14:00:00.000Z",
+          "wordCount": 5078,
+          "title": "Your Ultimate Guide To Cannabis Pre-Rolls",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/best-cannabis-pre-rolls.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=12576",
           "author": "Leafy Mate",
           "description": "Get high on savings with these weed budgeting tips! Save money while enjoying your favorite herb. Click now to learn more.",
@@ -124,16 +134,6 @@
           "wordCount": 5995,
           "title": "11 Tropical Cannabis Strains To Try This Summer",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/tropical-cannabis-strains.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=12697",
-          "author": "Leafy Mate",
-          "description": "Discover the ultimate guide to cannabis-infused cocktails. Unlock the secrets of mixing marijuana and booze for a mind-blowing experience. Click now!",
-          "link": "https://leafymate.com/resources/lifestyle/cannabis-cocktails",
-          "publishedOn": "2023-07-17T15:51:29.000Z",
-          "wordCount": 3884,
-          "title": "Everything You Want To Know About Cannabis Cocktails",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-cocktails.png"
         }
       ]
     }

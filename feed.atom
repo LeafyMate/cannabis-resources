@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-16T00:53:42.241Z</updated>
+    <updated>2023-08-17T00:52:51.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your Ultimate Guide To Cannabis Pre-Rolls]]></title>
+        <id>https://leafymate.com/resources/?p=13411</id>
+        <link href="https://leafymate.com/resources/cannabis-101/best-cannabis-pre-rolls"/>
+        <updated>2023-08-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Locate the best cannabis pre-rolls on the market and how to choose the perfect one for you. Elevate your smoking experience with our ultimate guide!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High On Savings: Tips For Creating A Weed Budget]]></title>
         <id>https://leafymate.com/resources/?p=12576</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/lifestyle/tropical-cannabis-strains"/>
         <updated>2023-07-19T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the ultimate tropical high with these 11 cannabis strains. Get ready to elevate your summer experience with exotic flavors and uplifting effects.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Want To Know About Cannabis Cocktails]]></title>
-        <id>https://leafymate.com/resources/?p=12697</id>
-        <link href="https://leafymate.com/resources/lifestyle/cannabis-cocktails"/>
-        <updated>2023-07-17T15:51:29.000Z</updated>
-        <summary type="html"><![CDATA[Discover the ultimate guide to cannabis-infused cocktails. Unlock the secrets of mixing marijuana and booze for a mind-blowing experience. Click now!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
