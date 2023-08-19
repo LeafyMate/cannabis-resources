@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=13415",
+          "author": "Leafy Mate",
+          "description": "Your local recreational dispensary might deliver! Get your favorite products delivered right to your doorstep. Don't miss out, find out now!",
+          "link": "https://leafymate.com/resources/industry/local-recreational-dispensary-delivers",
+          "publishedOn": "2023-08-18T14:00:00.000Z",
+          "wordCount": 4734,
+          "title": "How To Find Out If Your Local Recreational Dispensary Delivers",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/local-recreational-dispensary-delivers.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=13411",
           "author": "Leafy Mate",
           "description": "Locate the best cannabis pre-rolls on the market and how to choose the perfect one for you. Elevate your smoking experience with our ultimate guide!",
@@ -124,16 +134,6 @@
           "wordCount": 5384,
           "title": "The Future Of CBD Cosmetics",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cbd-cosmetics.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=12692",
-          "author": "Leafy Mate",
-          "description": "Discover the ultimate tropical high with these 11 cannabis strains. Get ready to elevate your summer experience with exotic flavors and uplifting effects.",
-          "link": "https://leafymate.com/resources/lifestyle/tropical-cannabis-strains",
-          "publishedOn": "2023-07-19T14:00:00.000Z",
-          "wordCount": 5995,
-          "title": "11 Tropical Cannabis Strains To Try This Summer",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/tropical-cannabis-strains.png"
         }
       ]
     }
