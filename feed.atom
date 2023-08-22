@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T00:53:58.842Z</updated>
+    <updated>2023-08-22T00:54:33.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Weed Strains For Those That Enjoy Spicy Flavors]]></title>
+        <id>https://leafymate.com/resources/?p=13407</id>
+        <link href="https://leafymate.com/resources/lifestyle/spicy-weed-strains"/>
+        <updated>2023-08-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Find the perfect amount of spicy kick with these 7 incredible weed strains! From fiery flavors to tantalizing tastes, spice up your cannabis experience today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Find Out If Your Local Recreational Dispensary Delivers]]></title>
         <id>https://leafymate.com/resources/?p=13415</id>
