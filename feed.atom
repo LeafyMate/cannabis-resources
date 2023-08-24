@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T00:53:37.003Z</updated>
+    <updated>2023-08-24T00:53:41.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Future Of The Hemp Plant]]></title>
+        <id>https://leafymate.com/resources/?p=13477</id>
+        <link href="https://leafymate.com/resources/growing/future-of-the-hemp-plant"/>
+        <updated>2023-08-23T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore the untapped potential of the hemp plant! From medicine to sustainable materials, explore how this versatile plant is shaping the future.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Weed Strains For Those That Enjoy Spicy Flavors]]></title>
         <id>https://leafymate.com/resources/?p=13407</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/weed-paranoia"/>
         <updated>2023-07-26T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Unveiling the Mystery: Weed and Paranoia. Discover why some individuals feel anxious after smoking marijuana. The answer might surprise you!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cannabis: The Economic Savior We’ve Been Waiting For]]></title>
-        <id>https://leafymate.com/resources/?p=12677</id>
-        <link href="https://leafymate.com/resources/industry/cannabis-economic-benefits"/>
-        <updated>2023-07-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how cannabis is revolutionizing the economy and unlocking new opportunities. Uncover the untapped potential of this booming industry now.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
