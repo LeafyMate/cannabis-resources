@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=13481",
+          "author": "Leafy Mate",
+          "description": "Find out the hidden truth about marijuana allergies. Are you at risk? Find out everything you need to know in this eye-opening article.",
+          "link": "https://leafymate.com/resources/health/marijuana-allergies",
+          "publishedOn": "2023-08-25T14:00:00.000Z",
+          "wordCount": 5155,
+          "title": "What Are Marijuana Allergies?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/marijuana-allergies.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=13477",
           "author": "Leafy Mate",
           "description": "Explore the untapped potential of the hemp plant! From medicine to sustainable materials, explore how this versatile plant is shaping the future.",
@@ -124,16 +134,6 @@
           "wordCount": 4463,
           "title": "What’s Next For Disposable Vapes: Innovations On The Horizon",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Whats-Next-For-Disposable-Vapes-Innovations-On-The-Horizon.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=12652",
-          "author": "Leafy Mate",
-          "description": "Unveiling the Mystery: Weed and Paranoia. Discover why some individuals feel anxious after smoking marijuana. The answer might surprise you!",
-          "link": "https://leafymate.com/resources/cannabis-101/weed-paranoia",
-          "publishedOn": "2023-07-26T14:00:00.000Z",
-          "wordCount": 5237,
-          "title": "Why Does Weed Make Some People Paranoid?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/Why-does-weed-make-some-people-paranoid.png"
         }
       ]
     }
