@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-30T00:54:52.738Z</updated>
+    <updated>2023-08-31T00:55:20.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Ways To Use Recreational Weed On A Rainy Day]]></title>
+        <id>https://leafymate.com/resources/?p=13472</id>
+        <link href="https://leafymate.com/resources/lifestyle/recreational-weed-on-a-rainy-day"/>
+        <updated>2023-08-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover unique and fun ways to enjoy recreational weed when the weather is gloomy. Don't let a rainy day dampen your high!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is A Cannabis Lounge?]]></title>
         <id>https://leafymate.com/resources/?p=13485</id>
@@ -122,16 +132,6 @@
         <link href="https://leafymate.com/resources/lifestyle/cannabis-consumption-lounge"/>
         <updated>2023-08-02T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the inside scoop on cannabis consumption lounges. Find out what you need to know before you step into this exciting new world.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking The Power Of Set And Setting to Enhance Your Experiences]]></title>
-        <id>https://leafymate.com/resources/?p=12657</id>
-        <link href="https://leafymate.com/resources/lifestyle/set-and-setting"/>
-        <updated>2023-07-31T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to maximize your cannabis and psychedelic experiences by harnessing the power of set and setting. Unleash the full potential of your mind.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
