@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T00:55:20.282Z</updated>
+    <updated>2023-09-01T00:58:35.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -42,6 +42,16 @@
         <link href="https://leafymate.com/resources/growing/future-of-the-hemp-plant"/>
         <updated>2023-08-23T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Explore the untapped potential of the hemp plant! From medicine to sustainable materials, explore how this versatile plant is shaping the future.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Green Horizons: Ohio’s Journey Towards Cannabis Embrace]]></title>
+        <id>https://leafymate.com/resources/?p=13540</id>
+        <link href="https://leafymate.com/resources/industry/ohio-recreational-cannabis-legalization"/>
+        <updated>2023-08-21T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about the complexities and passions surrounding Ohio's upcoming vote on cannabis legalization. Dive into the facets of this transformative moment, and understand what's at stake.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
