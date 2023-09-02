@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-01T00:58:35.181Z</updated>
+    <updated>2023-09-02T00:53:11.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[9 Tips For Traveling Internationally With Weed]]></title>
+        <id>https://leafymate.com/resources/?p=13446</id>
+        <link href="https://leafymate.com/resources/lifestyle/traveling-internationally-with-weed"/>
+        <updated>2023-09-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out this ultimate guide to traveling with weed abroad! Learn 9 expert tips to navigate international adventures while staying high. Don't miss out – click now!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Ways To Use Recreational Weed On A Rainy Day]]></title>
         <id>https://leafymate.com/resources/?p=13472</id>
@@ -132,16 +142,6 @@
         <link href="https://leafymate.com/resources/industry/drug-testing-states"/>
         <updated>2023-08-04T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Find out if your boss can test you for weed in your state. Don't be caught off guard - know your rights!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Things To Know About A Cannabis Consumption Lounge]]></title>
-        <id>https://leafymate.com/resources/?p=12672</id>
-        <link href="https://leafymate.com/resources/lifestyle/cannabis-consumption-lounge"/>
-        <updated>2023-08-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the inside scoop on cannabis consumption lounges. Find out what you need to know before you step into this exciting new world.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
