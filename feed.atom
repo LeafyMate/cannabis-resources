@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-03T00:57:45.033Z</updated>
+    <updated>2023-09-04T00:56:05.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -132,16 +132,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/vaping-cannabis-concentrates"/>
         <updated>2023-08-07T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the fascinating world of vaping cannabis concentrates. Uncover the scientific secrets behind this popular trend and revolutionize your smoking experience.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Which States Can Your Boss Test For Weed?]]></title>
-        <id>https://leafymate.com/resources/?p=12667</id>
-        <link href="https://leafymate.com/resources/industry/drug-testing-states"/>
-        <updated>2023-08-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Find out if your boss can test you for weed in your state. Don't be caught off guard - know your rights!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
