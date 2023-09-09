@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=13567",
+          "author": "Leafy Mate",
+          "description": "Get to know the mind-bending power of Penis Envy mushrooms! Unveil their secrets, effects, and cultivation techniques in this ultimate guide. You won't believe what you'll learn!",
+          "link": "https://leafymate.com/resources/industry/penis-envy-mushrooms",
+          "publishedOn": "2023-09-08T14:00:00.000Z",
+          "wordCount": 5195,
+          "title": "The Ultimate Guide To Penis Envy Mushrooms",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/penis-envy-mushrooms.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=13561",
           "author": "Leafy Mate",
           "description": "Curious about Kratom? Discover 5 essential facts about this natural herb that's gaining popularity. Don't miss out on this eye-opening article!",
@@ -154,16 +164,6 @@
           "wordCount": 5536,
           "title": "9 Captivating Documentaries Every Cannabis Connoisseur Needs To See",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-documentaries.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=12720",
-          "author": "Leafy Mate",
-          "description": "Discover 11 expert strategies to tackle a cannabis green out head-on. Don't let it ruin your high - click now to find relief!",
-          "link": "https://leafymate.com/resources/cannabis-101/cannabis-green-out",
-          "publishedOn": "2023-08-09T14:00:00.000Z",
-          "wordCount": 6539,
-          "title": "11 Ways To Deal With Cannabis Green Out",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-green-out.png"
         }
       ]
     }
