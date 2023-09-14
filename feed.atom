@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T00:56:20.495Z</updated>
+    <updated>2023-09-14T00:55:00.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Ins And Outs Of Marijuana Joint Rollers]]></title>
+        <id>https://leafymate.com/resources/?p=13587</id>
+        <link href="https://leafymate.com/resources/cannabis-101/marijuana-joint-rollers"/>
+        <updated>2023-09-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the secrets of perfectly rolled joints with our comprehensive guide to marijuana joint rollers. Elevate your smoking experience today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 Ways To Build Your Cannabis Grow Tent]]></title>
         <id>https://leafymate.com/resources/?p=13580</id>
@@ -162,16 +172,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/best-cannabis-pre-rolls"/>
         <updated>2023-08-16T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Locate the best cannabis pre-rolls on the market and how to choose the perfect one for you. Elevate your smoking experience with our ultimate guide!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High On Savings: Tips For Creating A Weed Budget]]></title>
-        <id>https://leafymate.com/resources/?p=12576</id>
-        <link href="https://leafymate.com/resources/lifestyle/weed-budget"/>
-        <updated>2023-08-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get high on savings with these weed budgeting tips! Save money while enjoying your favorite herb. Click now to learn more.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>

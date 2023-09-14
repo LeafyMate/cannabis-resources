@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=13587",
+          "author": "Leafy Mate",
+          "description": "Discover the secrets of perfectly rolled joints with our comprehensive guide to marijuana joint rollers. Elevate your smoking experience today!",
+          "link": "https://leafymate.com/resources/cannabis-101/marijuana-joint-rollers",
+          "publishedOn": "2023-09-13T14:00:00.000Z",
+          "wordCount": 4983,
+          "title": "The Ins And Outs Of Marijuana Joint Rollers",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/marijuana-joint-rollers.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=13580",
           "author": "Leafy Mate",
           "description": "Explore three effective methods to construct your own cannabis grow tent and take control of your indoor cultivation. Unleash your green thumb today!",
@@ -164,16 +174,6 @@
           "wordCount": 5078,
           "title": "Your Ultimate Guide To Cannabis Pre-Rolls",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/best-cannabis-pre-rolls.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=12576",
-          "author": "Leafy Mate",
-          "description": "Get high on savings with these weed budgeting tips! Save money while enjoying your favorite herb. Click now to learn more.",
-          "link": "https://leafymate.com/resources/lifestyle/weed-budget",
-          "publishedOn": "2023-08-14T14:00:00.000Z",
-          "wordCount": 4007,
-          "title": "High On Savings: Tips For Creating A Weed Budget",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/weed-budget.png"
         }
       ]
     }
