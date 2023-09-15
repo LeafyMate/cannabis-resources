@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-14T00:55:00.034Z</updated>
+    <updated>2023-09-15T00:56:07.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[9 Interesting Facts About Moon Rock Weed]]></title>
+        <id>https://leafymate.com/resources/?p=13602</id>
+        <link href="https://leafymate.com/resources/cannabis-101/moon-rock-weed"/>
+        <updated>2023-09-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore the cosmic secrets of Moon Rock Weed! Uncover 9 mind-blowing facts about this extraordinary strain that's taking the cannabis world by storm.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ins And Outs Of Marijuana Joint Rollers]]></title>
         <id>https://leafymate.com/resources/?p=13587</id>
