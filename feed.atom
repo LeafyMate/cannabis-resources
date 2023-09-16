@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T00:56:07.144Z</updated>
+    <updated>2023-09-16T00:54:05.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Much Is An 8th Of Weed?]]></title>
+        <id>https://leafymate.com/resources/?p=13598</id>
+        <link href="https://leafymate.com/resources/cannabis-101/8th-of-weed"/>
+        <updated>2023-09-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The ultimate guide on 8th of weed prices. Uncover the truth about the cost of marijuana and learn how to make the most of your budget.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9 Interesting Facts About Moon Rock Weed]]></title>
         <id>https://leafymate.com/resources/?p=13602</id>
@@ -172,16 +182,6 @@
         <link href="https://leafymate.com/resources/industry/local-recreational-dispensary-delivers"/>
         <updated>2023-08-18T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Your local recreational dispensary might deliver! Get your favorite products delivered right to your doorstep. Don't miss out, find out now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Ultimate Guide To Cannabis Pre-Rolls]]></title>
-        <id>https://leafymate.com/resources/?p=13411</id>
-        <link href="https://leafymate.com/resources/cannabis-101/best-cannabis-pre-rolls"/>
-        <updated>2023-08-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Locate the best cannabis pre-rolls on the market and how to choose the perfect one for you. Elevate your smoking experience with our ultimate guide!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
