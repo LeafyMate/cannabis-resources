@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T00:56:11.805Z</updated>
+    <updated>2023-09-20T00:55:42.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The 5 Best Strains Of Purple Weed]]></title>
+        <id>https://leafymate.com/resources/?p=13594</id>
+        <link href="https://leafymate.com/resources/cannabis-101/best-strains-of-purple-weed"/>
+        <updated>2023-09-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the most mesmerizing strains of purple weed that will take your smoking experience to new heights. Find out which strains made our top 5 list!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Does “California Sober” Mean?]]></title>
         <id>https://leafymate.com/resources/?p=13606</id>
