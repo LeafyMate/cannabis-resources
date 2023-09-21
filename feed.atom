@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T00:55:42.415Z</updated>
+    <updated>2023-09-21T00:55:21.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Many Hits Can You Get From A Puffco Proxy?]]></title>
+        <id>https://leafymate.com/resources/?p=13698</id>
+        <link href="https://leafymate.com/resources/lifestyle/puffco-proxy"/>
+        <updated>2023-09-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash the Power of Puffco Proxy: Unlock Maximum Hits and Elevate Your Vaping Game! Learn the secret technique to boost your hits and experience vaping like never before. Click here to take your Puffco Proxy hits to new heights!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 5 Best Strains Of Purple Weed]]></title>
         <id>https://leafymate.com/resources/?p=13594</id>
@@ -172,26 +182,6 @@
         <link href="https://leafymate.com/resources/growing/future-of-the-hemp-plant"/>
         <updated>2023-08-23T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Explore the untapped potential of the hemp plant! From medicine to sustainable materials, explore how this versatile plant is shaping the future.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Green Horizons: Ohio’s Journey Towards Cannabis Embrace]]></title>
-        <id>https://leafymate.com/resources/?p=13540</id>
-        <link href="https://leafymate.com/resources/industry/ohio-recreational-cannabis-legalization"/>
-        <updated>2023-08-21T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn about the complexities and passions surrounding Ohio's upcoming vote on cannabis legalization. Dive into the facets of this transformative moment, and understand what's at stake.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Weed Strains For Those That Enjoy Spicy Flavors]]></title>
-        <id>https://leafymate.com/resources/?p=13407</id>
-        <link href="https://leafymate.com/resources/lifestyle/spicy-weed-strains"/>
-        <updated>2023-08-21T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Find the perfect amount of spicy kick with these 7 incredible weed strains! From fiery flavors to tantalizing tastes, spice up your cannabis experience today!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
