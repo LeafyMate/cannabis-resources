@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-22T00:55:56.750Z</updated>
+    <updated>2023-09-23T00:54:08.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Much Does An Ounce Of Weed Cost?]]></title>
+        <id>https://leafymate.com/resources/?p=13699</id>
+        <link href="https://leafymate.com/resources/cannabis-101/how-much-is-an-ounce"/>
+        <updated>2023-09-22T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Find out the real cost of an ounce of weed and prepare to be amazed! Click here to uncover the surprising findings and satisfy your curiosity about how much is an ounce.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do I Use An At Home Drug Test For Weed?]]></title>
         <id>https://leafymate.com/resources/?p=13697</id>
@@ -182,16 +192,6 @@
         <link href="https://leafymate.com/resources/health/marijuana-allergies"/>
         <updated>2023-08-25T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Find out the hidden truth about marijuana allergies. Are you at risk? Find out everything you need to know in this eye-opening article.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future Of The Hemp Plant]]></title>
-        <id>https://leafymate.com/resources/?p=13477</id>
-        <link href="https://leafymate.com/resources/growing/future-of-the-hemp-plant"/>
-        <updated>2023-08-23T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore the untapped potential of the hemp plant! From medicine to sustainable materials, explore how this versatile plant is shaping the future.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>

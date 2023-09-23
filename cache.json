@@ -6,6 +6,16 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=13699",
+          "author": "Leafy Mate",
+          "description": "Find out the real cost of an ounce of weed and prepare to be amazed! Click here to uncover the surprising findings and satisfy your curiosity about how much is an ounce.",
+          "link": "https://leafymate.com/resources/cannabis-101/how-much-is-an-ounce",
+          "publishedOn": "2023-09-22T11:00:00.000Z",
+          "wordCount": 4914,
+          "title": "How Much Does An Ounce Of Weed Cost?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-much-is-an-ounce.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=13697",
           "author": "Leafy Mate",
           "description": "Unleash the power of an at-home drug test for weed! Take control of your future by learning how to use it effectively. Click now for the ultimate guide and start paving your path towards a clean slate!",
@@ -184,16 +194,6 @@
           "wordCount": 5155,
           "title": "What Are Marijuana Allergies?",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/marijuana-allergies.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13477",
-          "author": "Leafy Mate",
-          "description": "Explore the untapped potential of the hemp plant! From medicine to sustainable materials, explore how this versatile plant is shaping the future.",
-          "link": "https://leafymate.com/resources/growing/future-of-the-hemp-plant",
-          "publishedOn": "2023-08-23T14:00:00.000Z",
-          "wordCount": 4864,
-          "title": "The Future Of The Hemp Plant",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/future-of-the-hemp-plant.png"
         }
       ]
     }
