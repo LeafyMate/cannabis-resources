@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-25T00:56:30.492Z</updated>
+    <updated>2023-09-26T00:56:27.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Do I Use A Nectar Collector?]]></title>
+        <id>https://leafymate.com/resources/?p=13701</id>
+        <link href="https://leafymate.com/resources/cannabis-101/nector-collector"/>
+        <updated>2023-09-25T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to use a Nectar Collector for the best dabbing experience! Follow our ultimate guide and unlock the secrets of this revolutionary tool. Click now to master the art of using a Nectar Collector like a pro!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways To Get Rid Of The Weed Smell]]></title>
+        <id>https://leafymate.com/resources/?p=13700</id>
+        <link href="https://leafymate.com/resources/lifestyle/how-to-get-rid-of-weed-smell"/>
+        <updated>2023-09-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tired of the weed smell sticking around? Learn how to banish it for good with these 5 effective methods. Don't let the odor ruin your day - click now and say goodbye to weed smells forever!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Much Does An Ounce Of Weed Cost?]]></title>
         <id>https://leafymate.com/resources/?p=13699</id>
