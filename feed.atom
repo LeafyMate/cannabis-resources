@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-26T00:56:27.747Z</updated>
+    <updated>2023-09-27T00:56:24.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Long Does CBD Stay In Your System?]]></title>
+        <id>https://leafymate.com/resources/?p=13757</id>
+        <link href="https://leafymate.com/resources/cbd/how-long-does-cbd-stay-in-your-system"/>
+        <updated>2023-09-26T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Find out the duration of CBD in your system and its impact on you. Don't miss this vital information! Click now to learn more about how long CBD stays in your system.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does Scromiting Mean?]]></title>
+        <id>https://leafymate.com/resources/?p=13755</id>
+        <link href="https://leafymate.com/resources/health/scromiting"/>
+        <updated>2023-09-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the strange world of scromiting and learn why it's causing a stir in the medical community. Don't miss out on understanding this bizarre phenomenon - click here to find out more!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do I Use A Nectar Collector?]]></title>
         <id>https://leafymate.com/resources/?p=13701</id>
