@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-28T00:56:03.683Z</updated>
+    <updated>2023-09-29T00:56:07.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Compost Tea Recipe For Marijuana Plant Scraps]]></title>
+        <id>https://leafymate.com/resources/?p=13761</id>
+        <link href="https://leafymate.com/resources/growing/compost-tea-recipe"/>
+        <updated>2023-09-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Boost your garden's health and yield with this nutrient-rich compost tea recipe using marijuana plant scraps. Learn how to make it now for a thriving garden!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Make A Water Bottle Bong]]></title>
+        <id>https://leafymate.com/resources/?p=13764</id>
+        <link href="https://leafymate.com/resources/cannabis-101/water-bottle-bong"/>
+        <updated>2023-09-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover a quick and easy way to make your own water bottle bong for a one-of-a-kind smoking experience at home. Follow our step-by-step guide and get creative today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Much Does A Dime Of Weed Weigh?]]></title>
         <id>https://leafymate.com/resources/?p=13760</id>
