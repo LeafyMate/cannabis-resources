@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-29T00:56:07.372Z</updated>
+    <updated>2023-09-30T00:54:51.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Does Coughing Make You Higher?]]></title>
+        <id>https://leafymate.com/resources/?p=13763</id>
+        <link href="https://leafymate.com/resources/health/does-coughing-make-you-higher"/>
+        <updated>2023-09-29T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Connection: Can Coughing Actually Get You Higher? Find out the surprising truth behind coughing and its effects on getting high. Click here to uncover this eye-opening revelation now!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing The Effects Of Sativa Vs Indica Vs Hybrid]]></title>
+        <id>https://leafymate.com/resources/?p=13765</id>
+        <link href="https://leafymate.com/resources/cannabis-101/sativa-vs-indica-vs-hybrid-effects"/>
+        <updated>2023-09-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about the effects of Sativa, Indica, and Hybrid strains to find your perfect cannabis match! Click now for an enlightening comparison and choose the right one for you.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Compost Tea Recipe For Marijuana Plant Scraps]]></title>
         <id>https://leafymate.com/resources/?p=13761</id>
@@ -242,16 +262,6 @@
         <link href="https://leafymate.com/resources/lifestyle/traveling-internationally-with-weed"/>
         <updated>2023-09-01T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Check out this ultimate guide to traveling with weed abroad! Learn 9 expert tips to navigate international adventures while staying high. Don't miss out – click now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Ways To Use Recreational Weed On A Rainy Day]]></title>
-        <id>https://leafymate.com/resources/?p=13472</id>
-        <link href="https://leafymate.com/resources/lifestyle/recreational-weed-on-a-rainy-day"/>
-        <updated>2023-08-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover unique and fun ways to enjoy recreational weed when the weather is gloomy. Don't let a rainy day dampen your high!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
