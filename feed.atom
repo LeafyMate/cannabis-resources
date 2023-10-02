@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-01T01:03:42.469Z</updated>
+    <updated>2023-10-02T00:56:52.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -252,16 +252,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/cannabis-chocolates"/>
         <updated>2023-09-04T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Unlock the secret to indulgent bliss with our all-inclusive guide to cannabis chocolates. Discover the perfect treat to elevate your senses and tantalize your taste buds.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 Tips For Traveling Internationally With Weed]]></title>
-        <id>https://leafymate.com/resources/?p=13446</id>
-        <link href="https://leafymate.com/resources/lifestyle/traveling-internationally-with-weed"/>
-        <updated>2023-09-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Check out this ultimate guide to traveling with weed abroad! Learn 9 expert tips to navigate international adventures while staying high. Don't miss out – click now!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
