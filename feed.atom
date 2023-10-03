@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-02T00:56:52.494Z</updated>
+    <updated>2023-10-03T00:56:53.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is The Best 510 Vape Battery?]]></title>
+        <id>https://leafymate.com/resources/?p=13759</id>
+        <link href="https://leafymate.com/resources/industry/best-510-vape-battery"/>
+        <updated>2023-10-02T16:43:55.000Z</updated>
+        <summary type="html"><![CDATA[Looking for the ultimate vaping experience? Find out which 510 vape battery tops the charts and revolutionizes your enjoyment. Don't miss out, click here now to discover the best 510 vape battery!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does Weed Hotboxing Mean?]]></title>
+        <id>https://leafymate.com/resources/?p=13762</id>
+        <link href="https://leafymate.com/resources/lifestyle/what-is-hotboxing"/>
+        <updated>2023-10-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Mystery of Weed Hotboxing: Elevate Your High with This Game-Changing Technique. Join the Hotboxing Revolution and Experience Ultimate Bliss Today! Click to Learn What is Hotboxing.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does Coughing Make You Higher?]]></title>
         <id>https://leafymate.com/resources/?p=13763</id>
