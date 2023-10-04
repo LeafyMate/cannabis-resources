@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T00:56:53.738Z</updated>
+    <updated>2023-10-04T00:57:23.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Choose The Right Battery For A THC Cartridge]]></title>
+        <id>https://leafymate.com/resources/?p=13856</id>
+        <link href="https://leafymate.com/resources/industry/battery-for-cart"/>
+        <updated>2023-10-03T22:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Upgrade Your Vaping Experience with the Right Battery for Cart | Find the Perfect Power Source for Your THC Cartridge Today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are THC A Diamonds?]]></title>
+        <id>https://leafymate.com/resources/?p=13853</id>
+        <link href="https://leafymate.com/resources/industry/thca-diamonds"/>
+        <updated>2023-10-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleashing the Sparkling Power of THC A Diamonds - Dive into the mesmerizing realm of cannabis concentrates and elevate your high with THCA diamonds. Uncover their dazzling secrets now! Click for a mind-blowing experience like no other.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Things To Know Before Your THC Detox]]></title>
+        <id>https://leafymate.com/resources/?p=13859</id>
+        <link href="https://leafymate.com/resources/health/thc-detox"/>
+        <updated>2023-10-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready to start your THC detox? Learn the 5 essential tips you need to know before beginning. Don't miss out on this ultimate guide and get ready to detox today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is The Best 510 Vape Battery?]]></title>
         <id>https://leafymate.com/resources/?p=13759</id>
