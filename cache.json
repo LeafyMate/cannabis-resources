@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=13854",
+          "author": "Leafy Mate",
+          "description": "Looking for the best high CBD strains? Check out our top 9 picks for natural relaxation and pain relief. Discover a healthier lifestyle with these click-worthy options today!",
+          "link": "https://leafymate.com/resources/cbd/high-cbd-strains",
+          "publishedOn": "2023-10-05T17:00:00.000Z",
+          "wordCount": 4819,
+          "title": "The Top 9 High CBD Strains",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/high-cbd-strains.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=13855",
+          "author": "Leafy Mate",
+          "description": "Unwind and indulge in the perfect pizza at Mellow Mushroom – discover if this popular eatery is 420 friendly and find your ideal spot to relax. Click here to satisfy your cravings!",
+          "link": "https://leafymate.com/resources/lifestyle/mellow-mushroom",
+          "publishedOn": "2023-10-05T11:00:00.000Z",
+          "wordCount": 4669,
+          "title": "Is Mellow Mushroom 420 Friendly?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/mellow-mushroom.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=13851",
           "author": "Leafy Mate",
           "description": "Uncover the astonishing effects of THC on your mind and body! Dive into the hidden secrets of THC P and enhance your understanding. Click now to unlock the power of this potent compound and transform your perception!",
@@ -304,16 +324,6 @@
           "wordCount": 4685,
           "title": "Top 10 Movies To Watch While Using Cannabis",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/top-10-movies-while-using-cannabis.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13557",
-          "author": "Leafy Mate",
-          "description": "Here's our ultimate guide to weed measurements! Learn the exact conversion of grams to ounces and unlock the secrets of the perfect stash.",
-          "link": "https://leafymate.com/resources/cannabis-101/grams-in-an-ounce-of-weed",
-          "publishedOn": "2023-09-05T14:00:00.000Z",
-          "wordCount": 4589,
-          "title": "How Many Grams Are In An Ounce Of Weed?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/grams-in-an-ounce-of-weed.png"
         }
       ]
     }
