@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T00:56:17.654Z</updated>
+    <updated>2023-10-07T00:55:39.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 Essential Signs For Growers From A Weed Leaf]]></title>
+        <id>https://leafymate.com/resources/?p=13857</id>
+        <link href="https://leafymate.com/resources/growing/weed-leaf"/>
+        <updated>2023-10-06T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets of cannabis leaves with these 3 essential signs for growers. Don't miss out on expert tips to ensure a successful harvest. Click now and become a master grower!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Walmart Drug Test For Weed?]]></title>
+        <id>https://leafymate.com/resources/?p=13852</id>
+        <link href="https://leafymate.com/resources/lifestyle/does-walmart-drug-test"/>
+        <updated>2023-10-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to know if you can enjoy a joint while working at Walmart? Find out the truth about Walmart's drug testing policy and whether they test for weed. Don't miss this important information - click now!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Top 9 High CBD Strains]]></title>
         <id>https://leafymate.com/resources/?p=13854</id>
@@ -312,16 +332,6 @@
         <link href="https://leafymate.com/resources/industry/what-is-kratom"/>
         <updated>2023-09-07T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Curious about Kratom? Discover 5 essential facts about this natural herb that's gaining popularity. Don't miss out on this eye-opening article!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Movies To Watch While Using Cannabis]]></title>
-        <id>https://leafymate.com/resources/?p=13489</id>
-        <link href="https://leafymate.com/resources/lifestyle/top-10-movies-while-using-cannabis"/>
-        <updated>2023-09-06T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The ultimate movie list for an enhanced experience. Dive into a world of cinematic wonder with our top 10 films to watch while using cannabis.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
