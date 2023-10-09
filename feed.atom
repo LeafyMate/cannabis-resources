@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-08T01:00:04.769Z</updated>
+    <updated>2023-10-09T00:56:32.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -312,16 +312,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/what-is-a-gravity-bong"/>
         <updated>2023-09-11T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the mind-blowing world of gravity bongs! Dive into the ultimate guide and unlock the secrets behind this powerful smoking method.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide To Penis Envy Mushrooms]]></title>
-        <id>https://leafymate.com/resources/?p=13567</id>
-        <link href="https://leafymate.com/resources/industry/penis-envy-mushrooms"/>
-        <updated>2023-09-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get to know the mind-bending power of Penis Envy mushrooms! Unveil their secrets, effects, and cultivation techniques in this ultimate guide. You won't believe what you'll learn!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
