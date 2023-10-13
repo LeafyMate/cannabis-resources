@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T00:54:27.807Z</updated>
+    <updated>2023-10-13T00:57:50.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Ways To Get Rid Of A Weed Hangover]]></title>
+        <id>https://leafymate.com/resources/?p=14005</id>
+        <link href="https://leafymate.com/resources/health/weed-hangover"/>
+        <updated>2023-10-12T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tired of feeling groggy after a night of smoking? Learn how to cure your weed hangover and reclaim your day with these 5 simple methods. Say goodbye to grogginess and click here for ultimate remedies!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Grabba Leaf?]]></title>
+        <id>https://leafymate.com/resources/?p=14007</id>
+        <link href="https://leafymate.com/resources/lifestyle/grabba"/>
+        <updated>2023-10-12T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Mystery of Grabba Leaf: Experience an Unforgettable Smoking Journey! Dive into the world of grabba and unlock its unparalleled properties. Click here to enhance your smoking pleasure like never before!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Marijuana Strains For Halloween]]></title>
+        <id>https://leafymate.com/resources/?p=14008</id>
+        <link href="https://leafymate.com/resources/lifestyle/halloween-weed-strains"/>
+        <updated>2023-10-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Get into the Halloween spirit with our top 5 marijuana strains for a spooky good time. Discover the perfect halloween weed strains to enhance your holiday experience and elevate your celebration. Click here to find out which strains made the list!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can You Get Higher From Holding In Weed Smoke?]]></title>
         <id>https://leafymate.com/resources/?p=13944</id>
@@ -362,16 +392,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/marijuana-joint-rollers"/>
         <updated>2023-09-13T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the secrets of perfectly rolled joints with our comprehensive guide to marijuana joint rollers. Elevate your smoking experience today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ways To Build Your Cannabis Grow Tent]]></title>
-        <id>https://leafymate.com/resources/?p=13580</id>
-        <link href="https://leafymate.com/resources/growing/build-your-cannabis-grow-tent"/>
-        <updated>2023-09-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore three effective methods to construct your own cannabis grow tent and take control of your indoor cultivation. Unleash your green thumb today!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>

@@ -6,6 +6,36 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=14005",
+          "author": "Leafy Mate",
+          "description": "Tired of feeling groggy after a night of smoking? Learn how to cure your weed hangover and reclaim your day with these 5 simple methods. Say goodbye to grogginess and click here for ultimate remedies!",
+          "link": "https://leafymate.com/resources/health/weed-hangover",
+          "publishedOn": "2023-10-12T20:00:00.000Z",
+          "wordCount": 4577,
+          "title": "5 Ways To Get Rid Of A Weed Hangover",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/weed-hangover.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14007",
+          "author": "Leafy Mate",
+          "description": "Unveiling the Mystery of Grabba Leaf: Experience an Unforgettable Smoking Journey! Dive into the world of grabba and unlock its unparalleled properties. Click here to enhance your smoking pleasure like never before!",
+          "link": "https://leafymate.com/resources/lifestyle/grabba",
+          "publishedOn": "2023-10-12T17:00:00.000Z",
+          "wordCount": 4639,
+          "title": "What is a Grabba Leaf?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/grabba.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14008",
+          "author": "Leafy Mate",
+          "description": "Get into the Halloween spirit with our top 5 marijuana strains for a spooky good time. Discover the perfect halloween weed strains to enhance your holiday experience and elevate your celebration. Click here to find out which strains made the list!",
+          "link": "https://leafymate.com/resources/lifestyle/halloween-weed-strains",
+          "publishedOn": "2023-10-12T14:00:00.000Z",
+          "wordCount": 4394,
+          "title": "Top 5 Marijuana Strains For Halloween",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/halloween-weed-strains.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=13944",
           "author": "Leafy Mate",
           "description": "Want to know if holding in weed smoke can actually make you higher? Find out the truth and learn the science behind this myth. Plus, discover how long weed stays in your system after just a couple of puffs. Click here to uncover the facts now!",
@@ -364,16 +394,6 @@
           "wordCount": 4983,
           "title": "The Ins And Outs Of Marijuana Joint Rollers",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/marijuana-joint-rollers.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13580",
-          "author": "Leafy Mate",
-          "description": "Explore three effective methods to construct your own cannabis grow tent and take control of your indoor cultivation. Unleash your green thumb today!",
-          "link": "https://leafymate.com/resources/growing/build-your-cannabis-grow-tent",
-          "publishedOn": "2023-09-12T14:00:00.000Z",
-          "wordCount": 4520,
-          "title": "3 Ways To Build Your Cannabis Grow Tent",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/build-your-cannabis-grow-tent.png"
         }
       ]
     }
