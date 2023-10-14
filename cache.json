@@ -6,6 +6,36 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=13945",
+          "author": "Leafy Mate",
+          "description": "Preserve the Freshness of Your Cannabis Stash - Find Out How Long You Can Store It! Don't miss out on the best smoking experience - Click here to learn more about keeping cannabis storage.",
+          "link": "https://leafymate.com/resources/cannabis-101/keep-cannabis-storage",
+          "publishedOn": "2023-10-13T20:00:00.000Z",
+          "wordCount": 4739,
+          "title": "How Long Can I Store Cannabis?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/keep-cannabis-storage.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=13931",
+          "author": "Leafy Mate",
+          "description": "Discover why the cannabis industry remains immune to inflation as weed prices hold steady, defying economic trends. Click here to explore this booming market and uncover its secrets.",
+          "link": "https://leafymate.com/resources/industry/cannabis-prices-and-inflation",
+          "publishedOn": "2023-10-13T17:00:00.000Z",
+          "wordCount": 4293,
+          "title": "Inflation Surges, But Weed Prices Hold Steady: How The Cannabis Industry Defies Economic Trends",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-prices-and-inflation.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=13947",
+          "author": "Leafy Mate",
+          "description": "Enhance your meals with CBD tinctures! Explore mouthwatering recipes and learn how to infuse CBD into your favorite dishes. Elevate your culinary experience today. Click here for CBD in food inspiration!",
+          "link": "https://leafymate.com/resources/cbd/cbd-in-food",
+          "publishedOn": "2023-10-13T14:00:00.000Z",
+          "wordCount": 4881,
+          "title": "Can I Use CBD Tinctures In Food Recipes?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cbd-in-food.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=14005",
           "author": "Leafy Mate",
           "description": "Tired of feeling groggy after a night of smoking? Learn how to cure your weed hangover and reclaim your day with these 5 simple methods. Say goodbye to grogginess and click here for ultimate remedies!",
@@ -384,16 +414,6 @@
           "wordCount": 6031,
           "title": "9 Interesting Facts About Moon Rock Weed",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/moon-rock-weed.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13587",
-          "author": "Leafy Mate",
-          "description": "Discover the secrets of perfectly rolled joints with our comprehensive guide to marijuana joint rollers. Elevate your smoking experience today!",
-          "link": "https://leafymate.com/resources/cannabis-101/marijuana-joint-rollers",
-          "publishedOn": "2023-09-13T14:00:00.000Z",
-          "wordCount": 4983,
-          "title": "The Ins And Outs Of Marijuana Joint Rollers",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/marijuana-joint-rollers.png"
         }
       ]
     }
