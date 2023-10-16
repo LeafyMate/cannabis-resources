@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T01:00:33.127Z</updated>
+    <updated>2023-10-16T00:57:46.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -392,16 +392,6 @@
         <link href="https://leafymate.com/resources/lifestyle/california-sober"/>
         <updated>2023-09-18T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the new sober trend in California. Find out what it means to be "California sober" and how it's changing the way we think about sobriety.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Much Is An 8th Of Weed?]]></title>
-        <id>https://leafymate.com/resources/?p=13598</id>
-        <link href="https://leafymate.com/resources/cannabis-101/8th-of-weed"/>
-        <updated>2023-09-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The ultimate guide on 8th of weed prices. Uncover the truth about the cost of marijuana and learn how to make the most of your budget.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
