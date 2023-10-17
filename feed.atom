@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T00:57:46.901Z</updated>
+    <updated>2023-10-17T00:56:59.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Green Gold: Marijuana Trumps Potatoes & Rice In Value, New Report Reveals]]></title>
+        <id>https://leafymate.com/resources/?p=13930</id>
+        <link href="https://leafymate.com/resources/industry/marijuana-as-a-cash-crop"/>
+        <updated>2023-10-16T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets of marijuana's rising value and why it outshines potatoes and rice. Dive into this eye-opening report on the cash crop revolution now!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Thorough Review Of Randy’s Bong Cleaner]]></title>
+        <id>https://leafymate.com/resources/?p=14010</id>
+        <link href="https://leafymate.com/resources/industry/randys-glass-and-bong-cleaner"/>
+        <updated>2023-10-16T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Want spotless, sparkling glass? Read our thorough review of Randy's Glass and Bong Cleaner now and unlock the ultimate cleaning solution! Click here to discover the secret!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is The Pax 3 Vaporizer?]]></title>
+        <id>https://leafymate.com/resources/?p=14004</id>
+        <link href="https://leafymate.com/resources/industry/pax-3-vaporizer"/>
+        <updated>2023-10-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Experience the game-changing Pax 3 Vaporizer - the future of vaping awaits! Discover its sleek design and powerful features. Click now to learn more about this revolutionary device and elevate your vaping experience today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Long Can I Store Cannabis?]]></title>
         <id>https://leafymate.com/resources/?p=13945</id>
