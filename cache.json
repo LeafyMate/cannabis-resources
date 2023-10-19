@@ -6,6 +6,36 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=14192",
+          "author": "Leafy Mate",
+          "description": "Unlock the potential of greenhouse weed cultivation and revolutionize your yields! Learn how to grow high-quality marijuana in a greenhouse, saving time, effort, and costs. Click now to maximize your success and harvest top-notch buds.",
+          "link": "https://leafymate.com/resources/growing/greenhouse-weed",
+          "publishedOn": "2023-10-18T20:00:00.000Z",
+          "wordCount": 4995,
+          "title": "The Benefits Of Growing Weed in a Greenhouse",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/greenhouse-weed.jpg"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14175",
+          "author": "Leafy Mate",
+          "description": "Looking for unique lighters for weed? Check out our selection of stylish and cool options to enhance your smoking experience. Light up your green in style today!",
+          "link": "https://leafymate.com/resources/industry/unique-lighters-for-weed",
+          "publishedOn": "2023-10-18T17:00:00.000Z",
+          "wordCount": 4276,
+          "title": "Light Up Your Green With These Unique Lighters",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/unique-lighters-for-weed.jpg"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14011",
+          "author": "Leafy Mate",
+          "description": "Unlock the mysteries of weed measurements and take your smoking game to new heights. Learn about grams, ounces, and more in this mind-blowing article. Elevate your knowledge now!",
+          "link": "https://leafymate.com/resources/cannabis-101/weed-measurements",
+          "publishedOn": "2023-10-18T14:00:00.000Z",
+          "wordCount": 4892,
+          "title": "An Exploration Of Weed Measurements",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/weed-measurements.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=14009",
           "author": "Leafy Mate",
           "description": "Ready to unlock new dimensions? Learn how to buy shroom spores and embark on a mind-expanding journey. Discover the best sources now!",
@@ -444,16 +474,6 @@
           "wordCount": 4536,
           "title": "The 5 Best Strains Of Purple Weed",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/best-strains-of-purple-weed.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13606",
-          "author": "Leafy Mate",
-          "description": "Discover the new sober trend in California. Find out what it means to be \"California sober\" and how it's changing the way we think about sobriety.",
-          "link": "https://leafymate.com/resources/lifestyle/california-sober",
-          "publishedOn": "2023-09-18T14:00:00.000Z",
-          "wordCount": 5157,
-          "title": "What Does “California Sober” Mean?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/california-sober.png"
         }
       ]
     }
