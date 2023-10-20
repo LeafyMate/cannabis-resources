@@ -6,6 +6,36 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=14114",
+          "author": "Leafy Mate",
+          "description": "Experience the future of THC with 3chi Delta 9 products. Discover groundbreaking innovation and unleash the power of Delta 9. Click now to explore the world of 3chi and elevate your cannabis experience today!",
+          "link": "https://leafymate.com/resources/industry/3chi-delta-9",
+          "publishedOn": "2023-10-19T20:00:00.000Z",
+          "wordCount": 4652,
+          "title": "A Review Of 3chi Delta 9 Products",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/3chi-delta-9.jpg"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14119",
+          "author": "Leafy Mate",
+          "description": "Unlock the Secret: Learn How to Make Hash from Kief and Elevate Your Cannabis Experience! Get our comprehensive guide now and start enjoying flavorful possibilities. Don't miss out, click here to become a hash-making expert today!",
+          "link": "https://leafymate.com/resources/cannabis-101/how-to-make-hash-from-kief",
+          "publishedOn": "2023-10-19T17:00:00.000Z",
+          "wordCount": 5338,
+          "title": "Your Guide To Making Hash From Kief",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-make-hash-from-kief.jpg"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14113",
+          "author": "Leafy Mate",
+          "description": "Want to work in the fast-growing marijuana industry? Learn how to land your dream job and succeed in this lucrative field. Click here to discover the secrets of breaking into the cannabis industry today!",
+          "link": "https://leafymate.com/resources/industry/marijuana-jobs",
+          "publishedOn": "2023-10-19T14:00:00.000Z",
+          "wordCount": 4906,
+          "title": "How To Land A Job In The Marijuana Industry",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/marijuana-jobs.jpg"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=14192",
           "author": "Leafy Mate",
           "description": "Unlock the potential of greenhouse weed cultivation and revolutionize your yields! Learn how to grow high-quality marijuana in a greenhouse, saving time, effort, and costs. Click now to maximize your success and harvest top-notch buds.",
@@ -454,26 +484,6 @@
           "wordCount": 4976,
           "title": "How Do I Use An At Home Drug Test For Weed?",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/at-home-drug-test.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13698",
-          "author": "Leafy Mate",
-          "description": "Unleash the Power of Puffco Proxy: Unlock Maximum Hits and Elevate Your Vaping Game! Learn the secret technique to boost your hits and experience vaping like never before. Click here to take your Puffco Proxy hits to new heights!",
-          "link": "https://leafymate.com/resources/lifestyle/puffco-proxy",
-          "publishedOn": "2023-09-20T11:00:00.000Z",
-          "wordCount": 5088,
-          "title": "How Many Hits Can You Get From A Puffco Proxy?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/puffco-proxy.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13594",
-          "author": "Leafy Mate",
-          "description": "Discover the most mesmerizing strains of purple weed that will take your smoking experience to new heights. Find out which strains made our top 5 list!",
-          "link": "https://leafymate.com/resources/cannabis-101/best-strains-of-purple-weed",
-          "publishedOn": "2023-09-19T14:00:00.000Z",
-          "wordCount": 4536,
-          "title": "The 5 Best Strains Of Purple Weed",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/best-strains-of-purple-weed.png"
         }
       ]
     }
