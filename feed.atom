@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-20T00:56:21.034Z</updated>
+    <updated>2023-10-21T00:55:12.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Who Are The Jungle Boys?]]></title>
+        <id>https://leafymate.com/resources/?p=14116</id>
+        <link href="https://leafymate.com/resources/growing/jungle-boys-cannabis-seeds"/>
+        <updated>2023-10-20T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash the wild side with the Jungle Boys! Dive into their captivating world of cannabis seeds and discover their secret talents. Join the kings of the concrete jungle on their untamed adventures today - click here to be amazed!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Top 5 Ben N Jerrys Flavors]]></title>
+        <id>https://leafymate.com/resources/?p=14115</id>
+        <link href="https://leafymate.com/resources/lifestyle/best-ben-and-jerrys-flavors"/>
+        <updated>2023-10-20T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Craving the best Ben & Jerry's flavors? Indulge in our top 5 picks for ultimate sweet satisfaction. Discover creamy classics and innovative creations now – satisfy your sweet tooth today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Caffeine Affect Your High?]]></title>
+        <id>https://leafymate.com/resources/?p=14157</id>
+        <link href="https://leafymate.com/resources/health/caffeine-and-weed"/>
+        <updated>2023-10-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the hidden effects of caffeine on your high with this eye-opening article. Learn how caffeine and weed interact, enhance or diminish your experience. Click now to discover the surprising secrets of this dynamic duo!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Review Of 3chi Delta 9 Products]]></title>
         <id>https://leafymate.com/resources/?p=14114</id>
@@ -472,16 +502,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/how-much-is-an-ounce"/>
         <updated>2023-09-22T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Find out the real cost of an ounce of weed and prepare to be amazed! Click here to uncover the surprising findings and satisfy your curiosity about how much is an ounce.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do I Use An At Home Drug Test For Weed?]]></title>
-        <id>https://leafymate.com/resources/?p=13697</id>
-        <link href="https://leafymate.com/resources/lifestyle/at-home-drug-test"/>
-        <updated>2023-09-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the power of an at-home drug test for weed! Take control of your future by learning how to use it effectively. Click now for the ultimate guide and start paving your path towards a clean slate!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
