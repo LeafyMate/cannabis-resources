@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T00:55:12.433Z</updated>
+    <updated>2023-10-22T01:00:23.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -492,16 +492,6 @@
         <link href="https://leafymate.com/resources/lifestyle/how-to-get-rid-of-weed-smell"/>
         <updated>2023-09-25T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Tired of the weed smell sticking around? Learn how to banish it for good with these 5 effective methods. Don't let the odor ruin your day - click now and say goodbye to weed smells forever!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Much Does An Ounce Of Weed Cost?]]></title>
-        <id>https://leafymate.com/resources/?p=13699</id>
-        <link href="https://leafymate.com/resources/cannabis-101/how-much-is-an-ounce"/>
-        <updated>2023-09-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Find out the real cost of an ounce of weed and prepare to be amazed! Click here to uncover the surprising findings and satisfy your curiosity about how much is an ounce.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
