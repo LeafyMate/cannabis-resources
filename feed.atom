@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T00:55:12.869Z</updated>
+    <updated>2023-10-27T00:55:37.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Best Weed Strain For A Spooky Halloween Night]]></title>
+        <id>https://leafymate.com/resources/?p=14164</id>
+        <link href="https://leafymate.com/resources/lifestyle/halloween-weed-strain"/>
+        <updated>2023-10-26T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Get ready for a spine-chilling Halloween night with the ultimate weed strain! Experience the perfect mix of scares and delights. Don't wait, click now to find your ideal halloween weed strain and embrace the spooky vibes!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting To Know The Terpene Linalool]]></title>
+        <id>https://leafymate.com/resources/?p=14163</id>
+        <link href="https://leafymate.com/resources/cannabis-101/linalool-terpene"/>
+        <updated>2023-10-26T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the Secrets of Linalool Terpene: Find out how this aromatic wonder can benefit you. Click here to dive into the captivating world of linalool and experience its surprising benefits today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is An E-Hookah?]]></title>
+        <id>https://leafymate.com/resources/?p=14159</id>
+        <link href="https://leafymate.com/resources/industry/e-hookah"/>
+        <updated>2023-10-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the fascinating world of e-hookahs and why vape enthusiasts can't get enough! Learn about what an e-hookah is and why you need to try it today. Click here to dive into the ultimate vaping experience with e-hookahs!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Facts About The Obama Runtz Strain]]></title>
         <id>https://leafymate.com/resources/?p=14168</id>
@@ -532,26 +562,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/how-much-does-a-dime-weigh"/>
         <updated>2023-09-27T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Uncover the weight of a dime of weed and satisfy your curiosity about cannabis measurements. Learn all about this popular term and get enlightened today! Click here now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Ultimate Guide For The Best Weed Grinder]]></title>
-        <id>https://leafymate.com/resources/?p=13756</id>
-        <link href="https://leafymate.com/resources/cannabis-101/best-weed-grinder"/>
-        <updated>2023-09-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for the best weed grinder? Look no further! Our ultimate guide has everything you need to know, from sleek designs to powerful performance. Click now for an unparalleled smoking experience!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Does CBD Stay In Your System?]]></title>
-        <id>https://leafymate.com/resources/?p=13757</id>
-        <link href="https://leafymate.com/resources/cbd/how-long-does-cbd-stay-in-your-system"/>
-        <updated>2023-09-26T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Find out the duration of CBD in your system and its impact on you. Don't miss this vital information! Click now to learn more about how long CBD stays in your system.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
