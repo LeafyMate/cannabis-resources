@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T00:55:37.265Z</updated>
+    <updated>2023-10-28T00:54:28.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Importance of a Healthy Cannabis Seed]]></title>
+        <id>https://leafymate.com/resources/?p=14160</id>
+        <link href="https://leafymate.com/resources/growing/healthy-cannabis-seeds"/>
+        <updated>2023-10-27T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets to growing top-quality marijuana with our expert tips. Learn why choosing healthy cannabis seeds is crucial for a successful harvest. Click here to discover the key to a thriving cannabis garden!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Make CBD Bath Bombs At Home]]></title>
+        <id>https://leafymate.com/resources/?p=14161</id>
+        <link href="https://leafymate.com/resources/cbd/cbd-bath-bombs"/>
+        <updated>2023-10-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Create your own CBD bath bombs at home and experience ultimate relaxation. Learn the simple DIY recipe and unwind in a luxurious soak today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Read A CBD Label]]></title>
+        <id>https://leafymate.com/resources/?p=14165</id>
+        <link href="https://leafymate.com/resources/cbd/read-cbd-label"/>
+        <updated>2023-10-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the essential guide to reading CBD labels and make informed choices. Uncover the secrets of deciphering CBD labels for optimal results. Click now to unlock the key tips and tricks!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best Weed Strain For A Spooky Halloween Night]]></title>
         <id>https://leafymate.com/resources/?p=14164</id>
@@ -542,26 +572,6 @@
         <link href="https://leafymate.com/resources/growing/compost-tea-recipe"/>
         <updated>2023-09-28T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Boost your garden's health and yield with this nutrient-rich compost tea recipe using marijuana plant scraps. Learn how to make it now for a thriving garden!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Make A Water Bottle Bong]]></title>
-        <id>https://leafymate.com/resources/?p=13764</id>
-        <link href="https://leafymate.com/resources/cannabis-101/water-bottle-bong"/>
-        <updated>2023-09-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover a quick and easy way to make your own water bottle bong for a one-of-a-kind smoking experience at home. Follow our step-by-step guide and get creative today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Much Does A Dime Of Weed Weigh?]]></title>
-        <id>https://leafymate.com/resources/?p=13760</id>
-        <link href="https://leafymate.com/resources/cannabis-101/how-much-does-a-dime-weigh"/>
-        <updated>2023-09-27T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the weight of a dime of weed and satisfy your curiosity about cannabis measurements. Learn all about this popular term and get enlightened today! Click here now!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
