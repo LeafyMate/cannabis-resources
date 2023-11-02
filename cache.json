@@ -6,6 +6,36 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=14325",
+          "author": "Leafy Mate",
+          "description": "Uncover the truth behind the rising popularity of crumble weed! Click now to discover this unique form of cannabis and find out why it's taking the world by storm. Don't miss out on learning more about crumble weed - click here today!",
+          "link": "https://leafymate.com/resources/cannabis-101/crumble-weed",
+          "publishedOn": "2023-11-01T20:00:00.000Z",
+          "wordCount": 4948,
+          "title": "What Is Crumble Weed?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/crumble-weed.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14302",
+          "author": "Leafy Mate",
+          "description": "Learn how to identify overripe trichomes and take your cannabis knowledge to the next level! Don't miss out on this essential information for every enthusiast. Click now and become a pro at spotting over ripe trichomes!",
+          "link": "https://leafymate.com/resources/growing/over-ripe-trichomes",
+          "publishedOn": "2023-11-01T17:00:00.000Z",
+          "wordCount": 4647,
+          "title": "Can You Tell When Trichomes Are Over Ripe?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/over-ripe-trichomes.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14303",
+          "author": "Leafy Mate",
+          "description": "Looking for a dairy alternative? Learn all about hemp milk - the creamy and nutritious plant-based beverage that can revolutionize your diet. Click now to discover the benefits of hemp milk and start enjoying a healthier lifestyle today!",
+          "link": "https://leafymate.com/resources/cannabis-101/what-is-hemp-milk",
+          "publishedOn": "2023-11-01T14:00:00.000Z",
+          "wordCount": 5052,
+          "title": "What is Hemp Milk?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-hemp-milk-1.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=14327",
           "author": "Leafy Mate",
           "description": "Step back in time to the Roaring 20s and explore the hidden world of jazz cigarettes during Prohibition. Join us on a thrilling journey through the rebellious Jazz Age – don't miss out, click here to uncover this fascinating underground culture!",
@@ -574,26 +604,6 @@
           "wordCount": 4496,
           "title": "What Are THC A Diamonds?",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/thca-diamonds.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13859",
-          "author": "Leafy Mate",
-          "description": "Ready to start your THC detox? Learn the 5 essential tips you need to know before beginning. Don't miss out on this ultimate guide and get ready to detox today!",
-          "link": "https://leafymate.com/resources/health/thc-detox",
-          "publishedOn": "2023-10-03T11:00:00.000Z",
-          "wordCount": 4588,
-          "title": "5 Things To Know Before Your THC Detox",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/health_thc-detox.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13759",
-          "author": "Leafy Mate",
-          "description": "Looking for the ultimate vaping experience? Find out which 510 vape battery tops the charts and revolutionizes your enjoyment. Don't miss out, click here now to discover the best 510 vape battery!",
-          "link": "https://leafymate.com/resources/industry/best-510-vape-battery",
-          "publishedOn": "2023-10-02T16:43:55.000Z",
-          "wordCount": 4794,
-          "title": "What Is The Best 510 Vape Battery?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/best-510-vape-battery.png"
         }
       ]
     }

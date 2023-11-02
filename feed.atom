@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T01:00:10.123Z</updated>
+    <updated>2023-11-02T00:56:40.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Crumble Weed?]]></title>
+        <id>https://leafymate.com/resources/?p=14325</id>
+        <link href="https://leafymate.com/resources/cannabis-101/crumble-weed"/>
+        <updated>2023-11-01T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the truth behind the rising popularity of crumble weed! Click now to discover this unique form of cannabis and find out why it's taking the world by storm. Don't miss out on learning more about crumble weed - click here today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can You Tell When Trichomes Are Over Ripe?]]></title>
+        <id>https://leafymate.com/resources/?p=14302</id>
+        <link href="https://leafymate.com/resources/growing/over-ripe-trichomes"/>
+        <updated>2023-11-01T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to identify overripe trichomes and take your cannabis knowledge to the next level! Don't miss out on this essential information for every enthusiast. Click now and become a pro at spotting over ripe trichomes!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Hemp Milk?]]></title>
+        <id>https://leafymate.com/resources/?p=14303</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-hemp-milk"/>
+        <updated>2023-11-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for a dairy alternative? Learn all about hemp milk - the creamy and nutritious plant-based beverage that can revolutionize your diet. Click now to discover the benefits of hemp milk and start enjoying a healthier lifestyle today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prohibition And Jazz Cigarettes In The Roaring 20s]]></title>
         <id>https://leafymate.com/resources/?p=14327</id>
@@ -572,26 +602,6 @@
         <link href="https://leafymate.com/resources/industry/thca-diamonds"/>
         <updated>2023-10-03T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Unleashing the Sparkling Power of THC A Diamonds - Dive into the mesmerizing realm of cannabis concentrates and elevate your high with THCA diamonds. Uncover their dazzling secrets now! Click for a mind-blowing experience like no other.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Things To Know Before Your THC Detox]]></title>
-        <id>https://leafymate.com/resources/?p=13859</id>
-        <link href="https://leafymate.com/resources/health/thc-detox"/>
-        <updated>2023-10-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ready to start your THC detox? Learn the 5 essential tips you need to know before beginning. Don't miss out on this ultimate guide and get ready to detox today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is The Best 510 Vape Battery?]]></title>
-        <id>https://leafymate.com/resources/?p=13759</id>
-        <link href="https://leafymate.com/resources/industry/best-510-vape-battery"/>
-        <updated>2023-10-02T16:43:55.000Z</updated>
-        <summary type="html"><![CDATA[Looking for the ultimate vaping experience? Find out which 510 vape battery tops the charts and revolutionizes your enjoyment. Don't miss out, click here now to discover the best 510 vape battery!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
