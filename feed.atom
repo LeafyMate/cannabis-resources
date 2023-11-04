@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T00:56:57.511Z</updated>
+    <updated>2023-11-04T00:56:15.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can Weed Make You Sneeze?]]></title>
+        <id>https://leafymate.com/resources/?p=14332</id>
+        <link href="https://leafymate.com/resources/health/weed-allergies"/>
+        <updated>2023-11-03T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Mystery: Can Weed Make You Sneeze? Find out how weed allergies can lead to unexpected sneezing episodes and enhance your high. Click here to explore the surprising connection!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Palm Leaf Wraps Better Than Traditional Blunts?]]></title>
+        <id>https://leafymate.com/resources/?p=14331</id>
+        <link href="https://leafymate.com/resources/industry/king-palm"/>
+        <updated>2023-11-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the healthier alternative to blunts with King Palm! Learn why palm leaf wraps are gaining popularity and find out if they're really better for you. Click here to uncover the truth!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Watch Out For Laced Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=14329</id>
+        <link href="https://leafymate.com/resources/health/can-weed-be-laced"/>
+        <updated>2023-11-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stay Safe and Informed: Learn How to Spot Laced Cannabis and Enjoy a Worry-Free Experience. Don't Let Harmful Substances Ruin Your High - Click Here for Expert Tips!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Marijuana Legal In Greece?]]></title>
         <id>https://leafymate.com/resources/?p=14330</id>
@@ -582,26 +612,6 @@
         <link href="https://leafymate.com/resources/cbd/high-cbd-strains"/>
         <updated>2023-10-05T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Looking for the best high CBD strains? Check out our top 9 picks for natural relaxation and pain relief. Discover a healthier lifestyle with these click-worthy options today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Mellow Mushroom 420 Friendly?]]></title>
-        <id>https://leafymate.com/resources/?p=13855</id>
-        <link href="https://leafymate.com/resources/lifestyle/mellow-mushroom"/>
-        <updated>2023-10-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unwind and indulge in the perfect pizza at Mellow Mushroom – discover if this popular eatery is 420 friendly and find your ideal spot to relax. Click here to satisfy your cravings!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mental And Physical Effects Of THC P]]></title>
-        <id>https://leafymate.com/resources/?p=13851</id>
-        <link href="https://leafymate.com/resources/cannabis-101/thc-p"/>
-        <updated>2023-10-04T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the astonishing effects of THC on your mind and body! Dive into the hidden secrets of THC P and enhance your understanding. Click now to unlock the power of this potent compound and transform your perception!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>

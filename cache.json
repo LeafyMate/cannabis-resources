@@ -6,6 +6,36 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=14332",
+          "author": "Leafy Mate",
+          "description": "Unveiling the Mystery: Can Weed Make You Sneeze? Find out how weed allergies can lead to unexpected sneezing episodes and enhance your high. Click here to explore the surprising connection!",
+          "link": "https://leafymate.com/resources/health/weed-allergies",
+          "publishedOn": "2023-11-03T20:00:00.000Z",
+          "wordCount": 4855,
+          "title": "Can Weed Make You Sneeze?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/weed-allergies.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14331",
+          "author": "Leafy Mate",
+          "description": "Discover the healthier alternative to blunts with King Palm! Learn why palm leaf wraps are gaining popularity and find out if they're really better for you. Click here to uncover the truth!",
+          "link": "https://leafymate.com/resources/industry/king-palm",
+          "publishedOn": "2023-11-03T17:00:00.000Z",
+          "wordCount": 4530,
+          "title": "Are Palm Leaf Wraps Better Than Traditional Blunts?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/king-palm.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14329",
+          "author": "Leafy Mate",
+          "description": "Stay Safe and Informed: Learn How to Spot Laced Cannabis and Enjoy a Worry-Free Experience. Don't Let Harmful Substances Ruin Your High - Click Here for Expert Tips!",
+          "link": "https://leafymate.com/resources/health/can-weed-be-laced",
+          "publishedOn": "2023-11-03T14:00:00.000Z",
+          "wordCount": 5228,
+          "title": "How To Watch Out For Laced Cannabis",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/can-weed-be-laced.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=14330",
           "author": "uBHpaYWbeEXv",
           "description": "Find out the real deal on marijuana's legality in Greece - can you smoke up without repercussions? Click here to uncover the truth and avoid any potential trouble!",
@@ -584,26 +614,6 @@
           "wordCount": 4819,
           "title": "The Top 9 High CBD Strains",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/high-cbd-strains.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13855",
-          "author": "Leafy Mate",
-          "description": "Unwind and indulge in the perfect pizza at Mellow Mushroom – discover if this popular eatery is 420 friendly and find your ideal spot to relax. Click here to satisfy your cravings!",
-          "link": "https://leafymate.com/resources/lifestyle/mellow-mushroom",
-          "publishedOn": "2023-10-05T11:00:00.000Z",
-          "wordCount": 4669,
-          "title": "Is Mellow Mushroom 420 Friendly?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/mellow-mushroom.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13851",
-          "author": "Leafy Mate",
-          "description": "Uncover the astonishing effects of THC on your mind and body! Dive into the hidden secrets of THC P and enhance your understanding. Click now to unlock the power of this potent compound and transform your perception!",
-          "link": "https://leafymate.com/resources/cannabis-101/thc-p",
-          "publishedOn": "2023-10-04T17:00:00.000Z",
-          "wordCount": 4512,
-          "title": "The Mental And Physical Effects Of THC P",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/thc-p.png"
         }
       ]
     }
