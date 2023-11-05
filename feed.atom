@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T00:56:15.242Z</updated>
+    <updated>2023-11-05T01:00:48.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -592,26 +592,6 @@
         <link href="https://leafymate.com/resources/growing/weed-leaf"/>
         <updated>2023-10-06T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Unlock the secrets of cannabis leaves with these 3 essential signs for growers. Don't miss out on expert tips to ensure a successful harvest. Click now and become a master grower!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Walmart Drug Test For Weed?]]></title>
-        <id>https://leafymate.com/resources/?p=13852</id>
-        <link href="https://leafymate.com/resources/lifestyle/does-walmart-drug-test"/>
-        <updated>2023-10-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to know if you can enjoy a joint while working at Walmart? Find out the truth about Walmart's drug testing policy and whether they test for weed. Don't miss this important information - click now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Top 9 High CBD Strains]]></title>
-        <id>https://leafymate.com/resources/?p=13854</id>
-        <link href="https://leafymate.com/resources/cbd/high-cbd-strains"/>
-        <updated>2023-10-05T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for the best high CBD strains? Check out our top 9 picks for natural relaxation and pain relief. Discover a healthier lifestyle with these click-worthy options today!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
