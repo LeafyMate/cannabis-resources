@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-05T01:00:48.915Z</updated>
+    <updated>2023-11-06T00:58:29.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -582,16 +582,6 @@
         <link href="https://leafymate.com/resources/lifestyle/half-of-weed"/>
         <updated>2023-10-09T16:09:07.000Z</updated>
         <summary type="html"><![CDATA[Find out the shocking truth about how long a half of weed lasts for daily smokers. Don't miss out on this eye-opening revelation - click here to uncover the surprising answer!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Essential Signs For Growers From A Weed Leaf]]></title>
-        <id>https://leafymate.com/resources/?p=13857</id>
-        <link href="https://leafymate.com/resources/growing/weed-leaf"/>
-        <updated>2023-10-06T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secrets of cannabis leaves with these 3 essential signs for growers. Don't miss out on expert tips to ensure a successful harvest. Click now and become a master grower!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
