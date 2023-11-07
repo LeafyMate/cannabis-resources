@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T00:58:29.145Z</updated>
+    <updated>2023-11-07T00:58:08.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Highlighting The Life Of Frenchy Cannoli]]></title>
+        <id>https://leafymate.com/resources/?p=14296</id>
+        <link href="https://leafymate.com/resources/lifestyle/frenchy-cannoli"/>
+        <updated>2023-11-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Secrets of Frenchy Cannoli: Dive into the Artisanal World of Hash-Making and Uncover the Legendary Journey. Click here to embark on a fascinating adventure!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Color Of Ash And Its Influence On Weed Quality]]></title>
+        <id>https://leafymate.com/resources/?p=14299</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-color-is-ash"/>
+        <updated>2023-11-06T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Secrets: What Color is Ash and Why It Matters for Your Weed Quality. Don't miss out on this eye-opening article! Click here to find out more about the color of ash and enhance your smoking experience today.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Strains With Balanced CBD And THC Levels]]></title>
+        <id>https://leafymate.com/resources/?p=14300</id>
+        <link href="https://leafymate.com/resources/cbd/cbd-and-thc-strains"/>
+        <updated>2023-11-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the ideal cannabis experience with these 3 balanced CBD and THC strains. Explore their benefits and find your perfect match today. Don't miss out on the ultimate cbd and THC strains - click here now!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can Weed Make You Sneeze?]]></title>
         <id>https://leafymate.com/resources/?p=14332</id>
