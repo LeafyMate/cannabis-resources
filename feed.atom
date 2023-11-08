@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T00:58:08.553Z</updated>
+    <updated>2023-11-08T00:57:24.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sublime’s Cannabis Endeavor: Bridging Music and Marijuana]]></title>
+        <id>https://leafymate.com/resources/?p=14293</id>
+        <link href="https://leafymate.com/resources/industry/sublimes-cannabis-endeavor"/>
+        <updated>2023-11-07T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore Sublime's signature cannabis line, 'Reefers by Sublime,' merging their iconic music with premium cannabis strains. Dive into a harmonious blend of ska-punk vibes and top-notch marijuana, advocating for positive change and mental wellness.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Brief History Of Hemp In The USA]]></title>
+        <id>https://leafymate.com/resources/?p=14333</id>
+        <link href="https://leafymate.com/resources/industry/hemp-in-america"/>
+        <updated>2023-11-07T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the captivating story of hemp in America - from its colonial roots to its modern resurgence. Explore the cultural and economic impact of this versatile plant, and be amazed by its journey through history. Click here to dive into the fascinating world of hemp in America!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Importance Of Decarbing Your Green]]></title>
+        <id>https://leafymate.com/resources/?p=14292</id>
+        <link href="https://leafymate.com/resources/cannabis-101/decarboxylate-in-oven"/>
+        <updated>2023-11-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the full potential of your herbs with this game-changing tip! Discover the importance of decarbing your green in the oven and take your cooking and baking to new heights. Elevate your recipes now!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Highlighting The Life Of Frenchy Cannoli]]></title>
         <id>https://leafymate.com/resources/?p=14296</id>
