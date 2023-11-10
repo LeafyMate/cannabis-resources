@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T00:57:19.505Z</updated>
+    <updated>2023-11-10T00:57:20.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Recipe For Marijuana Lollipops]]></title>
+        <id>https://leafymate.com/resources/?p=14527</id>
+        <link href="https://leafymate.com/resources/lifestyle/how-to-make-canna-lollipops"/>
+        <updated>2023-11-09T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the ultimate recipe for marijuana lollipops and learn how to make canna sugar at home. Elevate your relaxation game with these irresistible treats - click here to start making your own!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Things To Know About The PHC Cannabinoid]]></title>
+        <id>https://leafymate.com/resources/?p=14528</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-phc-cannabinoid"/>
+        <updated>2023-11-09T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the amazing benefits of the PHC Cannabinoid! Discover 5 essential facts that will change your perspective on this revolutionary compound. Click now to learn what the PHC Cannabinoid is and how it can transform your life.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Review Of The Cherry Cheesecake Weed Strain]]></title>
+        <id>https://leafymate.com/resources/?p=14508</id>
+        <link href="https://leafymate.com/resources/cannabis-101/cherry-cheesecake-strain"/>
+        <updated>2023-11-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Indulge in the divine fusion of cherry and cheesecake with our review of the Cherry Cheesecake weed strain. Find out why this must-try strain is a heavenly delight! Don't miss out, click here to read more.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Weed Friendly Places To Visit For Winter]]></title>
         <id>https://leafymate.com/resources/?p=14509</id>
@@ -632,36 +662,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/blunt-spray"/>
         <updated>2023-10-11T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Learn how to effectively use Blunt Spray to eliminate odors and transform your space instantly. Say goodbye to unpleasant smells with a simple click! Click here for the ultimate freshness.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide To An Electric Dab Rig]]></title>
-        <id>https://leafymate.com/resources/?p=13951</id>
-        <link href="https://leafymate.com/resources/lifestyle/dab-rig-electric"/>
-        <updated>2023-10-10T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade your dabbing game with the ultimate guide to an electric dab rig! Uncover advanced features, optimal usage tips, and elevate your experience. Click now for the secrets of a perfect electric dab rig!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is The International Church Of Cannabis?]]></title>
-        <id>https://leafymate.com/resources/?p=13949</id>
-        <link href="https://leafymate.com/resources/lifestyle/international-church-of-cannabis"/>
-        <updated>2023-10-10T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unveiling the Mysteries of the International Church of Cannabis: A Journey into Spirituality and Cannabis Culture. Prepare to be amazed by this eye-opening revelation! Click now to explore the mind-blowing world of the international church of cannabis.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Ways To Prevent Moldy Weed]]></title>
-        <id>https://leafymate.com/resources/?p=13948</id>
-        <link href="https://leafymate.com/resources/growing/moldy-weed"/>
-        <updated>2023-10-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Don't let mold ruin your stash! Learn how to prevent moldy weed and keep your buds fresh. Say goodbye to wasted buds and click now for 5 simple prevention methods that will preserve the quality of your cannabis.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
