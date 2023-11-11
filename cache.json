@@ -6,6 +6,36 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=14489",
+          "author": "Leafy Mate",
+          "description": "Unlock the Natural Wellness Benefits of CBDA - Learn how CBDA can enhance your wellbeing and experience a world of natural healing. Click now to discover its incredible benefits!",
+          "link": "https://leafymate.com/resources/cbd/cbda-benefits",
+          "publishedOn": "2023-11-10T21:00:00.000Z",
+          "wordCount": 4926,
+          "title": "What Are The Benefits Of CBDA?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cbda-benefits.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14490",
+          "author": "Leafy Mate",
+          "description": "Unveiling the Mystery: Why Does THC Percentage Matter? Elevate your cannabis experience by understanding the importance of THC percentage. Don't miss out, click now to unlock the secrets and enhance your enjoyment!",
+          "link": "https://leafymate.com/resources/cannabis-101/does-thc-percentage-matter",
+          "publishedOn": "2023-11-10T18:00:00.000Z",
+          "wordCount": 5240,
+          "title": "The Importance Of THC Percentage",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/does-thc-percentage-matter.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14491",
+          "author": "Leafy Mate",
+          "description": "Tired of the sore throat after smoking marijuana? Check out these 7 powerful remedies to soothe your discomfort and get back to enjoying that blissful high. Say goodbye to irritation now!",
+          "link": "https://leafymate.com/resources/health/sore-throat-from-smoking-remedy",
+          "publishedOn": "2023-11-10T15:00:00.000Z",
+          "wordCount": 5136,
+          "title": "7 Remedies For A Sore Throat From Smoking Marijuana",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/sore-throat-from-smoking-remedy.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=14527",
           "author": "Leafy Mate",
           "description": "Discover the ultimate recipe for marijuana lollipops and learn how to make canna sugar at home. Elevate your relaxation game with these irresistible treats - click here to start making your own!",
@@ -634,36 +664,6 @@
           "wordCount": 4394,
           "title": "Top 5 Marijuana Strains For Halloween",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/halloween-weed-strains.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13944",
-          "author": "Leafy Mate",
-          "description": "Want to know if holding in weed smoke can actually make you higher? Find out the truth and learn the science behind this myth. Plus, discover how long weed stays in your system after just a couple of puffs. Click here to uncover the facts now!",
-          "link": "https://leafymate.com/resources/cannabis-101/how-long-does-weed-stay-in-your-system-after-a-couple-of-puffs",
-          "publishedOn": "2023-10-11T20:00:00.000Z",
-          "wordCount": 4573,
-          "title": "Can You Get Higher From Holding In Weed Smoke?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-long-does-weed-stay-in-your-system-after-a-couple-of-puffs.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=14013",
-          "author": "Leafy Mate",
-          "description": "Unlock the perfect high with this secret: learn how many grams of weed equal a quarter. Elevate your cannabis experience today and find out the answer to how many grams in a quarter? Click now!",
-          "link": "https://leafymate.com/resources/growing/how-many-grams-in-a-quarter",
-          "publishedOn": "2023-10-11T17:00:00.000Z",
-          "wordCount": 4422,
-          "title": "How Many Grams Of Weed Equals A Quarter?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-many-grams-in-a-quarter.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=13950",
-          "author": "Leafy Mate",
-          "description": "Learn how to effectively use Blunt Spray to eliminate odors and transform your space instantly. Say goodbye to unpleasant smells with a simple click! Click here for the ultimate freshness.",
-          "link": "https://leafymate.com/resources/cannabis-101/blunt-spray",
-          "publishedOn": "2023-10-11T14:00:00.000Z",
-          "wordCount": 3783,
-          "title": "How Do I Use Blunt Spray?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/blunt-spray.png"
         }
       ]
     }
