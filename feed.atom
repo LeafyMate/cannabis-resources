@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T01:01:33.762Z</updated>
+    <updated>2023-11-13T00:59:15.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -602,36 +602,6 @@
         <link href="https://leafymate.com/resources/industry/pax-3-vaporizer"/>
         <updated>2023-10-16T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Experience the game-changing Pax 3 Vaporizer - the future of vaping awaits! Discover its sleek design and powerful features. Click now to learn more about this revolutionary device and elevate your vaping experience today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Can I Store Cannabis?]]></title>
-        <id>https://leafymate.com/resources/?p=13945</id>
-        <link href="https://leafymate.com/resources/cannabis-101/keep-cannabis-storage"/>
-        <updated>2023-10-13T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Preserve the Freshness of Your Cannabis Stash - Find Out How Long You Can Store It! Don't miss out on the best smoking experience - Click here to learn more about keeping cannabis storage.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflation Surges, But Weed Prices Hold Steady: How The Cannabis Industry Defies Economic Trends]]></title>
-        <id>https://leafymate.com/resources/?p=13931</id>
-        <link href="https://leafymate.com/resources/industry/cannabis-prices-and-inflation"/>
-        <updated>2023-10-13T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover why the cannabis industry remains immune to inflation as weed prices hold steady, defying economic trends. Click here to explore this booming market and uncover its secrets.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I Use CBD Tinctures In Food Recipes?]]></title>
-        <id>https://leafymate.com/resources/?p=13947</id>
-        <link href="https://leafymate.com/resources/cbd/cbd-in-food"/>
-        <updated>2023-10-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enhance your meals with CBD tinctures! Explore mouthwatering recipes and learn how to infuse CBD into your favorite dishes. Elevate your culinary experience today. Click here for CBD in food inspiration!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
