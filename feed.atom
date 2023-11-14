@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-13T00:59:15.084Z</updated>
+    <updated>2023-11-14T00:57:36.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can I Consume Wax Reclaim From Cannabis Concentrates?]]></title>
+        <id>https://leafymate.com/resources/?p=14570</id>
+        <link href="https://leafymate.com/resources/health/wax-reclaim"/>
+        <updated>2023-11-13T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enhance Your Cannabis Experience with Wax Reclaim: Unleash the Hidden Potential of Your Stash Today! Don't miss out on this game-changing secret – click here to learn how to consume wax reclaim from cannabis concentrates and take your high to new heights.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Review Of The Green Runtz Weed Strain]]></title>
+        <id>https://leafymate.com/resources/?p=14483</id>
+        <link href="https://leafymate.com/resources/cannabis-101/green-runtz-strain"/>
+        <updated>2023-11-13T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Green Runtz Strain: A Potent and Tantalizing Cannabis Indulgence. Get the inside scoop on this trending strain that's captivating cannabis enthusiasts worldwide. Click here to discover its mesmerizing effects and delicious taste!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tribute To Glass Artist Bob Snodgrass]]></title>
+        <id>https://leafymate.com/resources/?p=14488</id>
+        <link href="https://leafymate.com/resources/industry/bob-snodgrass"/>
+        <updated>2023-11-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Masterpieces: Explore Bob Snodgrass' Extraordinary Glass Art! Dive into the captivating realm of this renowned artist and be spellbound by his awe-inspiring creations. Click now to witness the magic for yourself!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Are The Benefits Of CBDA?]]></title>
         <id>https://leafymate.com/resources/?p=14489</id>
