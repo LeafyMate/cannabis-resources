@@ -6,6 +6,36 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=14567",
+          "author": "Leafy Mate",
+          "description": "Unveiling the Mysteries of a Nug of Weed: Origins, Potency & Strains. Click now to learn all about the nug meaning and be enlightened!",
+          "link": "https://leafymate.com/resources/cannabis-101/nug-meaning",
+          "publishedOn": "2023-11-14T21:00:00.000Z",
+          "wordCount": 5413,
+          "title": "What is a Nug of Weed?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/nug-meaning.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14568",
+          "author": "Leafy Mate",
+          "description": "Say goodbye to spider mites on buds at harvest time! Discover effective strategies to protect your cannabis plants from common pests and keep your garden thriving. Don't let them ruin your green dreams - click here for expert tips!",
+          "link": "https://leafymate.com/resources/growing/spider-mites-on-buds-at-time-of-harvest",
+          "publishedOn": "2023-11-14T18:00:00.000Z",
+          "wordCount": 4670,
+          "title": "3 Common Cannabis Pests And What to Do About Them",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/spider-mites-on-buds-at-time-of-harvest.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=14569",
+          "author": "Leafy Mate",
+          "description": "Looking for a discreet way to cover up the smell of marijuana? Check out our guide on the best incense scents to mask those lingering odors. Say goodbye to unwanted smells and embrace a more discreet smoking experience today!",
+          "link": "https://leafymate.com/resources/lifestyle/what-does-incense-smell-like",
+          "publishedOn": "2023-11-14T15:00:00.000Z",
+          "wordCount": 4819,
+          "title": "The Best Incense To Cover Marijuana Smells",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-does-incense-smell-like.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=14570",
           "author": "Leafy Mate",
           "description": "Enhance Your Cannabis Experience with Wax Reclaim: Unleash the Hidden Potential of Your Stash Today! Don't miss out on this game-changing secret – click here to learn how to consume wax reclaim from cannabis concentrates and take your high to new heights.",
@@ -624,16 +654,6 @@
           "wordCount": 4934,
           "title": "A Thorough Review Of Randy’s Bong Cleaner",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/randys-glass-and-bong-cleaner.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=14004",
-          "author": "Leafy Mate",
-          "description": "Experience the game-changing Pax 3 Vaporizer - the future of vaping awaits! Discover its sleek design and powerful features. Click now to learn more about this revolutionary device and elevate your vaping experience today!",
-          "link": "https://leafymate.com/resources/industry/pax-3-vaporizer",
-          "publishedOn": "2023-10-16T10:00:00.000Z",
-          "wordCount": 4588,
-          "title": "What Is The Pax 3 Vaporizer?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/pax-3-vaporizer.png"
         }
       ]
     }
