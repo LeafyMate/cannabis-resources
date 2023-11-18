@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T00:59:28.583Z</updated>
+    <updated>2023-11-18T00:58:42.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -632,36 +632,6 @@
         <link href="https://leafymate.com/resources/industry/marijuana-jobs"/>
         <updated>2023-10-19T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Want to work in the fast-growing marijuana industry? Learn how to land your dream job and succeed in this lucrative field. Click here to discover the secrets of breaking into the cannabis industry today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Benefits Of Growing Weed in a Greenhouse]]></title>
-        <id>https://leafymate.com/resources/?p=14192</id>
-        <link href="https://leafymate.com/resources/growing/greenhouse-weed"/>
-        <updated>2023-10-18T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the potential of greenhouse weed cultivation and revolutionize your yields! Learn how to grow high-quality marijuana in a greenhouse, saving time, effort, and costs. Click now to maximize your success and harvest top-notch buds.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Light Up Your Green With These Unique Lighters]]></title>
-        <id>https://leafymate.com/resources/?p=14175</id>
-        <link href="https://leafymate.com/resources/industry/unique-lighters-for-weed"/>
-        <updated>2023-10-18T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for unique lighters for weed? Check out our selection of stylish and cool options to enhance your smoking experience. Light up your green in style today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Exploration Of Weed Measurements]]></title>
-        <id>https://leafymate.com/resources/?p=14011</id>
-        <link href="https://leafymate.com/resources/cannabis-101/weed-measurements"/>
-        <updated>2023-10-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the mysteries of weed measurements and take your smoking game to new heights. Learn about grams, ounces, and more in this mind-blowing article. Elevate your knowledge now!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
