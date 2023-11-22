@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T01:00:35.090Z</updated>
+    <updated>2023-11-22T01:01:38.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 CBD Infused Fall Casserole Recipes]]></title>
+        <id>https://leafymate.com/resources/?p=14698</id>
+        <link href="https://leafymate.com/resources/cbd/cbd-infused-fall-casseroles"/>
+        <updated>2023-11-21T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for delicious fall comfort food? Check out these CBD infused Fall casserole recipes and elevate your meals this season. Experience the benefits of CBD and get cozy in the kitchen today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are The Best Terpenes For Anxiety?]]></title>
+        <id>https://leafymate.com/resources/?p=14697</id>
+        <link href="https://leafymate.com/resources/health/best-terpenes-for-anxiety"/>
+        <updated>2023-11-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Find relief from anxiety with the best terpenes! Discover how these natural compounds can bring calm and relaxation to your life. Click here to explore the top terpenes for anxiety relief now!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is The Highest THC Strain?]]></title>
+        <id>https://leafymate.com/resources/?p=14696</id>
+        <link href="https://leafymate.com/resources/cannabis-101/highest-thc-strain"/>
+        <updated>2023-11-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash the power of the highest THC strain and prepare for an unforgettable experience. Click now to discover mind-blowing potency that will leave you craving for more. Don't miss out on this ultimate high - satisfy your curiosity and click today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Using The Sea Of Green Method For Weed]]></title>
+        <id>https://leafymate.com/resources/?p=14695</id>
+        <link href="https://leafymate.com/resources/growing/sea-of-green-method"/>
+        <updated>2023-11-20T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maximize your marijuana yield with the Sea of Green method! Unlock the secrets to abundant, potent weed by clicking now for expert tips. Don't miss out on this guide to growing high-quality cannabis.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Cannabis Strains To Enjoy On Thanksgiving Day]]></title>
         <id>https://leafymate.com/resources/?p=14694</id>
