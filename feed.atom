@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-25T00:57:05.358Z</updated>
+    <updated>2023-11-26T01:02:44.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -502,36 +502,6 @@
         <link href="https://leafymate.com/resources/cbd/read-cbd-label"/>
         <updated>2023-10-27T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the essential guide to reading CBD labels and make informed choices. Uncover the secrets of deciphering CBD labels for optimal results. Click now to unlock the key tips and tricks!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Weed Strain For A Spooky Halloween Night]]></title>
-        <id>https://leafymate.com/resources/?p=14164</id>
-        <link href="https://leafymate.com/resources/lifestyle/halloween-weed-strain"/>
-        <updated>2023-10-26T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get ready for a spine-chilling Halloween night with the ultimate weed strain! Experience the perfect mix of scares and delights. Don't wait, click now to find your ideal halloween weed strain and embrace the spooky vibes!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting To Know The Terpene Linalool]]></title>
-        <id>https://leafymate.com/resources/?p=14163</id>
-        <link href="https://leafymate.com/resources/cannabis-101/linalool-terpene"/>
-        <updated>2023-10-26T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the Secrets of Linalool Terpene: Find out how this aromatic wonder can benefit you. Click here to dive into the captivating world of linalool and experience its surprising benefits today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is An E-Hookah?]]></title>
-        <id>https://leafymate.com/resources/?p=14159</id>
-        <link href="https://leafymate.com/resources/industry/e-hookah"/>
-        <updated>2023-10-26T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the fascinating world of e-hookahs and why vape enthusiasts can't get enough! Learn about what an e-hookah is and why you need to try it today. Click here to dive into the ultimate vaping experience with e-hookahs!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
