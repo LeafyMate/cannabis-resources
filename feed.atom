@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T01:02:44.473Z</updated>
+    <updated>2023-11-27T00:59:41.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -472,36 +472,6 @@
         <link href="https://leafymate.com/resources/lifestyle/420-friendly-airbnb"/>
         <updated>2023-10-30T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Looking for a 420-friendly AirBNB? Uncover the ultimate getaway that celebrates your passion! Click here now to find the perfect stay and make unforgettable memories. Don't miss out on this unique experience!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance of a Healthy Cannabis Seed]]></title>
-        <id>https://leafymate.com/resources/?p=14160</id>
-        <link href="https://leafymate.com/resources/growing/healthy-cannabis-seeds"/>
-        <updated>2023-10-27T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secrets to growing top-quality marijuana with our expert tips. Learn why choosing healthy cannabis seeds is crucial for a successful harvest. Click here to discover the key to a thriving cannabis garden!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Make CBD Bath Bombs At Home]]></title>
-        <id>https://leafymate.com/resources/?p=14161</id>
-        <link href="https://leafymate.com/resources/cbd/cbd-bath-bombs"/>
-        <updated>2023-10-27T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Create your own CBD bath bombs at home and experience ultimate relaxation. Learn the simple DIY recipe and unwind in a luxurious soak today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Read A CBD Label]]></title>
-        <id>https://leafymate.com/resources/?p=14165</id>
-        <link href="https://leafymate.com/resources/cbd/read-cbd-label"/>
-        <updated>2023-10-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the essential guide to reading CBD labels and make informed choices. Uncover the secrets of deciphering CBD labels for optimal results. Click now to unlock the key tips and tricks!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
