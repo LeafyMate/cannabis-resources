@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T01:00:09.895Z</updated>
+    <updated>2023-11-30T00:59:27.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -442,36 +442,6 @@
         <link href="https://leafymate.com/resources/health/can-you-get-contact-high"/>
         <updated>2023-10-31T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the truth about contact highs - are they real or just in our heads? Find out now and learn if you can really get a contact high. Click here to uncover the fascinating facts!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Benefits Of An Electric Weed Grinder]]></title>
-        <id>https://leafymate.com/resources/?p=14305</id>
-        <link href="https://leafymate.com/resources/cannabis-101/electric-grinders"/>
-        <updated>2023-10-30T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the Power of Your Herbs with Electric Grinders - Experience Effortless Grinding Today.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can CBD Help With Everyday Aches And Pains?]]></title>
-        <id>https://leafymate.com/resources/?p=14306</id>
-        <link href="https://leafymate.com/resources/cbd/cbd-for-pain-relief"/>
-        <updated>2023-10-30T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tired of everyday aches and pains? Discover how CBD for pain relief can transform your life. Click now to find out more and experience natural relief today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are There Any 420-Friendly AirBNB’s?]]></title>
-        <id>https://leafymate.com/resources/?p=14162</id>
-        <link href="https://leafymate.com/resources/lifestyle/420-friendly-airbnb"/>
-        <updated>2023-10-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for a 420-friendly AirBNB? Uncover the ultimate getaway that celebrates your passion! Click here now to find the perfect stay and make unforgettable memories. Don't miss out on this unique experience!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
