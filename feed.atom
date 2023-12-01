@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-30T00:59:27.899Z</updated>
+    <updated>2023-12-01T01:04:42.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -412,36 +412,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/what-is-hemp-milk"/>
         <updated>2023-11-01T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Looking for a dairy alternative? Learn all about hemp milk - the creamy and nutritious plant-based beverage that can revolutionize your diet. Click now to discover the benefits of hemp milk and start enjoying a healthier lifestyle today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prohibition And Jazz Cigarettes In The Roaring 20s]]></title>
-        <id>https://leafymate.com/resources/?p=14327</id>
-        <link href="https://leafymate.com/resources/lifestyle/jazz-cigarette"/>
-        <updated>2023-10-31T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Step back in time to the Roaring 20s and explore the hidden world of jazz cigarettes during Prohibition. Join us on a thrilling journey through the rebellious Jazz Age – don't miss out, click here to uncover this fascinating underground culture!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Features Of The Farnesene Terpene]]></title>
-        <id>https://leafymate.com/resources/?p=14301</id>
-        <link href="https://leafymate.com/resources/cannabis-101/farnesene-terpene"/>
-        <updated>2023-10-31T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the Hidden Powers of Farnesene Terpene - Revolutionize Your Life With These 5 Incredible Features! Click Now to Discover the Natural Wonders and Transform Your Health Today.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Contact Highs Real Or Placebo?]]></title>
-        <id>https://leafymate.com/resources/?p=14304</id>
-        <link href="https://leafymate.com/resources/health/can-you-get-contact-high"/>
-        <updated>2023-10-31T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the truth about contact highs - are they real or just in our heads? Find out now and learn if you can really get a contact high. Click here to uncover the fascinating facts!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
