@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-01T01:04:42.262Z</updated>
+    <updated>2023-12-02T00:57:27.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -382,36 +382,6 @@
         <link href="https://leafymate.com/resources/health/can-you-donate-plasma-if-you-smoke-weed"/>
         <updated>2023-11-02T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Want to donate plasma but worried about smoking weed? Discover the surprising truth and find out if you can donate without any concerns. Click now for all the answers you need!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Crumble Weed?]]></title>
-        <id>https://leafymate.com/resources/?p=14325</id>
-        <link href="https://leafymate.com/resources/cannabis-101/crumble-weed"/>
-        <updated>2023-11-01T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the truth behind the rising popularity of crumble weed! Click now to discover this unique form of cannabis and find out why it's taking the world by storm. Don't miss out on learning more about crumble weed - click here today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can You Tell When Trichomes Are Over Ripe?]]></title>
-        <id>https://leafymate.com/resources/?p=14302</id>
-        <link href="https://leafymate.com/resources/growing/over-ripe-trichomes"/>
-        <updated>2023-11-01T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to identify overripe trichomes and take your cannabis knowledge to the next level! Don't miss out on this essential information for every enthusiast. Click now and become a pro at spotting over ripe trichomes!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Hemp Milk?]]></title>
-        <id>https://leafymate.com/resources/?p=14303</id>
-        <link href="https://leafymate.com/resources/cannabis-101/what-is-hemp-milk"/>
-        <updated>2023-11-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for a dairy alternative? Learn all about hemp milk - the creamy and nutritious plant-based beverage that can revolutionize your diet. Click now to discover the benefits of hemp milk and start enjoying a healthier lifestyle today!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
