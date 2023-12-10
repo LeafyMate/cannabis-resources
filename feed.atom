@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-09T00:58:30.909Z</updated>
+    <updated>2023-12-10T01:03:56.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -342,36 +342,6 @@
         <link href="https://leafymate.com/resources/health/sore-throat-from-smoking-remedy"/>
         <updated>2023-11-10T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Tired of the sore throat after smoking marijuana? Check out these 7 powerful remedies to soothe your discomfort and get back to enjoying that blissful high. Say goodbye to irritation now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Recipe For Marijuana Lollipops]]></title>
-        <id>https://leafymate.com/resources/?p=14527</id>
-        <link href="https://leafymate.com/resources/lifestyle/how-to-make-canna-lollipops"/>
-        <updated>2023-11-09T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the ultimate recipe for marijuana lollipops and learn how to make canna sugar at home. Elevate your relaxation game with these irresistible treats - click here to start making your own!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Things To Know About The PHC Cannabinoid]]></title>
-        <id>https://leafymate.com/resources/?p=14528</id>
-        <link href="https://leafymate.com/resources/cannabis-101/what-is-phc-cannabinoid"/>
-        <updated>2023-11-09T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the amazing benefits of the PHC Cannabinoid! Discover 5 essential facts that will change your perspective on this revolutionary compound. Click now to learn what the PHC Cannabinoid is and how it can transform your life.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Review Of The Cherry Cheesecake Weed Strain]]></title>
-        <id>https://leafymate.com/resources/?p=14508</id>
-        <link href="https://leafymate.com/resources/cannabis-101/cherry-cheesecake-strain"/>
-        <updated>2023-11-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Indulge in the divine fusion of cherry and cheesecake with our review of the Cherry Cheesecake weed strain. Find out why this must-try strain is a heavenly delight! Don't miss out, click here to read more.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
