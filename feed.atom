@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-14T00:59:16.905Z</updated>
+    <updated>2023-12-15T01:00:30.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -452,36 +452,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/acapulco-gold"/>
         <updated>2023-11-15T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Unveiling the Legacy of Acapulco Gold: Delve into the captivating history and potent effects of this renowned weed strain. Don't miss out on discovering why cannabis connoisseurs can't get enough! Click here to unlock the secrets of Acapulco Gold.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Nug of Weed?]]></title>
-        <id>https://leafymate.com/resources/?p=14567</id>
-        <link href="https://leafymate.com/resources/cannabis-101/nug-meaning"/>
-        <updated>2023-11-14T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unveiling the Mysteries of a Nug of Weed: Origins, Potency & Strains. Click now to learn all about the nug meaning and be enlightened!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Common Cannabis Pests And What to Do About Them]]></title>
-        <id>https://leafymate.com/resources/?p=14568</id>
-        <link href="https://leafymate.com/resources/growing/spider-mites-on-buds-at-time-of-harvest"/>
-        <updated>2023-11-14T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Say goodbye to spider mites on buds at harvest time! Discover effective strategies to protect your cannabis plants from common pests and keep your garden thriving. Don't let them ruin your green dreams - click here for expert tips!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Incense To Cover Marijuana Smells]]></title>
-        <id>https://leafymate.com/resources/?p=14569</id>
-        <link href="https://leafymate.com/resources/lifestyle/what-does-incense-smell-like"/>
-        <updated>2023-11-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for a discreet way to cover up the smell of marijuana? Check out our guide on the best incense scents to mask those lingering odors. Say goodbye to unwanted smells and embrace a more discreet smoking experience today!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
