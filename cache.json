@@ -6,6 +6,36 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=15433",
+          "author": "Ayesha Aziz",
+          "description": "Uncover the top hybrid marijuana strains revolutionizing the cannabis scene. Elevate your experience with these popular hybrids and ignite your curiosity now! Click to explore the ultimate high.",
+          "link": "https://leafymate.com/resources/cannabis-101/popular-hybrid-strains",
+          "publishedOn": "2023-12-21T18:00:00.000Z",
+          "wordCount": 5398,
+          "title": "Exploring The Most Popular Hybrid Marijuana Strains",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/popular-hybrid-strains.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=15429",
+          "author": "Ayesha Aziz",
+          "description": "Tired of living with pain? Indulge in cannabis edibles for ultimate relief! Experience the mouthwatering way to alleviate discomfort and embrace a blissful, pain-free lifestyle. Click now for your tastiest solution!",
+          "link": "https://leafymate.com/resources/health/edibles-for-pain-relief",
+          "publishedOn": "2023-12-21T15:00:00.000Z",
+          "wordCount": 5414,
+          "title": "Cannabis Edibles For Pain Relief",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/edibles-for-pain-relief.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=15704",
+          "author": "Ayesha Aziz",
+          "description": "Learn how to incorporate tasty and wholesome edibles into your daily routine for a healthier lifestyle. Explore guilt-free treats that will enhance your well-being. Click now to discover these mouthwatering options!",
+          "link": "https://leafymate.com/resources/lifestyle/edibles-for-a-healthy-lifestyle",
+          "publishedOn": "2023-12-21T12:00:00.000Z",
+          "wordCount": 5380,
+          "title": "Incorporating Edibles Into A Healthy Lifestyle",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/edibles-for-a-healthy-lifestyle.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=15423",
           "author": "Ayesha Aziz",
           "description": "Discover the key steps to starting your own cannabis dispensary business and unlock success in this booming industry. Take action now and start your journey towards building a profitable enterprise today!",
@@ -344,26 +374,6 @@
           "wordCount": 5403,
           "title": "Content Marketing Trends In The Dispensary Industry",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/content-marketing-trends-in-the-dispensary-industry.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=14698",
-          "author": "Leafy Mate",
-          "description": "Looking for delicious fall comfort food? Check out these CBD infused Fall casserole recipes and elevate your meals this season. Experience the benefits of CBD and get cozy in the kitchen today!",
-          "link": "https://leafymate.com/resources/cbd/cbd-infused-fall-casseroles",
-          "publishedOn": "2023-11-21T18:00:00.000Z",
-          "wordCount": 4381,
-          "title": "3 CBD Infused Fall Casserole Recipes",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/CBD-infused-Fall-casseroles-1.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=14697",
-          "author": "Leafy Mate",
-          "description": "Find relief from anxiety with the best terpenes! Discover how these natural compounds can bring calm and relaxation to your life. Click here to explore the top terpenes for anxiety relief now!",
-          "link": "https://leafymate.com/resources/health/best-terpenes-for-anxiety",
-          "publishedOn": "2023-11-21T15:00:00.000Z",
-          "wordCount": 5255,
-          "title": "What Are The Best Terpenes For Anxiety?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/best-terpenes-for-anxiety-1.png"
         }
       ]
     }

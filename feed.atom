@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-21T00:58:36.447Z</updated>
+    <updated>2023-12-22T00:58:20.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring The Most Popular Hybrid Marijuana Strains]]></title>
+        <id>https://leafymate.com/resources/?p=15433</id>
+        <link href="https://leafymate.com/resources/cannabis-101/popular-hybrid-strains"/>
+        <updated>2023-12-21T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the top hybrid marijuana strains revolutionizing the cannabis scene. Elevate your experience with these popular hybrids and ignite your curiosity now! Click to explore the ultimate high.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannabis Edibles For Pain Relief]]></title>
+        <id>https://leafymate.com/resources/?p=15429</id>
+        <link href="https://leafymate.com/resources/health/edibles-for-pain-relief"/>
+        <updated>2023-12-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tired of living with pain? Indulge in cannabis edibles for ultimate relief! Experience the mouthwatering way to alleviate discomfort and embrace a blissful, pain-free lifestyle. Click now for your tastiest solution!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incorporating Edibles Into A Healthy Lifestyle]]></title>
+        <id>https://leafymate.com/resources/?p=15704</id>
+        <link href="https://leafymate.com/resources/lifestyle/edibles-for-a-healthy-lifestyle"/>
+        <updated>2023-12-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to incorporate tasty and wholesome edibles into your daily routine for a healthier lifestyle. Explore guilt-free treats that will enhance your well-being. Click now to discover these mouthwatering options!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Essential Steps To Start Your Own Cannabis Dispensary Business]]></title>
         <id>https://leafymate.com/resources/?p=15423</id>
@@ -342,26 +372,6 @@
         <link href="https://leafymate.com/resources/cannabis-business/content-marketing-trends-in-the-dispensary-industry"/>
         <updated>2023-11-23T18:00:00.000Z</updated>
         <summary type="html"><![CDATA[Stay ahead of the game in the thriving dispensary industry with our guide to the latest content marketing trends. Supercharge your marketing efforts and outshine the competition. Click now for expert insights!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 CBD Infused Fall Casserole Recipes]]></title>
-        <id>https://leafymate.com/resources/?p=14698</id>
-        <link href="https://leafymate.com/resources/cbd/cbd-infused-fall-casseroles"/>
-        <updated>2023-11-21T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for delicious fall comfort food? Check out these CBD infused Fall casserole recipes and elevate your meals this season. Experience the benefits of CBD and get cozy in the kitchen today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are The Best Terpenes For Anxiety?]]></title>
-        <id>https://leafymate.com/resources/?p=14697</id>
-        <link href="https://leafymate.com/resources/health/best-terpenes-for-anxiety"/>
-        <updated>2023-11-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Find relief from anxiety with the best terpenes! Discover how these natural compounds can bring calm and relaxation to your life. Click here to explore the top terpenes for anxiety relief now!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
