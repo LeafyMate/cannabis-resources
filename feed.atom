@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T00:56:23.254Z</updated>
+    <updated>2023-12-24T01:02:38.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -352,26 +352,6 @@
         <link href="https://leafymate.com/resources/cannabis-business/why-is-storytelling-crucial-in-dispensary-content-marketing"/>
         <updated>2023-11-24T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Unleash the power of storytelling in dispensary content marketing. Learn why it's crucial and captivate your audience today! Click here to discover the secret behind successful campaigns.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Content For SEO In The Cannabis Industry]]></title>
-        <id>https://leafymate.com/resources/?p=14748</id>
-        <link href="https://leafymate.com/resources/cannabis-business/optimizing-content-for-seo-in-the-cannabis-industry"/>
-        <updated>2023-11-23T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secrets to dominating the cannabis industry with our expert strategies on optimizing content for SEO. Boost your rankings and drive more traffic to your business today. Click now for game-changing tips!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Content Marketing Trends In The Dispensary Industry]]></title>
-        <id>https://leafymate.com/resources/?p=14747</id>
-        <link href="https://leafymate.com/resources/cannabis-business/content-marketing-trends-in-the-dispensary-industry"/>
-        <updated>2023-11-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay ahead of the game in the thriving dispensary industry with our guide to the latest content marketing trends. Supercharge your marketing efforts and outshine the competition. Click now for expert insights!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
