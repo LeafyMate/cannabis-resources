@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-24T01:02:38.666Z</updated>
+    <updated>2023-12-25T00:59:56.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -332,26 +332,6 @@
         <link href="https://leafymate.com/resources/cannabis-business/optimizing-marijuana-dispensary-websites"/>
         <updated>2023-11-27T18:00:00.000Z</updated>
         <summary type="html"><![CDATA[Boost your marijuana dispensary's online presence and increase traffic and sales today with expert tips for optimizing your website. Don't miss out on maximizing your potential - click here now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role Of Storytelling In Content Marketing For Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=14755</id>
-        <link href="https://leafymate.com/resources/cannabis-business/storytelling-in-content-marketing-for-dispensaries"/>
-        <updated>2023-11-24T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Elevate your dispensary's content marketing strategy with the power of storytelling. Captivate and engage your audience for maximum impact. Click now and discover the role of storytelling in content marketing for dispensaries!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Is Storytelling Crucial In Dispensary Content Marketing?]]></title>
-        <id>https://leafymate.com/resources/?p=14749</id>
-        <link href="https://leafymate.com/resources/cannabis-business/why-is-storytelling-crucial-in-dispensary-content-marketing"/>
-        <updated>2023-11-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the power of storytelling in dispensary content marketing. Learn why it's crucial and captivate your audience today! Click here to discover the secret behind successful campaigns.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
