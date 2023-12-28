@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T00:57:19.031Z</updated>
+    <updated>2023-12-28T00:57:23.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -312,26 +312,6 @@
         <link href="https://leafymate.com/resources/cannabis-business/how-to-measure-roi-of-content-marketing-for-dispensaries"/>
         <updated>2023-11-28T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Learn how to measure the ROI of your dispensary's content marketing efforts and boost profits. Don't miss out on maximizing success - click now for essential tips!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEO Keywords For Marijuana Dispensary Websites]]></title>
-        <id>https://leafymate.com/resources/?p=14742</id>
-        <link href="https://leafymate.com/resources/cannabis-business/seo-keywords-for-marijuana-dispensary-websites"/>
-        <updated>2023-11-27T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Increase visibility and sales for your marijuana dispensary website with these top SEO keywords. Don't miss out on the opportunity to boost traffic - click here now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Marijuana Dispensary Websites]]></title>
-        <id>https://leafymate.com/resources/?p=14741</id>
-        <link href="https://leafymate.com/resources/cannabis-business/optimizing-marijuana-dispensary-websites"/>
-        <updated>2023-11-27T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost your marijuana dispensary's online presence and increase traffic and sales today with expert tips for optimizing your website. Don't miss out on maximizing your potential - click here now!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
