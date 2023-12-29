@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T00:57:23.273Z</updated>
+    <updated>2023-12-29T00:48:53.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -272,46 +272,6 @@
         <link href="https://leafymate.com/resources/cannabis-business/creating-engaging-content-for-dispensary-marketing-campaigns"/>
         <updated>2023-11-29T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Boost your dispensary marketing campaigns with captivating content that attracts more customers. Learn the secrets to creating engaging content for successful campaigns. Don't miss out, click here now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Increasing Organic Traffic For Dispensaries With SEO]]></title>
-        <id>https://leafymate.com/resources/?p=14745</id>
-        <link href="https://leafymate.com/resources/cannabis-business/increasing-organic-traffic-for-dispensaries-with-seo"/>
-        <updated>2023-11-28T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost your dispensary's online visibility and attract more customers with effective SEO strategies. Learn how to increase organic traffic for dispensaries today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Metrics Determine Content Marketing Success In Dispensaries?]]></title>
-        <id>https://leafymate.com/resources/?p=14744</id>
-        <link href="https://leafymate.com/resources/cannabis-business/what-metrics-determine-content-marketing-success-in-dispensaries"/>
-        <updated>2023-11-28T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the key to content marketing success in dispensaries! Learn the crucial metrics that drive results and propel your cannabis business forward. Click now for valuable insights and elevate your strategy today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 Essential SEO Tips For Marijuana Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=14739</id>
-        <link href="https://leafymate.com/resources/cannabis-business/seo-tips-for-marijuana-dispensaries"/>
-        <updated>2023-11-28T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Improve your marijuana dispensary's visibility and grow your business with these 11 essential SEO tips. Don't miss out on maximizing your online presence - click here to boost your SEO today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Measure ROI Of Content Marketing For Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=14743</id>
-        <link href="https://leafymate.com/resources/cannabis-business/how-to-measure-roi-of-content-marketing-for-dispensaries"/>
-        <updated>2023-11-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to measure the ROI of your dispensary's content marketing efforts and boost profits. Don't miss out on maximizing success - click now for essential tips!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
