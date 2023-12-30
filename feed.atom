@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T00:48:53.029Z</updated>
+    <updated>2023-12-30T00:57:02.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -242,36 +242,6 @@
         <link href="https://leafymate.com/resources/cannabis-business/optimizing-dispensary-websites-for-search-engines"/>
         <updated>2023-11-30T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Boost your dispensary's online visibility and attract more customers by optimizing your website for search engines. Learn expert tips to optimize dispensary websites for search engines now and click to improve your online presence!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Influencer Marketing For Content Promotion In Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=14758</id>
-        <link href="https://leafymate.com/resources/cannabis-business/using-influencer-marketing-for-content-promotion-in-dispensaries"/>
-        <updated>2023-11-29T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the full potential of your dispensary's content promotion by harnessing the power of influencer marketing. Learn how to skyrocket your reach and engage with your audience today! Don't miss out, click here for the ultimate guide on using influencer marketing for content promotion in dispensaries.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boosting Dispensary Sales: A Content Marketing Guide]]></title>
-        <id>https://leafymate.com/resources/?p=14757</id>
-        <link href="https://leafymate.com/resources/cannabis-business/dispensary-content-marketing-guide"/>
-        <updated>2023-11-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost your dispensary sales and attract more customers with our comprehensive Content Marketing Guide. Learn effective strategies to boost your business today! Click now for the ultimate Dispensary Content Marketing Guide.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Engaging Content For Dispensary Marketing Campaigns]]></title>
-        <id>https://leafymate.com/resources/?p=14746</id>
-        <link href="https://leafymate.com/resources/cannabis-business/creating-engaging-content-for-dispensary-marketing-campaigns"/>
-        <updated>2023-11-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost your dispensary marketing campaigns with captivating content that attracts more customers. Learn the secrets to creating engaging content for successful campaigns. Don't miss out, click here now!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
