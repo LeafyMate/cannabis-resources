@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T01:00:41.050Z</updated>
+    <updated>2024-01-11T01:00:50.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is The Impact Of Social Media On Dispensary Event Marketing?]]></title>
+        <id>https://leafymate.com/resources/?p=15003</id>
+        <link href="https://leafymate.com/resources/cannabis-business/impact-of-social-media-on-dispensary-event-marketing"/>
+        <updated>2024-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the game-changing impact of social media on dispensary event marketing. Maximize attendance and connect with your target audience using these powerful strategies. Don't miss out – click here to revolutionize your event marketing today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Online Directories For Dispensary Marketing]]></title>
+        <id>https://leafymate.com/resources/?p=15001</id>
+        <link href="https://leafymate.com/resources/cannabis-business/best-online-directories-for-dispensary-marketing"/>
+        <updated>2024-01-10T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking to boost your dispensary's marketing efforts? Check out these top online directories for dispensary marketing and drive more traffic to your business. Grow your business today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are The Best Strategies For Dispensary Listings?]]></title>
+        <id>https://leafymate.com/resources/?p=14998</id>
+        <link href="https://leafymate.com/resources/cannabis-business/what-are-the-best-strategies-for-dispensary-listings"/>
+        <updated>2024-01-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Boost your dispensary's visibility and sales with these top strategies for optimizing your listings. Discover the best techniques to drive more traffic to your cannabis business today! Take action now and maximize your online presence.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover The Best Cannabis Review Sites For Dispensary Marketing]]></title>
+        <id>https://leafymate.com/resources/?p=14997</id>
+        <link href="https://leafymate.com/resources/cannabis-business/best-cannabis-review-sites-for-dispensary-marketing"/>
+        <updated>2024-01-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking to boost your dispensary marketing? Discover the best cannabis review sites that will take your business to new heights! Find out where to thrive today.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Are Online Review Sites Essential For Improving Local Search Rankings?]]></title>
+        <id>https://leafymate.com/resources/?p=14995</id>
+        <link href="https://leafymate.com/resources/cannabis-business/why-are-online-review-sites-essential"/>
+        <updated>2024-01-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Boost your local search rankings with online review sites! Learn the secrets to attracting more customers and dominating your competition. Click now for essential tips!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastering Dispensary Reputation With Online Directories]]></title>
         <id>https://leafymate.com/resources/?p=14992</id>
@@ -434,36 +484,6 @@
         <summary type="html"><![CDATA[Unlock the power of authentic connections and boost your dispensary marketing with our guide on nurturing lasting influencer relationships. Learn how to build strong partnerships that drive results. Click here to start connecting today!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating A Standout Cannabis Dispensary Brand]]></title>
-        <id>https://leafymate.com/resources/?p=14899</id>
-        <link href="https://leafymate.com/resources/cannabis-business/creating-a-standout-cannabis-dispensary-brand"/>
-        <updated>2023-12-11T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the key to a remarkable cannabis dispensary brand that sets you apart. Learn how to create an unforgettable experience for your customers and dominate the competition. Click now and elevate your business!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Tips For Email Subject Lines In Dispensary Marketing]]></title>
-        <id>https://leafymate.com/resources/?p=14891</id>
-        <link href="https://leafymate.com/resources/cannabis-business/email-subject-lines-in-dispensary-marketing"/>
-        <updated>2023-12-11T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost your dispensary marketing campaigns with these top tips for crafting click-worthy email subject lines. Increase open rates and engage your audience today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Should Dispensaries Use Personalization In Email Marketing?]]></title>
-        <id>https://leafymate.com/resources/?p=14889</id>
-        <link href="https://leafymate.com/resources/cannabis-business/why-should-dispensaries-use-personalization-in-email-marketing"/>
-        <updated>2023-12-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost sales and customer loyalty for your dispensary with personalized email marketing! Learn why personalization is a game-changer and click here to find out how it can help you grow your business.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
         </author>
     </entry>
 </feed>
