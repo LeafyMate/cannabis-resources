@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T01:00:02.116Z</updated>
+    <updated>2024-01-21T01:05:31.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -574,26 +574,6 @@
         <summary type="html"><![CDATA[Enhance your dispensary brand identity with these 10 top social media strategies! Optimize your online presence, stand out from the competition, and click now to take your business to the next level.]]></summary>
         <author>
             <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring The Most Popular Hybrid Marijuana Strains]]></title>
-        <id>https://leafymate.com/resources/?p=15433</id>
-        <link href="https://leafymate.com/resources/cannabis-101/popular-hybrid-strains"/>
-        <updated>2023-12-21T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the top hybrid marijuana strains revolutionizing the cannabis scene. Elevate your experience with these popular hybrids and ignite your curiosity now! Click to explore the ultimate high.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cannabis Edibles For Pain Relief]]></title>
-        <id>https://leafymate.com/resources/?p=15429</id>
-        <link href="https://leafymate.com/resources/health/edibles-for-pain-relief"/>
-        <updated>2023-12-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tired of living with pain? Indulge in cannabis edibles for ultimate relief! Experience the mouthwatering way to alleviate discomfort and embrace a blissful, pain-free lifestyle. Click now for your tastiest solution!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
         </author>
     </entry>
 </feed>
