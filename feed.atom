@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T01:03:35.014Z</updated>
+    <updated>2024-01-23T01:02:06.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding A Quarter Ounce Of Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=16253</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-a-quarter-ounce"/>
+        <updated>2024-01-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash the power of a quarter ounce of cannabis! Learn all about strains, dos and don'ts, and expert tips to elevate your marijuana experience. Click now for enlightenment and take your marijuana game to new heights.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tips For Growing Cannabis In A Legalized Market]]></title>
         <id>https://leafymate.com/resources/?p=16301</id>
