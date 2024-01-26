@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T01:02:08.732Z</updated>
+    <updated>2024-01-26T00:57:07.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Explore The Top-Rated Cannabis Shops]]></title>
+        <id>https://leafymate.com/resources/?p=15706</id>
+        <link href="https://leafymate.com/resources/cannabis-101/top-rated-cannabis-shops"/>
+        <updated>2024-01-26T00:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for the best cannabis shops? Explore our top-rated selections and find your perfect strain today. Don't miss out on the ultimate shopping experience - start exploring now!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Strains Of Purple Weed]]></title>
+        <id>https://leafymate.com/resources/?p=16874</id>
+        <link href="https://leafymate.com/resources/growing/strains-of-purple-weed"/>
+        <updated>2024-01-26T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the Secret to Purple Paradise with the Best Strains of Purple Weed. Experience mind-blowing highs and intense flavors. Don't miss out, explore now!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buying An Eighth Of Cannabis: What You Need To Know]]></title>
+        <id>https://leafymate.com/resources/?p=16264</id>
+        <link href="https://leafymate.com/resources/cannabis-business/buying-an-eighth"/>
+        <updated>2024-01-25T23:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready to buy an eighth of cannabis? Uncover the ultimate guide to strain selection, pricing, and more. Become an expert with our insider tips today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which Cannabis Is Good]]></title>
+        <id>https://leafymate.com/resources/?p=16880</id>
+        <link href="https://leafymate.com/resources/cannabis-101/which-cannabis-is-good"/>
+        <updated>2024-01-25T17:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Find the perfect cannabis strain for your needs! From relaxation to creativity, discover which cannabis is good for you. Click now and unlock your ideal experience with the best fit strain!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding A Quarter Ounce Of Cannabis]]></title>
         <id>https://leafymate.com/resources/?p=16253</id>
