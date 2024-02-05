@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T01:00:27.901Z</updated>
+    <updated>2024-02-05T00:58:11.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cannabis Harvesting Guide: When And How To Harvest Your Plants]]></title>
+        <id>https://leafymate.com/resources/?p=15447</id>
+        <link href="https://leafymate.com/resources/growing/cannabis-harvesting-guide"/>
+        <updated>2024-02-04T23:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss out on the secrets to a successful cannabis harvest! Our comprehensive guide will teach you when and how to harvest your plants for maximum potency and yield. Click here to become a pro at cannabis harvesting today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannabis Nutrients: Essential Elements For Healthy Plant Growth]]></title>
+        <id>https://leafymate.com/resources/?p=15444</id>
+        <link href="https://leafymate.com/resources/growing/cannabis-nutrients"/>
+        <updated>2024-02-04T23:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secret to healthy cannabis plants with essential nutrients! Learn expert tips and tricks for optimal growth and click now for a healthier harvest.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannabis Pruning Techniques: Enhancing Yield And Plant Health]]></title>
+        <id>https://leafymate.com/resources/?p=15445</id>
+        <link href="https://leafymate.com/resources/growing/cannabis-pruning-techniques"/>
+        <updated>2024-02-04T21:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the secret to higher cannabis yields and healthier plants with expert pruning techniques. Unleash your plant's full potential today and start reaping the rewards! Click here to learn more.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Effects Of Cannabis Consumption On Driving]]></title>
+        <id>https://leafymate.com/resources/?p=15679</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-consumption-and-driving"/>
+        <updated>2024-02-04T20:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Hazards: Learn how cannabis affects driving skills and its alarming impact on road safety. Click here to stay informed and protect yourself from potential accidents caused by marijuana consumption while driving.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Step-by-Step Guide To The Licensing Process For Marijuana Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=15680</id>
+        <link href="https://leafymate.com/resources/cannabis-business/licensing-process-for-dispensaries"/>
+        <updated>2024-02-04T20:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to successfully navigate the licensing process for marijuana dispensaries with our step-by-step guide. Start cashing in on this lucrative industry today! Click here to learn more.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Cannabis Consumption Can Impact Your Fitness Routine]]></title>
+        <id>https://leafymate.com/resources/?p=15681</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-consumption-and-fitness"/>
+        <updated>2024-02-04T20:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Enhance your fitness routine with cannabis consumption! Discover how incorporating cannabis can elevate your workouts and help you achieve your fitness goals. Click here to unlock the secret to a more enjoyable and effective fitness journey.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CBD Vs THC: A Comprehensive Guide To Understanding The Difference]]></title>
+        <id>https://leafymate.com/resources/?p=15678</id>
+        <link href="https://leafymate.com/resources/cbd/cbd-vs-thc-understanding-the-difference"/>
+        <updated>2024-02-04T17:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets of CBD and THC with our comprehensive guide! Learn the key differences between these cannabis compounds, make informed choices, and click now for a better understanding.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannabis Drying And Curing: Best Practices For Quality Buds]]></title>
+        <id>https://leafymate.com/resources/?p=15446</id>
+        <link href="https://leafymate.com/resources/growing/cannabis-drying-and-curing"/>
+        <updated>2024-02-04T16:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn the best practices for drying and curing cannabis to produce top-quality buds! Our expert tips and tricks will help you achieve the perfect marijuana harvest. Don't miss out on this valuable information, click now to optimize your cannabis drying and curing process!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hydroponic Cannabis Growing: A Guide For Beginners]]></title>
         <id>https://leafymate.com/resources/?p=15442</id>
@@ -784,56 +864,6 @@
         <summary type="html"><![CDATA[Unleash your dispensary's potential with a unique brand that sets you apart from the competition. Learn how to craft a standout identity and dominate the market today! Click here to discover the secrets behind creating a one-of-a-kind dispensary brand that outshines competitors.]]></summary>
         <author>
             <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 Essential Elements Of Dispensary Brand Storytelling]]></title>
-        <id>https://leafymate.com/resources/?p=14952</id>
-        <link href="https://leafymate.com/resources/cannabis-business/essential-elements-of-dispensary-brand-storytelling"/>
-        <updated>2024-01-06T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to create a captivating brand story for your dispensary with these 9 essential elements. Click now and leave your customers wanting more!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top SEO Tips For Dispensary Websites]]></title>
-        <id>https://leafymate.com/resources/?p=14950</id>
-        <link href="https://leafymate.com/resources/cannabis-business/top-seo-tips-for-dispensary-websites"/>
-        <updated>2024-01-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Improve your dispensary's online presence with these must-know SEO tips for your website. Drive more organic traffic and conquer the search rankings. Don't wait, click now to optimize your dispensary website for success!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An Effective Email Marketing Campaign For Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=14949</id>
-        <link href="https://leafymate.com/resources/cannabis-business/how-to-build-an-effective-email-marketing-campaign-for-dispensaries"/>
-        <updated>2024-01-05T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost sales and engage customers with our expert tips on building an effective email marketing campaign for dispensaries. Click now to learn how to create a successful campaign and drive results!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are The Best SEO Techniques For Cannabis Businesses?]]></title>
-        <id>https://leafymate.com/resources/?p=14946</id>
-        <link href="https://leafymate.com/resources/cannabis-business/best-seo-techniques-for-cannabis-businesses"/>
-        <updated>2024-01-05T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost your online visibility and dominate the cannabis market with these expert SEO techniques! Learn how to drive more traffic and increase your business's success today. Don't miss out - click here for the best SEO tips now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Best Strategies To Drive Organic Traffic For Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=14944</id>
-        <link href="https://leafymate.com/resources/cannabis-business/strategies-to-drive-organic-traffic-for-dispensaries"/>
-        <updated>2024-01-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking to boost your dispensary's organic traffic? Check out these 8 powerful strategies that will help you increase visibility, attract more customers, and dominate the competition. Don't miss out, click now and start driving more organic traffic to your dispensary today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
         </author>
     </entry>
 </feed>
