@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T00:58:11.866Z</updated>
+    <updated>2024-02-06T00:56:18.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Navigating Zoning Laws For Marijuana Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=15686</id>
+        <link href="https://leafymate.com/resources/cannabis-business/zoning-laws-for-dispensaries"/>
+        <updated>2024-02-05T20:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the path to a successful marijuana dispensary with our expert guidance on navigating zoning laws for dispensaries. Avoid costly mistakes and click now for invaluable advice!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding The Legal Requirements For Marijuana Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=15684</id>
+        <link href="https://leafymate.com/resources/cannabis-business/legal-requirements-for-dispensaries"/>
+        <updated>2024-02-05T20:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Stay compliant and thrive in the booming marijuana industry by understanding the legal requirements for dispensaries. Click here to unlock the secrets and ensure your success today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Beginner-Friendly Marijuana Strains]]></title>
+        <id>https://leafymate.com/resources/?p=15692</id>
+        <link href="https://leafymate.com/resources/cannabis-101/beginner-friendly-strains"/>
+        <updated>2024-02-05T18:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready to start your cannabis journey? Check out our guide to beginner-friendly marijuana strains for mellow highs and soothing effects. Find the perfect strain and begin your adventure today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complying With Age Restrictions For Marijuana Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=15693</id>
+        <link href="https://leafymate.com/resources/cannabis-business/age-restrictions-for-dispensaries"/>
+        <updated>2024-02-05T17:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to navigate age restrictions at marijuana dispensaries and ensure compliance. Click now to discover the essential guide and create a seamless experience for customers and businesses alike!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Packaging And Labeling Regulations For Marijuana Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=15689</id>
+        <link href="https://leafymate.com/resources/cannabis-business/packaging-and-labeling-regulations"/>
+        <updated>2024-02-05T17:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Stay compliant with marijuana dispensary packaging and labeling regulations. Learn how to elevate your business with expert insights. Click now for the essential guide!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complying With Advertising Restrictions For Marijuana Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=15688</id>
+        <link href="https://leafymate.com/resources/cannabis-business/advertising-restrictions-for-dispensaries"/>
+        <updated>2024-02-05T16:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Navigate advertising restrictions for marijuana dispensaries and effectively reach your target audience. Learn how to comply and optimize your marketing efforts now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Taxation Rules For Marijuana Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=15694</id>
+        <link href="https://leafymate.com/resources/cannabis-business/taxation-rules-for-dispensaries"/>
+        <updated>2024-02-05T15:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to navigate taxation rules for marijuana dispensaries and maximize your profits. Don't let taxes bog you down! Click here to unlock the secrets and boost your dispensary's success today.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensuring Compliance With Security Requirements For Marijuana Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=15687</id>
+        <link href="https://leafymate.com/resources/cannabis-business/security-requirements-for-dispensaries"/>
+        <updated>2024-02-05T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Ensure Compliance and Security for Marijuana Dispensaries: Learn the vital steps to keep your dispensary secure and meet industry regulations. Don't risk it, click now to safeguard your business!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cannabis Harvesting Guide: When And How To Harvest Your Plants]]></title>
         <id>https://leafymate.com/resources/?p=15447</id>
@@ -824,46 +904,6 @@
         <summary type="html"><![CDATA[Learn how to skyrocket your cannabis dispensary sales with these expert email marketing tips. Don't miss out on boosting engagement and increasing revenue – click here now!]]></summary>
         <author>
             <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Effective Strategies For Finding Dispensary Marketing Influencers?]]></title>
-        <id>https://leafymate.com/resources/?p=14953</id>
-        <link href="https://leafymate.com/resources/cannabis-business/effective-strategies-for-finding-dispensary-marketing-influencers"/>
-        <updated>2024-01-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost your cannabis business and drive more traffic by discovering the secret to finding dispensary marketing influencers. Click now for effective strategies that will skyrocket your success!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13 Innovative Strategies For Cannabis Branding Success]]></title>
-        <id>https://leafymate.com/resources/?p=14909</id>
-        <link href="https://leafymate.com/resources/cannabis-business/strategies-for-cannabis-branding-success"/>
-        <updated>2024-01-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash your cannabis brand's success with these 13 innovative strategies! Stay ahead of the competition and elevate your business. Click now to discover game-changing strategies for cannabis branding success.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Best Branding Strategies For Building Trust With Cannabis Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=14906</id>
-        <link href="https://leafymate.com/resources/cannabis-business/branding-strategies-for-building-trust-with-cannabis-consumers"/>
-        <updated>2024-01-06T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to win over cannabis consumers? Uncover the top 8 branding strategies that will build trust and set you apart in this booming industry. Click here to learn more!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating A Unique Dispensary Brand To Outshine Competitors]]></title>
-        <id>https://leafymate.com/resources/?p=14904</id>
-        <link href="https://leafymate.com/resources/cannabis-business/creating-a-unique-dispensary-brand-to-outshine-competitors"/>
-        <updated>2024-01-06T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash your dispensary's potential with a unique brand that sets you apart from the competition. Learn how to craft a standout identity and dominate the market today! Click here to discover the secrets behind creating a one-of-a-kind dispensary brand that outshines competitors.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
         </author>
     </entry>
 </feed>
