@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T00:56:37.188Z</updated>
+    <updated>2024-02-14T00:56:47.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -692,16 +692,6 @@
         <link href="https://leafymate.com/resources/cannabis-business/empowering-local-communities-through-cannabis-education"/>
         <updated>2024-01-15T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Learn how cannabis education is revolutionizing local communities, empowering individuals, and sparking real change. Click now to join the movement and make a difference in your community today!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective Local Community Outreach Strategies For Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15290</id>
-        <link href="https://leafymate.com/resources/cannabis-business/effective-local-community-outreach-strategies-for-dispensaries"/>
-        <updated>2024-01-15T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost your dispensary's presence in the community with these effective local outreach strategies. Unleash the potential of your business today and watch it thrive! Click to learn more.]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
