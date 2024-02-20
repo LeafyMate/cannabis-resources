@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T00:57:30.703Z</updated>
+    <updated>2024-02-20T00:55:23.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Choosing The Right Alarm System For Your Cannabis Store]]></title>
+        <id>https://leafymate.com/resources/?p=15721</id>
+        <link href="https://leafymate.com/resources/cannabis-business/cannabis-store-alarm-systems"/>
+        <updated>2024-02-19T21:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Protect your cannabis store with the perfect alarm system. Learn how to choose the right one and keep your business secure. Click now for expert tips!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Many Ounces Are In A Quarter Pound Of Weed]]></title>
+        <id>https://leafymate.com/resources/?p=16868</id>
+        <link href="https://leafymate.com/resources/cannabis-101/how-many-ounces-are-in-a-quarter-pound"/>
+        <updated>2024-02-19T20:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the hidden truth about how many ounces are in a quarter pound of weed. Satiate your curiosity and click to unveil the ultimate answer now!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Long Do Psychedelic Mushrooms Stay In Your System]]></title>
+        <id>https://leafymate.com/resources/?p=16866</id>
+        <link href="https://leafymate.com/resources/health/how-long-do-psychedelic-mushrooms-stay-in-your-system"/>
+        <updated>2024-02-19T20:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets of psychedelic mushrooms and learn how long they stay in your system. Discover mind-altering experiences and find answers now! Click here for all the facts.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Importance Of Dispensary Surveillance Systems]]></title>
+        <id>https://leafymate.com/resources/?p=15720</id>
+        <link href="https://leafymate.com/resources/cannabis-business/dispensary-surveillance-systems"/>
+        <updated>2024-02-19T19:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Protect your dispensary and customers with advanced surveillance systems. Learn why these systems are crucial for security and compliance. Click to find out more!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Cannabis Strains For Relaxation]]></title>
         <id>https://leafymate.com/resources/?p=15682</id>
