@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T00:55:23.005Z</updated>
+    <updated>2024-02-21T00:56:25.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Weed In Florida Legal]]></title>
+        <id>https://leafymate.com/resources/?p=16872</id>
+        <link href="https://leafymate.com/resources/cannabis-101/is-weed-in-florida-legal"/>
+        <updated>2024-02-20T23:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Curious about marijuana legality in Florida? Get the latest updates and find out if weed is finally legal in the Sunshine State. Click here to uncover the truth!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Get Rid Of Weed Smell]]></title>
+        <id>https://leafymate.com/resources/?p=16876</id>
+        <link href="https://leafymate.com/resources/lifestyle/how-to-get-rid-of-weed-smell"/>
+        <updated>2024-02-20T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Tired of the lingering smell of weed? Learn how to banish it for good with these foolproof tips. Say goodbye to odors and hello to a fresh, clean space! Click here for the ultimate guide on how to get rid of weed smell.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Many Grams In A Pound Of Weed]]></title>
+        <id>https://leafymate.com/resources/?p=16870</id>
+        <link href="https://leafymate.com/resources/cannabis-101/how-many-grams-in-a-pound-of-weed"/>
+        <updated>2024-02-20T19:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Mystery: How Many Grams in a Pound of Weed? Find out now and satisfy your curiosity with this eye-opening article. Get ready to be amazed!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Essential Tips For Successful Indoor Cannabis Growing]]></title>
+        <id>https://leafymate.com/resources/?p=16963</id>
+        <link href="https://leafymate.com/resources/growing/indoor-growing-tips"/>
+        <updated>2024-02-20T18:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to grow cannabis indoors like a pro? Unlock the secrets to success with these essential indoor growing tips. Click now for expert advice and start cultivating your own thriving plants today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Choosing The Right Alarm System For Your Cannabis Store]]></title>
         <id>https://leafymate.com/resources/?p=15721</id>
@@ -654,16 +694,6 @@
         <summary type="html"><![CDATA[Find the perfect cannabis strain for your needs! From relaxation to creativity, discover which cannabis is good for you. Click now and unlock your ideal experience with the best fit strain!]]></summary>
         <author>
             <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding A Quarter Ounce Of Cannabis]]></title>
-        <id>https://leafymate.com/resources/?p=16253</id>
-        <link href="https://leafymate.com/resources/cannabis-101/what-is-a-quarter-ounce"/>
-        <updated>2024-01-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the power of a quarter ounce of cannabis! Learn all about strains, dos and don'ts, and expert tips to elevate your marijuana experience. Click now for enlightenment and take your marijuana game to new heights.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
         </author>
     </entry>
 </feed>
