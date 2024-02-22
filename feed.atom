@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T00:56:25.344Z</updated>
+    <updated>2024-02-22T00:55:37.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Smoke Moon Rock]]></title>
+        <id>https://leafymate.com/resources/?p=16878</id>
+        <link href="https://leafymate.com/resources/lifestyle/how-to-smoke-moon-rock"/>
+        <updated>2024-02-21T23:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the ultimate high with our expert guide on how to smoke moon rock like a pro! Elevate your experience and blast off into a mind-blowing journey. Click here to unlock the secrets now!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Creativity: Exploring Popular Marijuana Strains For Enhanced Inspiration]]></title>
+        <id>https://leafymate.com/resources/?p=15437</id>
+        <link href="https://leafymate.com/resources/lifestyle/popular-strains-for-creativity"/>
+        <updated>2024-02-21T21:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash your artistic potential and unlock creativity with popular marijuana strains. Explore the perfect strain for enhanced imagination and discover the key to inspired inspiration. Click now to find your creative muse!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Cannabis Leaves Turn Purple]]></title>
+        <id>https://leafymate.com/resources/?p=16882</id>
+        <link href="https://leafymate.com/resources/growing/when-cannabis-leaves-turn-purple"/>
+        <updated>2024-02-21T13:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Mystique: Learn why cannabis leaves turn purple and uncover their hidden benefits. Click now to delve into the mesmerizing world of purple cannabis leaves and unlock nature's secrets!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Weed In Florida Legal]]></title>
         <id>https://leafymate.com/resources/?p=16872</id>
