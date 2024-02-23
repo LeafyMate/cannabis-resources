@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T00:55:37.259Z</updated>
+    <updated>2024-02-23T00:55:17.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Who Smoked Cannabis First]]></title>
+        <id>https://leafymate.com/resources/?p=16888</id>
+        <link href="https://leafymate.com/resources/cannabis-101/who-smoked-cannabis-first"/>
+        <updated>2024-02-22T23:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the Untold Story: Who Smoked Cannabis First? Unravel the fascinating journey of the original cannabis pioneer and be amazed! Click now to find out who paved the way for this ancient tradition.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Cannabis Leaves Curl Up]]></title>
+        <id>https://leafymate.com/resources/?p=16886</id>
+        <link href="https://leafymate.com/resources/growing/when-cannabis-leaves-curl-up"/>
+        <updated>2024-02-22T19:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Stop worrying about curled cannabis leaves! Find out the secret to keeping your plants thriving in our essential guide. Learn why leaves curl up and how to prevent it. Click here for expert tips!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Early Signs Of Female Cannabis Plant]]></title>
+        <id>https://leafymate.com/resources/?p=16890</id>
+        <link href="https://leafymate.com/resources/growing/early-signs-of-female-plant"/>
+        <updated>2024-02-22T18:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the mystery of female cannabis plants with these early signs. Ensure a bountiful harvest by knowing the key indicators. Don't miss out on maximizing your yield - click here to learn more!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Cannabis Leaves Turn Yellow]]></title>
+        <id>https://leafymate.com/resources/?p=16884</id>
+        <link href="https://leafymate.com/resources/growing/when-cannabis-leaves-turn-yellow"/>
+        <updated>2024-02-22T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Is your cannabis plant turning yellow? Find out the surprising reasons behind it and learn how to keep your plants thriving. Don't let them suffer - click here for expert tips now!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different Methods Of Consuming Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=15683</id>
+        <link href="https://leafymate.com/resources/cannabis-101/cannabis-consumption-methods-2"/>
+        <updated>2024-02-22T00:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the most innovative methods of cannabis consumption, from edibles to vaping. Find your perfect high today and learn all about the best ways to consume cannabis! Click now for a higher experience like never before.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Smoke Moon Rock]]></title>
         <id>https://leafymate.com/resources/?p=16878</id>
