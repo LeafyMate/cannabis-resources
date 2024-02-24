@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T00:55:17.577Z</updated>
+    <updated>2024-02-24T00:53:47.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Climate Considerations For Outdoor Cannabis Cultivation]]></title>
+        <id>https://leafymate.com/resources/?p=16959</id>
+        <link href="https://leafymate.com/resources/growing/climate-considerations"/>
+        <updated>2024-02-23T15:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the key to thriving outdoor cannabis cultivation by understanding climate considerations. Gain expert insights that guarantee a bountiful harvest. Click now and cultivate your success!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Cannabis Strains For Outdoor Cultivation]]></title>
+        <id>https://leafymate.com/resources/?p=16961</id>
+        <link href="https://leafymate.com/resources/growing/best-cannabis-strains"/>
+        <updated>2024-02-23T15:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking to grow cannabis outdoors? Check out our guide to the best cannabis strains for outdoor cultivation. From high yields to amazing flavors, find your perfect strain today! Click here and start your outdoor growing journey now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best LED Grow Lights For Indoor Cannabis Growing]]></title>
+        <id>https://leafymate.com/resources/?p=16957</id>
+        <link href="https://leafymate.com/resources/growing/best-led-grow-lights"/>
+        <updated>2024-02-23T15:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking to maximize your indoor cannabis yields? Check out our expert recommendations for the best LED grow lights. Click now and start growing like a pro!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Essential Tips For Outdoor Cannabis Cultivation]]></title>
+        <id>https://leafymate.com/resources/?p=16955</id>
+        <link href="https://leafymate.com/resources/growing/cannabis-cultivation-tips"/>
+        <updated>2024-02-23T13:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Master the art of outdoor cannabis cultivation with these essential tips! Learn how to choose the right strains and optimize growth for a bountiful harvest. Elevate your green thumb game now and start growing your own cannabis garden today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who Smoked Cannabis First]]></title>
         <id>https://leafymate.com/resources/?p=16888</id>
