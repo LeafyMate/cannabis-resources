@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T00:57:12.013Z</updated>
+    <updated>2024-02-27T00:55:17.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring Cannabis Tourism As A Strategy For Business Expansion]]></title>
+        <id>https://leafymate.com/resources/?p=17011</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-tourism"/>
+        <updated>2024-02-26T21:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the hidden opportunities of cannabis tourism and elevate your business with this eye-opening exploration. Dive into the world of cannabis tourism today and see your profits soar!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tapping Into The Health And Wellness Market For Cannabis Business Expansion]]></title>
+        <id>https://leafymate.com/resources/?p=17009</id>
+        <link href="https://leafymate.com/resources/health/health-and-wellness-market"/>
+        <updated>2024-02-26T18:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Tap into the lucrative health and wellness market with cannabis and skyrocket your business growth. Learn how to seize new opportunities in this booming industry and reach new heights today! Click now for expert insights and start your journey to success.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Navigating Compliance And Regulations For Cannabis Business Expansion]]></title>
         <id>https://leafymate.com/resources/?p=17007</id>
