@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T00:55:17.441Z</updated>
+    <updated>2024-02-28T00:55:22.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Implementing Sustainable Practices For Cannabis Business Expansion]]></title>
+        <id>https://leafymate.com/resources/?p=17013</id>
+        <link href="https://leafymate.com/resources/environmental-sustainability/sustainable-practices"/>
+        <updated>2024-02-28T00:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Maximize Growth and Minimize Impact: Implement Sustainable Practices for Cannabis Business Expansion. Discover the key strategies to thrive in the industry while minimizing your environmental footprint. Click here to learn more and start implementing sustainable practices today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Promoting Environmental Sustainability In Outdoor Cannabis Cultivation]]></title>
+        <id>https://leafymate.com/resources/?p=16949</id>
+        <link href="https://leafymate.com/resources/environmental-sustainability/sustainable-outdoor-cultivation"/>
+        <updated>2024-02-27T23:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to cultivate cannabis sustainably outdoors and reduce your environmental footprint. Discover eco-friendly tips and practices for sustainable outdoor cultivation. Click now to promote environmental sustainability in outdoor cannabis cultivation!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different Techniques For Outdoor Cannabis Growing]]></title>
+        <id>https://leafymate.com/resources/?p=16951</id>
+        <link href="https://leafymate.com/resources/growing/outdoor-cannabis-growing-techniques"/>
+        <updated>2024-02-27T16:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets to thriving outdoor cannabis cultivation! From innovative techniques to maximizing yields, learn how to grow your own plants with our expert tips. Start your journey towards a bountiful harvest today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Cannabis Cultivation Laws For Outdoor Growers]]></title>
+        <id>https://leafymate.com/resources/?p=16953</id>
+        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-cultivation-laws"/>
+        <updated>2024-02-27T15:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the key to thriving as an outdoor cannabis grower with expert tips on navigating cultivation laws. Maximize your harvest and stay compliant – click now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring Cannabis Tourism As A Strategy For Business Expansion]]></title>
         <id>https://leafymate.com/resources/?p=17011</id>
