@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T00:55:24.760Z</updated>
+    <updated>2024-03-01T01:01:15.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Proper Cannabis Waste Disposal Methods]]></title>
+        <id>https://leafymate.com/resources/?p=17019</id>
+        <link href="https://leafymate.com/resources/environmental-sustainability/cannabis-waste-disposal"/>
+        <updated>2024-02-29T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover eco-friendly methods to properly dispose of cannabis waste and keep your stash—and the planet—safe. Learn more now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Parenthood: Cannabis And Parenting]]></title>
+        <id>https://leafymate.com/resources/?p=18363</id>
+        <link href="https://leafymate.com/resources/parenting-and-cannabis/cannabis-and-parenting-2"/>
+        <updated>2024-02-29T18:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the truth about cannabis and parenting - find out how to make informed decisions for your family in this controversial world. Click now and navigate parenthood with confidence.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innovation In Cannabis Marketing: Success Stories]]></title>
+        <id>https://leafymate.com/resources/?p=17021</id>
+        <link href="https://leafymate.com/resources/cannabis-business/innovative-cannabis-marketing"/>
+        <updated>2024-02-29T14:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Secrets of Innovative Cannabis Marketing: Learn from Game-Changers and Ignite Your Success! Click now for inspiration and revolutionize your strategy in this groundbreaking industry.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannabis And Sports Performance: Enhancing Athletic Abilities]]></title>
+        <id>https://leafymate.com/resources/?p=17017</id>
+        <link href="https://leafymate.com/resources/sports-and-fitness/cannabis-and-sports-performance"/>
+        <updated>2024-02-29T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash your athletic potential with cannabis! Learn how it can enhance sports performance and take you to new heights. Click now to unlock your true abilities on the field or court!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emerging Cannabis Startups In Europe]]></title>
         <id>https://leafymate.com/resources/?p=16981</id>
