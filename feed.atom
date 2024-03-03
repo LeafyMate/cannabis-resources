@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T00:54:38.089Z</updated>
+    <updated>2024-03-03T00:58:58.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cannabis And The Environment: Promoting Sustainability In The Industry]]></title>
+        <id>https://leafymate.com/resources/?p=17033</id>
+        <link href="https://leafymate.com/resources/environmental-sustainability/cannabis-sustainability-initiatives"/>
+        <updated>2024-03-02T20:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how the cannabis industry is going green and promoting sustainability through innovative initiatives. Explore the positive impact of cannabis on the environment and join the movement today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advancing CBD Health Research: The Importance Of Cannabis Businesses’ Involvement]]></title>
+        <id>https://leafymate.com/resources/?p=17037</id>
+        <link href="https://leafymate.com/resources/health/cbd-health-research"/>
+        <updated>2024-03-02T17:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the groundbreaking collaboration between cannabis businesses and CBD health research, and learn why their involvement is crucial. Click now to unravel the secrets behind advancing CBD health research!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giving Back: How Cannabis Businesses Engage In Philanthropy]]></title>
+        <id>https://leafymate.com/resources/?p=17035</id>
+        <link href="https://leafymate.com/resources/cannabis-business/cannabis-business-philanthropy"/>
+        <updated>2024-03-02T17:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how cannabis businesses are giving back through philanthropy, making a positive impact on communities. Be inspired by their initiatives and find out how you can get involved! Click here to discover more about cannabis business philanthropy.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharing Knowledge: How Cannabis Industry Mentoring Programs Foster Growth]]></title>
+        <id>https://leafymate.com/resources/?p=17039</id>
+        <link href="https://leafymate.com/resources/industry/cannabis-industry-mentoring"/>
+        <updated>2024-03-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash your potential and cultivate success in the cannabis industry with our revolutionary mentoring programs! Discover how these programs are fostering growth and click here to learn more.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emerging Trends In Cannabis Packaging]]></title>
         <id>https://leafymate.com/resources/?p=17029</id>
@@ -872,86 +912,6 @@
         <link href="https://leafymate.com/resources/health/cannabis-dispensary-health-benefits"/>
         <updated>2024-02-02T14:39:00.000Z</updated>
         <summary type="html"><![CDATA[Experience the incredible health benefits of cannabis dispensaries! Learn how these natural wonders can enhance your well-being and unlock a healthier you. Click now to discover the secrets within!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visit Cannabis Dispensaries Near Popular Tourist Attractions]]></title>
-        <id>https://leafymate.com/resources/?p=15425</id>
-        <link href="https://leafymate.com/resources/lifestyle/cannabis-dispensaries-near-tourist-attractions"/>
-        <updated>2024-02-01T20:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for cannabis dispensaries near popular tourist attractions? Our guide has got you covered! Unwind and explore with ease - click here to find the best spots and plan your next adventure now!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring The Latest Trends In Cannabis Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15424</id>
-        <link href="https://leafymate.com/resources/industry/cannabis-dispensary-trends"/>
-        <updated>2024-02-01T20:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore the latest trends in cannabis dispensaries, from innovative products to stylish aesthetics. Discover the cutting-edge world of marijuana retail and stay ahead of the curve. Click here to uncover the hottest cannabis dispensary trends now!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Effective Local Dispensary Outreach Events]]></title>
-        <id>https://leafymate.com/resources/?p=15401</id>
-        <link href="https://leafymate.com/resources/cannabis-business/how-to-organize-effective-local-dispensary-outreach-events"/>
-        <updated>2024-02-01T20:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn the step-by-step process to host engaging local dispensary outreach events that will skyrocket your customer base. Start driving more foot traffic to your dispensary today!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Promoting Social Equity Through Cannabis Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15422</id>
-        <link href="https://leafymate.com/resources/industry/cannabis-dispensaries-and-social-equity"/>
-        <updated>2024-02-01T18:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlocking Social Equity: How Cannabis Dispensaries are Revolutionizing Communities. Click now to learn how these dispensaries are promoting inclusivity and take part in shaping a more equitable society!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Different Grow Mediums For Indoor Cannabis Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=16971</id>
-        <link href="https://leafymate.com/resources/growing/cannabis-grow-mediums"/>
-        <updated>2024-02-01T18:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking to achieve the best results in your indoor cannabis cultivation? Explore a variety of grow mediums, from soil to hydroponics, and find the perfect one for your plants. Boost your yield with the right medium today!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring CBD Products At Your Local Dispensary]]></title>
-        <id>https://leafymate.com/resources/?p=15420</id>
-        <link href="https://leafymate.com/resources/cbd/cbd-dispensary-products"/>
-        <updated>2024-02-01T16:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for CBD products? Explore the wide range of CBD options at your local dispensary. Discover their benefits and find the perfect solution for you. Click now to start your CBD journey today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Effective Social Media Strategies For Local Dispensaries?]]></title>
-        <id>https://leafymate.com/resources/?p=15402</id>
-        <link href="https://leafymate.com/resources/cannabis-business/what-are-effective-social-media-strategies-for-local-dispensaries"/>
-        <updated>2024-02-01T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking to boost your local dispensary's online presence? Learn the most effective social media strategies for local dispensaries and increase sales today! Click now to discover the proven techniques.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover The Best Cannabis Dispensaries Near You]]></title>
-        <id>https://leafymate.com/resources/?p=15419</id>
-        <link href="https://leafymate.com/resources/cannabis-101/best-dispensaries-near-me-2"/>
-        <updated>2024-02-01T13:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for the best dispensaries near you? Explore top-quality cannabis products, expert staff, and an unforgettable experience. Don't miss out on finding the perfect spot - click now to discover the ultimate cannabis destination!]]></summary>
         <author>
             <name>Ayesha Aziz</name>
         </author>
