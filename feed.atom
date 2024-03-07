@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T00:56:00.433Z</updated>
+    <updated>2024-03-07T00:46:31.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elevate Your Practice: Cannabis-infused Meditation Techniques]]></title>
+        <id>https://leafymate.com/resources/?p=17061</id>
+        <link href="https://leafymate.com/resources/spirituality/cannabis-infused-meditation"/>
+        <updated>2024-03-06T22:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock deeper relaxation and self-discovery with cannabis-infused meditation. Elevate your practice today and experience ultimate mind-body harmony. Click now to explore the transformative power of cannabis-infused meditation techniques!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Healthy Cannabis Snacks: Nourishing And Delicious]]></title>
+        <id>https://leafymate.com/resources/?p=17059</id>
+        <link href="https://leafymate.com/resources/cooking-and-recipes/healthy-cannabis-snacks"/>
+        <updated>2024-03-06T22:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Indulge guilt-free with our nourishing and delicious cannabis snacks. Experience the perfect blend of health and flavor today! Click here to satisfy your cravings.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gluten-Free Cannabis Recipes: Tasty And Safe]]></title>
+        <id>https://leafymate.com/resources/?p=17063</id>
+        <link href="https://leafymate.com/resources/cooking-and-recipes/gluten-free-cannabis-recipes"/>
+        <updated>2024-03-06T17:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for gluten-free cannabis recipes? Look no further! Explore our mouthwatering and safe dishes that will elevate your cooking game. Click now to discover these delicious treats today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connecting Mind, Body, And Cannabis: Yoga Classes Near You]]></title>
+        <id>https://leafymate.com/resources/?p=17057</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-yoga-classes-near-me"/>
+        <updated>2024-03-06T15:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Elevate your yoga practice and experience ultimate relaxation with cannabis yoga classes near you. Discover the perfect balance between mind, body, and cannabis. Click now to find the best classes and start your journey today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finding Balance: Essential Cannabis Yoga Poses]]></title>
         <id>https://leafymate.com/resources/?p=17047</id>
@@ -642,86 +682,6 @@
         <link href="https://leafymate.com/resources/lifestyle/popular-strains"/>
         <updated>2024-02-06T15:25:00.000Z</updated>
         <summary type="html"><![CDATA[Ready to explore the hottest marijuana strains? Uncover the most popular strains that are captivating cannabis enthusiasts worldwide. Don't miss out on discovering these must-try favorites! Click now and elevate your cannabis experience with these popular strains.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Zoning Laws For Marijuana Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15686</id>
-        <link href="https://leafymate.com/resources/cannabis-business/zoning-laws-for-dispensaries"/>
-        <updated>2024-02-05T20:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the path to a successful marijuana dispensary with our expert guidance on navigating zoning laws for dispensaries. Avoid costly mistakes and click now for invaluable advice!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding The Legal Requirements For Marijuana Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15684</id>
-        <link href="https://leafymate.com/resources/cannabis-business/legal-requirements-for-dispensaries"/>
-        <updated>2024-02-05T20:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay compliant and thrive in the booming marijuana industry by understanding the legal requirements for dispensaries. Click here to unlock the secrets and ensure your success today!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Beginner-Friendly Marijuana Strains]]></title>
-        <id>https://leafymate.com/resources/?p=15692</id>
-        <link href="https://leafymate.com/resources/cannabis-101/beginner-friendly-strains"/>
-        <updated>2024-02-05T18:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Ready to start your cannabis journey? Check out our guide to beginner-friendly marijuana strains for mellow highs and soothing effects. Find the perfect strain and begin your adventure today!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complying With Age Restrictions For Marijuana Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15693</id>
-        <link href="https://leafymate.com/resources/cannabis-business/age-restrictions-for-dispensaries"/>
-        <updated>2024-02-05T17:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to navigate age restrictions at marijuana dispensaries and ensure compliance. Click now to discover the essential guide and create a seamless experience for customers and businesses alike!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Packaging And Labeling Regulations For Marijuana Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15689</id>
-        <link href="https://leafymate.com/resources/cannabis-business/packaging-and-labeling-regulations"/>
-        <updated>2024-02-05T17:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay compliant with marijuana dispensary packaging and labeling regulations. Learn how to elevate your business with expert insights. Click now for the essential guide!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complying With Advertising Restrictions For Marijuana Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15688</id>
-        <link href="https://leafymate.com/resources/cannabis-business/advertising-restrictions-for-dispensaries"/>
-        <updated>2024-02-05T16:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Navigate advertising restrictions for marijuana dispensaries and effectively reach your target audience. Learn how to comply and optimize your marketing efforts now!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Taxation Rules For Marijuana Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15694</id>
-        <link href="https://leafymate.com/resources/cannabis-business/taxation-rules-for-dispensaries"/>
-        <updated>2024-02-05T15:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to navigate taxation rules for marijuana dispensaries and maximize your profits. Don't let taxes bog you down! Click here to unlock the secrets and boost your dispensary's success today.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ensuring Compliance With Security Requirements For Marijuana Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15687</id>
-        <link href="https://leafymate.com/resources/cannabis-business/security-requirements-for-dispensaries"/>
-        <updated>2024-02-05T13:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Ensure Compliance and Security for Marijuana Dispensaries: Learn the vital steps to keep your dispensary secure and meet industry regulations. Don't risk it, click now to safeguard your business!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
