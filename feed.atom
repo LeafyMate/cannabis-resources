@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T00:46:31.649Z</updated>
+    <updated>2024-03-08T00:55:47.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creating Your Own Cannabis-Infused Skincare Products]]></title>
+        <id>https://leafymate.com/resources/?p=17071</id>
+        <link href="https://leafymate.com/resources/lifestyle/diy-cannabis-skincare"/>
+        <updated>2024-03-08T00:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secret to radiant skin with our guide on DIY cannabis skincare. Create your own cannabis-infused skincare products and unleash your inner glow today! Learn how now.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring The Benefits Of CBD Skincare]]></title>
+        <id>https://leafymate.com/resources/?p=17069</id>
+        <link href="https://leafymate.com/resources/health/cbd-skincare-benefits-2"/>
+        <updated>2024-03-07T23:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secret to flawless skin with CBD skincare and experience the incredible benefits for yourself. Discover how CBD can rejuvenate your complexion and click here to unlock a radiant glow today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vegan Cannabis Recipes: Plant-Based Delights]]></title>
+        <id>https://leafymate.com/resources/?p=17065</id>
+        <link href="https://leafymate.com/resources/cooking-and-recipes/vegan-cannabis-recipes"/>
+        <updated>2024-03-07T18:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for irresistible vegan cannabis recipes? Explore our collection of plant-based delights that will leave you wanting more. Click now to discover the perfect fusion of vegan cuisine and cannabis!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannabis-Infused Salad Dressings: Elevate Your Greens]]></title>
+        <id>https://leafymate.com/resources/?p=17067</id>
+        <link href="https://leafymate.com/resources/cooking-and-recipes/cannabis-infused-salad-dressings"/>
+        <updated>2024-03-07T17:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Elevate your salad game with cannabis-infused salad dressings! Discover delicious and potent recipes that will take your greens to new highs. Click now to elevate your salads with these irresistible flavors.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elevate Your Practice: Cannabis-infused Meditation Techniques]]></title>
         <id>https://leafymate.com/resources/?p=17061</id>
@@ -602,86 +642,6 @@
         <link href="https://leafymate.com/resources/lifestyle/cannabis-strains-for-relaxation"/>
         <updated>2024-02-10T00:45:00.000Z</updated>
         <summary type="html"><![CDATA[Unwind and find your perfect match with our selection of the best cannabis strains for relaxation. Click now to discover a blissful experience like never before!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking The Healing Power Of Medicinal Marijuana Strains]]></title>
-        <id>https://leafymate.com/resources/?p=15697</id>
-        <link href="https://leafymate.com/resources/health/medicinal-strains"/>
-        <updated>2024-02-06T22:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the Healing Power of Medicinal Marijuana Strains - Click Now to Discover the Natural Wellness Benefits!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stay Ahead Of The Curve: Exploring The Trending Marijuana Strains]]></title>
-        <id>https://leafymate.com/resources/?p=15696</id>
-        <link href="https://leafymate.com/resources/industry/trending-strains"/>
-        <updated>2024-02-06T20:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay ahead of the curve with our guide to the hottest trending marijuana strains. Explore the latest in cannabis cultivation and discover your new favorite strain! Click here to be in-the-know about all the buzz-worthy strains.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Comprehensive Compliance Checklist For Marijuana Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15690</id>
-        <link href="https://leafymate.com/resources/cannabis-business/dispensary-compliance-checklist"/>
-        <updated>2024-02-06T18:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay ahead of the game with our comprehensive dispensary compliance checklist. Ensure your marijuana dispensary meets all regulations and avoid penalties. Don't miss out, click now to stay compliant!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring The Best CBD Strains For Your Needs]]></title>
-        <id>https://leafymate.com/resources/?p=15698</id>
-        <link href="https://leafymate.com/resources/cbd/best-cbd-strains"/>
-        <updated>2024-02-06T16:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the incredible benefits of CBD with the best strains tailored to your needs. Discover relaxation, focus, and more – click now!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Cannabis Business Opportunities In The Growing Industry]]></title>
-        <id>https://leafymate.com/resources/?p=15685</id>
-        <link href="https://leafymate.com/resources/cannabis-business/cannabis-business-opportunities-2"/>
-        <updated>2024-02-06T16:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the hidden potential of the cannabis industry with lucrative business opportunities. Don't miss out on maximizing your success - click now to explore cannabis business opportunities and seize your chance!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing Your Creative Potential: Marijuana Strains For Creativity]]></title>
-        <id>https://leafymate.com/resources/?p=15699</id>
-        <link href="https://leafymate.com/resources/lifestyle/strains-for-creativity"/>
-        <updated>2024-02-06T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash your artistic genius with the perfect marijuana strains for creativity. Ignite your imagination and unlock your full potential today. Click now to discover mind-expanding buds that will inspire you like never before!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Testing And Quality Control Regulations For Marijuana Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15691</id>
-        <link href="https://leafymate.com/resources/cannabis-business/testing-and-quality-control-regulations"/>
-        <updated>2024-02-06T15:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn the crucial testing and quality control regulations for marijuana dispensaries to ensure your products meet the highest standards. Improve your dispensary's compliance and quality by reading now!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring The Most Popular Marijuana Strains]]></title>
-        <id>https://leafymate.com/resources/?p=15695</id>
-        <link href="https://leafymate.com/resources/lifestyle/popular-strains"/>
-        <updated>2024-02-06T15:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Ready to explore the hottest marijuana strains? Uncover the most popular strains that are captivating cannabis enthusiasts worldwide. Don't miss out on discovering these must-try favorites! Click now and elevate your cannabis experience with these popular strains.]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
