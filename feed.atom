@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-08T00:55:47.579Z</updated>
+    <updated>2024-03-09T00:53:57.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Rise Of Cannabis Tech Startups]]></title>
+        <id>https://leafymate.com/resources/?p=16989</id>
+        <link href="https://leafymate.com/resources/industry/cannabis-tech-startups"/>
+        <updated>2024-03-08T17:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Future of Cannabis: Explore the Rise of Cannabis Tech Startups and Experience the High-Tech Revolution in the Industry. Click here to discover the cutting-edge world of digital dispensaries, innovative cultivation tools, and more!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Growing Trend Of Cannabis-infused Beverages]]></title>
+        <id>https://leafymate.com/resources/?p=16987</id>
+        <link href="https://leafymate.com/resources/cooking-and-recipes/cannabis-infused-beverages-2"/>
+        <updated>2024-03-08T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the irresistible allure of cannabis-infused beverages and join the growing trend today! Experience the ultimate buzz with our captivating article on this rising phenomenon.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating Your Own Cannabis-Infused Skincare Products]]></title>
         <id>https://leafymate.com/resources/?p=17071</id>
