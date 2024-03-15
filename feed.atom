@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T00:56:08.209Z</updated>
+    <updated>2024-03-15T00:56:42.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Revitalize Your Skin With Cannabis-Infused Face Masks]]></title>
+        <id>https://leafymate.com/resources/?p=17073</id>
+        <link href="https://leafymate.com/resources/health/cannabis-infused-face-masks"/>
+        <updated>2024-03-14T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Get radiant skin with cannabis-infused face masks! Revitalize your complexion naturally and click now to discover the secret behind these powerful skincare products.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring The Benefits Of Cannabis Yoga]]></title>
+        <id>https://leafymate.com/resources/?p=17043</id>
+        <link href="https://leafymate.com/resources/sports-and-fitness/benefits-of-cannabis-yoga"/>
+        <updated>2024-03-14T15:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the ultimate relaxation and enhance your mind-body connection with cannabis yoga. Explore the incredible benefits of this unique practice and experience a new level of tranquility. Click now to discover the transformative power of cannabis yoga for yourself!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Your Flow: Best Cannabis Strains For Yoga]]></title>
+        <id>https://leafymate.com/resources/?p=17049</id>
+        <link href="https://leafymate.com/resources/health/cannabis-strains-for-yoga"/>
+        <updated>2024-03-14T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Elevate your yoga practice with the best cannabis strains designed to enhance your flow and find inner peace. Click now to discover the perfect strains for a blissful session on the mat.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diving Into The World Of Cannabis Concentrates]]></title>
+        <id>https://leafymate.com/resources/?p=17005</id>
+        <link href="https://leafymate.com/resources/cannabis-business/cannabis-concentrates"/>
+        <updated>2024-03-14T12:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets of cannabis concentrates and join the growing movement! Immerse yourself in the world of potent extracts and discover endless possibilities. Dive into the realm of cannabis concentrates now and elevate your experience!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Beginner’s Guide To Cannabis Grow Kits]]></title>
         <id>https://leafymate.com/resources/?p=16999</id>
