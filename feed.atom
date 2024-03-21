@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T00:56:01.432Z</updated>
+    <updated>2024-03-21T00:57:46.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building An Effective Cannabis Skincare Routine]]></title>
+        <id>https://leafymate.com/resources/?p=17077</id>
+        <link href="https://leafymate.com/resources/health/cannabis-skincare-routine"/>
+        <updated>2024-03-20T21:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets to flawless skin with our ultimate guide to building a cannabis skincare routine. Say goodbye to dullness and hello to radiance - start your journey today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sun, Sand, And Smoke: Discovering Cannabis-Friendly Beach Destinations]]></title>
+        <id>https://leafymate.com/resources/?p=18254</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-friendly-beaches"/>
+        <updated>2024-03-20T20:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the best cannabis-friendly beach destinations and immerse yourself in sun, sand, and smoke. Click here for the ultimate guide to elevate your beach getaway!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What To Expect During A Medical Marijuana Card Evaluation]]></title>
+        <id>https://leafymate.com/resources/?p=18258</id>
+        <link href="https://leafymate.com/resources/cannabis-101/medical-marijuana-card-evaluation-2"/>
+        <updated>2024-03-20T15:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready to get relief with medical marijuana? Learn what happens during a card evaluation and find out if you qualify. Don't wait, take control of your health today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking The Benefits Of THC Skincare Products]]></title>
+        <id>https://leafymate.com/resources/?p=17075</id>
+        <link href="https://leafymate.com/resources/health/benefits-of-thc-skincare"/>
+        <updated>2024-03-20T12:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secret to radiant skin with THC skincare products. Experience the incredible benefits and unleash your natural beauty today. Click here to discover the transformative power now!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Indulge In Luxurious Cannabis Spa Treatments]]></title>
         <id>https://leafymate.com/resources/?p=17081</id>
@@ -774,46 +814,6 @@
         <summary type="html"><![CDATA[Want to grow cannabis indoors like a pro? Unlock the secrets to success with these essential indoor growing tips. Click now for expert advice and start cultivating your own thriving plants today!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choosing The Right Alarm System For Your Cannabis Store]]></title>
-        <id>https://leafymate.com/resources/?p=15721</id>
-        <link href="https://leafymate.com/resources/cannabis-business/cannabis-store-alarm-systems"/>
-        <updated>2024-02-19T21:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Protect your cannabis store with the perfect alarm system. Learn how to choose the right one and keep your business secure. Click now for expert tips!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many Ounces Are In A Quarter Pound Of Weed]]></title>
-        <id>https://leafymate.com/resources/?p=16868</id>
-        <link href="https://leafymate.com/resources/cannabis-101/how-many-ounces-are-in-a-quarter-pound"/>
-        <updated>2024-02-19T20:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the hidden truth about how many ounces are in a quarter pound of weed. Satiate your curiosity and click to unveil the ultimate answer now!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Do Psychedelic Mushrooms Stay In Your System]]></title>
-        <id>https://leafymate.com/resources/?p=16866</id>
-        <link href="https://leafymate.com/resources/health/how-long-do-psychedelic-mushrooms-stay-in-your-system"/>
-        <updated>2024-02-19T20:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secrets of psychedelic mushrooms and learn how long they stay in your system. Discover mind-altering experiences and find answers now! Click here for all the facts.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance Of Dispensary Surveillance Systems]]></title>
-        <id>https://leafymate.com/resources/?p=15720</id>
-        <link href="https://leafymate.com/resources/cannabis-business/dispensary-surveillance-systems"/>
-        <updated>2024-02-19T19:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Protect your dispensary and customers with advanced surveillance systems. Learn why these systems are crucial for security and compliance. Click to find out more!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
         </author>
     </entry>
 </feed>

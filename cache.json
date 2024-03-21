@@ -6,6 +6,46 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=17077",
+          "author": "Ayesha Aziz",
+          "description": "Unlock the secrets to flawless skin with our ultimate guide to building a cannabis skincare routine. Say goodbye to dullness and hello to radiance - start your journey today!",
+          "link": "https://leafymate.com/resources/health/cannabis-skincare-routine",
+          "publishedOn": "2024-03-20T21:46:00.000Z",
+          "wordCount": 5613,
+          "title": "Building An Effective Cannabis Skincare Routine",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-skincare-routine-ohhPjNDc.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18254",
+          "author": "Tayyaba Amir",
+          "description": "Discover the best cannabis-friendly beach destinations and immerse yourself in sun, sand, and smoke. Click here for the ultimate guide to elevate your beach getaway!",
+          "link": "https://leafymate.com/resources/lifestyle/cannabis-friendly-beaches",
+          "publishedOn": "2024-03-20T20:19:00.000Z",
+          "wordCount": 5317,
+          "title": "Sun, Sand, And Smoke: Discovering Cannabis-Friendly Beach Destinations",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-friendly-beaches.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18258",
+          "author": "Tayyaba Amir",
+          "description": "Ready to get relief with medical marijuana? Learn what happens during a card evaluation and find out if you qualify. Don't wait, take control of your health today!",
+          "link": "https://leafymate.com/resources/cannabis-101/medical-marijuana-card-evaluation-2",
+          "publishedOn": "2024-03-20T15:16:00.000Z",
+          "wordCount": 5068,
+          "title": "What To Expect During A Medical Marijuana Card Evaluation",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/medical-marijuana-card-evaluation.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=17075",
+          "author": "Ayesha Aziz",
+          "description": "Unlock the secret to radiant skin with THC skincare products. Experience the incredible benefits and unleash your natural beauty today. Click here to discover the transformative power now!",
+          "link": "https://leafymate.com/resources/health/benefits-of-thc-skincare",
+          "publishedOn": "2024-03-20T12:57:00.000Z",
+          "wordCount": 5411,
+          "title": "Unlocking The Benefits Of THC Skincare Products",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/benefits-of-thc-skincare.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=17081",
           "author": "Ayesha Aziz",
           "description": "Indulge in the ultimate cannabis spa treatments for unparalleled relaxation and rejuvenation. Experience pure bliss with our luxurious, cannabis-infused therapies. Click now to elevate your self-care routine like never before!",
@@ -774,46 +814,6 @@
           "wordCount": 5523,
           "title": "Essential Tips For Successful Indoor Cannabis Growing",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/indoor-growing-tips-KSNvlIOE.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=15721",
-          "author": "Leafy Mate",
-          "description": "Protect your cannabis store with the perfect alarm system. Learn how to choose the right one and keep your business secure. Click now for expert tips!",
-          "link": "https://leafymate.com/resources/cannabis-business/cannabis-store-alarm-systems",
-          "publishedOn": "2024-02-19T21:12:00.000Z",
-          "wordCount": 5570,
-          "title": "Choosing The Right Alarm System For Your Cannabis Store",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-store-alarm-systems-1.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=16868",
-          "author": "Ayesha Aziz",
-          "description": "Discover the hidden truth about how many ounces are in a quarter pound of weed. Satiate your curiosity and click to unveil the ultimate answer now!",
-          "link": "https://leafymate.com/resources/cannabis-101/how-many-ounces-are-in-a-quarter-pound",
-          "publishedOn": "2024-02-19T20:42:00.000Z",
-          "wordCount": 5269,
-          "title": "How Many Ounces Are In A Quarter Pound Of Weed",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-many-ounces-are-in-a-quarter-pound-k35nLfWs.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=16866",
-          "author": "Ayesha Aziz",
-          "description": "Unlock the secrets of psychedelic mushrooms and learn how long they stay in your system. Discover mind-altering experiences and find answers now! Click here for all the facts.",
-          "link": "https://leafymate.com/resources/health/how-long-do-psychedelic-mushrooms-stay-in-your-system",
-          "publishedOn": "2024-02-19T20:33:00.000Z",
-          "wordCount": 5372,
-          "title": "How Long Do Psychedelic Mushrooms Stay In Your System",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-long-do-psychedelic-mushrooms-stay-in-your-system-GASsXCa2.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=15720",
-          "author": "Leafy Mate",
-          "description": "Protect your dispensary and customers with advanced surveillance systems. Learn why these systems are crucial for security and compliance. Click to find out more!",
-          "link": "https://leafymate.com/resources/cannabis-business/dispensary-surveillance-systems",
-          "publishedOn": "2024-02-19T19:39:00.000Z",
-          "wordCount": 5313,
-          "title": "The Importance Of Dispensary Surveillance Systems",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/dispensary-surveillance-systems-1.png"
         }
       ]
     }
