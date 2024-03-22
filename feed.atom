@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T00:57:46.271Z</updated>
+    <updated>2024-03-22T00:56:15.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cannabis Use And Breastfeeding: What You Need To Know]]></title>
+        <id>https://leafymate.com/resources/?p=18262</id>
+        <link href="https://leafymate.com/resources/health/cannabis-and-breastfeeding"/>
+        <updated>2024-03-21T23:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Interested in cannabis use while breastfeeding? Learn about the risks and benefits for both mother and baby. Don't miss this important information - click now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step-by-Step Guide To Medical Marijuana Card Application]]></title>
+        <id>https://leafymate.com/resources/?p=18260</id>
+        <link href="https://leafymate.com/resources/cannabis-101/medical-marijuana-card-application"/>
+        <updated>2024-03-21T23:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready to unlock the benefits of cannabis? Learn how to easily apply for a medical marijuana card with our step-by-step guide. Start your journey today and improve your quality of life! Don't miss out, click now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring The Benefits Of Having A Medical Marijuana Card]]></title>
+        <id>https://leafymate.com/resources/?p=18252</id>
+        <link href="https://leafymate.com/resources/cannabis-101/medical-marijuana-card-benefits"/>
+        <updated>2024-03-21T23:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the incredible health benefits of medical marijuana with a card. Explore how having a Medical Marijuana Card can improve your wellbeing today! Click now to discover more.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Focus: Cannabis And Productive Work]]></title>
+        <id>https://leafymate.com/resources/?p=18246</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-and-productive-work"/>
+        <updated>2024-03-21T23:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the Hidden Potential: How Cannabis Can Boost Focus and Productivity at Work. Find the perfect balance and maximize your output with these surprising tips. Click now to enhance your work performance!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building An Effective Cannabis Skincare Routine]]></title>
         <id>https://leafymate.com/resources/?p=17077</id>
@@ -774,46 +814,6 @@
         <summary type="html"><![CDATA[Unveiling the Mystique: Learn why cannabis leaves turn purple and uncover their hidden benefits. Click now to delve into the mesmerizing world of purple cannabis leaves and unlock nature's secrets!]]></summary>
         <author>
             <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Weed In Florida Legal]]></title>
-        <id>https://leafymate.com/resources/?p=16872</id>
-        <link href="https://leafymate.com/resources/cannabis-101/is-weed-in-florida-legal"/>
-        <updated>2024-02-20T23:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Curious about marijuana legality in Florida? Get the latest updates and find out if weed is finally legal in the Sunshine State. Click here to uncover the truth!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Get Rid Of Weed Smell]]></title>
-        <id>https://leafymate.com/resources/?p=16876</id>
-        <link href="https://leafymate.com/resources/lifestyle/how-to-get-rid-of-weed-smell"/>
-        <updated>2024-02-20T21:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Tired of the lingering smell of weed? Learn how to banish it for good with these foolproof tips. Say goodbye to odors and hello to a fresh, clean space! Click here for the ultimate guide on how to get rid of weed smell.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many Grams In A Pound Of Weed]]></title>
-        <id>https://leafymate.com/resources/?p=16870</id>
-        <link href="https://leafymate.com/resources/cannabis-101/how-many-grams-in-a-pound-of-weed"/>
-        <updated>2024-02-20T19:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Unveiling the Mystery: How Many Grams in a Pound of Weed? Find out now and satisfy your curiosity with this eye-opening article. Get ready to be amazed!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Essential Tips For Successful Indoor Cannabis Growing]]></title>
-        <id>https://leafymate.com/resources/?p=16963</id>
-        <link href="https://leafymate.com/resources/growing/indoor-growing-tips"/>
-        <updated>2024-02-20T18:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to grow cannabis indoors like a pro? Unlock the secrets to success with these essential indoor growing tips. Click now for expert advice and start cultivating your own thriving plants today!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
         </author>
     </entry>
 </feed>
