@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T00:58:21.297Z</updated>
+    <updated>2024-03-26T00:56:27.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Renewing Your Medical Marijuana Card]]></title>
+        <id>https://leafymate.com/resources/?p=18268</id>
+        <link href="https://leafymate.com/resources/cannabis-101/medical-marijuana-card-renewal"/>
+        <updated>2024-03-25T23:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss out on the benefits of medical marijuana! Learn how to easily renew your medical marijuana card and reclaim your wellness journey today. Click here for the ultimate guide to medical marijuana card renewal.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effective Strategies For Running A Profitable Cannabis Dispensary]]></title>
+        <id>https://leafymate.com/resources/?p=18275</id>
+        <link href="https://leafymate.com/resources/cannabis-business/dispensary-business-strategies"/>
+        <updated>2024-03-25T20:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn effective strategies for running a profitable cannabis dispensary and stand out in the competitive market. Maximize revenue with proven tactics. Don't miss out on boosting your dispensary business!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Cannabis Nutrients: A Guide For Beginners]]></title>
+        <id>https://leafymate.com/resources/?p=18285</id>
+        <link href="https://leafymate.com/resources/growing/cannabis-nutrients-2"/>
+        <updated>2024-03-25T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the essential cannabis nutrients you need for thriving plants! This beginner's guide will unlock the secrets to a green thumb. Click now and become an expert gardener today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Benefits Of Organic Cannabis Farming For Sustainable Cultivation]]></title>
         <id>https://leafymate.com/resources/?p=18273</id>
@@ -732,46 +762,6 @@
         <link href="https://leafymate.com/resources/growing/indoor-cannabis-training-techniques"/>
         <updated>2024-02-25T19:07:00.000Z</updated>
         <summary type="html"><![CDATA[Looking to boost your indoor cannabis yields? Learn the expert training techniques needed for optimal results. Click now and take your cultivation skills to new heights!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Indoor Cannabis Strains For Home Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=16969</id>
-        <link href="https://leafymate.com/resources/growing/indoor-cannabis-strains"/>
-        <updated>2024-02-25T00:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Ready to elevate your home cultivation game? Check out our top indoor cannabis strains, perfect for any green thumb. Grow the best with these potent hybrids and relaxing indicas. Click now to discover your new favorite strain!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting Up An Efficient Indoor Grow Room For Cannabis]]></title>
-        <id>https://leafymate.com/resources/?p=16965</id>
-        <link href="https://leafymate.com/resources/growing/indoor-grow-room-setup"/>
-        <updated>2024-02-24T22:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secrets to a bountiful indoor cannabis harvest with our expert tips! Learn how to set up your own efficient grow room and achieve maximum yields. Don't miss out on transforming your cannabis cultivation - start today!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding The Importance Of Nutrients For Indoor Cannabis Growth]]></title>
-        <id>https://leafymate.com/resources/?p=16967</id>
-        <link href="https://leafymate.com/resources/growing/indoor-cannabis-nutrients"/>
-        <updated>2024-02-24T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secrets to thriving indoor cannabis growth with essential nutrients. Learn how to grow luscious, potent buds with our expert tips. Click here to optimize your cannabis cultivation now!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Cannabis Desserts: Sweet Treats In No Time]]></title>
-        <id>https://leafymate.com/resources/?p=18355</id>
-        <link href="https://leafymate.com/resources/cooking-and-recipes/quick-cannabis-desserts"/>
-        <updated>2024-02-24T20:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for quick cannabis desserts to satisfy your sweet tooth? Elevate your dessert game with these irresistible and easy-to-make treats. Try them today and indulge in heavenly sweetness!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
