@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T00:56:27.502Z</updated>
+    <updated>2024-03-27T00:56:30.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring The Environmental Impact Of Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=18369</id>
+        <link href="https://leafymate.com/resources/environmental-sustainability/cannabis-and-the-environment"/>
+        <updated>2024-03-26T23:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the Surprising Environmental Impact of Cannabis - Dive into the cultivation and waste management practices that are reshaping our planet. Click now to explore cannabis and the environment for a greener future!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Cannabis Seed Germination: A Beginner’s Guide]]></title>
+        <id>https://leafymate.com/resources/?p=18287</id>
+        <link href="https://leafymate.com/resources/growing/seed-germination"/>
+        <updated>2024-03-26T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn the art of cannabis seed germination and unlock your green thumb! Our beginner's guide provides expert tips for successful seed germination. Click now to become a pro and start growing today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring The Intersection Of Art And Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=18289</id>
+        <link href="https://leafymate.com/resources/art-and-entertainment/art-and-cannabis"/>
+        <updated>2024-03-26T23:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash your creativity with the mind-bending connection between art and cannabis. Explore the magical world where art and cannabis collide for ultimate artistic inspiration. Click now to discover the transformative power of this unique intersection!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring The Effects Of Cannabis On Dreams]]></title>
+        <id>https://leafymate.com/resources/?p=18281</id>
+        <link href="https://leafymate.com/resources/health/cannabis-and-dreams"/>
+        <updated>2024-03-26T22:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the Secrets of Cannabis and Dreams: Explore the Mind-Altering Effects & Unleash Your Imagination! Dive into Dream Exploration Today for Mind-Blowing Discoveries. Click Now to Unveil the Mysteries!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Guide To Renewing Your Medical Marijuana Card]]></title>
         <id>https://leafymate.com/resources/?p=18268</id>
@@ -722,46 +762,6 @@
         <link href="https://leafymate.com/resources/health/health-and-wellness-market"/>
         <updated>2024-02-26T18:20:00.000Z</updated>
         <summary type="html"><![CDATA[Tap into the lucrative health and wellness market with cannabis and skyrocket your business growth. Learn how to seize new opportunities in this booming industry and reach new heights today! Click now for expert insights and start your journey to success.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Compliance And Regulations For Cannabis Business Expansion]]></title>
-        <id>https://leafymate.com/resources/?p=17007</id>
-        <link href="https://leafymate.com/resources/advocacy-and-legislation/compliance-and-regulations"/>
-        <updated>2024-02-25T20:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the potential of the booming cannabis industry by mastering compliance and regulations. Learn how to expand your cannabis business while staying ahead of the game. Click here for expert insights and guidance.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting Up A Hydroponic Cannabis System]]></title>
-        <id>https://leafymate.com/resources/?p=16973</id>
-        <link href="https://leafymate.com/resources/growing/hydroponic-cannabis-setup"/>
-        <updated>2024-02-25T19:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the secrets to setting up a hydroponic cannabis system for maximum growth and quality. Don't miss out on these expert tips and tricks - start maximizing your yield today!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Different Hydroponic Cannabis Systems]]></title>
-        <id>https://leafymate.com/resources/?p=16975</id>
-        <link href="https://leafymate.com/resources/growing/hydroponic-cannabis-systems"/>
-        <updated>2024-02-25T19:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to grow cannabis like a pro? Check out our ultimate guide to hydroponic cannabis systems and find the perfect method for your needs. Start growing today and become an expert in no time!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Indoor Cannabis Training Techniques For Optimal Yields]]></title>
-        <id>https://leafymate.com/resources/?p=16977</id>
-        <link href="https://leafymate.com/resources/growing/indoor-cannabis-training-techniques"/>
-        <updated>2024-02-25T19:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking to boost your indoor cannabis yields? Learn the expert training techniques needed for optimal results. Click now and take your cultivation skills to new heights!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
