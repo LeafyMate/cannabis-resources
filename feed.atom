@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T00:54:54.793Z</updated>
+    <updated>2024-03-31T01:02:16.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimal Techniques For Harvesting Hydroponic Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=18395</id>
+        <link href="https://leafymate.com/resources/growing/hydroponic-cannabis-harvesting"/>
+        <updated>2024-03-30T22:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Maximize your hydroponic cannabis harvest with our expert guide. Learn the optimal techniques for lighting, nutrients, and more to grow the finest buds. Click now for ultimate bud-growing success!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Lighting For Hydroponic Cannabis Growth]]></title>
+        <id>https://leafymate.com/resources/?p=18393</id>
+        <link href="https://leafymate.com/resources/growing/hydroponic-cannabis-lighting"/>
+        <updated>2024-03-30T21:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Maximize Your Cannabis Yield with Optimized Hydroponic Cannabis Lighting. Boost Harvest and Quality Today - Click to Learn More!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preventing And Treating Pests In Hydroponic Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=18391</id>
+        <link href="https://leafymate.com/resources/growing/hydroponic-cannabis-pests"/>
+        <updated>2024-03-30T21:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to prevent and treat pests in your hydroponic cannabis garden with our ultimate guide! Say goodbye to pesky invaders and achieve a thriving harvest. Click now for expert tips and tricks!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring The Best Cannabis Strains For Hydroponic Growth]]></title>
+        <id>https://leafymate.com/resources/?p=18397</id>
+        <link href="https://leafymate.com/resources/growing/hydroponic-cannabis-strains"/>
+        <updated>2024-03-30T19:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secret to bountiful hydroponic cannabis harvests with our expert guide. Discover the best strains for hydroponic growth and click now to optimize your cultivation success!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Choosing The Best Growing Medium For Hydroponic Cannabis]]></title>
         <id>https://leafymate.com/resources/?p=18389</id>
@@ -742,46 +782,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/cannabis-education-outreach"/>
         <updated>2024-03-01T13:35:00.000Z</updated>
         <summary type="html"><![CDATA[Uncover the impact of cannabis education outreach initiatives and how they're revolutionizing the industry. Feed your curiosity and join the knowledge revolution today! Click to learn more about cannabis education outreach now.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proper Cannabis Waste Disposal Methods]]></title>
-        <id>https://leafymate.com/resources/?p=17019</id>
-        <link href="https://leafymate.com/resources/environmental-sustainability/cannabis-waste-disposal"/>
-        <updated>2024-02-29T19:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover eco-friendly methods to properly dispose of cannabis waste and keep your stash—and the planet—safe. Learn more now!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Parenthood: Cannabis And Parenting]]></title>
-        <id>https://leafymate.com/resources/?p=18363</id>
-        <link href="https://leafymate.com/resources/parenting-and-cannabis/cannabis-and-parenting-2"/>
-        <updated>2024-02-29T18:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the truth about cannabis and parenting - find out how to make informed decisions for your family in this controversial world. Click now and navigate parenthood with confidence.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innovation In Cannabis Marketing: Success Stories]]></title>
-        <id>https://leafymate.com/resources/?p=17021</id>
-        <link href="https://leafymate.com/resources/cannabis-business/innovative-cannabis-marketing"/>
-        <updated>2024-02-29T14:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Unveiling the Secrets of Innovative Cannabis Marketing: Learn from Game-Changers and Ignite Your Success! Click now for inspiration and revolutionize your strategy in this groundbreaking industry.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cannabis And Sports Performance: Enhancing Athletic Abilities]]></title>
-        <id>https://leafymate.com/resources/?p=17017</id>
-        <link href="https://leafymate.com/resources/sports-and-fitness/cannabis-and-sports-performance"/>
-        <updated>2024-02-29T13:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash your athletic potential with cannabis! Learn how it can enhance sports performance and take you to new heights. Click now to unlock your true abilities on the field or court!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>

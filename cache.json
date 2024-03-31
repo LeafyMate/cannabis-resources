@@ -6,6 +6,46 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=18395",
+          "author": "Ayesha Aziz",
+          "description": "Maximize your hydroponic cannabis harvest with our expert guide. Learn the optimal techniques for lighting, nutrients, and more to grow the finest buds. Click now for ultimate bud-growing success!",
+          "link": "https://leafymate.com/resources/growing/hydroponic-cannabis-harvesting",
+          "publishedOn": "2024-03-30T22:32:00.000Z",
+          "wordCount": 5638,
+          "title": "Optimal Techniques For Harvesting Hydroponic Cannabis",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/hydroponic-cannabis-harvesting-VpbXHvYi.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18393",
+          "author": "Ayesha Aziz",
+          "description": "Maximize Your Cannabis Yield with Optimized Hydroponic Cannabis Lighting. Boost Harvest and Quality Today - Click to Learn More!",
+          "link": "https://leafymate.com/resources/growing/hydroponic-cannabis-lighting",
+          "publishedOn": "2024-03-30T21:50:00.000Z",
+          "wordCount": 5693,
+          "title": "Optimizing Lighting For Hydroponic Cannabis Growth",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/hydroponic-cannabis-lighting.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18391",
+          "author": "Ayesha Aziz",
+          "description": "Learn how to prevent and treat pests in your hydroponic cannabis garden with our ultimate guide! Say goodbye to pesky invaders and achieve a thriving harvest. Click now for expert tips and tricks!",
+          "link": "https://leafymate.com/resources/growing/hydroponic-cannabis-pests",
+          "publishedOn": "2024-03-30T21:03:00.000Z",
+          "wordCount": 5614,
+          "title": "Preventing And Treating Pests In Hydroponic Cannabis",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/hydroponic-cannabis-pests.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18397",
+          "author": "Ayesha Aziz",
+          "description": "Unlock the secret to bountiful hydroponic cannabis harvests with our expert guide. Discover the best strains for hydroponic growth and click now to optimize your cultivation success!",
+          "link": "https://leafymate.com/resources/growing/hydroponic-cannabis-strains",
+          "publishedOn": "2024-03-30T19:58:00.000Z",
+          "wordCount": 5573,
+          "title": "Exploring The Best Cannabis Strains For Hydroponic Growth",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/hydroponic-cannabis-strains.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=18389",
           "author": "Ayesha Aziz",
           "description": "Unlock the potential of hydroponic cannabis with the ideal growing medium! Learn how to achieve impressive yields and become a master cultivator. Get started today and unleash your green thumb for bountiful harvests!",
@@ -744,46 +784,6 @@
           "wordCount": 5382,
           "title": "Spreading Knowledge: Cannabis Education Outreach Initiatives Making A Difference",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/spreading-knowledge-cannabis-education-outreach-initiatives-making-a-difference.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=17019",
-          "author": "Tayyaba Amir",
-          "description": "Discover eco-friendly methods to properly dispose of cannabis waste and keep your stash—and the planet—safe. Learn more now!",
-          "link": "https://leafymate.com/resources/environmental-sustainability/cannabis-waste-disposal",
-          "publishedOn": "2024-02-29T19:09:00.000Z",
-          "wordCount": 5146,
-          "title": "Proper Cannabis Waste Disposal Methods",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-waste-disposal-BzyrLnmC.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=18363",
-          "author": "Tayyaba Amir",
-          "description": "Discover the truth about cannabis and parenting - find out how to make informed decisions for your family in this controversial world. Click now and navigate parenthood with confidence.",
-          "link": "https://leafymate.com/resources/parenting-and-cannabis/cannabis-and-parenting-2",
-          "publishedOn": "2024-02-29T18:14:00.000Z",
-          "wordCount": 4834,
-          "title": "Navigating Parenthood: Cannabis And Parenting",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-and-parenting.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=17021",
-          "author": "Tayyaba Amir",
-          "description": "Unveiling the Secrets of Innovative Cannabis Marketing: Learn from Game-Changers and Ignite Your Success! Click now for inspiration and revolutionize your strategy in this groundbreaking industry.",
-          "link": "https://leafymate.com/resources/cannabis-business/innovative-cannabis-marketing",
-          "publishedOn": "2024-02-29T14:55:00.000Z",
-          "wordCount": 5086,
-          "title": "Innovation In Cannabis Marketing: Success Stories",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/innovative-cannabis-marketing.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=17017",
-          "author": "Tayyaba Amir",
-          "description": "Unleash your athletic potential with cannabis! Learn how it can enhance sports performance and take you to new heights. Click now to unlock your true abilities on the field or court!",
-          "link": "https://leafymate.com/resources/sports-and-fitness/cannabis-and-sports-performance",
-          "publishedOn": "2024-02-29T13:03:00.000Z",
-          "wordCount": 5036,
-          "title": "Cannabis And Sports Performance: Enhancing Athletic Abilities",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-and-sports-performance.png"
         }
       ]
     }
