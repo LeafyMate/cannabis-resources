@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T01:02:16.228Z</updated>
+    <updated>2024-04-01T01:02:28.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Choosing The Best Organic Cannabis Seeds For Your Garden]]></title>
+        <id>https://leafymate.com/resources/?p=18401</id>
+        <link href="https://leafymate.com/resources/growing/organic-cannabis-seeds"/>
+        <updated>2024-03-31T21:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets of growing top-quality organic cannabis in your garden with the best organic cannabis seeds. Get ready for maximum yield and exceptional quality - click here to find out more!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Benefits Of Organic Cannabis Farming]]></title>
+        <id>https://leafymate.com/resources/?p=18399</id>
+        <link href="https://leafymate.com/resources/growing/organic-cannabis-farming"/>
+        <updated>2024-03-31T19:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the full potential of organic cannabis farming and elevate your experience. Discover the incredible benefits that nature has to offer. Click now to learn more!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding The Role Of Organic Cannabis Nutrients]]></title>
+        <id>https://leafymate.com/resources/?p=18405</id>
+        <link href="https://leafymate.com/resources/growing/organic-cannabis-nutrients"/>
+        <updated>2024-03-31T18:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the power of organic cannabis nutrients and elevate your growing game! Gain expert knowledge to maximize your plant's potential. Click now to revolutionize your cultivation with organic cannabis nutrients.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harmony And Knowledge: Cannabis And Music Education For Enthusiasts]]></title>
+        <id>https://leafymate.com/resources/?p=18351</id>
+        <link href="https://leafymate.com/resources/art-and-entertainment/cannabis-and-music-education"/>
+        <updated>2024-03-31T12:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the perfect symphony of cannabis and music education for enthusiasts. Unleash your creativity with mind-altering melodies and expand your knowledge. Click now to unlock harmony and elevate your musical journey!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimal Techniques For Harvesting Hydroponic Cannabis]]></title>
         <id>https://leafymate.com/resources/?p=18395</id>
@@ -742,46 +782,6 @@
         <link href="https://leafymate.com/resources/industry/cannabis-industry-mentoring"/>
         <updated>2024-03-02T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Unleash your potential and cultivate success in the cannabis industry with our revolutionary mentoring programs! Discover how these programs are fostering growth and click here to learn more.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emerging Trends In Cannabis Packaging]]></title>
-        <id>https://leafymate.com/resources/?p=17029</id>
-        <link href="https://leafymate.com/resources/cannabis-business/cannabis-packaging-trends"/>
-        <updated>2024-03-02T00:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay ahead of the game with our in-depth look at emerging cannabis packaging trends! Discover the latest innovations and reshape your business today. Click here to explore more!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating An Impactful Cannabis Logo Design]]></title>
-        <id>https://leafymate.com/resources/?p=17025</id>
-        <link href="https://leafymate.com/resources/cannabis-business/cannabis-logo-design"/>
-        <updated>2024-03-01T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Design a captivating cannabis logo that will make your brand stand out. Unleash the power of visual storytelling and create an impactful cannabis logo design today! Click here to learn more.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding The Science Of Cannabidiol (CBD)]]></title>
-        <id>https://leafymate.com/resources/?p=17027</id>
-        <link href="https://leafymate.com/resources/cbd/the-science-of-cannabidiol-cbd"/>
-        <updated>2024-03-01T14:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the scientific secrets of CBD and its incredible benefits for a healthier you. Learn more about the science of cannabidiol (CBD) now and start your journey to a happier, more balanced life. Click here to unleash the power of this natural wonder!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spreading Knowledge: Cannabis Education Outreach Initiatives Making A Difference]]></title>
-        <id>https://leafymate.com/resources/?p=17031</id>
-        <link href="https://leafymate.com/resources/cannabis-101/cannabis-education-outreach"/>
-        <updated>2024-03-01T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the impact of cannabis education outreach initiatives and how they're revolutionizing the industry. Feed your curiosity and join the knowledge revolution today! Click to learn more about cannabis education outreach now.]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
