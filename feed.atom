@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T01:02:28.612Z</updated>
+    <updated>2024-04-02T00:59:52.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Express Yourself: Cannabis And Music Merchandise You’ll Love]]></title>
+        <id>https://leafymate.com/resources/?p=18353</id>
+        <link href="https://leafymate.com/resources/art-and-entertainment/cannabis-and-music-merchandise"/>
+        <updated>2024-04-01T23:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Express yourself and rock your love for cannabis and music with our irresistible merchandise collection. Discover the perfect blend of both passions today! Shop now and find the ultimate cannabis and music merchandise that you'll love.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Principles Of Regenerative Cannabis Farming]]></title>
+        <id>https://leafymate.com/resources/?p=18617</id>
+        <link href="https://leafymate.com/resources/environmental-sustainability/regenerative-cannabis-farming"/>
+        <updated>2024-04-01T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to transform your cannabis cultivation with the principles of regenerative farming. Discover sustainable practices that will revolutionize your grow! Start implementing these techniques today for a greener future.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring The Spiritual Connection To Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=18359</id>
+        <link href="https://leafymate.com/resources/spirituality/cannabis-and-spirituality"/>
+        <updated>2024-04-01T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the profound union of cannabis and spirituality. Embark on a mystical voyage to explore the spiritual connection to cannabis and unlock your higher consciousness. Dare to awaken your soul - click now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Healing Power Of Cannabis And Music Therapy]]></title>
+        <id>https://leafymate.com/resources/?p=18357</id>
+        <link href="https://leafymate.com/resources/health/cannabis-and-music-therapy"/>
+        <updated>2024-04-01T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash the Healing Power of Cannabis and Music Therapy - Discover how this dynamic duo is revolutionizing natural remedies. Click now to unlock the ultimate healing experience!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Choosing The Best Organic Cannabis Seeds For Your Garden]]></title>
         <id>https://leafymate.com/resources/?p=18401</id>
@@ -742,46 +782,6 @@
         <link href="https://leafymate.com/resources/history-and-culture/cannabis-historical-preservation"/>
         <updated>2024-03-03T14:05:00.000Z</updated>
         <summary type="html"><![CDATA[Preserving Cannabis History: Learn how the industry is safeguarding its rich heritage through innovative initiatives. Explore the fascinating world of cannabis historical preservation and be inspired! Click here to uncover the secrets.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cannabis And The Environment: Promoting Sustainability In The Industry]]></title>
-        <id>https://leafymate.com/resources/?p=17033</id>
-        <link href="https://leafymate.com/resources/environmental-sustainability/cannabis-sustainability-initiatives"/>
-        <updated>2024-03-02T20:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how the cannabis industry is going green and promoting sustainability through innovative initiatives. Explore the positive impact of cannabis on the environment and join the movement today!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advancing CBD Health Research: The Importance Of Cannabis Businesses’ Involvement]]></title>
-        <id>https://leafymate.com/resources/?p=17037</id>
-        <link href="https://leafymate.com/resources/health/cbd-health-research"/>
-        <updated>2024-03-02T17:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the groundbreaking collaboration between cannabis businesses and CBD health research, and learn why their involvement is crucial. Click now to unravel the secrets behind advancing CBD health research!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giving Back: How Cannabis Businesses Engage In Philanthropy]]></title>
-        <id>https://leafymate.com/resources/?p=17035</id>
-        <link href="https://leafymate.com/resources/cannabis-business/cannabis-business-philanthropy"/>
-        <updated>2024-03-02T17:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how cannabis businesses are giving back through philanthropy, making a positive impact on communities. Be inspired by their initiatives and find out how you can get involved! Click here to discover more about cannabis business philanthropy.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing Knowledge: How Cannabis Industry Mentoring Programs Foster Growth]]></title>
-        <id>https://leafymate.com/resources/?p=17039</id>
-        <link href="https://leafymate.com/resources/industry/cannabis-industry-mentoring"/>
-        <updated>2024-03-02T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash your potential and cultivate success in the cannabis industry with our revolutionary mentoring programs! Discover how these programs are fostering growth and click here to learn more.]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
