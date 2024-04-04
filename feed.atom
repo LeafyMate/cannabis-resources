@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T00:56:26.673Z</updated>
+    <updated>2024-04-04T00:58:15.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guide To Training Your Cannabis Plants]]></title>
+        <id>https://leafymate.com/resources/?p=18623</id>
+        <link href="https://leafymate.com/resources/growing/cannabis-plant-training"/>
+        <updated>2024-04-03T23:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to train your cannabis plants like a pro with our comprehensive guide! Maximize your harvest and yield by mastering the art of cannabis plant training. Click here to unlock the secrets today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step-by-Step Guide: Pruning Cannabis Plants]]></title>
+        <id>https://leafymate.com/resources/?p=18625</id>
+        <link href="https://leafymate.com/resources/growing/how-to-prune-cannabis"/>
+        <updated>2024-04-03T22:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the ultimate guide on how to prune cannabis plants for maximum yield and health. Follow our step-by-step instructions and start reaping the benefits of proper pruning today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Importance Of Sustainable Cannabis Cultivation]]></title>
+        <id>https://leafymate.com/resources/?p=18621</id>
+        <link href="https://leafymate.com/resources/environmental-sustainability/sustainable-cannabis-cultivation"/>
+        <updated>2024-04-03T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn why sustainable cannabis cultivation is crucial for preserving the environment and securing a thriving industry. Click now to uncover the importance of sustainability in cannabis farming!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Cannabis Plant Training Techniques]]></title>
+        <id>https://leafymate.com/resources/?p=18619</id>
+        <link href="https://leafymate.com/resources/growing/cannabis-plant-training-techniques"/>
+        <updated>2024-04-03T21:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to master cannabis plant training techniques to maximize your yields and enhance your harvest. Click now for expert tips and tricks that will take your cultivation skills to the next level!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cannabis-Infused BBQ Recipes: Grilling With A Twist]]></title>
         <id>https://leafymate.com/resources/?p=18615</id>
@@ -772,46 +812,6 @@
         <link href="https://leafymate.com/resources/lifestyle/cannabis-yoga-classes-near-me"/>
         <updated>2024-03-06T15:59:00.000Z</updated>
         <summary type="html"><![CDATA[Elevate your yoga practice and experience ultimate relaxation with cannabis yoga classes near you. Discover the perfect balance between mind, body, and cannabis. Click now to find the best classes and start your journey today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Balance: Essential Cannabis Yoga Poses]]></title>
-        <id>https://leafymate.com/resources/?p=17047</id>
-        <link href="https://leafymate.com/resources/sports-and-fitness/cannabis-yoga-poses"/>
-        <updated>2024-03-04T21:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the ultimate bliss with essential cannabis yoga poses that bring balance, calm, and relaxation. Click now to discover the perfect synergy and take your practice to a whole new level.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovering The Healing Benefits Of Cannabis Yoga]]></title>
-        <id>https://leafymate.com/resources/?p=17055</id>
-        <link href="https://leafymate.com/resources/health/cannabis-yoga-benefits"/>
-        <updated>2024-03-04T19:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the healing benefits of cannabis yoga and find your inner peace! Learn how this groundbreaking practice can transform your wellbeing and experience true relaxation. Click here to discover the incredible benefits now!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supporting Parents: Cannabis Initiatives That Provide Resources And Education]]></title>
-        <id>https://leafymate.com/resources/?p=17053</id>
-        <link href="https://leafymate.com/resources/parenting-and-cannabis/parenting-and-cannabis-support"/>
-        <updated>2024-03-04T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Get the support you need as a parent with cannabis initiatives! Learn about valuable resources and education that can empower you. Click now to access parenting and cannabis support.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Inner Peace: Cannabis Meditation Techniques]]></title>
-        <id>https://leafymate.com/resources/?p=17045</id>
-        <link href="https://leafymate.com/resources/spirituality/cannabis-meditation-techniques"/>
-        <updated>2024-03-04T14:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking to unlock inner peace? Learn how cannabis meditation techniques can elevate your mind and relax your body. Click now to discover the ultimate guide!]]></summary>
         <author>
             <name>Ayesha Aziz</name>
         </author>
