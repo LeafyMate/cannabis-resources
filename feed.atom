@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T01:02:41.419Z</updated>
+    <updated>2024-04-08T00:58:19.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -752,26 +752,6 @@
         <link href="https://leafymate.com/resources/environmental-sustainability/sustainable-packaging"/>
         <updated>2024-03-11T19:26:00.000Z</updated>
         <summary type="html"><![CDATA[Discover how the cannabis industry is embracing sustainability with eco-friendly packaging solutions. Join the green revolution and learn more about sustainable packaging practices today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise Of Cannabis Tech Startups]]></title>
-        <id>https://leafymate.com/resources/?p=16989</id>
-        <link href="https://leafymate.com/resources/industry/cannabis-tech-startups"/>
-        <updated>2024-03-08T17:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Unveiling the Future of Cannabis: Explore the Rise of Cannabis Tech Startups and Experience the High-Tech Revolution in the Industry. Click here to discover the cutting-edge world of digital dispensaries, innovative cultivation tools, and more!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Growing Trend Of Cannabis-infused Beverages]]></title>
-        <id>https://leafymate.com/resources/?p=16987</id>
-        <link href="https://leafymate.com/resources/cooking-and-recipes/cannabis-infused-beverages-2"/>
-        <updated>2024-03-08T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the irresistible allure of cannabis-infused beverages and join the growing trend today! Experience the ultimate buzz with our captivating article on this rising phenomenon.]]></summary>
         <author>
             <name>Ayesha Aziz</name>
         </author>
