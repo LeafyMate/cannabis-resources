@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T00:58:08.168Z</updated>
+    <updated>2024-04-13T00:48:17.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sustainable CBD Farming Practices For A Greener Future]]></title>
+        <id>https://leafymate.com/resources/?p=18639</id>
+        <link href="https://leafymate.com/resources/environmental-sustainability/cbd-farming-practices"/>
+        <updated>2024-04-12T23:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the secrets of sustainable CBD farming practices and how they are shaping a greener future. Explore eco-friendly cultivation methods in our insightful guide. Click now to learn more about CBD farming practices!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pruning Cannabis Plants: Essential Tips And Techniques]]></title>
+        <id>https://leafymate.com/resources/?p=18633</id>
+        <link href="https://leafymate.com/resources/growing/cannabis-plant-pruning-tips"/>
+        <updated>2024-04-12T22:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready to maximize your cannabis plant's potential? Dive into our ultimate guide on pruning cannabis plants for a successful harvest. Learn essential tips and techniques to unlock their full potential now! Click here for expert advice on cannabis plant pruning tips.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emerging Trends In The Cannabis Industry]]></title>
+        <id>https://leafymate.com/resources/?p=18637</id>
+        <link href="https://leafymate.com/resources/industry/cannabis-industry-trends-2"/>
+        <updated>2024-04-12T21:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Stay ahead of the game with our in-depth look at the emerging trends in the cannabis industry. From CBD-infused products to cutting-edge technology, join us to uncover what's shaping this booming market. Stay informed and click through for all the latest insights!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Cropping: Boosting Cannabis Plant Performance]]></title>
+        <id>https://leafymate.com/resources/?p=18631</id>
+        <link href="https://leafymate.com/resources/growing/super-cropping-cannabis"/>
+        <updated>2024-04-12T21:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the secret to boosting your cannabis plant's performance with super cropping! Maximize growth potential and increase yields with this simple technique. Click here to learn more and take your gardening skills to the next level!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Low Stress Training: Maximizing Your Cannabis Yield]]></title>
         <id>https://leafymate.com/resources/?p=18629</id>
@@ -662,56 +702,6 @@
         <link href="https://leafymate.com/resources/health/cannabis-strains-for-yoga"/>
         <updated>2024-03-14T13:39:00.000Z</updated>
         <summary type="html"><![CDATA[Elevate your yoga practice with the best cannabis strains designed to enhance your flow and find inner peace. Click now to discover the perfect strains for a blissful session on the mat.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diving Into The World Of Cannabis Concentrates]]></title>
-        <id>https://leafymate.com/resources/?p=17005</id>
-        <link href="https://leafymate.com/resources/cannabis-business/cannabis-concentrates"/>
-        <updated>2024-03-14T12:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secrets of cannabis concentrates and join the growing movement! Immerse yourself in the world of potent extracts and discover endless possibilities. Dive into the realm of cannabis concentrates now and elevate your experience!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide To Cannabis Grow Kits]]></title>
-        <id>https://leafymate.com/resources/?p=16999</id>
-        <link href="https://leafymate.com/resources/growing/cannabis-grow-kits"/>
-        <updated>2024-03-13T22:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Ready to start growing your own cannabis? Don't miss our beginner's guide to cannabis grow kits. Find the best kits and cultivate your green thumb today! Click here for expert tips and tricks.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Convenience Of Portable Vaporizers For Cannabis Enthusiasts]]></title>
-        <id>https://leafymate.com/resources/?p=16997</id>
-        <link href="https://leafymate.com/resources/lifestyle/portable-vaporizers"/>
-        <updated>2024-03-13T20:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Get the best of discreet and on-the-go vaping with portable vaporizers for cannabis enthusiasts. Experience convenience like never before, click now to explore the latest technology!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring The Versatility Of Cannabis Tinctures]]></title>
-        <id>https://leafymate.com/resources/?p=17001</id>
-        <link href="https://leafymate.com/resources/health/cannabis-tinctures-2"/>
-        <updated>2024-03-13T19:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the power of cannabis tinctures for your wellness journey! Discover how these versatile remedies can enhance your wellbeing and click here to explore their limitless possibilities.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nurturing Your Skin With Cannabis-infused Skincare Products]]></title>
-        <id>https://leafymate.com/resources/?p=17003</id>
-        <link href="https://leafymate.com/resources/health/cannabis-infused-skincare"/>
-        <updated>2024-03-13T18:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secret to radiant skin with cannabis-infused skincare products. Indulge in nature's power and nurture your skin like never before. Click now to experience the ultimate skincare experience!]]></summary>
         <author>
             <name>Ayesha Aziz</name>
         </author>
