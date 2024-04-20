@@ -6,6 +6,46 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=18824",
+          "author": "Ayesha Aziz",
+          "description": "Learn how to boost your cannabis plants' growth with the right organic fertilizers! Find expert tips and recommendations for optimal results. Elevate your gardening game today!",
+          "link": "https://leafymate.com/resources/growing/organic-cannabis-fertilizers",
+          "publishedOn": "2024-04-19T23:34:00.000Z",
+          "wordCount": 4938,
+          "title": "Choosing The Right Organic Cannabis Fertilizers For Optimal Growth",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/organic-cannabis-fertilizers.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18832",
+          "author": "Ayesha Aziz",
+          "description": "Learn the art of Low Stress Training (LST) for your cannabis plants to boost yields and quality. Master expert techniques in this comprehensive guide and watch your plants thrive!",
+          "link": "https://leafymate.com/resources/growing/cannabis-plant-lst",
+          "publishedOn": "2024-04-19T23:29:00.000Z",
+          "wordCount": 5038,
+          "title": "The Art Of Low Stress Training For Cannabis Plants",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-plant.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18828",
+          "author": "Ayesha Aziz",
+          "description": "Learn how organic soil amendments can revolutionize your cannabis cultivation! Discover the secrets to boosting plant health and yield naturally. Start enhancing your soil today for thriving cannabis plants!",
+          "link": "https://leafymate.com/resources/growing/organic-soil-amendments-2",
+          "publishedOn": "2024-04-19T23:23:00.000Z",
+          "wordCount": 5222,
+          "title": "Enhancing Soil Health With Organic Soil Amendments For Cannabis",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/organic-soil-amendments-DloWyhNP.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18822",
+          "author": "Ayesha Aziz",
+          "description": "Learn how to optimize your hydroponic cannabis cultivation by understanding and controlling pH levels. Unlock the secrets to maximizing plant growth and potency with our expert tips. Click now to elevate your growing game!",
+          "link": "https://leafymate.com/resources/growing/hydroponic-cannabis-ph",
+          "publishedOn": "2024-04-19T22:53:00.000Z",
+          "wordCount": 5075,
+          "title": "Understanding PH Levels In Hydroponic Cannabis Cultivation",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/hydroponic-cannabis-ph-P7tzaD9B.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=18786",
           "author": "Tayyaba Amir",
           "description": "Uncover the economic and health benefits of legalizing cannabis in our comprehensive guide. Learn how this decision can positively impact society and promote overall well-being. Click now to explore the advantages of legalizing cannabis!",
@@ -714,36 +754,6 @@
           "wordCount": 5560,
           "title": "Finding Focus: Cannabis And Productive Work",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-and-productive-work-jguMIy6I.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=17077",
-          "author": "Ayesha Aziz",
-          "description": "Unlock the secrets to flawless skin with our ultimate guide to building a cannabis skincare routine. Say goodbye to dullness and hello to radiance - start your journey today!",
-          "link": "https://leafymate.com/resources/health/cannabis-skincare-routine",
-          "publishedOn": "2024-03-20T21:46:00.000Z",
-          "wordCount": 5613,
-          "title": "Building An Effective Cannabis Skincare Routine",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-skincare-routine-ohhPjNDc.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=18254",
-          "author": "Tayyaba Amir",
-          "description": "Discover the best cannabis-friendly beach destinations and immerse yourself in sun, sand, and smoke. Click here for the ultimate guide to elevate your beach getaway!",
-          "link": "https://leafymate.com/resources/lifestyle/cannabis-friendly-beaches",
-          "publishedOn": "2024-03-20T20:19:00.000Z",
-          "wordCount": 5317,
-          "title": "Sun, Sand, And Smoke: Discovering Cannabis-Friendly Beach Destinations",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cannabis-friendly-beaches.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=18258",
-          "author": "Tayyaba Amir",
-          "description": "Ready to get relief with medical marijuana? Learn what happens during a card evaluation and find out if you qualify. Don't wait, take control of your health today!",
-          "link": "https://leafymate.com/resources/cannabis-101/medical-marijuana-card-evaluation-2",
-          "publishedOn": "2024-03-20T15:16:00.000Z",
-          "wordCount": 5068,
-          "title": "What To Expect During A Medical Marijuana Card Evaluation",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/medical-marijuana-card-evaluation.png"
         }
       ]
     }
