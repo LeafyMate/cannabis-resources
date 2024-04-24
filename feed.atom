@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-23T00:58:56.706Z</updated>
+    <updated>2024-04-24T00:59:11.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Global Perspective: Cannabis Legalization Around The World]]></title>
+        <id>https://leafymate.com/resources/?p=18802</id>
+        <link href="https://leafymate.com/resources/history-and-culture/cannabis-legalization-around-the-world"/>
+        <updated>2024-04-23T23:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the latest updates on cannabis legalization around the world and see how attitudes are shifting globally. Stay informed on this growing trend by reading our in-depth analysis now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering Through Education: Cannabis Programs And Resources]]></title>
+        <id>https://leafymate.com/resources/?p=18808</id>
+        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-education-programs"/>
+        <updated>2024-04-23T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash your potential with cannabis education programs that empower through valuable resources and knowledge. Discover the impact of these programs today! Join us in exploring the world of cannabis education.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prominent Cannabis Legalization Campaigns You Should Know]]></title>
+        <id>https://leafymate.com/resources/?p=18804</id>
+        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-legalization-campaigns"/>
+        <updated>2024-04-23T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about the most influential cannabis legalization campaigns shaping the industry today. Stay informed, support the movement, and be part of the change for a brighter future!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effective Cannabis Policy Advocacy: Making A Difference]]></title>
+        <id>https://leafymate.com/resources/?p=18800</id>
+        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-policy-advocacy"/>
+        <updated>2024-04-23T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the power of effective cannabis policy advocacy in making a difference. Learn how to take action and create change today with our expert tips and strategies. Start advocating for better cannabis policies now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Join The Cannabis Activist Networks Working Towards Reform]]></title>
         <id>https://leafymate.com/resources/?p=18806</id>
