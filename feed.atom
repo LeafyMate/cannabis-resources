@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T00:59:11.153Z</updated>
+    <updated>2024-04-25T01:00:37.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Insights And Solutions: Cannabis Policy Think Tanks At Work]]></title>
+        <id>https://leafymate.com/resources/?p=18812</id>
+        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-policy-think-tanks"/>
+        <updated>2024-04-24T23:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the impact of cannabis policy think tanks on regulations and legalization. Learn from experts in the field for valuable insights and solutions. Click here to stay informed and shape the future of cannabis policies!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protecting Cannabis Rights: Legal Defense Groups You Can Trust]]></title>
+        <id>https://leafymate.com/resources/?p=18814</id>
+        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-legal-defense-groups"/>
+        <updated>2024-04-24T22:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Protect your cannabis rights with the help of trusted legal defense groups. Learn about advocates fighting for you. Click now to find out more!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making An Impact: Nonprofits Driving Cannabis Advocacy]]></title>
+        <id>https://leafymate.com/resources/?p=18816</id>
+        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-advocacy-nonprofits"/>
+        <updated>2024-04-24T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how nonprofits are driving change in cannabis advocacy and making a real impact. Explore the power of their work and get inspired to join the movement today!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving Cannabis Awareness: Impactful Initiatives And Projects]]></title>
+        <id>https://leafymate.com/resources/?p=18810</id>
+        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-awareness-initiatives"/>
+        <updated>2024-04-24T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover groundbreaking cannabis awareness initiatives making a difference in the industry. Explore how these impactful projects are shaping the future of cannabis education. Click now to stay informed and support positive change!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Global Perspective: Cannabis Legalization Around The World]]></title>
         <id>https://leafymate.com/resources/?p=18802</id>
@@ -682,36 +722,6 @@
         <link href="https://leafymate.com/resources/health/cannabis-and-dreams"/>
         <updated>2024-03-26T22:57:00.000Z</updated>
         <summary type="html"><![CDATA[Unlock the Secrets of Cannabis and Dreams: Explore the Mind-Altering Effects & Unleash Your Imagination! Dive into Dream Exploration Today for Mind-Blowing Discoveries. Click Now to Unveil the Mysteries!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Renewing Your Medical Marijuana Card]]></title>
-        <id>https://leafymate.com/resources/?p=18268</id>
-        <link href="https://leafymate.com/resources/cannabis-101/medical-marijuana-card-renewal"/>
-        <updated>2024-03-25T23:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss out on the benefits of medical marijuana! Learn how to easily renew your medical marijuana card and reclaim your wellness journey today. Click here for the ultimate guide to medical marijuana card renewal.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective Strategies For Running A Profitable Cannabis Dispensary]]></title>
-        <id>https://leafymate.com/resources/?p=18275</id>
-        <link href="https://leafymate.com/resources/cannabis-business/dispensary-business-strategies"/>
-        <updated>2024-03-25T20:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn effective strategies for running a profitable cannabis dispensary and stand out in the competitive market. Maximize revenue with proven tactics. Don't miss out on boosting your dispensary business!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Cannabis Nutrients: A Guide For Beginners]]></title>
-        <id>https://leafymate.com/resources/?p=18285</id>
-        <link href="https://leafymate.com/resources/growing/cannabis-nutrients-2"/>
-        <updated>2024-03-25T20:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the essential cannabis nutrients you need for thriving plants! This beginner's guide will unlock the secrets to a green thumb. Click now and become an expert gardener today!]]></summary>
         <author>
             <name>Ayesha Aziz</name>
         </author>
