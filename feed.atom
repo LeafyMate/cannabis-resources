@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T00:57:55.155Z</updated>
+    <updated>2024-04-28T01:03:03.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Achieving Optimal Soil Nutrient Balance For Cannabis Cultivation]]></title>
+        <id>https://leafymate.com/resources/?p=18850</id>
+        <link href="https://leafymate.com/resources/growing/soil-nutrient-balance"/>
+        <updated>2024-04-27T23:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to achieve the optimal soil nutrient balance for your cannabis plants and unlock their full potential. Start growing healthier and more robust plants today with our expert tips!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Soil Aeration For Healthy Cannabis Growth]]></title>
+        <id>https://leafymate.com/resources/?p=18844</id>
+        <link href="https://leafymate.com/resources/growing/soil-aeration-techniques"/>
+        <updated>2024-04-27T22:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to enhance your cannabis growth with effective soil aeration techniques. Optimize your soil for healthier plants today! Click now to discover the key to successful cannabis cultivation.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Benefits Of Composting For Cannabis Soil Preparation]]></title>
+        <id>https://leafymate.com/resources/?p=18846</id>
+        <link href="https://leafymate.com/resources/growing/composting-for-cannabis-soil"/>
+        <updated>2024-04-27T20:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Transform your cannabis soil preparation with the benefits of composting! Learn how to boost plant health and yields by incorporating compost into your growing routine. Click here to discover more today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Cannabis Soil Health With Cover Crops]]></title>
+        <id>https://leafymate.com/resources/?p=18848</id>
+        <link href="https://leafymate.com/resources/growing/cover-crops-for-cannabis-soil"/>
+        <updated>2024-04-27T15:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to enhance your cannabis soil health with cover crops and grow healthier plants for a better harvest! Discover the secrets to success in our informative guide. Start boosting your yields today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Importance Of Organic Soil Amendments For Cannabis Cultivation]]></title>
         <id>https://leafymate.com/resources/?p=18842</id>
@@ -682,46 +722,6 @@
         <link href="https://leafymate.com/resources/growing/harvesting-outdoor-cannabis"/>
         <updated>2024-03-29T17:24:00.000Z</updated>
         <summary type="html"><![CDATA[Learn the expert secrets of harvesting outdoor cannabis plants and become a pro yourself. From perfect timing to essential techniques, this article has all you need to know. Don't miss out on maximizing your harvest - click now!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective Strategies For Indoor Cannabis Pest Control]]></title>
-        <id>https://leafymate.com/resources/?p=18375</id>
-        <link href="https://leafymate.com/resources/growing/indoor-cannabis-pest-control"/>
-        <updated>2024-03-28T23:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Keep your indoor cannabis garden pest-free with these effective strategies for indoor cannabis pest control. Learn how to protect your plants and improve your yield today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Your Own Cannabis Greenhouse For Outdoor Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=18377</id>
-        <link href="https://leafymate.com/resources/growing/diy-cannabis-greenhouse"/>
-        <updated>2024-03-28T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build your own DIY cannabis greenhouse and unlock the full potential of outdoor cultivation. Get expert tips and tricks for abundant growth. Start growing today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective Pest And Disease Control For Outdoor Cannabis Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=18381</id>
-        <link href="https://leafymate.com/resources/growing/pest-and-disease-control"/>
-        <updated>2024-03-28T19:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to protect your outdoor cannabis crops from pests and diseases with expert techniques. Keep your plants healthy and thriving with effective pest and disease control methods. Click here for expert tips to safeguard your harvest!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Benefits Of Organic Cannabis Growing For Outdoor Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=18379</id>
-        <link href="https://leafymate.com/resources/growing/organic-cannabis-growing"/>
-        <updated>2024-03-28T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the Secrets of Organic Cannabis Growing for Outdoor Cultivation and Boost Your Yields Naturally. Click Now to Maximize Quality and Quantity!]]></summary>
         <author>
             <name>Ayesha Aziz</name>
         </author>

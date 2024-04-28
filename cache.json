@@ -6,6 +6,46 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=18850",
+          "author": "Ayesha Aziz",
+          "description": "Learn how to achieve the optimal soil nutrient balance for your cannabis plants and unlock their full potential. Start growing healthier and more robust plants today with our expert tips!",
+          "link": "https://leafymate.com/resources/growing/soil-nutrient-balance",
+          "publishedOn": "2024-04-27T23:36:00.000Z",
+          "wordCount": 5197,
+          "title": "Achieving Optimal Soil Nutrient Balance For Cannabis Cultivation",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/soil-nutrient-balance-nRn0klP2.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18844",
+          "author": "Ayesha Aziz",
+          "description": "Learn how to enhance your cannabis growth with effective soil aeration techniques. Optimize your soil for healthier plants today! Click now to discover the key to successful cannabis cultivation.",
+          "link": "https://leafymate.com/resources/growing/soil-aeration-techniques",
+          "publishedOn": "2024-04-27T22:14:00.000Z",
+          "wordCount": 5049,
+          "title": "Improving Soil Aeration For Healthy Cannabis Growth",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/soil-aeration-techniques.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18846",
+          "author": "Ayesha Aziz",
+          "description": "Transform your cannabis soil preparation with the benefits of composting! Learn how to boost plant health and yields by incorporating compost into your growing routine. Click here to discover more today!",
+          "link": "https://leafymate.com/resources/growing/composting-for-cannabis-soil",
+          "publishedOn": "2024-04-27T20:22:00.000Z",
+          "wordCount": 5040,
+          "title": "The Benefits Of Composting For Cannabis Soil Preparation",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/composting-for-cannabis-soil-5mNrUsaz.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18848",
+          "author": "Ayesha Aziz",
+          "description": "Learn how to enhance your cannabis soil health with cover crops and grow healthier plants for a better harvest! Discover the secrets to success in our informative guide. Start boosting your yields today!",
+          "link": "https://leafymate.com/resources/growing/cover-crops-for-cannabis-soil",
+          "publishedOn": "2024-04-27T15:19:00.000Z",
+          "wordCount": 5251,
+          "title": "Enhancing Cannabis Soil Health With Cover Crops",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cover-crops-for-cannabis-soil-nnbdtwL1.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=18842",
           "author": "Ayesha Aziz",
           "description": "Enhance your cannabis cultivation with the importance of organic soil amendments. Discover how these essential elements can boost plant health and increase yields. Click now to learn more!",
@@ -684,46 +724,6 @@
           "wordCount": 5765,
           "title": "When And How To Harvest Outdoor Cannabis Plants",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/harvesting-outdoor-cannabis-ZBkzV5IV.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=18375",
-          "author": "Ayesha Aziz",
-          "description": "Keep your indoor cannabis garden pest-free with these effective strategies for indoor cannabis pest control. Learn how to protect your plants and improve your yield today!",
-          "link": "https://leafymate.com/resources/growing/indoor-cannabis-pest-control",
-          "publishedOn": "2024-03-28T23:54:00.000Z",
-          "wordCount": 5343,
-          "title": "Effective Strategies For Indoor Cannabis Pest Control",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/indoor-cannabis-pest-control-Ob9bPz3N.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=18377",
-          "author": "Ayesha Aziz",
-          "description": "Learn how to build your own DIY cannabis greenhouse and unlock the full potential of outdoor cultivation. Get expert tips and tricks for abundant growth. Start growing today!",
-          "link": "https://leafymate.com/resources/growing/diy-cannabis-greenhouse",
-          "publishedOn": "2024-03-28T22:00:00.000Z",
-          "wordCount": 5386,
-          "title": "Building Your Own Cannabis Greenhouse For Outdoor Cultivation",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/diy-cannabis-greenhouse.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=18381",
-          "author": "Ayesha Aziz",
-          "description": "Learn how to protect your outdoor cannabis crops from pests and diseases with expert techniques. Keep your plants healthy and thriving with effective pest and disease control methods. Click here for expert tips to safeguard your harvest!",
-          "link": "https://leafymate.com/resources/growing/pest-and-disease-control",
-          "publishedOn": "2024-03-28T19:07:00.000Z",
-          "wordCount": 5736,
-          "title": "Effective Pest And Disease Control For Outdoor Cannabis Cultivation",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/pest-and-disease-control-U1CKqN5u.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=18379",
-          "author": "Ayesha Aziz",
-          "description": "Unlock the Secrets of Organic Cannabis Growing for Outdoor Cultivation and Boost Your Yields Naturally. Click Now to Maximize Quality and Quantity!",
-          "link": "https://leafymate.com/resources/growing/organic-cannabis-growing",
-          "publishedOn": "2024-03-28T15:40:00.000Z",
-          "wordCount": 5591,
-          "title": "The Benefits Of Organic Cannabis Growing For Outdoor Cultivation",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/organic-cannabis-growing-Shn5gbFm.png"
         }
       ]
     }
