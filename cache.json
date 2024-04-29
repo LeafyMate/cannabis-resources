@@ -6,6 +6,46 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=18856",
+          "author": "Ayesha Aziz",
+          "description": "Uncover the secrets to successful cannabis cultivation with soil testing! Learn how to optimize your grow, increase yields, and maximize quality. Click now to unlock the importance of soil testing for cannabis cultivation!",
+          "link": "https://leafymate.com/resources/growing/soil-testing-for-cannabis",
+          "publishedOn": "2024-04-28T20:15:00.000Z",
+          "wordCount": 4910,
+          "title": "The Importance Of Soil Testing For Cannabis Cultivation",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/soil-testing-for-cannabis-mK7iu3Vp.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18858",
+          "author": "Ayesha Aziz",
+          "description": "Unleash the full potential of your cannabis plants with the best nutrients for growth. Learn how to nurture your plants for optimal results and watch them thrive like never before. Click here to discover the essential tips now!",
+          "link": "https://leafymate.com/resources/growing/best-nutrients-for-cannabis",
+          "publishedOn": "2024-04-28T19:02:00.000Z",
+          "wordCount": 4914,
+          "title": "The Best Nutrients For Cannabis Growth",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/best-nutrients-for-cannabis-OBEE6of9.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18852",
+          "author": "Ayesha Aziz",
+          "description": "Looking to boost your cannabis plant growth? Learn the most effective soil sterilization methods for optimal results. Click now to maximize your yield and plant health!",
+          "link": "https://leafymate.com/resources/growing/soil-sterilization-methods",
+          "publishedOn": "2024-04-28T18:43:00.000Z",
+          "wordCount": 4973,
+          "title": "Effective Soil Sterilization Methods For Cannabis Cultivation",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/soil-sterilization-methods.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=18854",
+          "author": "Ayesha Aziz",
+          "description": "Discover the key techniques to enhance soil drainage for your cannabis plants and watch them flourish! Master the art of optimizing soil conditions with expert tips and tricks. Click here to elevate your cultivation game now!",
+          "link": "https://leafymate.com/resources/growing/soil-drainage-techniques",
+          "publishedOn": "2024-04-28T14:35:00.000Z",
+          "wordCount": 5072,
+          "title": "Improving Soil Drainage For Successful Cannabis Cultivation",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/soil-drainage-techniques-QDd5LCmw.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=18850",
           "author": "Ayesha Aziz",
           "description": "Learn how to achieve the optimal soil nutrient balance for your cannabis plants and unlock their full potential. Start growing healthier and more robust plants today with our expert tips!",
@@ -684,46 +724,6 @@
           "wordCount": 5573,
           "title": "Exploring The Best Cannabis Strains For Hydroponic Growth",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/hydroponic-cannabis-strains.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=18389",
-          "author": "Ayesha Aziz",
-          "description": "Unlock the potential of hydroponic cannabis with the ideal growing medium! Learn how to achieve impressive yields and become a master cultivator. Get started today and unleash your green thumb for bountiful harvests!",
-          "link": "https://leafymate.com/resources/growing/hydroponic-cannabis-medium",
-          "publishedOn": "2024-03-29T20:38:00.000Z",
-          "wordCount": 5618,
-          "title": "Choosing The Best Growing Medium For Hydroponic Cannabis",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/hydroponic-cannabis-medium.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=18385",
-          "author": "Ayesha Aziz",
-          "description": "Unlock the full potential of your hydroponic cannabis with the perfect nutrients! Discover the secret to vibrant plants and choose the right nutrients for optimal growth. Click now to learn more and maximize your harvest!",
-          "link": "https://leafymate.com/resources/growing/hydroponic-cannabis-nutrients",
-          "publishedOn": "2024-03-29T19:30:00.000Z",
-          "wordCount": 5368,
-          "title": "Choosing The Right Nutrients For Hydroponic Cannabis",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/hydroponic-cannabis-nutrients-IgWnIiKV.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=18387",
-          "author": "Ayesha Aziz",
-          "description": "Maximize your indoor cannabis yields with expert harvesting techniques. Click now to learn when and how to harvest your plants like a pro and boost your results!",
-          "link": "https://leafymate.com/resources/growing/indoor-cannabis-harvesting",
-          "publishedOn": "2024-03-29T18:44:00.000Z",
-          "wordCount": 5641,
-          "title": "When And How To Harvest Indoor Cannabis Plants",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/indoor-cannabis-harvesting.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=18383",
-          "author": "Ayesha Aziz",
-          "description": "Learn the expert secrets of harvesting outdoor cannabis plants and become a pro yourself. From perfect timing to essential techniques, this article has all you need to know. Don't miss out on maximizing your harvest - click now!",
-          "link": "https://leafymate.com/resources/growing/harvesting-outdoor-cannabis",
-          "publishedOn": "2024-03-29T17:24:00.000Z",
-          "wordCount": 5765,
-          "title": "When And How To Harvest Outdoor Cannabis Plants",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/harvesting-outdoor-cannabis-ZBkzV5IV.png"
         }
       ]
     }
