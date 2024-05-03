@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-02T00:58:49.721Z</updated>
+    <updated>2024-05-03T01:02:01.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Find Pain Relief At The Best Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=15713</id>
+        <link href="https://leafymate.com/resources/health/dispensaries-for-pain-relief"/>
+        <updated>2024-05-02T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for effective pain relief? Explore the top dispensaries near you for the ultimate solution. Don't let pain control your life - click here and find relief today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay Up-to-Date With The Latest Cannabis Industry News]]></title>
+        <id>https://leafymate.com/resources/?p=15714</id>
+        <link href="https://leafymate.com/resources/industry/cannabis-industry-news"/>
+        <updated>2024-05-02T19:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Stay informed and make well-informed decisions in the rapidly evolving cannabis industry with our latest updates, trends, and news. Click here to stay up-to-date with the latest cannabis industry news today!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover Anxiety Relief At Top Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=15715</id>
+        <link href="https://leafymate.com/resources/health/dispensaries-for-anxiety"/>
+        <updated>2024-05-02T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Find the best dispensaries for anxiety relief and experience life-changing calmness. Discover effective solutions at top dispensaries now. Click for a transformative experience!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Providing Comprehensive Medical Marijuana Education To Dispensary Staff]]></title>
+        <id>https://leafymate.com/resources/?p=15717</id>
+        <link href="https://leafymate.com/resources/health/medical-marijuana-education"/>
+        <updated>2024-05-02T15:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready to unlock the secrets of medical marijuana? Learn how to provide comprehensive education to dispensary staff and enhance patient care. Click here for the ultimate guide now!]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reviews Of The Best Marijuana Growing Supplies]]></title>
         <id>https://leafymate.com/resources/?p=15716</id>
@@ -682,46 +722,6 @@
         <link href="https://leafymate.com/resources/growing/cannabis-plant-training-techniques"/>
         <updated>2024-04-03T21:50:00.000Z</updated>
         <summary type="html"><![CDATA[Learn how to master cannabis plant training techniques to maximize your yields and enhance your harvest. Click now for expert tips and tricks that will take your cultivation skills to the next level!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cannabis-Infused BBQ Recipes: Grilling With A Twist]]></title>
-        <id>https://leafymate.com/resources/?p=18615</id>
-        <link href="https://leafymate.com/resources/cooking-and-recipes/cannabis-infused-bbq-recipes"/>
-        <updated>2024-04-02T23:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking to spice up your BBQ game? Check out these delicious cannabis-infused BBQ recipes that will take your grilling to the next level. Don't miss out on this unique twist - click now for more mouthwatering inspiration!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cannabis Education Seminars: Expanding Your Knowledge]]></title>
-        <id>https://leafymate.com/resources/?p=18611</id>
-        <link href="https://leafymate.com/resources/cannabis-101/cannabis-education-seminars"/>
-        <updated>2024-04-02T23:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the benefits of cannabis at our educational seminars! Expand your knowledge and unlock the potential of this powerful plant. Click now to join us and learn more about Cannabis Education Seminars today!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Parenting With Cannabis]]></title>
-        <id>https://leafymate.com/resources/?p=18609</id>
-        <link href="https://leafymate.com/resources/parenting-and-cannabis/cannabis-and-parenting-3"/>
-        <updated>2024-04-02T22:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to navigate the world of parenting with cannabis successfully! Find tips, tricks, and a perfect balance for your family. Click now to discover more about cannabis and parenting.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embark On Exciting Cannabis Tours: Unveiling Cannabis-Friendly Destinations]]></title>
-        <id>https://leafymate.com/resources/?p=18607</id>
-        <link href="https://leafymate.com/resources/lifestyle/cannabis-tours"/>
-        <updated>2024-04-02T22:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Embark on an unforgettable journey with our ultimate guide to cannabis-friendly destinations and exciting tours. Discover a world of adventure and relaxation like never before - click now to explore the best Cannabis Tours available!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
