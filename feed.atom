@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-05T01:03:10.568Z</updated>
+    <updated>2024-05-06T01:00:27.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Importance Of Cannabis Product Knowledge For Dispensary Staff]]></title>
+        <id>https://leafymate.com/resources/?p=15730</id>
+        <link href="https://leafymate.com/resources/cannabis-business/cannabis-product-knowledge"/>
+        <updated>2024-05-05T18:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Enhance Your Dispensary Experience with Cannabis Product Knowledge. Uncover the Key Secrets Today! Click now for a comprehensive guide on improving your staff's expertise and providing exceptional customer service.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effective Cannabis Sales Techniques For Dispensary Staff]]></title>
+        <id>https://leafymate.com/resources/?p=15731</id>
+        <link href="https://leafymate.com/resources/cannabis-business/cannabis-sales-techniques"/>
+        <updated>2024-05-05T17:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to boost your cannabis sales and increase customer satisfaction with these effective dispensary staff techniques. Click now to drive revenue and become a pro at cannabis sales!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Benefits Of Installing Alarm Systems In Marijuana Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=15727</id>
+        <link href="https://leafymate.com/resources/cannabis-business/dispensary-alarm-systems"/>
+        <updated>2024-05-05T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Protect your marijuana dispensary and ensure peace of mind with the top advantages of installing alarm systems. Click here to discover how dispensary alarm systems can deter theft and safeguard your business!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing The Right Security Cameras For Your Cannabis Dispensary]]></title>
+        <id>https://leafymate.com/resources/?p=15729</id>
+        <link href="https://leafymate.com/resources/cannabis-business/cannabis-dispensary-security-cameras"/>
+        <updated>2024-05-05T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Ensure the safety of your cannabis dispensary and customers with the right security cameras. Discover how to choose the perfect ones for your business today! Don't miss out on this essential guide.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Cannabis Industry Regulations: Essential Training For Dispensary Staff]]></title>
         <id>https://leafymate.com/resources/?p=15718</id>
