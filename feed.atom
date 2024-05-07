@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-06T01:00:27.122Z</updated>
+    <updated>2024-05-07T00:59:31.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Providing Access To Reliable Cannabis Education Resources For Dispensary Staff]]></title>
+        <id>https://leafymate.com/resources/?p=15733</id>
+        <link href="https://leafymate.com/resources/cannabis-101/cannabis-education-resources"/>
+        <updated>2024-05-06T19:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Enhance dispensary staff expertise with reliable cannabis education resources. Elevate your game and provide top-notch service. Click now to access the best resources!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proper Cannabis Product Storage: Training Dispensary Staff For Optimal Preservation]]></title>
+        <id>https://leafymate.com/resources/?p=15736</id>
+        <link href="https://leafymate.com/resources/cannabis-business/cannabis-product-storage"/>
+        <updated>2024-05-06T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the secrets to optimal cannabis product storage! Train your dispensary staff and preserve freshness with these expert tips. Click now for maximum potency!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Cannabis Dosage: Training Dispensary Staff To Provide Guidance]]></title>
+        <id>https://leafymate.com/resources/?p=15734</id>
+        <link href="https://leafymate.com/resources/health/cannabis-dosage-guidance"/>
+        <updated>2024-05-06T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the ultimate guide to cannabis dosage guidance! Empower dispensary staff with expert training to find your perfect high. Click now and master the art of cannabis dosing for an enhanced experience today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Providing Exceptional Customer Service In A Marijuana Dispensary]]></title>
+        <id>https://leafymate.com/resources/?p=15732</id>
+        <link href="https://leafymate.com/resources/cannabis-business/cannabis-customer-service"/>
+        <updated>2024-05-06T16:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to provide exceptional customer service in a marijuana dispensary and elevate your experience. Boost customer satisfaction with expert tips on cannabis customer service. Click here to become a pro!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Importance Of Cannabis Product Knowledge For Dispensary Staff]]></title>
         <id>https://leafymate.com/resources/?p=15730</id>
