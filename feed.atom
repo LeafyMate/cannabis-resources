@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-09T00:59:53.125Z</updated>
+    <updated>2024-05-10T00:59:46.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Security At Your Marijuana Dispensary]]></title>
+        <id>https://leafymate.com/resources/?p=15745</id>
+        <link href="https://leafymate.com/resources/cannabis-business/marijuana-dispensary-security"/>
+        <updated>2024-05-09T21:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Protect Your Marijuana Dispensary and Gain Customer Trust - Learn How to Enhance Security and Prevent Theft. Click Now to Safeguard Your Business!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Marijuana Dispensary Licensing]]></title>
+        <id>https://leafymate.com/resources/?p=15743</id>
+        <link href="https://leafymate.com/resources/cannabis-business/marijuana-dispensary-licensing"/>
+        <updated>2024-05-09T20:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to navigate marijuana dispensary licensing and stay ahead of the competition. Click now to get the inside scoop and successfully secure your license!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Medical Marijuana Can Improve Your Sleep]]></title>
+        <id>https://leafymate.com/resources/?p=16160</id>
+        <link href="https://leafymate.com/resources/health/sleep-improvement"/>
+        <updated>2024-05-09T16:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secret to better sleep with medical marijuana. Experience peaceful slumber and bid farewell to restless nights. Click now to discover how this revolutionary solution can improve your sleep!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effective Email Marketing Campaigns For Your Marijuana Dispensary]]></title>
+        <id>https://leafymate.com/resources/?p=15739</id>
+        <link href="https://leafymate.com/resources/cannabis-business/email-marketing-campaigns"/>
+        <updated>2024-05-09T16:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to skyrocket your sales with effective email marketing campaigns for your marijuana dispensary. Don't miss out on the secrets to success - read now and watch your business thrive!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring The Relationship Between Cannabis And Mental Health]]></title>
         <id>https://leafymate.com/resources/?p=15746</id>
