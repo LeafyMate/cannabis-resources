@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-10T00:59:46.579Z</updated>
+    <updated>2024-05-11T00:59:29.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Medical Marijuana: Reducing Inflammation The Natural Way]]></title>
+        <id>https://leafymate.com/resources/?p=16159</id>
+        <link href="https://leafymate.com/resources/health/reducing-inflammation"/>
+        <updated>2024-05-10T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the natural way to reduce inflammation with medical marijuana, without harmful side effects. Click here to learn how and improve your well-being today!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Neuroprotective Properties Of Medical Marijuana]]></title>
+        <id>https://leafymate.com/resources/?p=16161</id>
+        <link href="https://leafymate.com/resources/health/neuroprotective-properties"/>
+        <updated>2024-05-10T20:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the remarkable neuroprotective benefits of medical marijuana and safeguard your brain health today. Click now to discover its potential and protect your future.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Medical Marijuana For Seizure Control]]></title>
+        <id>https://leafymate.com/resources/?p=16158</id>
+        <link href="https://leafymate.com/resources/health/seizure-control"/>
+        <updated>2024-05-10T17:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the Power of Medical Marijuana for Seizure Control: Discover the Potential Benefits and Latest Research. Take Control of Your Health Now!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Customer Loyalty Through Effective Programs For Your Marijuana Dispensary]]></title>
+        <id>https://leafymate.com/resources/?p=16162</id>
+        <link href="https://leafymate.com/resources/cannabis-business/customer-loyalty-programs"/>
+        <updated>2024-05-10T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Boost Sales & Foster Lasting Relationships: Unleash the Power of Customer Loyalty Programs for Your Marijuana Dispensary. Click Now to Build a Stronger Connection with Your Customers!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enhancing Security At Your Marijuana Dispensary]]></title>
         <id>https://leafymate.com/resources/?p=15745</id>
