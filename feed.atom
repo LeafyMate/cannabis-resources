@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-11T00:59:29.949Z</updated>
+    <updated>2024-05-12T01:05:03.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crafting An Effective Content Marketing Strategy For Your Marijuana Dispensary]]></title>
+        <id>https://leafymate.com/resources/?p=16167</id>
+        <link href="https://leafymate.com/resources/cannabis-business/content-marketing-strategy"/>
+        <updated>2024-05-11T21:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking to boost your marijuana dispensary's traffic and sales? Learn how to create a winning content marketing strategy with our expert tips. Click now for more!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medical Marijuana: A Natural Way To Stimulate Appetite]]></title>
+        <id>https://leafymate.com/resources/?p=16164</id>
+        <link href="https://leafymate.com/resources/health/appetite-stimulation"/>
+        <updated>2024-05-11T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Struggling with a lack of appetite? Learn how medical marijuana can naturally stimulate your appetite and enhance your well-being. Click here to discover the secret!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Is An Eighth Of Weed?]]></title>
+        <id>https://leafymate.com/resources/?p=16240</id>
+        <link href="https://leafymate.com/resources/cannabis-101/how-much-is-an-eighth"/>
+        <updated>2024-05-11T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Mystery: How Much Is an Eighth of Weed? Find out the real price and elevate your smoking game like never before. Click now and unlock the secrets!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover Cannabis Dispensaries Near You]]></title>
+        <id>https://leafymate.com/resources/?p=16163</id>
+        <link href="https://leafymate.com/resources/cannabis-business/cannabis-dispensaries-near-me"/>
+        <updated>2024-05-11T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for cannabis dispensaries near you? Find the best in quality and service with a wide selection of products. Click here now to discover your perfect cannabis dispensary!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Medical Marijuana: Reducing Inflammation The Natural Way]]></title>
         <id>https://leafymate.com/resources/?p=16159</id>
