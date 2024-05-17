@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-16T01:00:35.883Z</updated>
+    <updated>2024-05-17T01:01:33.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -1004,46 +1004,6 @@
         <summary type="html"><![CDATA[Explore the economic impact of cannabis legalization on tax revenue and more. Uncover the potential of this thriving industry. Click here to learn more!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pros And Cons Of Cannabis Legalization]]></title>
-        <id>https://leafymate.com/resources/?p=18784</id>
-        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-legalization-pros-and-cons"/>
-        <updated>2024-04-16T23:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the benefits and downsides of cannabis legalization in this comprehensive article. Learn all about the pros and cons that come with legalizing cannabis. Click to read more now!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Water Culture (DWC) Technique For Hydroponic Cannabis]]></title>
-        <id>https://leafymate.com/resources/?p=18825</id>
-        <link href="https://leafymate.com/resources/growing/hydroponic-cannabis-dwc"/>
-        <updated>2024-04-16T23:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the secrets to growing hydroponic cannabis using the Deep Water Culture technique for optimal yields and plant health. Master DWC with our comprehensive guide today! Start growing your best cannabis crop yet.]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Impact Of Cannabis Legalization]]></title>
-        <id>https://leafymate.com/resources/?p=18788</id>
-        <link href="https://leafymate.com/resources/industry/cannabis-legalization-impact"/>
-        <updated>2024-04-16T23:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the far-reaching effects of cannabis legalization on society, economy, and health. Dive into the truth behind the buzz surrounding the impact of cannabis legalization. Click to learn more now!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Beginner Cannabis Strains: A Guide For New Users]]></title>
-        <id>https://leafymate.com/resources/?p=18643</id>
-        <link href="https://leafymate.com/resources/cannabis-101/best-beginner-cannabis-strains"/>
-        <updated>2024-04-16T23:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking to explore the world of cannabis? Check out our guide featuring the best beginner cannabis strains to get started on your journey. Find the perfect strain for you and elevate your experience today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
         </author>
     </entry>
 </feed>
