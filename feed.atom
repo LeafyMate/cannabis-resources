@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-19T01:05:12.704Z</updated>
+    <updated>2024-05-20T01:01:25.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -924,46 +924,6 @@
         <summary type="html"><![CDATA[Discover how cannabis legalization is driving social justice and equality in our latest article. Learn more about the impact of this controversial topic and be part of the conversation for change! Click now to read more.]]></summary>
         <author>
             <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choosing The Right Organic Cannabis Fertilizers For Optimal Growth]]></title>
-        <id>https://leafymate.com/resources/?p=18824</id>
-        <link href="https://leafymate.com/resources/growing/organic-cannabis-fertilizers"/>
-        <updated>2024-04-19T23:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to boost your cannabis plants' growth with the right organic fertilizers! Find expert tips and recommendations for optimal results. Elevate your gardening game today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Art Of Low Stress Training For Cannabis Plants]]></title>
-        <id>https://leafymate.com/resources/?p=18832</id>
-        <link href="https://leafymate.com/resources/growing/cannabis-plant-lst"/>
-        <updated>2024-04-19T23:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn the art of Low Stress Training (LST) for your cannabis plants to boost yields and quality. Master expert techniques in this comprehensive guide and watch your plants thrive!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Soil Health With Organic Soil Amendments For Cannabis]]></title>
-        <id>https://leafymate.com/resources/?p=18828</id>
-        <link href="https://leafymate.com/resources/growing/organic-soil-amendments-2"/>
-        <updated>2024-04-19T23:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how organic soil amendments can revolutionize your cannabis cultivation! Discover the secrets to boosting plant health and yield naturally. Start enhancing your soil today for thriving cannabis plants!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding PH Levels In Hydroponic Cannabis Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=18822</id>
-        <link href="https://leafymate.com/resources/growing/hydroponic-cannabis-ph"/>
-        <updated>2024-04-19T22:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to optimize your hydroponic cannabis cultivation by understanding and controlling pH levels. Unlock the secrets to maximizing plant growth and potency with our expert tips. Click now to elevate your growing game!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
         </author>
     </entry>
 </feed>
