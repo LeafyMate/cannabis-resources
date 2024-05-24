@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-23T01:00:32.812Z</updated>
+    <updated>2024-05-24T01:01:07.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eighth Of An Ounce: How Much CBD Is In It?]]></title>
+        <id>https://leafymate.com/resources/?p=16266</id>
+        <link href="https://leafymate.com/resources/cbd/cbd-dosage-guide"/>
+        <updated>2024-05-23T19:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for a CBD dosage guide? Find out the truth about how much CBD is in an eighth of an ounce. Unlock the secrets and make informed choices. Click now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Different Cannabis Strains: The Quarter Ounce Perspective]]></title>
+        <id>https://leafymate.com/resources/?p=16265</id>
+        <link href="https://leafymate.com/resources/cannabis-101/quarter-ounce-of-cannabis-different-strains"/>
+        <updated>2024-05-23T17:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Find your ideal cannabis strain with our Quarter Ounce Perspective! Explore the vast variety of uplifting sativas and relaxing indicas to enhance your experience. Click now to discover the perfect quarter ounce of cannabis for you!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Health Benefits Of An Eighth Of An Ounce Of Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=16269</id>
+        <link href="https://leafymate.com/resources/health/health-benefits-of-cannabis"/>
+        <updated>2024-05-23T17:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the hidden health benefits of cannabis with just an eighth of an ounce! Learn how this potent plant can improve your well-being and click now to unleash its natural wonders.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Growing Cannabis At Home: Maximizing Your Yield With An Eighth Of An Ounce]]></title>
+        <id>https://leafymate.com/resources/?p=16267</id>
+        <link href="https://leafymate.com/resources/growing/growing-cannabis-at-home"/>
+        <updated>2024-05-23T16:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn the art of growing cannabis at home and discover how to maximize your yield with just an eighth of an ounce. Uncover the secrets to a bountiful harvest and start cultivating your own high-quality stash today! Click here for expert tips and tricks.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlocking Business Opportunities In The Quarter Ounce Cannabis Market]]></title>
         <id>https://leafymate.com/resources/?p=16261</id>
@@ -922,46 +962,6 @@
         <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-awareness-initiatives"/>
         <updated>2024-04-24T22:25:00.000Z</updated>
         <summary type="html"><![CDATA[Uncover groundbreaking cannabis awareness initiatives making a difference in the industry. Explore how these impactful projects are shaping the future of cannabis education. Click now to stay informed and support positive change!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Global Perspective: Cannabis Legalization Around The World]]></title>
-        <id>https://leafymate.com/resources/?p=18802</id>
-        <link href="https://leafymate.com/resources/history-and-culture/cannabis-legalization-around-the-world"/>
-        <updated>2024-04-23T23:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the latest updates on cannabis legalization around the world and see how attitudes are shifting globally. Stay informed on this growing trend by reading our in-depth analysis now!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empowering Through Education: Cannabis Programs And Resources]]></title>
-        <id>https://leafymate.com/resources/?p=18808</id>
-        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-education-programs"/>
-        <updated>2024-04-23T22:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash your potential with cannabis education programs that empower through valuable resources and knowledge. Discover the impact of these programs today! Join us in exploring the world of cannabis education.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prominent Cannabis Legalization Campaigns You Should Know]]></title>
-        <id>https://leafymate.com/resources/?p=18804</id>
-        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-legalization-campaigns"/>
-        <updated>2024-04-23T22:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn about the most influential cannabis legalization campaigns shaping the industry today. Stay informed, support the movement, and be part of the change for a brighter future!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective Cannabis Policy Advocacy: Making A Difference]]></title>
-        <id>https://leafymate.com/resources/?p=18800</id>
-        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-policy-advocacy"/>
-        <updated>2024-04-23T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the power of effective cannabis policy advocacy in making a difference. Learn how to take action and create change today with our expert tips and strategies. Start advocating for better cannabis policies now!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
