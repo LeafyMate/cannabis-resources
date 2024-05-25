@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-24T01:01:07.837Z</updated>
+    <updated>2024-05-25T00:59:56.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Living The Cannabis Lifestyle: How To Make The Most Of An Eighth Of An Ounce]]></title>
+        <id>https://leafymate.com/resources/?p=16272</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-lifestyle-tips"/>
+        <updated>2024-05-24T20:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash your creativity and elevate your cannabis lifestyle with our ultimate guide to making the most of an eighth of an ounce. Discover expert tips, tricks, and innovative ideas to maximize your experience today! Click here for essential cannabis lifestyle tips now.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Cannabis Measurements: What Is An Eighth Of An Ounce?]]></title>
+        <id>https://leafymate.com/resources/?p=16270</id>
+        <link href="https://leafymate.com/resources/cannabis-101/cannabis-measurements"/>
+        <updated>2024-05-24T17:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the mysteries of cannabis measurements and learn what an eighth of an ounce really means. Elevate your knowledge and click here to uncover the secrets behind this essential measurement in the world of cannabis!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking The Potential Of CBD: What Can You Do With An Eighth Of An Ounce?]]></title>
+        <id>https://leafymate.com/resources/?p=16274</id>
+        <link href="https://leafymate.com/resources/cbd/cbd-and-its-uses"/>
+        <updated>2024-05-24T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the potential of CBD with just an eighth of an ounce! Explore the many uses and benefits of CBD, from relaxation to pain relief. Click here to discover what you can do with this powerful natural remedy.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eighth Of An Ounce: An Overview Of The Cannabis Industry]]></title>
+        <id>https://leafymate.com/resources/?p=16268</id>
+        <link href="https://leafymate.com/resources/industry/cannabis-industry-insights"/>
+        <updated>2024-05-24T12:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the secrets of the cannabis industry with an in-depth overview! Explore the eighth of an ounce and gain valuable insights into this booming market. Click now to discover more about the fascinating world of cannabis.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eighth Of An Ounce: How Much CBD Is In It?]]></title>
         <id>https://leafymate.com/resources/?p=16266</id>
@@ -924,46 +964,6 @@
         <summary type="html"><![CDATA[Ready to boost your organic cannabis harvest? Uncover expert tips and best practices for maximizing yield and quality in your harvest. Click here to learn more!]]></summary>
         <author>
             <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insights And Solutions: Cannabis Policy Think Tanks At Work]]></title>
-        <id>https://leafymate.com/resources/?p=18812</id>
-        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-policy-think-tanks"/>
-        <updated>2024-04-24T23:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the impact of cannabis policy think tanks on regulations and legalization. Learn from experts in the field for valuable insights and solutions. Click here to stay informed and shape the future of cannabis policies!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting Cannabis Rights: Legal Defense Groups You Can Trust]]></title>
-        <id>https://leafymate.com/resources/?p=18814</id>
-        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-legal-defense-groups"/>
-        <updated>2024-04-24T22:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Protect your cannabis rights with the help of trusted legal defense groups. Learn about advocates fighting for you. Click now to find out more!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making An Impact: Nonprofits Driving Cannabis Advocacy]]></title>
-        <id>https://leafymate.com/resources/?p=18816</id>
-        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-advocacy-nonprofits"/>
-        <updated>2024-04-24T22:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how nonprofits are driving change in cannabis advocacy and making a real impact. Explore the power of their work and get inspired to join the movement today!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Driving Cannabis Awareness: Impactful Initiatives And Projects]]></title>
-        <id>https://leafymate.com/resources/?p=18810</id>
-        <link href="https://leafymate.com/resources/advocacy-and-legislation/cannabis-awareness-initiatives"/>
-        <updated>2024-04-24T22:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover groundbreaking cannabis awareness initiatives making a difference in the industry. Explore how these impactful projects are shaping the future of cannabis education. Click now to stay informed and support positive change!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
         </author>
     </entry>
 </feed>
