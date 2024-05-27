@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-26T01:05:58.925Z</updated>
+    <updated>2024-05-27T01:02:26.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -882,46 +882,6 @@
         <link href="https://leafymate.com/resources/growing/cover-crops-for-cannabis-soil"/>
         <updated>2024-04-27T15:19:00.000Z</updated>
         <summary type="html"><![CDATA[Learn how to enhance your cannabis soil health with cover crops and grow healthier plants for a better harvest! Discover the secrets to success in our informative guide. Start boosting your yields today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance Of Organic Soil Amendments For Cannabis Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=18842</id>
-        <link href="https://leafymate.com/resources/growing/organic-soil-amendments"/>
-        <updated>2024-04-26T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enhance your cannabis cultivation with the importance of organic soil amendments. Discover how these essential elements can boost plant health and increase yields. Click now to learn more!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding And Testing Soil PH For Successful Cannabis Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=18840</id>
-        <link href="https://leafymate.com/resources/growing/testing-soil-ph-for-cannabis"/>
-        <updated>2024-04-26T18:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to test and adjust soil pH levels for successful cannabis cultivation. Ensure your plants thrive by understanding the importance of soil pH. Click now to master the art of testing soil pH for cannabis!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Different Methods Of Training Cannabis Plants]]></title>
-        <id>https://leafymate.com/resources/?p=18838</id>
-        <link href="https://leafymate.com/resources/growing/cannabis-plant-training-methods"/>
-        <updated>2024-04-26T18:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn the most effective cannabis plant training methods to boost your yield and quality. From LST to topping, find out how to maximize your harvest with our comprehensive guide. Start training your plants for success today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Must-Have Tools For Training Your Cannabis Plants]]></title>
-        <id>https://leafymate.com/resources/?p=18836</id>
-        <link href="https://leafymate.com/resources/growing/cannabis-plant-training-tools"/>
-        <updated>2024-04-26T17:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the full potential of your cannabis plants with these must-have training tools! From soil testers to pruning shears, find out how to grow healthier plants today. Elevate your gardening game and start cultivating thriving cannabis crops now!]]></summary>
         <author>
             <name>Ayesha Aziz</name>
         </author>
