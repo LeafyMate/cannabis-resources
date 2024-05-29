@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-28T01:01:25.795Z</updated>
+    <updated>2024-05-29T01:04:55.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grams To Pounds Conversion Tips: Handy Guide For Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=16287</id>
+        <link href="https://leafymate.com/resources/cannabis-101/grams-to-pounds-conversion-tips"/>
+        <updated>2024-05-28T23:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Master the art of converting grams to pounds for your cannabis measurements with this handy guide. Save time and ensure accurate results with our expert tips! Click here to become a pro in no time.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convenient Grams To Ounces Calculator]]></title>
+        <id>https://leafymate.com/resources/?p=16289</id>
+        <link href="https://leafymate.com/resources/cannabis-business/grams-to-ounces-calculator"/>
+        <updated>2024-05-28T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Convert grams to ounces effortlessly with our user-friendly Grams to Ounces Calculator. Simplify your conversion process and calculate with ease. Try it now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Different Cannabis Consumption Methods With An Eighth Of An Ounce]]></title>
+        <id>https://leafymate.com/resources/?p=16279</id>
+        <link href="https://leafymate.com/resources/cannabis-101/cannabis-consumption-methods"/>
+        <updated>2024-05-28T17:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the ultimate guide to cannabis consumption methods with just an eighth of an ounce. From vaping to edibles, explore the best ways to enjoy cannabis today! Click here for your ultimate cannabis experience.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Cannabis Business Opportunities: Making The Most Of An Eighth Of An Ounce]]></title>
+        <id>https://leafymate.com/resources/?p=16273</id>
+        <link href="https://leafymate.com/resources/cannabis-business/cannabis-business-opportunities-4"/>
+        <updated>2024-05-28T16:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets to success in the cannabis industry with just an eighth of an ounce. Explore lucrative business opportunities and maximize your potential today! Click here to learn more.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Living The Cannabis Lifestyle: How To Make The Most Of An Eighth Of An Ounce]]></title>
         <id>https://leafymate.com/resources/?p=16272</id>
@@ -802,46 +842,6 @@
         <link href="https://leafymate.com/resources/health/strains-for-pain-relief"/>
         <updated>2024-04-29T22:03:00.000Z</updated>
         <summary type="html"><![CDATA[Say goodbye to pain with the perfect strains for pain relief. Explore the benefits of different marijuana strains and find the ultimate relief you've been searching for today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance Of Soil Testing For Cannabis Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=18856</id>
-        <link href="https://leafymate.com/resources/growing/soil-testing-for-cannabis"/>
-        <updated>2024-04-28T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the secrets to successful cannabis cultivation with soil testing! Learn how to optimize your grow, increase yields, and maximize quality. Click now to unlock the importance of soil testing for cannabis cultivation!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Nutrients For Cannabis Growth]]></title>
-        <id>https://leafymate.com/resources/?p=18858</id>
-        <link href="https://leafymate.com/resources/growing/best-nutrients-for-cannabis"/>
-        <updated>2024-04-28T19:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the full potential of your cannabis plants with the best nutrients for growth. Learn how to nurture your plants for optimal results and watch them thrive like never before. Click here to discover the essential tips now!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective Soil Sterilization Methods For Cannabis Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=18852</id>
-        <link href="https://leafymate.com/resources/growing/soil-sterilization-methods"/>
-        <updated>2024-04-28T18:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking to boost your cannabis plant growth? Learn the most effective soil sterilization methods for optimal results. Click now to maximize your yield and plant health!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving Soil Drainage For Successful Cannabis Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=18854</id>
-        <link href="https://leafymate.com/resources/growing/soil-drainage-techniques"/>
-        <updated>2024-04-28T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the key techniques to enhance soil drainage for your cannabis plants and watch them flourish! Master the art of optimizing soil conditions with expert tips and tricks. Click here to elevate your cultivation game now!]]></summary>
         <author>
             <name>Ayesha Aziz</name>
         </author>
