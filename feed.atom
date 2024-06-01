@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-31T01:02:33.512Z</updated>
+    <updated>2024-06-01T01:05:38.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -802,36 +802,6 @@
         <link href="https://leafymate.com/resources/health/medical-marijuana-education"/>
         <updated>2024-05-02T15:26:00.000Z</updated>
         <summary type="html"><![CDATA[Ready to unlock the secrets of medical marijuana? Learn how to provide comprehensive education to dispensary staff and enhance patient care. Click here for the ultimate guide now!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reviews Of The Best Marijuana Growing Supplies]]></title>
-        <id>https://leafymate.com/resources/?p=15716</id>
-        <link href="https://leafymate.com/resources/growing/growing-supplies-reviews"/>
-        <updated>2024-05-01T21:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Ready to elevate your cannabis cultivation? Check out our reviews of the best marijuana growing supplies. Find the top-rated products that will take your grow operation to new heights and start growing like a pro today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover The Best Recreational Cannabis Shops]]></title>
-        <id>https://leafymate.com/resources/?p=15712</id>
-        <link href="https://leafymate.com/resources/cannabis-business/recreational-cannabis-shops"/>
-        <updated>2024-05-01T17:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the ultimate destination for recreational cannabis enthusiasts! Explore our handpicked selection of top-notch recreational cannabis shops near you and elevate your experience today. Don't miss out, start your journey now!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tips For Growing Cannabis For Edibles]]></title>
-        <id>https://leafymate.com/resources/?p=15703</id>
-        <link href="https://leafymate.com/resources/growing/growing-cannabis-for-edibles"/>
-        <updated>2024-05-01T15:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you interested in growing cannabis specifically for making mouthwatering edibles? Learn expert tips and techniques for cultivating the perfect ingredients for your homemade treats. Click here to discover how!]]></summary>
         <author>
             <name>Ayesha Aziz</name>
         </author>
