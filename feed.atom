@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-01T01:05:38.346Z</updated>
+    <updated>2024-06-02T01:06:04.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -764,46 +764,6 @@
         <summary type="html"><![CDATA[Upgrade your cannabis dispensary's security with cutting-edge access control systems. Protect your business and customers from potential threats. Click here to learn more!]]></summary>
         <author>
             <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find Pain Relief At The Best Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15713</id>
-        <link href="https://leafymate.com/resources/health/dispensaries-for-pain-relief"/>
-        <updated>2024-05-02T22:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for effective pain relief? Explore the top dispensaries near you for the ultimate solution. Don't let pain control your life - click here and find relief today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stay Up-to-Date With The Latest Cannabis Industry News]]></title>
-        <id>https://leafymate.com/resources/?p=15714</id>
-        <link href="https://leafymate.com/resources/industry/cannabis-industry-news"/>
-        <updated>2024-05-02T19:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay informed and make well-informed decisions in the rapidly evolving cannabis industry with our latest updates, trends, and news. Click here to stay up-to-date with the latest cannabis industry news today!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover Anxiety Relief At Top Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15715</id>
-        <link href="https://leafymate.com/resources/health/dispensaries-for-anxiety"/>
-        <updated>2024-05-02T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Find the best dispensaries for anxiety relief and experience life-changing calmness. Discover effective solutions at top dispensaries now. Click for a transformative experience!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Providing Comprehensive Medical Marijuana Education To Dispensary Staff]]></title>
-        <id>https://leafymate.com/resources/?p=15717</id>
-        <link href="https://leafymate.com/resources/health/medical-marijuana-education"/>
-        <updated>2024-05-02T15:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Ready to unlock the secrets of medical marijuana? Learn how to provide comprehensive education to dispensary staff and enhance patient care. Click here for the ultimate guide now!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
         </author>
     </entry>
 </feed>
