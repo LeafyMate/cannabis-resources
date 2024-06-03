@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-02T01:06:04.577Z</updated>
+    <updated>2024-06-03T01:03:13.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -722,46 +722,6 @@
         <link href="https://leafymate.com/resources/cannabis-business/secure-cannabis-dispensary-layout"/>
         <updated>2024-05-04T13:39:00.000Z</updated>
         <summary type="html"><![CDATA[Looking to design a secure layout for your cannabis dispensary? Learn how to keep your products safe and customers satisfied with these essential tips. Click now for expert advice!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing Effective Security Measures For Cannabis Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15728</id>
-        <link href="https://leafymate.com/resources/cannabis-business/security-measures-for-cannabis-dispensaries"/>
-        <updated>2024-05-03T22:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Protect your cannabis dispensary with effective security measures to safeguard your products. Learn how to implement foolproof strategies and ensure the safety of your business. Click here for essential tips now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ensuring Cannabis Product Safety: Training Dispensary Staff On Quality Control]]></title>
-        <id>https://leafymate.com/resources/?p=15719</id>
-        <link href="https://leafymate.com/resources/health/cannabis-product-safety"/>
-        <updated>2024-05-03T17:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Ensure Cannabis Product Safety: Train Dispensary Staff on Quality Control. Don't Compromise on Quality - Click Now to Learn How!]]></summary>
-        <author>
-            <name>Ayesha Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choosing The Right Safe For Your Cannabis Dispensary]]></title>
-        <id>https://leafymate.com/resources/?p=15726</id>
-        <link href="https://leafymate.com/resources/cannabis-business/cannabis-dispensary-safes"/>
-        <updated>2024-05-03T17:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for the perfect safe for your cannabis dispensary? Don't risk it! Click now to discover the must-have security measures and protect your green with top-notch cannabis dispensary safes.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Security With Access Control Systems In Cannabis Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=15724</id>
-        <link href="https://leafymate.com/resources/cannabis-business/access-control-systems"/>
-        <updated>2024-05-03T13:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade your cannabis dispensary's security with cutting-edge access control systems. Protect your business and customers from potential threats. Click here to learn more!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
