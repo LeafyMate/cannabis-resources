@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T01:02:18.546Z</updated>
+    <updated>2024-06-07T01:04:41.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -642,46 +642,6 @@
         <link href="https://leafymate.com/resources/cannabis-business/marijuana-dispensary-regulations"/>
         <updated>2024-05-08T13:57:00.000Z</updated>
         <summary type="html"><![CDATA[Stay compliant and thrive in the cannabis industry with our guide to marijuana dispensary regulations. Learn the latest laws and ensure success for your business. Click here to stay informed!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking The Power Of SEO For Your Marijuana Dispensary]]></title>
-        <id>https://leafymate.com/resources/?p=15738</id>
-        <link href="https://leafymate.com/resources/cannabis-business/seo-for-dispensaries"/>
-        <updated>2024-05-07T20:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Maximize your marijuana dispensary's visibility and attract more customers with powerful SEO strategies. Unlock the potential of SEO for dispensaries today and watch your online presence soar!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Strong Relationships Through Local Community Outreach]]></title>
-        <id>https://leafymate.com/resources/?p=15740</id>
-        <link href="https://leafymate.com/resources/cannabis-business/local-community-outreach"/>
-        <updated>2024-05-07T19:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build strong relationships through local community outreach and make a meaningful impact in your area. Discover the power of connection today and start making a difference! Click here for valuable insights.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Social Media Advertising For Your Marijuana Dispensary]]></title>
-        <id>https://leafymate.com/resources/?p=15737</id>
-        <link href="https://leafymate.com/resources/cannabis-business/social-media-advertising"/>
-        <updated>2024-05-07T15:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost your marijuana dispensary's reach with expert tips on social media advertising. Master the art of reaching a wider audience today and grow your business! Click here to learn more.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamlining Sales With An Online Ordering System For Your Marijuana Dispensary]]></title>
-        <id>https://leafymate.com/resources/?p=15742</id>
-        <link href="https://leafymate.com/resources/cannabis-business/online-ordering-system"/>
-        <updated>2024-05-07T13:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Simplify sales at your marijuana dispensary with an efficient online ordering system. Streamline processes, boost profits, and improve efficiency today! Click here to learn more.]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
