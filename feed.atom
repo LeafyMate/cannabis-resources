@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-07T01:04:41.172Z</updated>
+    <updated>2024-06-08T01:02:31.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Cannabis Legalization Is Influencing Social Lifestyles]]></title>
+        <id>https://leafymate.com/resources/?p=16302</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-legalization-and-social-lifestyle"/>
+        <updated>2024-06-07T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the Surprising Ways Cannabis Legalization is Transforming Social Lifestyles. Find out how this trend is reshaping society today - click to learn more!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Comprehensive Review Of CBD Gummies]]></title>
+        <id>https://leafymate.com/resources/?p=16318</id>
+        <link href="https://leafymate.com/resources/health/cbd-gummies-review"/>
+        <updated>2024-06-07T22:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for the best CBD gummies? Read our comprehensive review and uncover the benefits, flavors, and top brands that will leave you craving for more. Click now to discover your new favorite!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannabis Legalization: What You Need To Know]]></title>
+        <id>https://leafymate.com/resources/?p=16305</id>
+        <link href="https://leafymate.com/resources/cannabis-101/cannabis-legalization-what-you-need-to-know"/>
+        <updated>2024-06-07T22:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to stay informed about cannabis legalization? Our comprehensive guide has you covered! Discover the health benefits, regulations, and more. Click now to be in the know!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role Of CBD In Cannabis Legalization]]></title>
+        <id>https://leafymate.com/resources/?p=16299</id>
+        <link href="https://leafymate.com/resources/cbd/cbd-and-cannabis-legalization"/>
+        <updated>2024-06-07T21:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the Power of CBD: How It's Revolutionizing Cannabis Legalization. Learn more about the game-changing compound that's driving the movement – click here now!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CBD Legalization Guidelines: Understanding The Regulatory Landscape]]></title>
         <id>https://leafymate.com/resources/?p=16308</id>
@@ -602,46 +642,6 @@
         <link href="https://leafymate.com/resources/cannabis-business/email-marketing-campaigns"/>
         <updated>2024-05-09T16:08:00.000Z</updated>
         <summary type="html"><![CDATA[Learn how to skyrocket your sales with effective email marketing campaigns for your marijuana dispensary. Don't miss out on the secrets to success - read now and watch your business thrive!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring The Relationship Between Cannabis And Mental Health]]></title>
-        <id>https://leafymate.com/resources/?p=15746</id>
-        <link href="https://leafymate.com/resources/health/cannabis-and-mental-health"/>
-        <updated>2024-05-08T18:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Unravel the fascinating link between cannabis and mental health. Get to the bottom of the heated debate and gain valuable insights. Click now to explore this captivating relationship!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ensuring Compliance In A Marijuana Dispensary: Staff Training Tips]]></title>
-        <id>https://leafymate.com/resources/?p=15735</id>
-        <link href="https://leafymate.com/resources/cannabis-business/cannabis-compliance-training"/>
-        <updated>2024-05-08T16:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay compliant and successful in your marijuana dispensary with these essential staff training tips. Click now to learn how to ensure cannabis compliance and boost your business!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harnessing The Power Of Influencer Partnerships For Your Marijuana Dispensary]]></title>
-        <id>https://leafymate.com/resources/?p=15741</id>
-        <link href="https://leafymate.com/resources/cannabis-business/influencer-partnerships"/>
-        <updated>2024-05-08T14:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Boost your marijuana dispensary's visibility and sales with influencer partnerships. Learn how to harness the power of social media influencers and increase your success. Read now for proven strategies!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Marijuana Dispensary Regulations]]></title>
-        <id>https://leafymate.com/resources/?p=15744</id>
-        <link href="https://leafymate.com/resources/cannabis-business/marijuana-dispensary-regulations"/>
-        <updated>2024-05-08T13:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay compliant and thrive in the cannabis industry with our guide to marijuana dispensary regulations. Learn the latest laws and ensure success for your business. Click here to stay informed!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
