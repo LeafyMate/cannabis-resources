@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T01:04:58.227Z</updated>
+    <updated>2024-06-11T01:03:38.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Cannabis Legalization Policies: An Overview Of Current Regulations]]></title>
+        <id>https://leafymate.com/resources/?p=16311</id>
+        <link href="https://leafymate.com/resources/cannabis-101/cannabis-legalization-policies"/>
+        <updated>2024-06-10T23:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets of cannabis legalization policies! Dive into the world of medical and recreational use with our comprehensive overview. Click now to become an expert on current regulations.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Federal Cannabis Laws: What You Need To Know]]></title>
+        <id>https://leafymate.com/resources/?p=16309</id>
+        <link href="https://leafymate.com/resources/cannabis-business/federal-cannabis-laws"/>
+        <updated>2024-06-10T21:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Stay informed and avoid legal pitfalls with our guide to navigating federal cannabis laws. Learn what you need to know and unlock the secrets of this complex landscape. Click here now to stay up-to-date!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensuring Compliance With Health And Safety Regulations In The Cannabis Industry]]></title>
+        <id>https://leafymate.com/resources/?p=16314</id>
+        <link href="https://leafymate.com/resources/health/health-and-safety-regulations"/>
+        <updated>2024-06-10T18:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Stay compliant with health and safety regulations in the booming cannabis industry. Learn how to navigate the complex landscape and stay ahead of the game. Click here for expert advice on ensuring compliance and protecting your business.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding State Licensing Requirements In The Cannabis Industry]]></title>
+        <id>https://leafymate.com/resources/?p=16307</id>
+        <link href="https://leafymate.com/resources/cannabis-business/state-licensing-requirements"/>
+        <updated>2024-06-10T17:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock success in the cannabis industry by understanding state licensing requirements. Stay ahead of the game and navigate with ease. Click now for insider tips and secrets!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Cannabis Legalization Is Influencing Social Lifestyles]]></title>
         <id>https://leafymate.com/resources/?p=16302</id>
@@ -512,46 +552,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/dime-bag-meaning"/>
         <updated>2024-05-12T20:55:00.000Z</updated>
         <summary type="html"><![CDATA[Unveiling the Hidden Meaning of Dime Bag: Delve into the Cultural Significance. Explore the Secrets and Mystique Surrounding this Underground Icon. Click to Discover Now!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide To Growing Marijuana At Home]]></title>
-        <id>https://leafymate.com/resources/?p=16165</id>
-        <link href="https://leafymate.com/resources/growing/growing-marijuana-at-home"/>
-        <updated>2024-05-12T12:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to grow marijuana at home with this comprehensive beginner's guide. Start cultivating your own cannabis oasis today and become a master grower!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crafting An Effective Content Marketing Strategy For Your Marijuana Dispensary]]></title>
-        <id>https://leafymate.com/resources/?p=16167</id>
-        <link href="https://leafymate.com/resources/cannabis-business/content-marketing-strategy"/>
-        <updated>2024-05-11T21:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking to boost your marijuana dispensary's traffic and sales? Learn how to create a winning content marketing strategy with our expert tips. Click now for more!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medical Marijuana: A Natural Way To Stimulate Appetite]]></title>
-        <id>https://leafymate.com/resources/?p=16164</id>
-        <link href="https://leafymate.com/resources/health/appetite-stimulation"/>
-        <updated>2024-05-11T16:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Struggling with a lack of appetite? Learn how medical marijuana can naturally stimulate your appetite and enhance your well-being. Click here to discover the secret!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Much Is An Eighth Of Weed?]]></title>
-        <id>https://leafymate.com/resources/?p=16240</id>
-        <link href="https://leafymate.com/resources/cannabis-101/how-much-is-an-eighth"/>
-        <updated>2024-05-11T13:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Unveiling the Mystery: How Much Is an Eighth of Weed? Find out the real price and elevate your smoking game like never before. Click now and unlock the secrets!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
