@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T01:03:38.462Z</updated>
+    <updated>2024-06-12T01:03:34.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Cannabis Consumption Regulations: What Consumers Should Know]]></title>
+        <id>https://leafymate.com/resources/?p=16316</id>
+        <link href="https://leafymate.com/resources/lifestyle/cannabis-consumption-regulations"/>
+        <updated>2024-06-11T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Stay informed about cannabis consumption regulations and make sure you're following the rules! Check out this comprehensive guide to learn everything you need to know. Don't miss out, click here now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Promoting Social Equity In The Cannabis Industry: A Look At Social Equity Programs]]></title>
+        <id>https://leafymate.com/resources/?p=16312</id>
+        <link href="https://leafymate.com/resources/industry/social-equity-programs"/>
+        <updated>2024-06-11T23:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets to promoting social equity in the booming cannabis industry with innovative social equity programs. Level the playing field and create a more inclusive marketplace today! Click here for all the details.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obtaining Cultivation Permits: A Guide For Cannabis Growers]]></title>
+        <id>https://leafymate.com/resources/?p=16313</id>
+        <link href="https://leafymate.com/resources/growing/cultivation-permits"/>
+        <updated>2024-06-11T23:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready to take your cannabis growing skills to the next level? Learn how to obtain cultivation permits and join the thriving industry legally. Click here for the ultimate guide!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Industry Compliance Standards In The Cannabis Business]]></title>
+        <id>https://leafymate.com/resources/?p=16310</id>
+        <link href="https://leafymate.com/resources/industry/industry-compliance-standards"/>
+        <updated>2024-06-11T23:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to meet industry compliance standards in the fast-growing cannabis business and ensure your success. Stay ahead of the game by clicking now!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Cannabis Legalization Policies: An Overview Of Current Regulations]]></title>
         <id>https://leafymate.com/resources/?p=16311</id>
@@ -522,36 +562,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/dime-bag-size"/>
         <updated>2024-05-13T19:18:00.000Z</updated>
         <summary type="html"><![CDATA[Unlock the mysteries of dime bag sizes and gain valuable insights on dimensions and more. Click now to discover the secrets and level up your understanding!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find The Best Recreational Cannabis Stores In Your Area]]></title>
-        <id>https://leafymate.com/resources/?p=16166</id>
-        <link href="https://leafymate.com/resources/cannabis-business/recreational-cannabis-stores"/>
-        <updated>2024-05-12T23:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for the best recreational cannabis stores near you? Check out our ultimate guide to find top-notch dispensaries and unlock an elevated experience today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Price Of A Dime Bag: What To Expect]]></title>
-        <id>https://leafymate.com/resources/?p=16243</id>
-        <link href="https://leafymate.com/resources/cannabis-business/dime-bag-price"/>
-        <updated>2024-05-12T22:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secrets of the dime bag price and make smarter choices. Get the lowdown on what to expect before you buy. Don't miss out on this valuable information - click now!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring The Meaning Of Dime Bag]]></title>
-        <id>https://leafymate.com/resources/?p=16241</id>
-        <link href="https://leafymate.com/resources/cannabis-101/dime-bag-meaning"/>
-        <updated>2024-05-12T20:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Unveiling the Hidden Meaning of Dime Bag: Delve into the Cultural Significance. Explore the Secrets and Mystique Surrounding this Underground Icon. Click to Discover Now!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
