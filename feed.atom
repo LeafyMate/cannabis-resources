@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-14T01:03:09.566Z</updated>
+    <updated>2024-06-15T01:03:12.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Navigating Parenthood: Cannabis And Parenting]]></title>
+        <id>https://leafymate.com/resources/?p=17023</id>
+        <link href="https://leafymate.com/resources/parenting-and-cannabis/cannabis-and-parenting"/>
+        <updated>2024-06-14T18:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets of balancing parenthood and cannabis use. Dive into the challenges, benefits, and perspectives with our insightful article on cannabis and parenting. Click now to gain valuable insights!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Cannabis Consumption Regulations: What Consumers Should Know]]></title>
         <id>https://leafymate.com/resources/?p=16316</id>
