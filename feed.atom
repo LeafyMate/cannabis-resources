@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-21T01:02:50.639Z</updated>
+    <updated>2024-06-22T01:02:25.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Relieving Pain With CBD Topicals]]></title>
+        <id>https://leafymate.com/resources/?p=16323</id>
+        <link href="https://leafymate.com/resources/health/cbd-topicals-for-pain"/>
+        <updated>2024-06-21T23:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Experience the natural healing power of CBD topicals for pain relief. Say goodbye to aches and discomfort with our ultimate solution. Click now to find out more!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delicious CBD Edibles Recipes To Try]]></title>
+        <id>https://leafymate.com/resources/?p=16322</id>
+        <link href="https://leafymate.com/resources/lifestyle/cbd-edibles-recipes"/>
+        <updated>2024-06-21T23:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for delectable CBD edibles recipes? Explore our mouthwatering collection of irresistible treats that are as delicious as they are beneficial. Try these amazing CBD edibles today and satisfy your cravings!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding The Right CBD Oil Dosage For You]]></title>
+        <id>https://leafymate.com/resources/?p=16324</id>
+        <link href="https://leafymate.com/resources/health/cbd-oil-dosage-guide"/>
+        <updated>2024-06-21T23:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Find the perfect CBD oil dosage guide to experience the benefits of CBD today! From beginners to experienced users, discover your ideal dose and start your wellness journey now.]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner’s Guide To CBD Tinctures]]></title>
+        <id>https://leafymate.com/resources/?p=16321</id>
+        <link href="https://leafymate.com/resources/health/cbd-tinctures-guide"/>
+        <updated>2024-06-21T22:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets to natural wellness with our beginner's guide to CBD tinctures. Learn about the powerful benefits of CBD and start your journey to a healthier you today. Click now for the ultimate CBD tinctures guide!]]></summary>
+        <author>
+            <name>Tayyaba Amir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Benefits Of CBD Oil]]></title>
         <id>https://leafymate.com/resources/?p=16317</id>
@@ -454,46 +494,6 @@
         <summary type="html"><![CDATA[Learn the art of growing cannabis at home and discover how to maximize your yield with just an eighth of an ounce. Uncover the secrets to a bountiful harvest and start cultivating your own high-quality stash today! Click here for expert tips and tricks.]]></summary>
         <author>
             <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Business Opportunities In The Quarter Ounce Cannabis Market]]></title>
-        <id>https://leafymate.com/resources/?p=16261</id>
-        <link href="https://leafymate.com/resources/cannabis-business/quarter-ounce-cannabis-business-opportunities"/>
-        <updated>2024-05-22T22:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the Potential of the Quarter Ounce Cannabis Market for Your Business! Explore Lucrative Opportunities Today and Amplify Your Success. Click Now for Insights and Unlock New Heights in Your Venture!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embracing The Quarter Ounce Cannabis Lifestyle: Tips And Advice]]></title>
-        <id>https://leafymate.com/resources/?p=16258</id>
-        <link href="https://leafymate.com/resources/lifestyle/quarter-ounce-cannabis-lifestyle"/>
-        <updated>2024-05-22T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to embrace the perfect balance with a quarter ounce cannabis lifestyle. Get budget-friendly tips, expert advice, and discover the art of living your best life. Click now and start enjoying the ultimate cannabis experience!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding The Quantity: How Much Is A Quarter Ounce Of Cannabis]]></title>
-        <id>https://leafymate.com/resources/?p=16263</id>
-        <link href="https://leafymate.com/resources/cannabis-101/quarter-ounce-of-cannabis-how-much-is-it"/>
-        <updated>2024-05-22T14:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secrets of the cannabis world with this informative guide on understanding a quarter ounce of cannabis. Discover how much it is and elevate your knowledge now! Click to demystify the elusive quarter ounce and become a cannabis connoisseur.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring The Cannabis Industry: Insights On A Quarter Ounce]]></title>
-        <id>https://leafymate.com/resources/?p=16260</id>
-        <link href="https://leafymate.com/resources/industry/quarter-ounce-cannabis-industry-insights"/>
-        <updated>2024-05-22T14:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the hidden potential of the cannabis industry with our Quarter Ounce Cannabis Industry Insights. Learn about exciting opportunities and emerging trends in this booming market. Click now to gain exclusive access and seize your chance for success!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
         </author>
     </entry>
 </feed>
