@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-05T01:04:00.886Z</updated>
+    <updated>2024-07-06T01:02:33.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -332,46 +332,6 @@
         <link href="https://leafymate.com/resources/cbd/cbd-and-cannabis-legalization"/>
         <updated>2024-06-07T21:54:00.000Z</updated>
         <summary type="html"><![CDATA[Unlock the Power of CBD: How It's Revolutionizing Cannabis Legalization. Learn more about the game-changing compound that's driving the movement – click here now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CBD Legalization Guidelines: Understanding The Regulatory Landscape]]></title>
-        <id>https://leafymate.com/resources/?p=16308</id>
-        <link href="https://leafymate.com/resources/cbd/cbd-legalization-guidelines"/>
-        <updated>2024-06-05T21:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay informed and navigate the CBD legalization guidelines effortlessly with expert insights. Click now for clarity on the regulatory landscape surrounding CBD.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Challenges In The Cannabis Industry]]></title>
-        <id>https://leafymate.com/resources/?p=16303</id>
-        <link href="https://leafymate.com/resources/industry/cannabis-industry-challenges"/>
-        <updated>2024-06-05T21:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to navigate and thrive in the cannabis industry despite its challenges. Get expert strategies and insights today to boost your success! Click here now.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Benefits Of Cannabis Legalization]]></title>
-        <id>https://leafymate.com/resources/?p=16297</id>
-        <link href="https://leafymate.com/resources/cannabis-101/benefits-of-cannabis-legalization"/>
-        <updated>2024-06-05T21:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the Power of Cannabis Legalization: Explore the Revolutionary Benefits and Join the Movement for a Better Future. Click here to discover how this controversial plant is transforming society!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Examining The Economic Impact Of Cannabis Legalization]]></title>
-        <id>https://leafymate.com/resources/?p=16304</id>
-        <link href="https://leafymate.com/resources/industry/cannabis-legalization-economic-impact"/>
-        <updated>2024-06-05T19:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the Economic Power of Cannabis Legalization: Explore its Potential to Transform Industries and Boost Economies. Click now and uncover the untapped possibilities!]]></summary>
         <author>
             <name>Leafy Mate</name>
         </author>
