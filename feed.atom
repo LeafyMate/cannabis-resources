@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-08T01:06:10.476Z</updated>
+    <updated>2024-07-09T01:05:05.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unlocking The Potential Of Cannabis Tinctures]]></title>
+        <id>https://leafymate.com/resources/?p=16338</id>
+        <link href="https://leafymate.com/resources/health/cannabis-tinctures"/>
+        <updated>2024-07-08T23:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash the Full Power of Cannabis Tinctures for Ultimate Herbal Healing! Embark on a Mind-Blowing Journey and Click Now to Unlock Their Untapped Potential.]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smoking Vs Vaping: Which Is Better?]]></title>
+        <id>https://leafymate.com/resources/?p=16339</id>
+        <link href="https://leafymate.com/resources/health/smoking-vs-vaping"/>
+        <updated>2024-07-08T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the real deal between smoking and vaping - which one is truly better? Learn about their impact on your health and lifestyle in this eye-opening article. Click now to make an informed decision for a healthier future!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Benefits Of Vaping Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=16340</id>
+        <link href="https://leafymate.com/resources/health/vaping-cannabis"/>
+        <updated>2024-07-08T20:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the hidden benefits of vaping cannabis and elevate your experience. Explore the smoother high and incredible health advantages today. Click for an eye-opening journey into the world of vaping cannabis!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Comprehensive Guide To Edibles Dosage]]></title>
+        <id>https://leafymate.com/resources/?p=16337</id>
+        <link href="https://leafymate.com/resources/health/edibles-dosage-guide"/>
+        <updated>2024-07-08T18:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets to a blissful high with our comprehensive edibles dosage guide. From gummies to brownies, discover the perfect dose for your next adventure. Click now and elevate your experience!]]></summary>
+        <author>
+            <name>Leafy Mate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Beginner’s Guide To Growing Medical Marijuana At Home]]></title>
         <id>https://leafymate.com/resources/?p=16335</id>
