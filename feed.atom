@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-10T01:05:39.750Z</updated>
+    <updated>2024-07-11T01:05:49.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -332,46 +332,6 @@
         <link href="https://leafymate.com/resources/industry/industry-compliance-standards"/>
         <updated>2024-06-11T23:12:00.000Z</updated>
         <summary type="html"><![CDATA[Learn how to meet industry compliance standards in the fast-growing cannabis business and ensure your success. Stay ahead of the game by clicking now!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Cannabis Legalization Policies: An Overview Of Current Regulations]]></title>
-        <id>https://leafymate.com/resources/?p=16311</id>
-        <link href="https://leafymate.com/resources/cannabis-101/cannabis-legalization-policies"/>
-        <updated>2024-06-10T23:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secrets of cannabis legalization policies! Dive into the world of medical and recreational use with our comprehensive overview. Click now to become an expert on current regulations.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Federal Cannabis Laws: What You Need To Know]]></title>
-        <id>https://leafymate.com/resources/?p=16309</id>
-        <link href="https://leafymate.com/resources/cannabis-business/federal-cannabis-laws"/>
-        <updated>2024-06-10T21:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay informed and avoid legal pitfalls with our guide to navigating federal cannabis laws. Learn what you need to know and unlock the secrets of this complex landscape. Click here now to stay up-to-date!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ensuring Compliance With Health And Safety Regulations In The Cannabis Industry]]></title>
-        <id>https://leafymate.com/resources/?p=16314</id>
-        <link href="https://leafymate.com/resources/health/health-and-safety-regulations"/>
-        <updated>2024-06-10T18:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Stay compliant with health and safety regulations in the booming cannabis industry. Learn how to navigate the complex landscape and stay ahead of the game. Click here for expert advice on ensuring compliance and protecting your business.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding State Licensing Requirements In The Cannabis Industry]]></title>
-        <id>https://leafymate.com/resources/?p=16307</id>
-        <link href="https://leafymate.com/resources/cannabis-business/state-licensing-requirements"/>
-        <updated>2024-06-10T17:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock success in the cannabis industry by understanding state licensing requirements. Stay ahead of the game and navigate with ease. Click now for insider tips and secrets!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
         </author>
