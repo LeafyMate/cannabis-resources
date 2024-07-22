@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-21T01:10:37.735Z</updated>
+    <updated>2024-07-22T01:08:03.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -204,46 +204,6 @@
         <summary type="html"><![CDATA[Experience the natural power of CBD for pain relief. Say goodbye to discomfort and discover the soothing effects of CBD oil today. Click here to find your ultimate solution!]]></summary>
         <author>
             <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relieving Pain With CBD Topicals]]></title>
-        <id>https://leafymate.com/resources/?p=16323</id>
-        <link href="https://leafymate.com/resources/health/cbd-topicals-for-pain"/>
-        <updated>2024-06-21T23:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Experience the natural healing power of CBD topicals for pain relief. Say goodbye to aches and discomfort with our ultimate solution. Click now to find out more!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delicious CBD Edibles Recipes To Try]]></title>
-        <id>https://leafymate.com/resources/?p=16322</id>
-        <link href="https://leafymate.com/resources/lifestyle/cbd-edibles-recipes"/>
-        <updated>2024-06-21T23:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for delectable CBD edibles recipes? Explore our mouthwatering collection of irresistible treats that are as delicious as they are beneficial. Try these amazing CBD edibles today and satisfy your cravings!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding The Right CBD Oil Dosage For You]]></title>
-        <id>https://leafymate.com/resources/?p=16324</id>
-        <link href="https://leafymate.com/resources/health/cbd-oil-dosage-guide"/>
-        <updated>2024-06-21T23:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Find the perfect CBD oil dosage guide to experience the benefits of CBD today! From beginners to experienced users, discover your ideal dose and start your wellness journey now.]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide To CBD Tinctures]]></title>
-        <id>https://leafymate.com/resources/?p=16321</id>
-        <link href="https://leafymate.com/resources/health/cbd-tinctures-guide"/>
-        <updated>2024-06-21T22:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the secrets to natural wellness with our beginner's guide to CBD tinctures. Learn about the powerful benefits of CBD and start your journey to a healthier you today. Click now for the ultimate CBD tinctures guide!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
         </author>
     </entry>
 </feed>
