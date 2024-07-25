@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-24T01:06:30.911Z</updated>
+    <updated>2024-07-25T01:05:53.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -164,46 +164,6 @@
         <summary type="html"><![CDATA[Achieve a flawless complexion with CBD skincare and unlock the amazing benefits of nature. Discover how CBD can transform your skin today! Click now for radiant results!]]></summary>
         <author>
             <name>Tayyaba Amir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Potential Of Medical Cannabis For Cancer Treatment]]></title>
-        <id>https://leafymate.com/resources/?p=16328</id>
-        <link href="https://leafymate.com/resources/health/medical-cannabis-for-cancer"/>
-        <updated>2024-06-24T23:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the Revolutionary Potential of Medical Cannabis for Cancer Treatment. Explore the Latest Research and Find Hope Today!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring The Benefits Of Cannabis For Anxiety]]></title>
-        <id>https://leafymate.com/resources/?p=16326</id>
-        <link href="https://leafymate.com/resources/health/cannabis-and-anxiety"/>
-        <updated>2024-06-24T23:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Find relief from anxiety with cannabis: Uncover the proven benefits and decide if it's the solution you've been seeking. Click now to explore the power of cannabis for anxiety relief!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Lucrative Cannabis Business Opportunities]]></title>
-        <id>https://leafymate.com/resources/?p=16334</id>
-        <link href="https://leafymate.com/resources/cannabis-business/cannabis-business-opportunities-5"/>
-        <updated>2024-06-24T22:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock your financial potential with lucrative cannabis business opportunities. Explore this booming industry and turn your passion into profit today. Don't miss out, click here to learn more!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using CBD For Pain Relief]]></title>
-        <id>https://leafymate.com/resources/?p=16325</id>
-        <link href="https://leafymate.com/resources/cbd/cbd-for-pain-relief"/>
-        <updated>2024-06-24T22:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Experience the natural power of CBD for pain relief. Say goodbye to discomfort and discover the soothing effects of CBD oil today. Click here to find your ultimate solution!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
         </author>
     </entry>
 </feed>
