@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-01T01:11:55.713Z</updated>
+    <updated>2024-08-02T01:05:49.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -84,46 +84,6 @@
         <summary type="html"><![CDATA[Unlock the secrets to a blissful high with our comprehensive edibles dosage guide. From gummies to brownies, discover the perfect dose for your next adventure. Click now and elevate your experience!]]></summary>
         <author>
             <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide To Growing Medical Marijuana At Home]]></title>
-        <id>https://leafymate.com/resources/?p=16335</id>
-        <link href="https://leafymate.com/resources/growing/growing-medical-marijuana-at-home"/>
-        <updated>2024-07-02T23:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the ultimate beginner's guide to growing medical marijuana at home. Start cultivating your own potent medicine today and take control of your healing journey!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Relief: Cannabis For Chronic Pain Management]]></title>
-        <id>https://leafymate.com/resources/?p=16336</id>
-        <link href="https://leafymate.com/resources/health/cannabis-for-chronic-pain"/>
-        <updated>2024-07-02T22:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Say goodbye to chronic pain with the power of cannabis! Explore the benefits and effectiveness of using cannabis as a long-lasting pain management solution. Click here to discover relief now!]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking The Potential Of Cannabis For PTSD Treatment]]></title>
-        <id>https://leafymate.com/resources/?p=16332</id>
-        <link href="https://leafymate.com/resources/health/cannabis-for-ptsd"/>
-        <updated>2024-07-02T22:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the potential of cannabis for PTSD treatment and find hope for a brighter future. Discover how this natural remedy could revolutionize your journey to healing. Click here to learn more about the power of cannabis for PTSD.]]></summary>
-        <author>
-            <name>Leafy Mate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using CBD For Natural Anxiety Relief]]></title>
-        <id>https://leafymate.com/resources/?p=16329</id>
-        <link href="https://leafymate.com/resources/health/cbd-for-anxiety-relief"/>
-        <updated>2024-07-02T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Find natural anxiety relief with CBD. Say goodbye to stress and discover the power of CBD for relaxation. Click now for our groundbreaking guide!]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
         </author>
     </entry>
 </feed>
