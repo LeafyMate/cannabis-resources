@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-09T01:07:52.292Z</updated>
+    <updated>2024-08-10T01:07:29.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Effective Techniques For Growing Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=18663</id>
+        <link href="https://leafymate.com/resources/growing/growing-techniques"/>
+        <updated>2024-08-09T14:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Learn the most effective growing techniques for cannabis to cultivate top-quality plants effortlessly. From lighting to nutrients, master the art of cannabis cultivation with our expert tips! Start growing like a pro today.]]></summary>
+        <author>
+            <name>Ayesha Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fueling Your Fitness With Cannabis Edibles: Dosage And Benefits]]></title>
         <id>https://leafymate.com/resources/?p=18661</id>
