@@ -4,18 +4,7 @@
       "title": "Leafy Mate",
       "feedUrl": "https://leafymate.com/resources/feed",
       "siteUrl": "https://leafymate.com/resources",
-      "articles": [
-        {
-          "id": "https://leafymate.com/resources/?p=18659",
-          "author": "Ayesha Aziz",
-          "description": "Discover how cannabis edibles can boost your creativity! Learn about dosage, insights, and unleash your artistic potential. Click now to explore the perfect combination of edibles and creativity.",
-          "link": "https://leafymate.com/resources/art-and-entertainment/edibles-and-creativity",
-          "publishedOn": "2024-08-16T17:33:00.000Z",
-          "wordCount": 5002,
-          "title": "Exploring Creativity With Cannabis Edibles: Dosage And Insights",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/edibles-and-creativity-8kqYwVBa.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
