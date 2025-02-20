@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T01:15:19.389Z</updated>
+    <updated>2025-02-20T01:15:28.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 Cannabis Policy Reform Legislation: What Advocates Need to Know]]></title>
+        <id>https://leafymate.com/resources/?p=26831</id>
+        <link href="https://leafymate.com/resources/advocacy-and-legislation/2025-cannabis-policy-reform"/>
+        <updated>2025-02-19T19:29:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 cannabis policy reform legislation is shaping the future of marijuana legalization across the U.S. Learn about key policy changes, state-level updates, and advocacy efforts driving cannabis reform.]]></summary>
+        <author>
+            <name>Nimra Shakil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Cannabis Instagram Accounts to Follow in 2025]]></title>
         <id>https://leafymate.com/resources/?p=11939</id>
