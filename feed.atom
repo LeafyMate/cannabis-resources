@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T01:20:34.214Z</updated>
+    <updated>2025-04-04T01:20:21.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is a Spliff? Understanding the Basics of This Cannabis Classic]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/what-is-a-spliff-understanding-the-basics-of-this-cannabis-classic</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-a-spliff-understanding-the-basics-of-this-cannabis-classic"/>
+        <updated>2025-04-04T00:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Explore the definition, culture, and health aspects of spliffs in this comprehensive guide.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CBN vs CBD: A Comprehensive Comparison of Benefits and Uses]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/cbn-vs-cbd-a-comprehensive-comparison-of-benefits-and-uses</id>
+        <link href="https://leafymate.com/resources/cannabis-101/cbn-vs-cbd-a-comprehensive-comparison-of-benefits-and-uses"/>
+        <updated>2025-04-04T00:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Discover the key differences and benefits of CBN vs CBD for your wellness needs.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Weed Leaves: A Complete Tutorial on Identification and Benefits]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/understanding-weed-leaves-a-complete-tutorial-on-identification-and-benefits</id>
+        <link href="https://leafymate.com/resources/cannabis-101/understanding-weed-leaves-a-complete-tutorial-on-identification-and-benefits"/>
+        <updated>2025-04-03T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore the anatomy, types, and benefits of weed leaves for better cultivation and consumption.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You Need to Know About How Long Weed Stays in Your System]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/what-you-need-to-know-about-how-long-weed-stays-in-your-system</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-you-need-to-know-about-how-long-weed-stays-in-your-system"/>
+        <updated>2025-04-03T17:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how long weed stays in your system based on usage, testing methods, and individual factors.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is the Apple Fritter Strain? A Complete Overview]]></title>
         <id>https://leafymate.com/resources/cannabis-101/what-is-the-apple-fritter-strain-a-complete-overview</id>
