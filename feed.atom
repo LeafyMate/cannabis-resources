@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-06T01:25:43.039Z</updated>
+    <updated>2025-04-07T01:23:12.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is HHC? A Comprehensive Overview of Hexahydrocannabinol]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/what-is-hhc-a-comprehensive-overview-of-hexahydrocannabinol</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-hhc-a-comprehensive-overview-of-hexahydrocannabinol"/>
+        <updated>2025-04-07T00:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Discover what HHC is, its origins, effects, and potential benefits in this comprehensive overview.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Weed Measurements? A Comprehensive Guide to Understanding Cannabis Quantities]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/what-are-weed-measurements-a-comprehensive-guide-to-understanding-cannabis-quantities</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-are-weed-measurements-a-comprehensive-guide-to-understanding-cannabis-quantities"/>
+        <updated>2025-04-07T00:50:20.000Z</updated>
+        <summary type="html"><![CDATA[Learn essential weed measurements to make informed cannabis purchases and enhance your experience.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Find the Best Dispensaries Near Me: A Step-by-Step Guide]]></title>
         <id>https://leafymate.com/resources/cannabis-101/how-to-find-the-best-dispensaries-near-me-a-step-by-step-guide</id>
