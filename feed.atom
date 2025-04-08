@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-07T01:23:12.719Z</updated>
+    <updated>2025-04-08T01:20:59.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Determine How Much Is a Gram: A Step-by-Step Guide]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/how-to-determine-how-much-is-a-gram-a-step-by-step-guide</id>
+        <link href="https://leafymate.com/resources/cannabis-101/how-to-determine-how-much-is-a-gram-a-step-by-step-guide"/>
+        <updated>2025-04-08T00:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Discover how much is a gram in cannabis and cooking to make informed purchasing decisions.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Rainbow Sherbet Strain? A Complete Guide to Its Characteristics and Benefits]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/what-is-the-rainbow-sherbet-strain-a-complete-guide-to-its-characteristics-and-benefits</id>
+        <link href="https://leafymate.com/resources/cannabis-101/what-is-the-rainbow-sherbet-strain-a-complete-guide-to-its-characteristics-and-benefits"/>
+        <updated>2025-04-08T00:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Discover the vibrant rainbow sherbet strain, its effects, flavors, and therapeutic benefits.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is HHC? A Comprehensive Overview of Hexahydrocannabinol]]></title>
         <id>https://leafymate.com/resources/cannabis-101/what-is-hhc-a-comprehensive-overview-of-hexahydrocannabinol</id>
