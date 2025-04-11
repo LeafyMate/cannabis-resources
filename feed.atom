@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-10T01:21:00.843Z</updated>
+    <updated>2025-04-11T01:21:41.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Are Pre-Rolls? A Comprehensive Guide for New Consumers]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/what-are-pre-rolls-a-comprehensive-guide-for-new-consumers</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-are-pre-rolls-a-comprehensive-guide-for-new-consumers"/>
+        <updated>2025-04-11T00:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Discover the essentials of pre-rolls, their types, benefits, and what new consumers should know.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Understand How Long THCA Stays in Your System: A Comprehensive Guide]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/how-to-understand-how-long-thca-stays-in-your-system-a-comprehensive-guide</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/how-to-understand-how-long-thca-stays-in-your-system-a-comprehensive-guide"/>
+        <updated>2025-04-11T00:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Discover the factors affecting how long THCA stays in your system with our comprehensive guide.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You Need to Know About Cigarette Expiration: Understanding Shelf Life and Freshness]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/what-you-need-to-know-about-cigarette-expiration-understanding-shelf-life-and-freshness</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/what-you-need-to-know-about-cigarette-expiration-understanding-shelf-life-and-freshness"/>
+        <updated>2025-04-10T02:39:40.000Z</updated>
+        <summary type="html"><![CDATA[Discover the truth about cigarette expiration and shelf life to ensure optimal freshness.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Greening Out? A Complete Guide to Understanding This Cannabis Phenomenon]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/what-is-greening-out-a-complete-guide-to-understanding-this-cannabis-phenomenon</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/what-is-greening-out-a-complete-guide-to-understanding-this-cannabis-phenomenon"/>
+        <updated>2025-04-10T02:39:40.000Z</updated>
+        <summary type="html"><![CDATA[Learn what greening out is and how to recognize its symptoms and causes.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding and Managing High Thoughts: An In-Depth Tutorial]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/understanding-and-managing-high-thoughts-an-in-depth-tutorial</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/understanding-and-managing-high-thoughts-an-in-depth-tutorial"/>
+        <updated>2025-04-09T00:52:25.000Z</updated>
+        <summary type="html"><![CDATA[Explore the characteristics, implications, and management of high thoughts in cannabis users.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding and Managing High Thoughts: An In-Depth Tutorial]]></title>
         <id>https://leafymate.com/resources/cannabis-101/understanding-and-managing-high-thoughts-an-in-depth-tutorial</id>
