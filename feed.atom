@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T01:19:52.065Z</updated>
+    <updated>2025-04-13T02:49:02.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use THC Oil: A Step-by-Step Guide for New Consumers]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/how-to-use-thc-oil-a-step-by-step-guide-for-new-consumers</id>
+        <link href="https://leafymate.com/resources/cannabis-and-wellness/how-to-use-thc-oil-a-step-by-step-guide-for-new-consumers"/>
+        <updated>2025-04-13T00:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Discover essential insights on using THC oil safely and effectively for new consumers.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Determine How Much Is a Zip of Weed: A Step-by-Step Guide]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/how-to-determine-how-much-is-a-zip-of-weed-a-step-by-step-guide</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/how-to-determine-how-much-is-a-zip-of-weed-a-step-by-step-guide"/>
+        <updated>2025-04-13T00:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Explore how much a zip of weed costs and the factors that influence its pricing in this comprehensive guide.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Best Disposable Vape Devices of 2024]]></title>
         <id>https://leafymate.com/resources/cannabis-101/top-10-best-disposable-vape-devices-of-2024</id>
