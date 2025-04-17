@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T01:23:20.159Z</updated>
+    <updated>2025-04-17T01:22:17.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make Edibles: A Step-by-Step Guide for Beginners]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/how-to-make-edibles-a-step-by-step-guide-for-beginners</id>
+        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/how-to-make-edibles-a-step-by-step-guide-for-beginners"/>
+        <updated>2025-04-17T00:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to make edibles safely and enjoyably with our step-by-step beginner's guide.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Mouth Swab Test in 12 Hours: Essential Steps]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/how-to-pass-mouth-swab-test-in-12-hours-essential-steps</id>
+        <link href="https://leafymate.com/resources/cannabis-and-wellness/how-to-pass-mouth-swab-test-in-12-hours-essential-steps"/>
+        <updated>2025-04-17T00:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Learn effective strategies to pass a mouth swab test in just 12 hours.]]></summary>
+        <author>
+            <name>tely</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cross Faded: Understanding the Effects of Mixing Weed and Alcohol]]></title>
         <id>https://leafymate.com/resources/cannabis-101/cross-faded-understanding-the-effects-of-mixing-weed-and-alcohol</id>
@@ -324,16 +344,6 @@
         <summary type="html"><![CDATA[Smoking weed before a tattoo is a common choice for relaxation and pain relief, but it can also heighten discomfort or affect healing. This guide explores the benefits, risks, and expert perspectives to help you decide if cannabis is right for your tattoo session.]]></summary>
         <author>
             <name>Nimra Shakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legal Weed, Fewer Teens? Truth About Marijuana Use After Legalization]]></title>
-        <id>https://leafymate.com/resources/?p=26947</id>
-        <link href="https://leafymate.com/resources/advocacy-and-legislation/impact-of-marijuana-legalization-on-teens"/>
-        <updated>2025-03-17T15:03:00.000Z</updated>
-        <summary type="html"><![CDATA[For years, opponents of marijuana legalization argued that making cannabis legal for adults would lead to more teens using it. Many feared that easier access and social acceptance would encourage underage use. However, real-world data tells a different story, one that might surprise you. Across multiple states where cannabis has been legalized, studies show that...]]></summary>
-        <author>
-            <name>Tayyaba Amir</name>
         </author>
     </entry>
 </feed>
