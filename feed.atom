@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T01:22:17.945Z</updated>
+    <updated>2025-04-18T01:21:21.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[California Dispensary Los Angeles: A Comparative Analysis of Top Options]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/california-dispensary-los-angeles-a-comparative-analysis-of-top-options</id>
+        <link href="https://leafymate.com/resources/understanding-dispensaries/california-dispensary-los-angeles-a-comparative-analysis-of-top-options"/>
+        <updated>2025-04-18T00:31:34.000Z</updated>
+        <summary type="html"><![CDATA[Explore top California dispensaries in Los Angeles with our comparative analysis of options.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Recover from Edibles: Essential Steps for Relief]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/how-to-recover-from-edibles-essential-steps-for-relief</id>
+        <link href="https://leafymate.com/resources/general/how-to-recover-from-edibles-essential-steps-for-relief"/>
+        <updated>2025-04-18T00:31:34.000Z</updated>
+        <summary type="html"><![CDATA[Learn essential steps on how to recover from edibles and find relief after consumption.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make Edibles: A Step-by-Step Guide for Beginners]]></title>
         <id>https://leafymate.com/resources/cannabis-101/how-to-make-edibles-a-step-by-step-guide-for-beginners</id>
