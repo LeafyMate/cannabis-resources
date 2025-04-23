@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T01:22:50.468Z</updated>
+    <updated>2025-04-23T01:22:59.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Blunt? Definition, History, and Cultural Significance]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/what-is-a-blunt-definition-history-and-cultural-significance</id>
+        <link href="https://leafymate.com/resources/cannabis-community-and-influencers/what-is-a-blunt-definition-history-and-cultural-significance"/>
+        <updated>2025-04-23T00:19:59.000Z</updated>
+        <summary type="html"><![CDATA[Discover what a blunt is, along with its history and cultural significance in cannabis culture.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half Ounce of Weed Price: Dispensary vs. Street Comparison]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/half-ounce-of-weed-price-dispensary-vs-street-comparison</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/half-ounce-of-weed-price-dispensary-vs-street-comparison"/>
+        <updated>2025-04-23T00:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Explore the differences in half ounce of weed prices between dispensaries and street dealers.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding White Weed: Origins, Characteristics, and Context]]></title>
         <id>https://leafymate.com/resources/cannabis-101/understanding-white-weed-origins-characteristics-and-context</id>
