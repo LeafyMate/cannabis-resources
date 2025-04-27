@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T01:20:41.061Z</updated>
+    <updated>2025-04-27T01:35:29.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -514,16 +514,6 @@
         <summary type="html"><![CDATA[Discover the Biscotti strain, its origins, effects, flavor, and cultivation insights.]]></summary>
         <author>
             <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Smoking Weed Before a Tattoo Could Change Your Experience]]></title>
-        <id>https://leafymate.com/resources/?p=26907</id>
-        <link href="https://leafymate.com/resources/lifestyle/smoking-weed-before-tattoo"/>
-        <updated>2025-03-27T19:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Smoking weed before a tattoo is a common choice for relaxation and pain relief, but it can also heighten discomfort or affect healing. This guide explores the benefits, risks, and expert perspectives to help you decide if cannabis is right for your tattoo session.]]></summary>
-        <author>
-            <name>Nimra Shakil</name>
         </author>
     </entry>
 </feed>
