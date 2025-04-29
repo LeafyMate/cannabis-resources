@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-28T01:25:41.224Z</updated>
+    <updated>2025-04-29T01:23:51.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Essential Insights on Disposable Carts for New Consumers]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/10-essential-insights-on-disposable-carts-for-new-consumers</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-insights-on-disposable-carts-for-new-consumers"/>
+        <updated>2025-04-28T03:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Discover vital insights on disposable carts for informed cannabis consumption.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When You Sleep High: Effects of Cannabis on Sleep]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/what-happens-when-you-sleep-high-effects-of-cannabis-on-sleep</id>
+        <link href="https://leafymate.com/resources/general/what-happens-when-you-sleep-high-effects-of-cannabis-on-sleep"/>
+        <updated>2025-04-28T03:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Discover the effects of cannabis on sleep and what happens when you sleep high.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Steps to Find a Cheap Dispensary Near Me]]></title>
         <id>https://leafymate.com/resources/cannabis-101/4-steps-to-find-a-cheap-dispensary-near-me</id>
