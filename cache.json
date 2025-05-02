@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=27349",
+          "author": "Jordan Reyes",
+          "description": "Discover key steps for growing Godfather OG, from planting to harvesting for optimal results.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/grow-godfather-og-essential-steps-for-successful-cultivation",
+          "publishedOn": "2025-05-01T05:00:08.000Z",
+          "wordCount": 9555,
+          "title": "Grow Godfather OG: Essential Steps for Successful Cultivation",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/grow-godfather-og-essential-steps-for-successful-cultivation.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=27350",
+          "author": "Jordan Reyes",
+          "description": "Discover essential insights on THC vapes to help new consumers make informed choices.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-insights-on-thc-vapes-for-new-consumers",
+          "publishedOn": "2025-05-01T05:00:07.000Z",
+          "wordCount": 12848,
+          "title": "10 Essential Insights on THC Vapes for New Consumers",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-essential-insights-on-thc-vapes-for-new-consumers.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=27329",
           "author": "Jordan Reyes",
           "description": "Discover 10 irresistible blue cookie recipes that elevate your baking game with cannabis!",
@@ -584,16 +604,6 @@
           "wordCount": 11838,
           "title": "What Is the Apple Fritter Strain? A Complete Overview",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-the-apple-fritter-strain-a-complete-overview.jpg"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/what-is-the-biscotti-strain-a-comprehensive-overview",
-          "author": "tely",
-          "description": "Discover the Biscotti strain, its origins, effects, flavor, and cultivation insights.",
-          "link": "https://leafymate.com/resources/cannabis-101/what-is-the-biscotti-strain-a-comprehensive-overview",
-          "publishedOn": "2025-04-02T12:51:00.000Z",
-          "wordCount": 11339,
-          "title": "What Is the Biscotti Strain? A Comprehensive Overview",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-the-biscotti-strain-a-comprehensive-overview.jpg"
         }
       ]
     }
