@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-02T01:24:19.354Z</updated>
+    <updated>2025-05-03T01:22:23.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the GMO Strain: Origins, Effects, and Benefits]]></title>
+        <id>https://leafymate.com/resources/?p=27375</id>
+        <link href="https://leafymate.com/resources/home-cannabis-cultivation-techniques/understanding-the-gmo-strain-origins-effects-and-benefits"/>
+        <updated>2025-05-02T05:38:33.000Z</updated>
+        <summary type="html"><![CDATA[Discover the GMO strain's origins, effects, and therapeutic benefits in the cannabis community.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the 510 Thread Battery: Features and Importance]]></title>
+        <id>https://leafymate.com/resources/?p=27372</id>
+        <link href="https://leafymate.com/resources/general/understanding-the-510-thread-battery-features-and-importance"/>
+        <updated>2025-05-02T05:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Discover the essential features and significance of the 510 thread battery in vaping.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grow Godfather OG: Essential Steps for Successful Cultivation]]></title>
         <id>https://leafymate.com/resources/?p=27349</id>
@@ -592,16 +612,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/what-you-need-to-know-about-how-long-weed-stays-in-your-system"/>
         <updated>2025-04-03T17:49:00.000Z</updated>
         <summary type="html"><![CDATA[Discover how long weed stays in your system based on usage, testing methods, and individual factors.]]></summary>
-        <author>
-            <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is the Apple Fritter Strain? A Complete Overview]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/what-is-the-apple-fritter-strain-a-complete-overview</id>
-        <link href="https://leafymate.com/resources/cannabis-101/what-is-the-apple-fritter-strain-a-complete-overview"/>
-        <updated>2025-04-02T17:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the unique characteristics and effects of the Apple Fritter strain in this complete overview.]]></summary>
         <author>
             <name>tely</name>
         </author>
