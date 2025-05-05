@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T01:39:56.300Z</updated>
+    <updated>2025-05-05T01:27:36.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Animal Face Strain: Origins, Effects, and More]]></title>
+        <id>https://leafymate.com/resources/?p=27414</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-animal-face-strain-origins-effects-and-more"/>
+        <updated>2025-05-04T05:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Discover the unique origins, effects, and characteristics of the animal face strain.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animal Mint Strain: Origins, Characteristics, and Growing Tips]]></title>
+        <id>https://leafymate.com/resources/?p=27413</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/animal-mint-strain-origins-characteristics-and-growing-tips"/>
+        <updated>2025-05-04T05:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Discover the Animal Mint strain's origins, effects, and growing techniques.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If I Smoke Once a Week, How Long Till I’m Clean?]]></title>
         <id>https://leafymate.com/resources/?p=27394</id>
@@ -572,26 +592,6 @@
         <link href="https://leafymate.com/resources/cannabis-101/what-is-the-apples-and-bananas-strain-a-complete-overview"/>
         <updated>2025-04-06T01:02:00.000Z</updated>
         <summary type="html"><![CDATA[Discover the unique flavors and effects of the Apples and Bananas strain in this complete overview.]]></summary>
-        <author>
-            <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THC vs THCA: A Comparative Analysis of Their Effects and Benefits]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/thc-vs-thca-a-comparative-analysis-of-their-effects-and-benefits</id>
-        <link href="https://leafymate.com/resources/cannabis-101/thc-vs-thca-a-comparative-analysis-of-their-effects-and-benefits"/>
-        <updated>2025-04-05T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore the key differences between THC and THCA in effects and benefits for informed cannabis use.]]></summary>
-        <author>
-            <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Pot Leaves: A Step-by-Step Guide for New Cannabis Consumers]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/how-to-use-pot-leaves-a-step-by-step-guide-for-new-cannabis-consumers</id>
-        <link href="https://leafymate.com/resources/cannabis-101/how-to-use-pot-leaves-a-step-by-step-guide-for-new-cannabis-consumers"/>
-        <updated>2025-04-05T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the versatile uses of pot leaves in cooking, wellness, and crafting for new cannabis consumers.]]></summary>
         <author>
             <name>tely</name>
         </author>

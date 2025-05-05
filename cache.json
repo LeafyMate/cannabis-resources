@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=27414",
+          "author": "Jordan Reyes",
+          "description": "Discover the unique origins, effects, and characteristics of the animal face strain.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-animal-face-strain-origins-effects-and-more",
+          "publishedOn": "2025-05-04T05:00:13.000Z",
+          "wordCount": 6990,
+          "title": "Understanding the Animal Face Strain: Origins, Effects, and More",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-animal-face-strain-origins-effects-and-more.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=27413",
+          "author": "Jordan Reyes",
+          "description": "Discover the Animal Mint strain's origins, effects, and growing techniques.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/animal-mint-strain-origins-characteristics-and-growing-tips",
+          "publishedOn": "2025-05-04T05:00:12.000Z",
+          "wordCount": 7501,
+          "title": "Animal Mint Strain: Origins, Characteristics, and Growing Tips",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/animal-mint-strain-origins-characteristics-and-growing-tips.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=27394",
           "author": "Jordan Reyes",
           "description": "Understand THC metabolism and factors affecting detox time: if I smoke once a week, how long till I'm clean?",
@@ -574,26 +594,6 @@
           "wordCount": 13541,
           "title": "What Is the Apples and Bananas Strain? A Complete Overview",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-the-apples-and-bananas-strain-a-complete-overview.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/thc-vs-thca-a-comparative-analysis-of-their-effects-and-benefits",
-          "author": "tely",
-          "description": "Explore the key differences between THC and THCA in effects and benefits for informed cannabis use.",
-          "link": "https://leafymate.com/resources/cannabis-101/thc-vs-thca-a-comparative-analysis-of-their-effects-and-benefits",
-          "publishedOn": "2025-04-05T04:30:00.000Z",
-          "wordCount": 13585,
-          "title": "THC vs THCA: A Comparative Analysis of Their Effects and Benefits",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/thc-vs-thca-a-comparative-analysis-of-their-effects-and-benefits.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/how-to-use-pot-leaves-a-step-by-step-guide-for-new-cannabis-consumers",
-          "author": "tely",
-          "description": "Discover the versatile uses of pot leaves in cooking, wellness, and crafting for new cannabis consumers.",
-          "link": "https://leafymate.com/resources/cannabis-101/how-to-use-pot-leaves-a-step-by-step-guide-for-new-cannabis-consumers",
-          "publishedOn": "2025-04-05T04:30:00.000Z",
-          "wordCount": 11905,
-          "title": "How to Use Pot Leaves: A Step-by-Step Guide for New Cannabis Consumers",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-use-pot-leaves-a-step-by-step-guide-for-new-cannabis-consumers.png"
         }
       ]
     }
