@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/cannabis-101/animal-mints-strain-origins-characteristics-and-growing-insights",
+          "author": "Jordan Reyes",
+          "description": "Discover the unique flavors and effects of the Animal Mints strain in this comprehensive guide.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/animal-mints-strain-origins-characteristics-and-growing-insights",
+          "publishedOn": "2025-05-05T05:00:05.000Z",
+          "wordCount": 7254,
+          "title": "Animal Mints Strain: Origins, Characteristics, and Growing Insights",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/animal-mints-strain-origins-characteristics-and-growing-insights.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/cannabis-101/understanding-the-candied-runtz-strain-origins-and-key-traits",
+          "author": "Jordan Reyes",
+          "description": "Discover the unique flavors and effects of the Candied Runtz strain, a cannabis favorite.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-candied-runtz-strain-origins-and-key-traits",
+          "publishedOn": "2025-05-05T05:00:03.000Z",
+          "wordCount": 7140,
+          "title": "Understanding the Candied Runtz Strain: Origins and Key Traits",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-candied-runtz-strain-origins-and-key-traits.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=27414",
           "author": "Jordan Reyes",
           "description": "Discover the unique origins, effects, and characteristics of the animal face strain.",
@@ -574,26 +594,6 @@
           "wordCount": 12816,
           "title": "What Are Weed Measurements? A Comprehensive Guide to Understanding Cannabis Quantities",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-are-weed-measurements-a-comprehensive-guide-to-understanding-cannabis-quantities.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/how-to-find-the-best-dispensaries-near-me-a-step-by-step-guide",
-          "author": "tely",
-          "description": "Discover how to find the best dispensaries near you with our comprehensive step-by-step guide.",
-          "link": "https://leafymate.com/resources/cannabis-101/how-to-find-the-best-dispensaries-near-me-a-step-by-step-guide",
-          "publishedOn": "2025-04-06T01:02:01.000Z",
-          "wordCount": 13294,
-          "title": "How to Find the Best Dispensaries Near Me: A Step-by-Step Guide",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-find-the-best-dispensaries-near-me-a-step-by-step-guide.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/what-is-the-apples-and-bananas-strain-a-complete-overview",
-          "author": "tely",
-          "description": "Discover the unique flavors and effects of the Apples and Bananas strain in this complete overview.",
-          "link": "https://leafymate.com/resources/cannabis-101/what-is-the-apples-and-bananas-strain-a-complete-overview",
-          "publishedOn": "2025-04-06T01:02:00.000Z",
-          "wordCount": 13541,
-          "title": "What Is the Apples and Bananas Strain? A Complete Overview",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-the-apples-and-bananas-strain-a-complete-overview.png"
         }
       ]
     }
