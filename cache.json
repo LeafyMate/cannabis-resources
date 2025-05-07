@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/cannabis-101/master-the-candy-runtz-strain-cultivation-effects-and-flavor",
+          "author": "Jordan Reyes",
+          "description": "Discover the Candy Runtz strain: its origins, effects, flavors, and cultivation insights.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/master-the-candy-runtz-strain-cultivation-effects-and-flavor",
+          "publishedOn": "2025-05-06T05:00:06.000Z",
+          "wordCount": 9844,
+          "title": "Master the Candy Runtz Strain: Cultivation, Effects, and Flavor",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-the-candy-runtz-strain-cultivation-effects-and-flavor.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/cannabis-101/cultivate-the-cookie-and-cream-strain-a-step-by-step-guide",
+          "author": "Jordan Reyes",
+          "description": "Explore the cookie and cream strain's cultivation, benefits, and optimal growth techniques.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/cultivate-the-cookie-and-cream-strain-a-step-by-step-guide",
+          "publishedOn": "2025-05-06T05:00:02.000Z",
+          "wordCount": 7858,
+          "title": "Cultivate the Cookie and Cream Strain: A Step-by-Step Guide",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cultivate-the-cookie-and-cream-strain-a-step-by-step-guide.png"
+        },
+        {
           "id": "https://leafymate.com/resources/cannabis-101/animal-mints-strain-origins-characteristics-and-growing-insights",
           "author": "Jordan Reyes",
           "description": "Discover the unique flavors and effects of the Animal Mints strain in this comprehensive guide.",
@@ -574,26 +594,6 @@
           "wordCount": 12118,
           "title": "What is the Rainbow Sherbet Strain? A Complete Guide to Its Characteristics and Benefits",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-the-rainbow-sherbet-strain-a-complete-guide-to-its-characteristics-and-benefits.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/what-is-hhc-a-comprehensive-overview-of-hexahydrocannabinol",
-          "author": "tely",
-          "description": "Discover what HHC is, its origins, effects, and potential benefits in this comprehensive overview.",
-          "link": "https://leafymate.com/resources/cannabis-101/what-is-hhc-a-comprehensive-overview-of-hexahydrocannabinol",
-          "publishedOn": "2025-04-07T00:51:26.000Z",
-          "wordCount": 13767,
-          "title": "What is HHC? A Comprehensive Overview of Hexahydrocannabinol",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-hhc-a-comprehensive-overview-of-hexahydrocannabinol.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/what-are-weed-measurements-a-comprehensive-guide-to-understanding-cannabis-quantities",
-          "author": "tely",
-          "description": "Learn essential weed measurements to make informed cannabis purchases and enhance your experience.",
-          "link": "https://leafymate.com/resources/cannabis-101/what-are-weed-measurements-a-comprehensive-guide-to-understanding-cannabis-quantities",
-          "publishedOn": "2025-04-07T00:50:20.000Z",
-          "wordCount": 12816,
-          "title": "What Are Weed Measurements? A Comprehensive Guide to Understanding Cannabis Quantities",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-are-weed-measurements-a-comprehensive-guide-to-understanding-cannabis-quantities.png"
         }
       ]
     }
