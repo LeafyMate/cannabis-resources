@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=27468",
+          "author": "Jordan Reyes",
+          "description": "Find out if you smoke every day, how long till you're clean with this comprehensive detox plan.",
+          "link": "https://leafymate.com/resources/responsible-cannabis-use/if-i-smoke-everyday-how-long-till-im-clean-a-step-by-step-detox-plan",
+          "publishedOn": "2025-05-07T05:00:03.000Z",
+          "wordCount": 9236,
+          "title": "If I Smoke Everyday, How Long Till I’m Clean? A Step-by-Step Detox Plan",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/if-i-smoke-everyday-how-long-till-im-clean-a-step-by-step-detox-plan.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=27470",
+          "author": "Jordan Reyes",
+          "description": "Discover Acapulco Gold, a legendary cannabis strain known for its potent effects and rich history.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/acapulco-gold-definition-origins-and-key-characteristics",
+          "publishedOn": "2025-05-07T05:00:02.000Z",
+          "wordCount": 8768,
+          "title": "Acapulco Gold: Definition, Origins, and Key Characteristics",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/acapulco-gold-definition-origins-and-key-characteristics.png"
+        },
+        {
           "id": "https://leafymate.com/resources/cannabis-101/master-the-candy-runtz-strain-cultivation-effects-and-flavor",
           "author": "Jordan Reyes",
           "description": "Discover the Candy Runtz strain: its origins, effects, flavors, and cultivation insights.",
@@ -574,26 +594,6 @@
           "wordCount": 13453,
           "title": "Indica vs. Sativa vs. Hybrid: A Comparative Analysis of Cannabis Strains",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/indica-vs-sativa-vs-hybrid-a-comparative-analysis-of-cannabis-strains.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/how-to-determine-how-much-is-a-gram-a-step-by-step-guide",
-          "author": "tely",
-          "description": "Discover how much is a gram in cannabis and cooking to make informed purchasing decisions.",
-          "link": "https://leafymate.com/resources/cannabis-101/how-to-determine-how-much-is-a-gram-a-step-by-step-guide",
-          "publishedOn": "2025-04-08T00:42:40.000Z",
-          "wordCount": 12467,
-          "title": "How to Determine How Much Is a Gram: A Step-by-Step Guide",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-determine-how-much-is-a-gram-a-step-by-step-guide.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/what-is-the-rainbow-sherbet-strain-a-complete-guide-to-its-characteristics-and-benefits",
-          "author": "tely",
-          "description": "Discover the vibrant rainbow sherbet strain, its effects, flavors, and therapeutic benefits.",
-          "link": "https://leafymate.com/resources/cannabis-101/what-is-the-rainbow-sherbet-strain-a-complete-guide-to-its-characteristics-and-benefits",
-          "publishedOn": "2025-04-08T00:42:36.000Z",
-          "wordCount": 12118,
-          "title": "What is the Rainbow Sherbet Strain? A Complete Guide to Its Characteristics and Benefits",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-the-rainbow-sherbet-strain-a-complete-guide-to-its-characteristics-and-benefits.png"
         }
       ]
     }
