@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-08T01:25:51.839Z</updated>
+    <updated>2025-05-09T01:25:16.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Animal Cookies Strain: Origins, Effects, and Benefits]]></title>
+        <id>https://leafymate.com/resources/?p=27493</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-animal-cookies-strain-origins-effects-and-benefits"/>
+        <updated>2025-05-08T06:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Explore the origins, effects, and benefits of the popular animal cookies strain in cannabis.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Steps to Make Delicious Animal Cookies at Home]]></title>
+        <id>https://leafymate.com/resources/?p=27490</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/4-steps-to-make-delicious-animal-cookies-at-home"/>
+        <updated>2025-05-08T05:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to make delightful animal cookies at home in four simple steps!]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If I Smoke Everyday, How Long Till I’m Clean? A Step-by-Step Detox Plan]]></title>
         <id>https://leafymate.com/resources/?p=27468</id>
@@ -562,36 +582,6 @@
         <link href="https://leafymate.com/resources/responsible-cannabis-use/what-is-greening-out-a-complete-guide-to-understanding-this-cannabis-phenomenon"/>
         <updated>2025-04-10T02:39:40.000Z</updated>
         <summary type="html"><![CDATA[Learn what greening out is and how to recognize its symptoms and causes.]]></summary>
-        <author>
-            <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding and Managing High Thoughts: An In-Depth Tutorial]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/understanding-and-managing-high-thoughts-an-in-depth-tutorial</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/understanding-and-managing-high-thoughts-an-in-depth-tutorial"/>
-        <updated>2025-04-09T00:52:25.000Z</updated>
-        <summary type="html"><![CDATA[Explore the characteristics, implications, and management of high thoughts in cannabis users.]]></summary>
-        <author>
-            <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding and Managing High Thoughts: An In-Depth Tutorial]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/understanding-and-managing-high-thoughts-an-in-depth-tutorial</id>
-        <link href="https://leafymate.com/resources/cannabis-101/understanding-and-managing-high-thoughts-an-in-depth-tutorial"/>
-        <updated>2025-04-09T00:52:25.000Z</updated>
-        <summary type="html"><![CDATA[Explore the characteristics, implications, and management of high thoughts in cannabis users.]]></summary>
-        <author>
-            <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indica vs. Sativa vs. Hybrid: A Comparative Analysis of Cannabis Strains]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/indica-vs-sativa-vs-hybrid-a-comparative-analysis-of-cannabis-strains</id>
-        <link href="https://leafymate.com/resources/cannabis-101/indica-vs-sativa-vs-hybrid-a-comparative-analysis-of-cannabis-strains"/>
-        <updated>2025-04-09T00:52:24.000Z</updated>
-        <summary type="html"><![CDATA[Discover the unique effects and benefits of Indica, Sativa, and Hybrid cannabis strains.]]></summary>
         <author>
             <name>tely</name>
         </author>
