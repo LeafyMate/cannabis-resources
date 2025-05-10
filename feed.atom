@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-09T01:25:16.133Z</updated>
+    <updated>2025-05-10T01:22:17.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Benefits of the Cotton Candy Strain for New Cannabis Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=27516</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-benefits-of-the-cotton-candy-strain-for-new-cannabis-consumers"/>
+        <updated>2025-05-09T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Discover the top benefits of the Cotton Candy strain for new cannabis consumers.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master the Acapulco Gold Strain: Step-by-Step Growing Guide]]></title>
+        <id>https://leafymate.com/resources/?p=27515</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-the-acapulco-gold-strain-step-by-step-growing-guide"/>
+        <updated>2025-05-09T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Discover the Acapulco Gold strain: its origins, growing tips, and troubleshooting advice.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the Animal Cookies Strain: Origins, Effects, and Benefits]]></title>
         <id>https://leafymate.com/resources/?p=27493</id>
@@ -562,26 +582,6 @@
         <link href="https://leafymate.com/resources/responsible-cannabis-use/how-to-understand-how-long-thca-stays-in-your-system-a-comprehensive-guide"/>
         <updated>2025-04-11T00:28:52.000Z</updated>
         <summary type="html"><![CDATA[Discover the factors affecting how long THCA stays in your system with our comprehensive guide.]]></summary>
-        <author>
-            <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What You Need to Know About Cigarette Expiration: Understanding Shelf Life and Freshness]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/what-you-need-to-know-about-cigarette-expiration-understanding-shelf-life-and-freshness</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/what-you-need-to-know-about-cigarette-expiration-understanding-shelf-life-and-freshness"/>
-        <updated>2025-04-10T02:39:40.000Z</updated>
-        <summary type="html"><![CDATA[Discover the truth about cigarette expiration and shelf life to ensure optimal freshness.]]></summary>
-        <author>
-            <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Greening Out? A Complete Guide to Understanding This Cannabis Phenomenon]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/what-is-greening-out-a-complete-guide-to-understanding-this-cannabis-phenomenon</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/what-is-greening-out-a-complete-guide-to-understanding-this-cannabis-phenomenon"/>
-        <updated>2025-04-10T02:39:40.000Z</updated>
-        <summary type="html"><![CDATA[Learn what greening out is and how to recognize its symptoms and causes.]]></summary>
         <author>
             <name>tely</name>
         </author>
