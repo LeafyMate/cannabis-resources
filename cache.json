@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=27545",
+          "author": "Jordan Reyes",
+          "description": "Explore the AK-47 strain's origins, characteristics, and essential cultivation tips for success.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/master-the-ak-47-strain-essential-steps-for-successful-growth",
+          "publishedOn": "2025-05-10T05:00:05.000Z",
+          "wordCount": 8555,
+          "title": "Master the AK 47 Strain: Essential Steps for Successful Growth",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-the-ak-47-strain-essential-steps-for-successful-growth.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=27544",
+          "author": "Jordan Reyes",
+          "description": "Learn what \"OG\" stands for in cannabis culture, exploring its origins and cultural significance.",
+          "link": "https://leafymate.com/resources/general/what-does-og-stand-for-in-cannabis-culture",
+          "publishedOn": "2025-05-10T05:00:04.000Z",
+          "wordCount": 9012,
+          "title": "What Does OG Stand For in Cannabis Culture?",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-does-og-stand-for-in-cannabis-culture-1.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=27516",
           "author": "Jordan Reyes",
           "description": "Discover the top benefits of the Cotton Candy strain for new cannabis consumers.",
@@ -564,26 +584,6 @@
           "wordCount": 12566,
           "title": "Comparing Recovery Times: How Long Does It Take to Recover from Cannabinoid Hyperemesis Syndrome vs. Other Cannabis-Related Conditions?",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/comparing-recovery-times-how-long-does-it-take-to-recover-from-cannabinoid-hyperemesis-syndrome-vs-other-cannabis-related-conditions.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/what-are-pre-rolls-a-comprehensive-guide-for-new-consumers",
-          "author": "tely",
-          "description": "Discover the essentials of pre-rolls, their types, benefits, and what new consumers should know.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/what-are-pre-rolls-a-comprehensive-guide-for-new-consumers",
-          "publishedOn": "2025-04-11T00:29:03.000Z",
-          "wordCount": 13021,
-          "title": "What Are Pre-Rolls? A Comprehensive Guide for New Consumers",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-are-pre-rolls-a-comprehensive-guide-for-new-consumers.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/how-to-understand-how-long-thca-stays-in-your-system-a-comprehensive-guide",
-          "author": "tely",
-          "description": "Discover the factors affecting how long THCA stays in your system with our comprehensive guide.",
-          "link": "https://leafymate.com/resources/responsible-cannabis-use/how-to-understand-how-long-thca-stays-in-your-system-a-comprehensive-guide",
-          "publishedOn": "2025-04-11T00:28:52.000Z",
-          "wordCount": 12550,
-          "title": "How to Understand How Long THCA Stays in Your System: A Comprehensive Guide",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-understand-how-long-thca-stays-in-your-system-a-comprehensive-guide.png"
         }
       ]
     }
