@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-12T01:37:17.378Z</updated>
+    <updated>2025-05-13T01:26:34.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your Ultimate Guide to Finding Local Cannabis Dispensaries]]></title>
+        <id>https://leafymate.com/resources/?p=27436</id>
+        <link href="https://leafymate.com/resources/understanding-dispensaries/find-local-cannabis-dispensaries"/>
+        <updated>2025-05-12T22:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to find licensed cannabis dispensaries near you, compare products, and access medical marijuana services using Leafy Mate’s trusted platform.]]></summary>
+        <author>
+            <name>Nimra Shakil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your Medical Cannabis Card Fast and Legally]]></title>
+        <id>https://leafymate.com/resources/?p=27442</id>
+        <link href="https://leafymate.com/resources/cannabis-101/get-medical-cannabis-card"/>
+        <updated>2025-05-12T21:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Want safe, legal access to medical cannabis? This guide explains how to get your medical cannabis card quickly with help from certified doctors and state-specific support.]]></summary>
+        <author>
+            <name>Nimra Shakil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Essential Tips for Using a Bubbler Pipe Effectively]]></title>
+        <id>https://leafymate.com/resources/?p=27586</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-tips-for-using-a-bubbler-pipe-effectively"/>
+        <updated>2025-05-12T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Discover essential tips for using a bubbler pipe effectively for a smoother smoking experience.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Zip of Weed: Definition, Origin, and Key Insights]]></title>
+        <id>https://leafymate.com/resources/?p=27583</id>
+        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/understanding-zip-of-weed-definition-origin-and-key-insights"/>
+        <updated>2025-05-12T05:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Explore the definition, origin, and insights of a zip of weed in the cannabis community.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Best Disposable Vape 2024 Options for Flavor and Longevity]]></title>
         <id>https://leafymate.com/resources/?p=27562</id>
@@ -562,26 +602,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-black-cherry-gelato-strain-a-complete-overview"/>
         <updated>2025-04-14T00:42:11.000Z</updated>
         <summary type="html"><![CDATA[Discover the unique flavor and effects of the black cherry gelato strain in our comprehensive overview.]]></summary>
-        <author>
-            <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use THC Oil: A Step-by-Step Guide for New Consumers]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/how-to-use-thc-oil-a-step-by-step-guide-for-new-consumers</id>
-        <link href="https://leafymate.com/resources/cannabis-and-wellness/how-to-use-thc-oil-a-step-by-step-guide-for-new-consumers"/>
-        <updated>2025-04-13T00:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover essential insights on using THC oil safely and effectively for new consumers.]]></summary>
-        <author>
-            <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Determine How Much Is a Zip of Weed: A Step-by-Step Guide]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/how-to-determine-how-much-is-a-zip-of-weed-a-step-by-step-guide</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/how-to-determine-how-much-is-a-zip-of-weed-a-step-by-step-guide"/>
-        <updated>2025-04-13T00:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Explore how much a zip of weed costs and the factors that influence its pricing in this comprehensive guide.]]></summary>
         <author>
             <name>tely</name>
         </author>
