@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=27624",
+          "author": "Jordan Reyes",
+          "description": "Learn how to manage and prevent a weed hangover with effective remedies and responsible tips.",
+          "link": "https://leafymate.com/resources/cannabis-and-wellness/7-steps-to-overcome-a-weed-hangover-effectively",
+          "publishedOn": "2025-05-13T05:00:05.000Z",
+          "wordCount": 7505,
+          "title": "7 Steps to Overcome a Weed Hangover Effectively",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/7-steps-to-overcome-a-weed-hangover-effectively.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=27622",
+          "author": "Jordan Reyes",
+          "description": "Discover how to make weed butter with this step-by-step guide for beginners. Enjoy safely!",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/make-weed-butter-step-by-step-guide-for-new-consumers",
+          "publishedOn": "2025-05-13T05:00:04.000Z",
+          "wordCount": 8596,
+          "title": "Make Weed Butter: Step-by-Step Guide for New Consumers",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/make-weed-butter-step-by-step-guide-for-new-consumers.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=27436",
           "author": "Nimra Shakil",
           "description": "Discover how to find licensed cannabis dispensaries near you, compare products, and access medical marijuana services using Leafy Mate’s trusted platform.",
@@ -584,26 +604,6 @@
           "wordCount": 12367,
           "title": "How to Detox from THC: A Step-by-Step Guide for Success",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-detox-from-thc-a-step-by-step-guide-for-success.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/what-is-hash-rosin-a-comprehensive-guide-to-this-popular-concentrate",
-          "author": "tely",
-          "description": "Discover the purity and potency of hash rosin, a favored solventless cannabis concentrate.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-hash-rosin-a-comprehensive-guide-to-this-popular-concentrate",
-          "publishedOn": "2025-04-14T00:42:11.000Z",
-          "wordCount": 11463,
-          "title": "What is Hash Rosin? A Comprehensive Guide to This Popular Concentrate",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-hash-rosin-a-comprehensive-guide-to-this-popular-concentrate.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/what-is-the-black-cherry-gelato-strain-a-complete-overview",
-          "author": "tely",
-          "description": "Discover the unique flavor and effects of the black cherry gelato strain in our comprehensive overview.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-black-cherry-gelato-strain-a-complete-overview",
-          "publishedOn": "2025-04-14T00:42:11.000Z",
-          "wordCount": 13641,
-          "title": "What Is the Black Cherry Gelato Strain? A Complete Overview",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-the-black-cherry-gelato-strain-a-complete-overview.png"
         }
       ]
     }
