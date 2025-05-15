@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=27650",
+          "author": "Jordan Reyes",
+          "description": "Explore essential insights on weed sizes to make informed choices for your cannabis experience.",
+          "link": "https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/understanding-weed-sizes-key-comparisons-for-new-consumers",
+          "publishedOn": "2025-05-14T05:00:05.000Z",
+          "wordCount": 8832,
+          "title": "Understanding Weed Sizes: Key Comparisons for New Consumers",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-weed-sizes-key-comparisons-for-new-consumers.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=27647",
+          "author": "Jordan Reyes",
+          "description": "Discover humulene's characteristics, benefits, and cannabis strains rich in this therapeutic terpene.",
+          "link": "https://leafymate.com/resources/medical-cannabis-insights/understanding-humulene-benefits-strains-and-uses-in-cannabis",
+          "publishedOn": "2025-05-14T05:00:03.000Z",
+          "wordCount": 7917,
+          "title": "Understanding Humulene: Benefits, Strains, and Uses in Cannabis",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-humulene-benefits-strains-and-uses-in-cannabis.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=27624",
           "author": "Jordan Reyes",
           "description": "Learn how to manage and prevent a weed hangover with effective remedies and responsible tips.",
@@ -584,26 +604,6 @@
           "wordCount": 9349,
           "title": "Master THC Cartridge Selection and Usage for New Consumers",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-thc-cartridge-selection-and-usage-for-new-consumers.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/how-to-smoke-th-ca-diamonds-a-step-by-step-guide-for-beginners",
-          "author": "tely",
-          "description": "Discover the essentials of THCa diamonds, their benefits, and safe consumption methods.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/how-to-smoke-th-ca-diamonds-a-step-by-step-guide-for-beginners",
-          "publishedOn": "2025-04-15T01:15:36.000Z",
-          "wordCount": 11865,
-          "title": "How to Smoke THCa Diamonds: A Step-by-Step Guide for Beginners",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-smoke-th-ca-diamonds-a-step-by-step-guide-for-beginners.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/how-to-detox-from-thc-a-step-by-step-guide-for-success",
-          "author": "tely",
-          "description": "Strategies for THC detox to improve mental clarity and support overall wellness.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/how-to-detox-from-thc-a-step-by-step-guide-for-success",
-          "publishedOn": "2025-04-15T01:15:36.000Z",
-          "wordCount": 12367,
-          "title": "How to Detox from THC: A Step-by-Step Guide for Success",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-detox-from-thc-a-step-by-step-guide-for-success.png"
         }
       ]
     }
