@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=27689",
+          "author": "Jordan Reyes",
+          "description": "Discover essential techniques for beginners on how to smoke weed safely and effectively.",
+          "link": "https://leafymate.com/resources/responsible-cannabis-use/how-to-smoke-weed-essential-techniques-for-beginners",
+          "publishedOn": "2025-05-15T05:00:03.000Z",
+          "wordCount": 8783,
+          "title": "How to Smoke Weed: Essential Techniques for Beginners",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/leafy-mate-cannabis-marketplace_1640x856.jpg"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=27691",
+          "author": "Jordan Reyes",
+          "description": "Discover the unique origins, effects, and cultivation tips for the Billy Kimber OG strain.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/billy-kimber-og-strain-origins-effects-and-growing-tips",
+          "publishedOn": "2025-05-15T05:00:02.000Z",
+          "wordCount": 8297,
+          "title": "Billy Kimber OG Strain: Origins, Effects, and Growing Tips",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/billy-kimber-og-strain-origins-effects-and-growing-tips.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=27650",
           "author": "Jordan Reyes",
           "description": "Explore essential insights on weed sizes to make informed choices for your cannabis experience.",
@@ -584,26 +604,6 @@
           "wordCount": 8429,
           "title": "How to Pass Mouth Swab Test in 12 Hours: Essential Steps",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-pass-mouth-swab-test-in-12-hours-essential-steps.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/cross-faded-understanding-the-effects-of-mixing-weed-and-alcohol",
-          "author": "tely",
-          "description": "Understand the effects and risks of being cross faded with alcohol and cannabis.",
-          "link": "https://leafymate.com/resources/understanding-dispensaries/cross-faded-understanding-the-effects-of-mixing-weed-and-alcohol",
-          "publishedOn": "2025-04-16T00:37:32.000Z",
-          "wordCount": 8558,
-          "title": "Cross Faded: Understanding the Effects of Mixing Weed and Alcohol",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cross-faded-understanding-the-effects-of-mixing-weed-and-alcohol.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/master-thc-cartridge-selection-and-usage-for-new-consumers",
-          "author": "tely",
-          "description": "Explore types, tips, and troubleshooting for THC cartridges in this essential guide.",
-          "link": "https://leafymate.com/resources/cannabis-legalization-and-policy-updates/master-thc-cartridge-selection-and-usage-for-new-consumers",
-          "publishedOn": "2025-04-16T00:37:29.000Z",
-          "wordCount": 9349,
-          "title": "Master THC Cartridge Selection and Usage for New Consumers",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-thc-cartridge-selection-and-usage-for-new-consumers.png"
         }
       ]
     }
