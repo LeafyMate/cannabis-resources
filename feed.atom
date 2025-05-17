@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-16T01:26:31.765Z</updated>
+    <updated>2025-05-17T01:24:18.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Limonene Terpene: Definition, Origins, and Benefits Explained]]></title>
+        <id>https://leafymate.com/resources/?p=27716</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/limonene-terpene-definition-origins-and-benefits-explained"/>
+        <updated>2025-05-16T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Discover the limonene terpene's definition, origins, and its health benefits in cannabis.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Many Grams in an Eighth: Understanding Cannabis Measurements]]></title>
+        <id>https://leafymate.com/resources/?p=27717</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/how-many-grams-in-an-eighth-understanding-cannabis-measurements"/>
+        <updated>2025-05-16T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Learn how many grams in an eighth and understand key cannabis measurement units.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Smoke Weed: Essential Techniques for Beginners]]></title>
         <id>https://leafymate.com/resources/?p=27689</id>
@@ -584,26 +604,6 @@
         <summary type="html"><![CDATA[Learn essential steps on how to recover from edibles and find relief after consumption.]]></summary>
         <author>
             <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Edibles: A Step-by-Step Guide for Beginners]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/how-to-make-edibles-a-step-by-step-guide-for-beginners</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/how-to-make-edibles-a-step-by-step-guide-for-beginners"/>
-        <updated>2025-04-17T00:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to make edibles safely and enjoyably with our step-by-step beginner's guide.]]></summary>
-        <author>
-            <name>tely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Pass Mouth Swab Test in 12 Hours: Essential Steps]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/how-to-pass-mouth-swab-test-in-12-hours-essential-steps</id>
-        <link href="https://leafymate.com/resources/cannabis-and-wellness/how-to-pass-mouth-swab-test-in-12-hours-essential-steps"/>
-        <updated>2025-04-17T00:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Learn effective strategies to pass a mouth swab test in just 12 hours.]]></summary>
-        <author>
-            <name>tely</name>
         </author>
     </entry>
 </feed>
