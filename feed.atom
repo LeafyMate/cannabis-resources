@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-17T01:24:18.657Z</updated>
+    <updated>2025-05-18T01:39:19.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the GMO Cookies Strain: Origins, Effects, and Flavor]]></title>
+        <id>https://leafymate.com/resources/?p=27744</id>
+        <link href="https://leafymate.com/resources/home-cannabis-cultivation-techniques/understanding-the-gmo-cookies-strain-origins-effects-and-flavor"/>
+        <updated>2025-05-17T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Explore the GMO Cookies strain: its origins, effects, and unique flavor profile.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Unhigh: Immediate Steps and Long-Term Strategies]]></title>
+        <id>https://leafymate.com/resources/?p=27745</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/how-to-get-unhigh-immediate-steps-and-long-term-strategies"/>
+        <updated>2025-05-17T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Learn effective immediate steps and long-term strategies on how to get unhigh safely.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Limonene Terpene: Definition, Origins, and Benefits Explained]]></title>
         <id>https://leafymate.com/resources/?p=27716</id>
@@ -582,26 +602,6 @@
         <link href="https://leafymate.com/resources/general/understanding-gelato-41-origins-effects-and-flavor-profile"/>
         <updated>2025-04-19T00:32:42.000Z</updated>
         <summary type="html"><![CDATA[Discover Gelato 41, a hybrid strain known for its unique flavor, effects, and rich cannabis heritage.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California Dispensary Los Angeles: A Comparative Analysis of Top Options]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/california-dispensary-los-angeles-a-comparative-analysis-of-top-options</id>
-        <link href="https://leafymate.com/resources/understanding-dispensaries/california-dispensary-los-angeles-a-comparative-analysis-of-top-options"/>
-        <updated>2025-04-18T00:31:34.000Z</updated>
-        <summary type="html"><![CDATA[Explore top California dispensaries in Los Angeles with our comparative analysis of options.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Recover from Edibles: Essential Steps for Relief]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/how-to-recover-from-edibles-essential-steps-for-relief</id>
-        <link href="https://leafymate.com/resources/general/how-to-recover-from-edibles-essential-steps-for-relief"/>
-        <updated>2025-04-18T00:31:34.000Z</updated>
-        <summary type="html"><![CDATA[Learn essential steps on how to recover from edibles and find relief after consumption.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
