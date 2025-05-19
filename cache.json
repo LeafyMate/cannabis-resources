@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=27764",
+          "author": "Jordan Reyes",
+          "description": "Explore the essential differences between joint vs blunt in composition and effects.",
+          "link": "https://leafymate.com/resources/general/joint-vs-blunt-key-differences-in-composition-and-effects",
+          "publishedOn": "2025-05-18T05:00:12.000Z",
+          "wordCount": 8287,
+          "title": "Joint vs Blunt: Key Differences in Composition and Effects",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/joint-vs-blunt-key-differences-in-composition-and-effects-1.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=27765",
+          "author": "Jordan Reyes",
+          "description": "Discover essential insights on the QP of weed, from measurements to legal considerations.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-insights-for-your-qp-of-weed-journey",
+          "publishedOn": "2025-05-18T05:00:12.000Z",
+          "wordCount": 13217,
+          "title": "10 Essential Insights for Your QP of Weed Journey",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-essential-insights-for-your-qp-of-weed-journey.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=27744",
           "author": "Jordan Reyes",
           "description": "Explore the GMO Cookies strain: its origins, effects, and unique flavor profile.",
@@ -584,26 +604,6 @@
           "wordCount": 12430,
           "title": "Explore the Cookies and Cream Strain: Effects, Benefits, and Tips",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/explore-the-cookies-and-cream-strain-effects-benefits-and-tips.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/understanding-the-peanut-butter-breath-strain-origins-and-characteristics",
-          "author": "Jordan Reyes",
-          "description": "Discover the unique flavors and effects of the peanut butter breath strain in cannabis culture.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-peanut-butter-breath-strain-origins-and-characteristics",
-          "publishedOn": "2025-04-19T00:32:43.000Z",
-          "wordCount": 8865,
-          "title": "Understanding the Peanut Butter Breath Strain: Origins and Characteristics",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-peanut-butter-breath-strain-origins-and-characteristics.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/understanding-gelato-41-origins-effects-and-flavor-profile",
-          "author": "Jordan Reyes",
-          "description": "Discover Gelato 41, a hybrid strain known for its unique flavor, effects, and rich cannabis heritage.",
-          "link": "https://leafymate.com/resources/general/understanding-gelato-41-origins-effects-and-flavor-profile",
-          "publishedOn": "2025-04-19T00:32:42.000Z",
-          "wordCount": 8462,
-          "title": "Understanding Gelato 41: Origins, Effects, and Flavor Profile",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-gelato-41-origins-effects-and-flavor-profile.png"
         }
       ]
     }

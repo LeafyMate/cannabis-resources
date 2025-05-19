@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-18T01:39:19.427Z</updated>
+    <updated>2025-05-19T01:38:41.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Joint vs Blunt: Key Differences in Composition and Effects]]></title>
+        <id>https://leafymate.com/resources/?p=27764</id>
+        <link href="https://leafymate.com/resources/general/joint-vs-blunt-key-differences-in-composition-and-effects"/>
+        <updated>2025-05-18T05:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Explore the essential differences between joint vs blunt in composition and effects.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Essential Insights for Your QP of Weed Journey]]></title>
+        <id>https://leafymate.com/resources/?p=27765</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-insights-for-your-qp-of-weed-journey"/>
+        <updated>2025-05-18T05:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Discover essential insights on the QP of weed, from measurements to legal considerations.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the GMO Cookies Strain: Origins, Effects, and Flavor]]></title>
         <id>https://leafymate.com/resources/?p=27744</id>
@@ -582,26 +602,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/explore-the-cookies-and-cream-strain-effects-benefits-and-tips"/>
         <updated>2025-04-20T00:28:20.000Z</updated>
         <summary type="html"><![CDATA[Discover the cookies and cream strain's unique flavor, effects, and therapeutic benefits.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Peanut Butter Breath Strain: Origins and Characteristics]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/understanding-the-peanut-butter-breath-strain-origins-and-characteristics</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-peanut-butter-breath-strain-origins-and-characteristics"/>
-        <updated>2025-04-19T00:32:43.000Z</updated>
-        <summary type="html"><![CDATA[Discover the unique flavors and effects of the peanut butter breath strain in cannabis culture.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Gelato 41: Origins, Effects, and Flavor Profile]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/understanding-gelato-41-origins-effects-and-flavor-profile</id>
-        <link href="https://leafymate.com/resources/general/understanding-gelato-41-origins-effects-and-flavor-profile"/>
-        <updated>2025-04-19T00:32:42.000Z</updated>
-        <summary type="html"><![CDATA[Discover Gelato 41, a hybrid strain known for its unique flavor, effects, and rich cannabis heritage.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
