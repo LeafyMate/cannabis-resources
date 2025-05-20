@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=27789",
+          "author": "Jordan Reyes",
+          "description": "Discover the Bananaconda strain: its origins, effects, and cultivation insights.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/bananaconda-strain-origins-effects-and-growing-insights",
+          "publishedOn": "2025-05-19T05:00:06.000Z",
+          "wordCount": 8102,
+          "title": "Bananaconda Strain: Origins, Effects, and Growing Insights",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/bananaconda-strain-origins-effects-and-growing-insights.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=27790",
+          "author": "Jordan Reyes",
+          "description": "Learn to identify moldy weed and ensure your cannabis safety with expert guidance.",
+          "link": "https://leafymate.com/resources/responsible-cannabis-use/10-ways-to-identify-moldy-weed-and-stay-safe",
+          "publishedOn": "2025-05-19T05:00:03.000Z",
+          "wordCount": 8606,
+          "title": "10 Ways to Identify Moldy Weed and Stay Safe",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-ways-to-identify-moldy-weed-and-stay-safe.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=27764",
           "author": "Jordan Reyes",
           "description": "Explore the essential differences between joint vs blunt in composition and effects.",
@@ -584,26 +604,6 @@
           "wordCount": 8551,
           "title": "Spliff Meaning: Definition, Context, and Key Characteristics",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/spliff-meaning-definition-context-and-key-characteristics.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/blunt-vs-joint-understanding-key-differences-and-effects",
-          "author": "Jordan Reyes",
-          "description": "Explore the key differences and effects between blunts and joints in cannabis consumption.",
-          "link": "https://leafymate.com/resources/general/blunt-vs-joint-understanding-key-differences-and-effects",
-          "publishedOn": "2025-04-20T00:28:24.000Z",
-          "wordCount": 8411,
-          "title": "Blunt vs Joint: Understanding Key Differences and Effects",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/blunt-vs-joint-understanding-key-differences-and-effects.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/explore-the-cookies-and-cream-strain-effects-benefits-and-tips",
-          "author": "Jordan Reyes",
-          "description": "Discover the cookies and cream strain's unique flavor, effects, and therapeutic benefits.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/explore-the-cookies-and-cream-strain-effects-benefits-and-tips",
-          "publishedOn": "2025-04-20T00:28:20.000Z",
-          "wordCount": 12430,
-          "title": "Explore the Cookies and Cream Strain: Effects, Benefits, and Tips",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/explore-the-cookies-and-cream-strain-effects-benefits-and-tips.png"
         }
       ]
     }

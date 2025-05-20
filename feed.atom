@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-19T01:38:41.720Z</updated>
+    <updated>2025-05-20T01:27:15.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bananaconda Strain: Origins, Effects, and Growing Insights]]></title>
+        <id>https://leafymate.com/resources/?p=27789</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/bananaconda-strain-origins-effects-and-growing-insights"/>
+        <updated>2025-05-19T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Discover the Bananaconda strain: its origins, effects, and cultivation insights.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Ways to Identify Moldy Weed and Stay Safe]]></title>
+        <id>https://leafymate.com/resources/?p=27790</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/10-ways-to-identify-moldy-weed-and-stay-safe"/>
+        <updated>2025-05-19T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Learn to identify moldy weed and ensure your cannabis safety with expert guidance.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Joint vs Blunt: Key Differences in Composition and Effects]]></title>
         <id>https://leafymate.com/resources/?p=27764</id>
@@ -582,26 +602,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/spliff-meaning-definition-context-and-key-characteristics"/>
         <updated>2025-04-21T19:18:18.000Z</updated>
         <summary type="html"><![CDATA[Explore spliff meaning, its cultural significance, and key characteristics in cannabis use.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blunt vs Joint: Understanding Key Differences and Effects]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/blunt-vs-joint-understanding-key-differences-and-effects</id>
-        <link href="https://leafymate.com/resources/general/blunt-vs-joint-understanding-key-differences-and-effects"/>
-        <updated>2025-04-20T00:28:24.000Z</updated>
-        <summary type="html"><![CDATA[Explore the key differences and effects between blunts and joints in cannabis consumption.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explore the Cookies and Cream Strain: Effects, Benefits, and Tips]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/explore-the-cookies-and-cream-strain-effects-benefits-and-tips</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/explore-the-cookies-and-cream-strain-effects-benefits-and-tips"/>
-        <updated>2025-04-20T00:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Discover the cookies and cream strain's unique flavor, effects, and therapeutic benefits.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
