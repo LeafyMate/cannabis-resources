@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-21T01:26:52.449Z</updated>
+    <updated>2025-05-22T01:26:18.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Essential Tips for New Users of Weed Flower]]></title>
+        <id>https://leafymate.com/resources/?p=27847</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-tips-for-new-users-of-weed-flower"/>
+        <updated>2025-05-21T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Discover essential insights for new users exploring weed flower, from strains to consumption methods.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thai Stick: Definition, Origins, Uses, and Unique Characteristics]]></title>
+        <id>https://leafymate.com/resources/?p=27846</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/thai-stick-definition-origins-uses-and-unique-characteristics"/>
+        <updated>2025-05-21T05:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Discover the essence of Thai Stick, its origins, preparation, and unique characteristics.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Steps to Find 24 Hour Dispensaries Open Near Me]]></title>
         <id>https://leafymate.com/resources/?p=27824</id>
@@ -582,46 +602,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/half-ounce-of-weed-price-dispensary-vs-street-comparison"/>
         <updated>2025-04-23T00:19:57.000Z</updated>
         <summary type="html"><![CDATA[Explore the differences in half ounce of weed prices between dispensaries and street dealers.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding White Weed: Origins, Characteristics, and Context]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/understanding-white-weed-origins-characteristics-and-context</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-white-weed-origins-characteristics-and-context"/>
-        <updated>2025-04-22T00:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Explore white weed: its origins, characteristics, and growing popularity in the cannabis market.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover the Benefits of 2 Gram Cart for Cannabis Consumers]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/discover-the-benefits-of-2-gram-cart-for-cannabis-consumers</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/discover-the-benefits-of-2-gram-cart-for-cannabis-consumers"/>
-        <updated>2025-04-22T00:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Explore the advantages of 2 gram carts for cost efficiency, longevity, and enhanced flavor.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many Grams in a Quarter Pound: Simple Calculation Steps]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/how-many-grams-in-a-quarter-pound-simple-calculation-steps</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/how-many-grams-in-a-quarter-pound-simple-calculation-steps"/>
-        <updated>2025-04-21T19:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to calculate how many grams are in a quarter pound with simple steps.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spliff Meaning: Definition, Context, and Key Characteristics]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/spliff-meaning-definition-context-and-key-characteristics</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/spliff-meaning-definition-context-and-key-characteristics"/>
-        <updated>2025-04-21T19:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Explore spliff meaning, its cultural significance, and key characteristics in cannabis use.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
