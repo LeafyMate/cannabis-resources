@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-24T01:23:36.143Z</updated>
+    <updated>2025-05-25T01:41:37.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Many Grams in a Quarter: Understanding Cannabis Measurements]]></title>
+        <id>https://leafymate.com/resources/?p=27946</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/how-many-grams-in-a-quarter-understanding-cannabis-measurements"/>
+        <updated>2025-05-24T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Discover how many grams in a quarter ounce of cannabis and enhance your purchasing knowledge.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Keif: Essential Tools, Steps, and Troubleshooting Tips]]></title>
+        <id>https://leafymate.com/resources/?p=27945</id>
+        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/master-keif-essential-tools-steps-and-troubleshooting-tips"/>
+        <updated>2025-05-24T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the benefits and uses of kief with essential tools, steps, and troubleshooting tips.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Does Greening Out Mean? Causes, Symptoms, and Management]]></title>
         <id>https://leafymate.com/resources/?p=27917</id>
@@ -582,46 +602,6 @@
         <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/how-to-make-weed-butter-step-by-step-guide-for-beginners"/>
         <updated>2025-04-26T00:28:59.000Z</updated>
         <summary type="html"><![CDATA[Discover how to make weed butter with this step-by-step guide for beginners.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Does It Take for Weed to Be Cleared from Urine?]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/how-long-does-it-take-for-weed-to-be-cleared-from-urine</id>
-        <link href="https://leafymate.com/resources/cannabis-and-wellness/how-long-does-it-take-for-weed-to-be-cleared-from-urine"/>
-        <updated>2025-04-25T00:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Understand how long it takes for weed to be cleared from urine and the factors influencing detection.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CBC Cannabinoid: Definition, Origins, and Key Benefits Explained]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/cbc-cannabinoid-definition-origins-and-key-benefits-explained</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/cbc-cannabinoid-definition-origins-and-key-benefits-explained"/>
-        <updated>2025-04-25T00:23:50.000Z</updated>
-        <summary type="html"><![CDATA[Discover the non-psychoactive benefits and origins of the CBC cannabinoid in cannabis therapy.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blem: A Comprehensive Guide to Understanding Cannabis Imperfections]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/blem-a-comprehensive-guide-to-understanding-cannabis-imperfections</id>
-        <link href="https://leafymate.com/resources/cannabis-community-and-influencers/blem-a-comprehensive-guide-to-understanding-cannabis-imperfections"/>
-        <updated>2025-04-24T17:01:22.000Z</updated>
-        <summary type="html"><![CDATA[Discover the significance of blem in cannabis and how it impacts product quality and safety.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master the Glass Blunt: Step-by-Step Instructions for Use]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/master-the-glass-blunt-step-by-step-instructions-for-use</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-the-glass-blunt-step-by-step-instructions-for-use"/>
-        <updated>2025-04-24T17:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Discover the benefits and usage of a glass blunt for a cleaner cannabis experience.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
