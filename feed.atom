@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-25T01:41:37.895Z</updated>
+    <updated>2025-05-26T01:37:19.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Green Out Meaning: Symptoms and Solutions Explained]]></title>
+        <id>https://leafymate.com/resources/?p=27971</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/understanding-green-out-meaning-symptoms-and-solutions-explained"/>
+        <updated>2025-05-25T05:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Explore the green out meaning, its symptoms, and effective solutions for safer cannabis use.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Irresistible Cake Bars to Satisfy Every Sweet Tooth]]></title>
+        <id>https://leafymate.com/resources/?p=27972</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-irresistible-cake-bars-to-satisfy-every-sweet-tooth"/>
+        <updated>2025-05-25T05:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Explore 10 delicious cake bars infused with cannabis, perfect for satisfying your sweet cravings.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Many Grams in a Quarter: Understanding Cannabis Measurements]]></title>
         <id>https://leafymate.com/resources/?p=27946</id>
@@ -582,26 +602,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/bubba-fett-origins-characteristics-and-variations-explained"/>
         <updated>2025-04-27T02:57:33.000Z</updated>
         <summary type="html"><![CDATA[Discover Bubba Fett, a unique hybrid cannabis strain known for its relaxing effects and rich flavor.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sundae Driver Strain: Genetics, Effects, and Growing Insights]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/sundae-driver-strain-genetics-effects-and-growing-insights</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/sundae-driver-strain-genetics-effects-and-growing-insights"/>
-        <updated>2025-04-26T00:29:01.000Z</updated>
-        <summary type="html"><![CDATA[Discover the Sundae Driver strain's genetics, effects, and cultivation insights.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Weed Butter: Step-by-Step Guide for Beginners]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/how-to-make-weed-butter-step-by-step-guide-for-beginners</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/how-to-make-weed-butter-step-by-step-guide-for-beginners"/>
-        <updated>2025-04-26T00:28:59.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to make weed butter with this step-by-step guide for beginners.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
