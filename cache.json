@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=28006",
+          "author": "Jordan Reyes",
+          "description": "Learn to identify PGR weed and make informed cannabis choices for safer consumption.",
+          "link": "https://leafymate.com/resources/understanding-dispensaries/4-steps-to-identify-pgr-weed-for-new-cannabis-consumers",
+          "publishedOn": "2025-05-26T05:00:06.000Z",
+          "wordCount": 8669,
+          "title": "4 Steps to Identify PGR Weed for New Cannabis Consumers",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/4-steps-to-identify-pgr-weed-for-new-cannabis-consumers.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=28009",
+          "author": "Jordan Reyes",
+          "description": "Discover the early signs of female cannabis plants for successful cultivation and optimal growth.",
+          "link": "https://leafymate.com/resources/home-cannabis-cultivation-techniques/7-early-signs-of-female-plant-for-successful-cannabis-growth",
+          "publishedOn": "2025-05-26T05:00:06.000Z",
+          "wordCount": 12976,
+          "title": "7 Early Signs of Female Plant for Successful Cannabis Growth",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/7-early-signs-of-female-plant-for-successful-cannabis-growth.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=27971",
           "author": "Jordan Reyes",
           "description": "Explore the green out meaning, its symptoms, and effective solutions for safer cannabis use.",
@@ -584,26 +604,6 @@
           "wordCount": 9578,
           "title": "What Happens When You Sleep High: Effects of Cannabis on Sleep",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-happens-when-you-sleep-high-effects-of-cannabis-on-sleep.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/4-steps-to-find-a-cheap-dispensary-near-me",
-          "author": "Jordan Reyes",
-          "description": "Discover how to find a cheap dispensary near you with our comprehensive guide.",
-          "link": "https://leafymate.com/resources/emerging-trends-in-cannabis/4-steps-to-find-a-cheap-dispensary-near-me",
-          "publishedOn": "2025-04-27T02:57:58.000Z",
-          "wordCount": 8696,
-          "title": "4 Steps to Find a Cheap Dispensary Near Me",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/4-steps-to-find-a-cheap-dispensary-near-me.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/bubba-fett-origins-characteristics-and-variations-explained",
-          "author": "Jordan Reyes",
-          "description": "Discover Bubba Fett, a unique hybrid cannabis strain known for its relaxing effects and rich flavor.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/bubba-fett-origins-characteristics-and-variations-explained",
-          "publishedOn": "2025-04-27T02:57:33.000Z",
-          "wordCount": 8855,
-          "title": "Bubba Fett: Origins, Characteristics, and Variations Explained",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/bubba-fett-origins-characteristics-and-variations-explained.png"
         }
       ]
     }

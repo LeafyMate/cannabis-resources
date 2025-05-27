@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-26T01:37:19.208Z</updated>
+    <updated>2025-05-27T01:25:38.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4 Steps to Identify PGR Weed for New Cannabis Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=28006</id>
+        <link href="https://leafymate.com/resources/understanding-dispensaries/4-steps-to-identify-pgr-weed-for-new-cannabis-consumers"/>
+        <updated>2025-05-26T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Learn to identify PGR weed and make informed cannabis choices for safer consumption.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Early Signs of Female Plant for Successful Cannabis Growth]]></title>
+        <id>https://leafymate.com/resources/?p=28009</id>
+        <link href="https://leafymate.com/resources/home-cannabis-cultivation-techniques/7-early-signs-of-female-plant-for-successful-cannabis-growth"/>
+        <updated>2025-05-26T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Discover the early signs of female cannabis plants for successful cultivation and optimal growth.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Green Out Meaning: Symptoms and Solutions Explained]]></title>
         <id>https://leafymate.com/resources/?p=27971</id>
@@ -582,26 +602,6 @@
         <link href="https://leafymate.com/resources/general/what-happens-when-you-sleep-high-effects-of-cannabis-on-sleep"/>
         <updated>2025-04-28T03:36:32.000Z</updated>
         <summary type="html"><![CDATA[Discover the effects of cannabis on sleep and what happens when you sleep high.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Steps to Find a Cheap Dispensary Near Me]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/4-steps-to-find-a-cheap-dispensary-near-me</id>
-        <link href="https://leafymate.com/resources/emerging-trends-in-cannabis/4-steps-to-find-a-cheap-dispensary-near-me"/>
-        <updated>2025-04-27T02:57:58.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to find a cheap dispensary near you with our comprehensive guide.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubba Fett: Origins, Characteristics, and Variations Explained]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/bubba-fett-origins-characteristics-and-variations-explained</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/bubba-fett-origins-characteristics-and-variations-explained"/>
-        <updated>2025-04-27T02:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Discover Bubba Fett, a unique hybrid cannabis strain known for its relaxing effects and rich flavor.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
