@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-27T01:25:38.691Z</updated>
+    <updated>2025-05-28T01:27:09.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Ghost Train Haze: Origins, Effects, and Characteristics]]></title>
+        <id>https://leafymate.com/resources/?p=28038</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-ghost-train-haze-origins-effects-and-characteristics"/>
+        <updated>2025-05-27T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Discover the origins, effects, and unique characteristics of the potent Ghost Train Haze strain.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greening Out Meaning: Causes, Symptoms, and Management Strategies]]></title>
+        <id>https://leafymate.com/resources/?p=28039</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/greening-out-meaning-causes-symptoms-and-management-strategies"/>
+        <updated>2025-05-27T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Understand greening out meaning: its causes, symptoms, and management strategies for safe cannabis use.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Steps to Identify PGR Weed for New Cannabis Consumers]]></title>
         <id>https://leafymate.com/resources/?p=28006</id>
@@ -582,26 +602,6 @@
         <link href="https://leafymate.com/resources/medical-cannabis-insights/when-to-stop-smoking-weed-while-pregnant-key-steps-to-follow"/>
         <updated>2025-04-29T05:00:07.000Z</updated>
         <summary type="html"><![CDATA[Understand when to stop smoking weed while pregnant to ensure a healthier outcome for mother and baby.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Essential Insights on Disposable Carts for New Consumers]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/10-essential-insights-on-disposable-carts-for-new-consumers</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-insights-on-disposable-carts-for-new-consumers"/>
-        <updated>2025-04-28T03:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Discover vital insights on disposable carts for informed cannabis consumption.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens When You Sleep High: Effects of Cannabis on Sleep]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/what-happens-when-you-sleep-high-effects-of-cannabis-on-sleep</id>
-        <link href="https://leafymate.com/resources/general/what-happens-when-you-sleep-high-effects-of-cannabis-on-sleep"/>
-        <updated>2025-04-28T03:36:32.000Z</updated>
-        <summary type="html"><![CDATA[Discover the effects of cannabis on sleep and what happens when you sleep high.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
