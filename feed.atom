@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T01:26:56.319Z</updated>
+    <updated>2025-05-30T01:24:53.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Half a Zip Weed: Measurement, Storage, and Usage Tips]]></title>
+        <id>https://leafymate.com/resources/?p=28102</id>
+        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/master-half-a-zip-weed-measurement-storage-and-usage-tips"/>
+        <updated>2025-05-29T05:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Learn to measure, store, and utilize half a zip weed effectively for optimal enjoyment.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garlic Breath Strain: Origins, Effects, and Consumption Insights]]></title>
+        <id>https://leafymate.com/resources/?p=28105</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/garlic-breath-strain-origins-effects-and-consumption-insights"/>
+        <updated>2025-05-29T05:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Discover the unique flavors, effects, and origins of the garlic breath strain in cannabis.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Steps for Effective Weed Detox: Overcome Challenges and Find Support]]></title>
         <id>https://leafymate.com/resources/?p=28076</id>
@@ -582,26 +602,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-insights-on-thc-vapes-for-new-consumers"/>
         <updated>2025-05-01T05:00:07.000Z</updated>
         <summary type="html"><![CDATA[Discover essential insights on THC vapes to help new consumers make informed choices.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Irresistible Blue Cookies to Elevate Your Baking Game]]></title>
-        <id>https://leafymate.com/resources/?p=27329</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/10-irresistible-blue-cookies-to-elevate-your-baking-game"/>
-        <updated>2025-04-30T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Discover 10 irresistible blue cookie recipes that elevate your baking game with cannabis!]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Key Insights About Cereal Milk Cannabis Strain]]></title>
-        <id>https://leafymate.com/resources/?p=27330</id>
-        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/7-key-insights-about-cereal-milk-cannabis-strain"/>
-        <updated>2025-04-30T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover the unique flavor, effects, and benefits of the Cereal Milk cannabis strain.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
