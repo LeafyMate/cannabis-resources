@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-30T01:24:53.128Z</updated>
+    <updated>2025-05-31T01:24:57.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THC Wax: Essential Steps for Decarboxylation Success]]></title>
+        <id>https://leafymate.com/resources/?p=28147</id>
+        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/thc-wax-essential-steps-for-decarboxylation-success"/>
+        <updated>2025-05-30T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Explore THC wax characteristics, decarboxylation methods, and tips for optimal potency.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understand How Much is a Pound of Weed and Its Value]]></title>
+        <id>https://leafymate.com/resources/?p=28148</id>
+        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/understand-how-much-is-a-pound-of-weed-and-its-value"/>
+        <updated>2025-05-30T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Discover the costs and factors influencing how much is a pound of weed in today's market.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Half a Zip Weed: Measurement, Storage, and Usage Tips]]></title>
         <id>https://leafymate.com/resources/?p=28102</id>
@@ -582,26 +602,6 @@
         <link href="https://leafymate.com/resources/general/understanding-the-510-thread-battery-features-and-importance"/>
         <updated>2025-05-02T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[Discover the essential features and significance of the 510 thread battery in vaping.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grow Godfather OG: Essential Steps for Successful Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=27349</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/grow-godfather-og-essential-steps-for-successful-cultivation"/>
-        <updated>2025-05-01T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Discover key steps for growing Godfather OG, from planting to harvesting for optimal results.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Essential Insights on THC Vapes for New Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=27350</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-insights-on-thc-vapes-for-new-consumers"/>
-        <updated>2025-05-01T05:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Discover essential insights on THC vapes to help new consumers make informed choices.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
