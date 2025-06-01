@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=28198",
+          "author": "Jordan Reyes",
+          "description": "Master how to make hash with essential steps and troubleshooting tips for optimal results.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/how-to-make-hash-essential-steps-and-troubleshooting-tips",
+          "publishedOn": "2025-05-31T05:56:09.000Z",
+          "wordCount": 8964,
+          "title": "How to Make Hash: Essential Steps and Troubleshooting Tips",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-make-hash-essential-steps-and-troubleshooting-tips.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=28200",
+          "author": "Jordan Reyes",
+          "description": "Discover the Sour Apple strain's origins, effects, and growing insights for optimal cultivation.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/sour-apple-strain-origins-effects-and-growing-insights",
+          "publishedOn": "2025-05-31T05:00:09.000Z",
+          "wordCount": 7733,
+          "title": "Sour Apple Strain: Origins, Effects, and Growing Insights",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/sour-apple-strain-origins-effects-and-growing-insights.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=28147",
           "author": "Jordan Reyes",
           "description": "Explore THC wax characteristics, decarboxylation methods, and tips for optimal potency.",
@@ -584,26 +604,6 @@
           "wordCount": 8221,
           "title": "Apple Fritter Terpenes: Benefits and Everyday Applications",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/apple-fritter-terpenes-benefits-and-everyday-applications.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=27375",
-          "author": "Jordan Reyes",
-          "description": "Discover the GMO strain's origins, effects, and therapeutic benefits in the cannabis community.",
-          "link": "https://leafymate.com/resources/home-cannabis-cultivation-techniques/understanding-the-gmo-strain-origins-effects-and-benefits",
-          "publishedOn": "2025-05-02T05:38:33.000Z",
-          "wordCount": 7541,
-          "title": "Understanding the GMO Strain: Origins, Effects, and Benefits",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-gmo-strain-origins-effects-and-benefits.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=27372",
-          "author": "Jordan Reyes",
-          "description": "Discover the essential features and significance of the 510 thread battery in vaping.",
-          "link": "https://leafymate.com/resources/general/understanding-the-510-thread-battery-features-and-importance",
-          "publishedOn": "2025-05-02T05:00:02.000Z",
-          "wordCount": 8622,
-          "title": "Understanding the 510 Thread Battery: Features and Importance",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-510-thread-battery-features-and-importance-1.png"
         }
       ]
     }
