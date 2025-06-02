@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=28229",
+          "author": "Jordan Reyes",
+          "description": "Discover Zanna's pivotal role in promoting quality and community within the cannabis sector.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/zanna-understanding-its-role-in-the-cannabis-community",
+          "publishedOn": "2025-06-01T05:19:15.000Z",
+          "wordCount": 7074,
+          "title": "Zanna: Understanding Its Role in the Cannabis Community",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/zanna-understanding-its-role-in-the-cannabis-community.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=28228",
+          "author": "Jordan Reyes",
+          "description": "Understand the essential steps for effective marijuana detox preparation and support.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/5-steps-for-effective-marijuana-detox-preparation",
+          "publishedOn": "2025-06-01T05:00:59.000Z",
+          "wordCount": 9444,
+          "title": "5 Steps for Effective Marijuana Detox Preparation",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/5-steps-for-effective-marijuana-detox-preparation-1.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=28198",
           "author": "Jordan Reyes",
           "description": "Master how to make hash with essential steps and troubleshooting tips for optimal results.",
@@ -584,26 +604,6 @@
           "wordCount": 7501,
           "title": "Animal Mint Strain: Origins, Characteristics, and Growing Tips",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/animal-mint-strain-origins-characteristics-and-growing-tips.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=27394",
-          "author": "Jordan Reyes",
-          "description": "Understand THC metabolism and factors affecting detox time: if I smoke once a week, how long till I'm clean?",
-          "link": "https://leafymate.com/resources/responsible-cannabis-use/if-i-smoke-once-a-week-how-long-till-im-clean",
-          "publishedOn": "2025-05-03T05:00:07.000Z",
-          "wordCount": 7578,
-          "title": "If I Smoke Once a Week, How Long Till I’m Clean?",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/if-i-smoke-once-a-week-how-long-till-im-clean.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=27393",
-          "author": "Jordan Reyes",
-          "description": "Discover the benefits and versatile uses of apple fritter terpenes in everyday life.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/apple-fritter-terpenes-benefits-and-everyday-applications",
-          "publishedOn": "2025-05-03T05:00:05.000Z",
-          "wordCount": 8221,
-          "title": "Apple Fritter Terpenes: Benefits and Everyday Applications",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/apple-fritter-terpenes-benefits-and-everyday-applications.png"
         }
       ]
     }
