@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=28255",
+          "author": "Jordan Reyes",
+          "description": "Discover the different weed pens types and their unique features and benefits for cannabis users.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-weed-pens-types-key-features-and-benefits",
+          "publishedOn": "2025-06-02T05:00:06.000Z",
+          "wordCount": 8367,
+          "title": "Understanding Weed Pens Types: Key Features and Benefits",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-weed-pens-types-key-features-and-benefits.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=28254",
+          "author": "Jordan Reyes",
+          "description": "Discover Sunset Sherbet: its genetics, effects, flavor, and medical benefits in cannabis.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/sunset-sherbet-definition-genetics-and-key-characteristics",
+          "publishedOn": "2025-06-02T05:00:05.000Z",
+          "wordCount": 7078,
+          "title": "Sunset Sherbet: Definition, Genetics, and Key Characteristics",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/sunset-sherbet-definition-genetics-and-key-characteristics.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=28229",
           "author": "Jordan Reyes",
           "description": "Discover Zanna's pivotal role in promoting quality and community within the cannabis sector.",
@@ -584,26 +604,6 @@
           "wordCount": 7140,
           "title": "Understanding the Candied Runtz Strain: Origins and Key Traits",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-candied-runtz-strain-origins-and-key-traits.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=27414",
-          "author": "Jordan Reyes",
-          "description": "Discover the unique origins, effects, and characteristics of the animal face strain.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-animal-face-strain-origins-effects-and-more",
-          "publishedOn": "2025-05-04T05:00:13.000Z",
-          "wordCount": 6990,
-          "title": "Understanding the Animal Face Strain: Origins, Effects, and More",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-animal-face-strain-origins-effects-and-more.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=27413",
-          "author": "Jordan Reyes",
-          "description": "Discover the Animal Mint strain's origins, effects, and growing techniques.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/animal-mint-strain-origins-characteristics-and-growing-tips",
-          "publishedOn": "2025-05-04T05:00:12.000Z",
-          "wordCount": 7501,
-          "title": "Animal Mint Strain: Origins, Characteristics, and Growing Tips",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/animal-mint-strain-origins-characteristics-and-growing-tips.png"
         }
       ]
     }
