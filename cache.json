@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=28306",
+          "author": "Jordan Reyes",
+          "description": "Discover essential insights on selecting quality cannabis flower for informed consumer choices.",
+          "link": "https://leafymate.com/resources/home-cannabis-cultivation-techniques/master-cannabis-flower-selection-key-steps-for-new-consumers",
+          "publishedOn": "2025-06-03T05:00:07.000Z",
+          "wordCount": 8966,
+          "title": "Master Cannabis Flower Selection: Key Steps for New Consumers",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-cannabis-flower-selection-key-steps-for-new-consumers.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=28303",
+          "author": "Jordan Reyes",
+          "description": "Discover the benefits of the Pink Lemonade strain, from uplifting effects to therapeutic uses.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/10-benefits-of-the-pink-lemonade-strain-you-should-know",
+          "publishedOn": "2025-06-03T05:00:06.000Z",
+          "wordCount": 11546,
+          "title": "10 Benefits of the Pink Lemonade Strain You Should Know",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-benefits-of-the-pink-lemonade-strain-you-should-know.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=28255",
           "author": "Jordan Reyes",
           "description": "Discover the different weed pens types and their unique features and benefits for cannabis users.",
@@ -584,26 +604,6 @@
           "wordCount": 7858,
           "title": "Cultivate the Cookie and Cream Strain: A Step-by-Step Guide",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/cultivate-the-cookie-and-cream-strain-a-step-by-step-guide.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/animal-mints-strain-origins-characteristics-and-growing-insights",
-          "author": "Jordan Reyes",
-          "description": "Discover the unique flavors and effects of the Animal Mints strain in this comprehensive guide.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/animal-mints-strain-origins-characteristics-and-growing-insights",
-          "publishedOn": "2025-05-05T05:00:05.000Z",
-          "wordCount": 7254,
-          "title": "Animal Mints Strain: Origins, Characteristics, and Growing Insights",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/animal-mints-strain-origins-characteristics-and-growing-insights.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/understanding-the-candied-runtz-strain-origins-and-key-traits",
-          "author": "Jordan Reyes",
-          "description": "Discover the unique flavors and effects of the Candied Runtz strain, a cannabis favorite.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-candied-runtz-strain-origins-and-key-traits",
-          "publishedOn": "2025-05-05T05:00:03.000Z",
-          "wordCount": 7140,
-          "title": "Understanding the Candied Runtz Strain: Origins and Key Traits",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-candied-runtz-strain-origins-and-key-traits.png"
         }
       ]
     }
