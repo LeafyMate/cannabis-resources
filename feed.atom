@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-05T01:27:07.361Z</updated>
+    <updated>2025-06-06T01:26:56.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Dispensaries Near 315 North for New Cannabis Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=28390</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-dispensaries-near-315-north-for-new-cannabis-consumers"/>
+        <updated>2025-06-05T05:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Discover top dispensaries near 315 North, perfect for new cannabis consumers.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Donny Burger: Origins, Effects, and Benefits]]></title>
+        <id>https://leafymate.com/resources/?p=28391</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-donny-burger-origins-effects-and-benefits"/>
+        <updated>2025-06-05T05:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Discover the origins, effects, and benefits of Donny Burger, a unique hybrid cannabis strain.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Weed Detox Kit: Purpose, Benefits, and Misconceptions]]></title>
         <id>https://leafymate.com/resources/?p=28342</id>
@@ -582,26 +602,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/4-steps-to-make-delicious-animal-cookies-at-home"/>
         <updated>2025-05-08T05:00:07.000Z</updated>
         <summary type="html"><![CDATA[Learn how to make delightful animal cookies at home in four simple steps!]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If I Smoke Everyday, How Long Till I’m Clean? A Step-by-Step Detox Plan]]></title>
-        <id>https://leafymate.com/resources/?p=27468</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/if-i-smoke-everyday-how-long-till-im-clean-a-step-by-step-detox-plan"/>
-        <updated>2025-05-07T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Find out if you smoke every day, how long till you're clean with this comprehensive detox plan.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acapulco Gold: Definition, Origins, and Key Characteristics]]></title>
-        <id>https://leafymate.com/resources/?p=27470</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/acapulco-gold-definition-origins-and-key-characteristics"/>
-        <updated>2025-05-07T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Discover Acapulco Gold, a legendary cannabis strain known for its potent effects and rich history.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
