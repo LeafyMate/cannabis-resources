@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T01:37:51.633Z</updated>
+    <updated>2025-06-11T01:37:27.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Super Silver Haze Strain: Origins, Characteristics, and Effects]]></title>
+        <id>https://leafymate.com/resources/?p=28599</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/super-silver-haze-strain-origins-characteristics-and-effects"/>
+        <updated>2025-06-10T05:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Discover the origins, characteristics, and effects of the super silver haze strain.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crunch Berries Strain: Origins, Effects, and Market Trends]]></title>
+        <id>https://leafymate.com/resources/?p=28596</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/crunch-berries-strain-origins-effects-and-market-trends"/>
+        <updated>2025-06-10T05:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Discover the Crunch Berries strain's origins, effects, and rising popularity in the cannabis market.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reggie Weed: Definition, Origins, and Key Characteristics]]></title>
         <id>https://leafymate.com/resources/cannabis-101/reggie-weed-definition-origins-and-key-characteristics</id>
@@ -564,26 +584,6 @@
         <summary type="html"><![CDATA[Want safe, legal access to medical cannabis? This guide explains how to get your medical cannabis card quickly with help from certified doctors and state-specific support.]]></summary>
         <author>
             <name>Nimra Shakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Essential Tips for Using a Bubbler Pipe Effectively]]></title>
-        <id>https://leafymate.com/resources/?p=27586</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-tips-for-using-a-bubbler-pipe-effectively"/>
-        <updated>2025-05-12T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover essential tips for using a bubbler pipe effectively for a smoother smoking experience.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Zip of Weed: Definition, Origin, and Key Insights]]></title>
-        <id>https://leafymate.com/resources/?p=27583</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/understanding-zip-of-weed-definition-origin-and-key-insights"/>
-        <updated>2025-05-12T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Explore the definition, origin, and insights of a zip of weed in the cannabis community.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
         </author>
     </entry>
 </feed>
