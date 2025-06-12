@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-11T01:37:27.905Z</updated>
+    <updated>2025-06-12T01:27:34.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Long Does Marijuana Stay in Urine? Key Factors and Detox Tips]]></title>
+        <id>https://leafymate.com/resources/?p=28609</id>
+        <link href="https://leafymate.com/resources/cannabis-and-wellness/how-long-does-marijuana-stay-in-urine-key-factors-and-detox-tips"/>
+        <updated>2025-06-11T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Discover how long marijuana stays in urine and the factors that influence detection times.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Must-Visit Brooklyn Dispensary Experiences for New Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=28610</id>
+        <link href="https://leafymate.com/resources/understanding-dispensaries/10-must-visit-brooklyn-dispensary-experiences-for-new-consumers"/>
+        <updated>2025-06-11T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Explore the best Brooklyn dispensary experiences tailored for new cannabis consumers.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Super Silver Haze Strain: Origins, Characteristics, and Effects]]></title>
         <id>https://leafymate.com/resources/?p=28599</id>
@@ -544,46 +564,6 @@
         <summary type="html"><![CDATA[Discover humulene's characteristics, benefits, and cannabis strains rich in this therapeutic terpene.]]></summary>
         <author>
             <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Steps to Overcome a Weed Hangover Effectively]]></title>
-        <id>https://leafymate.com/resources/?p=27624</id>
-        <link href="https://leafymate.com/resources/cannabis-and-wellness/7-steps-to-overcome-a-weed-hangover-effectively"/>
-        <updated>2025-05-13T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to manage and prevent a weed hangover with effective remedies and responsible tips.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make Weed Butter: Step-by-Step Guide for New Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=27622</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/make-weed-butter-step-by-step-guide-for-new-consumers"/>
-        <updated>2025-05-13T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to make weed butter with this step-by-step guide for beginners. Enjoy safely!]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Ultimate Guide to Finding Local Cannabis Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=27436</id>
-        <link href="https://leafymate.com/resources/understanding-dispensaries/find-local-cannabis-dispensaries"/>
-        <updated>2025-05-12T22:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to find licensed cannabis dispensaries near you, compare products, and access medical marijuana services using Leafy Mate’s trusted platform.]]></summary>
-        <author>
-            <name>Nimra Shakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Your Medical Cannabis Card Fast and Legally]]></title>
-        <id>https://leafymate.com/resources/?p=27442</id>
-        <link href="https://leafymate.com/resources/cannabis-101/get-medical-cannabis-card"/>
-        <updated>2025-05-12T21:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Want safe, legal access to medical cannabis? This guide explains how to get your medical cannabis card quickly with help from certified doctors and state-specific support.]]></summary>
-        <author>
-            <name>Nimra Shakil</name>
         </author>
     </entry>
 </feed>
