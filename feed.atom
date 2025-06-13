@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T01:27:34.036Z</updated>
+    <updated>2025-06-13T01:37:10.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Aurora Colorado Dispensaries for New Cannabis Consumers]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/10-aurora-colorado-dispensaries-for-new-cannabis-consumers</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-aurora-colorado-dispensaries-for-new-cannabis-consumers"/>
+        <updated>2025-06-12T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Discover top Aurora Colorado dispensaries with expert insights for new cannabis consumers.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Must-Visit Aurora CO Dispensary Options for New Consumers]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/7-must-visit-aurora-co-dispensary-options-for-new-consumers</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-must-visit-aurora-co-dispensary-options-for-new-consumers"/>
+        <updated>2025-06-12T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Discover top Aurora CO dispensaries tailored for new cannabis consumers with trusted insights.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Long Does Marijuana Stay in Urine? Key Factors and Detox Tips]]></title>
         <id>https://leafymate.com/resources/?p=28609</id>
@@ -542,26 +562,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/billy-kimber-og-strain-origins-effects-and-growing-tips"/>
         <updated>2025-05-15T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[Discover the unique origins, effects, and cultivation tips for the Billy Kimber OG strain.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Weed Sizes: Key Comparisons for New Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=27650</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/understanding-weed-sizes-key-comparisons-for-new-consumers"/>
-        <updated>2025-05-14T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Explore essential insights on weed sizes to make informed choices for your cannabis experience.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Humulene: Benefits, Strains, and Uses in Cannabis]]></title>
-        <id>https://leafymate.com/resources/?p=27647</id>
-        <link href="https://leafymate.com/resources/medical-cannabis-insights/understanding-humulene-benefits-strains-and-uses-in-cannabis"/>
-        <updated>2025-05-14T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover humulene's characteristics, benefits, and cannabis strains rich in this therapeutic terpene.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
