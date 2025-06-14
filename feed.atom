@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-13T01:37:10.456Z</updated>
+    <updated>2025-06-14T01:25:44.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Aurora Dispensaries for Quality Cannabis Products]]></title>
+        <id>https://leafymate.com/resources/?p=28671</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-aurora-dispensaries-for-quality-cannabis-products"/>
+        <updated>2025-06-13T05:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Explore top Aurora dispensaries offering quality cannabis products and expert guidance.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Top Aurora Dispensary Colorado Options for New Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=28672</id>
+        <link href="https://leafymate.com/resources/understanding-dispensaries/10-top-aurora-dispensary-colorado-options-for-new-consumers"/>
+        <updated>2025-06-13T05:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Discover the best Aurora dispensaries for new consumers with our top 10 guide.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Aurora Colorado Dispensaries for New Cannabis Consumers]]></title>
         <id>https://leafymate.com/resources/cannabis-101/10-aurora-colorado-dispensaries-for-new-cannabis-consumers</id>
@@ -542,26 +562,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/how-many-grams-in-an-eighth-understanding-cannabis-measurements"/>
         <updated>2025-05-16T05:00:06.000Z</updated>
         <summary type="html"><![CDATA[Learn how many grams in an eighth and understand key cannabis measurement units.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Smoke Weed: Essential Techniques for Beginners]]></title>
-        <id>https://leafymate.com/resources/?p=27689</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/how-to-smoke-weed-essential-techniques-for-beginners"/>
-        <updated>2025-05-15T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover essential techniques for beginners on how to smoke weed safely and effectively.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billy Kimber OG Strain: Origins, Effects, and Growing Tips]]></title>
-        <id>https://leafymate.com/resources/?p=27691</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/billy-kimber-og-strain-origins-effects-and-growing-tips"/>
-        <updated>2025-05-15T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Discover the unique origins, effects, and cultivation tips for the Billy Kimber OG strain.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
