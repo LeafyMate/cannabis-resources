@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-14T01:25:44.229Z</updated>
+    <updated>2025-06-15T01:45:20.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Badder: Essential Techniques and Benefits Explained]]></title>
+        <id>https://leafymate.com/resources/?p=28686</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-badder-essential-techniques-and-benefits-explained"/>
+        <updated>2025-06-14T05:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Discover badder: a potent cannabis concentrate with unique flavors and versatile consumption methods.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Lilac Diesel Strain: Origins, Effects, and Benefits]]></title>
+        <id>https://leafymate.com/resources/?p=28683</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-lilac-diesel-strain-origins-effects-and-benefits"/>
+        <updated>2025-06-14T05:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Discover the unique characteristics, effects, and benefits of the Lilac Diesel strain.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Aurora Dispensaries for Quality Cannabis Products]]></title>
         <id>https://leafymate.com/resources/?p=28671</id>
@@ -542,26 +562,6 @@
         <link href="https://leafymate.com/resources/responsible-cannabis-use/how-to-get-unhigh-immediate-steps-and-long-term-strategies"/>
         <updated>2025-05-17T05:00:05.000Z</updated>
         <summary type="html"><![CDATA[Learn effective immediate steps and long-term strategies on how to get unhigh safely.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Limonene Terpene: Definition, Origins, and Benefits Explained]]></title>
-        <id>https://leafymate.com/resources/?p=27716</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/limonene-terpene-definition-origins-and-benefits-explained"/>
-        <updated>2025-05-16T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover the limonene terpene's definition, origins, and its health benefits in cannabis.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many Grams in an Eighth: Understanding Cannabis Measurements]]></title>
-        <id>https://leafymate.com/resources/?p=27717</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/how-many-grams-in-an-eighth-understanding-cannabis-measurements"/>
-        <updated>2025-05-16T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Learn how many grams in an eighth and understand key cannabis measurement units.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
