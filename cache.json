@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/cannabis-101/understanding-the-donkey-butter-strain-key-characteristics-and-benefits",
+          "author": "Jordan Reyes",
+          "description": "Discover the unique characteristics and benefits of the donkey butter strain in cannabis.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-donkey-butter-strain-key-characteristics-and-benefits",
+          "publishedOn": "2025-06-15T05:00:07.000Z",
+          "wordCount": 8214,
+          "title": "Understanding the Donkey Butter Strain: Key Characteristics and Benefits",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-donkey-butter-strain-key-characteristics-and-benefits.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/cannabis-101/10-essential-insights-every-new-consumer-should-know-about-weed-wax",
+          "author": "Jordan Reyes",
+          "description": "Discover vital insights on weed wax, from production to consumption methods and safety tips.",
+          "link": "https://leafymate.com/resources/cannabis-legalization-and-policy-updates/10-essential-insights-every-new-consumer-should-know-about-weed-wax",
+          "publishedOn": "2025-06-15T05:00:03.000Z",
+          "wordCount": 11025,
+          "title": "10 Essential Insights Every New Consumer Should Know About Weed Wax",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-essential-insights-every-new-consumer-should-know-about-weed-wax.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=28686",
           "author": "Jordan Reyes",
           "description": "Discover badder: a potent cannabis concentrate with unique flavors and versatile consumption methods.",
@@ -544,26 +564,6 @@
           "wordCount": 13217,
           "title": "10 Essential Insights for Your QP of Weed Journey",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-essential-insights-for-your-qp-of-weed-journey.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=27744",
-          "author": "Jordan Reyes",
-          "description": "Explore the GMO Cookies strain: its origins, effects, and unique flavor profile.",
-          "link": "https://leafymate.com/resources/home-cannabis-cultivation-techniques/understanding-the-gmo-cookies-strain-origins-effects-and-flavor",
-          "publishedOn": "2025-05-17T05:00:08.000Z",
-          "wordCount": 8587,
-          "title": "Understanding the GMO Cookies Strain: Origins, Effects, and Flavor",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-gmo-cookies-strain-origins-effects-and-flavor.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=27745",
-          "author": "Jordan Reyes",
-          "description": "Learn effective immediate steps and long-term strategies on how to get unhigh safely.",
-          "link": "https://leafymate.com/resources/responsible-cannabis-use/how-to-get-unhigh-immediate-steps-and-long-term-strategies",
-          "publishedOn": "2025-05-17T05:00:05.000Z",
-          "wordCount": 7670,
-          "title": "How to Get Unhigh: Immediate Steps and Long-Term Strategies",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-get-unhigh-immediate-steps-and-long-term-strategies.png"
         }
       ]
     }

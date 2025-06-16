@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-15T01:45:20.173Z</updated>
+    <updated>2025-06-16T01:40:25.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Donkey Butter Strain: Key Characteristics and Benefits]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/understanding-the-donkey-butter-strain-key-characteristics-and-benefits</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-donkey-butter-strain-key-characteristics-and-benefits"/>
+        <updated>2025-06-15T05:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Discover the unique characteristics and benefits of the donkey butter strain in cannabis.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Essential Insights Every New Consumer Should Know About Weed Wax]]></title>
+        <id>https://leafymate.com/resources/cannabis-101/10-essential-insights-every-new-consumer-should-know-about-weed-wax</id>
+        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/10-essential-insights-every-new-consumer-should-know-about-weed-wax"/>
+        <updated>2025-06-15T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Discover vital insights on weed wax, from production to consumption methods and safety tips.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Badder: Essential Techniques and Benefits Explained]]></title>
         <id>https://leafymate.com/resources/?p=28686</id>
@@ -542,26 +562,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-insights-for-your-qp-of-weed-journey"/>
         <updated>2025-05-18T05:00:12.000Z</updated>
         <summary type="html"><![CDATA[Discover essential insights on the QP of weed, from measurements to legal considerations.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the GMO Cookies Strain: Origins, Effects, and Flavor]]></title>
-        <id>https://leafymate.com/resources/?p=27744</id>
-        <link href="https://leafymate.com/resources/home-cannabis-cultivation-techniques/understanding-the-gmo-cookies-strain-origins-effects-and-flavor"/>
-        <updated>2025-05-17T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Explore the GMO Cookies strain: its origins, effects, and unique flavor profile.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Unhigh: Immediate Steps and Long-Term Strategies]]></title>
-        <id>https://leafymate.com/resources/?p=27745</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/how-to-get-unhigh-immediate-steps-and-long-term-strategies"/>
-        <updated>2025-05-17T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Learn effective immediate steps and long-term strategies on how to get unhigh safely.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
