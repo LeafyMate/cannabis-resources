@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-18T01:36:36.881Z</updated>
+    <updated>2025-06-19T01:37:51.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master the Bubblegum Gelato Strain: Step-by-Step Growing Guide]]></title>
+        <id>https://leafymate.com/resources/?p=28860</id>
+        <link href="https://leafymate.com/resources/general/master-the-bubblegum-gelato-strain-step-by-step-growing-guide"/>
+        <updated>2025-06-18T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Learn to grow the bubblegum gelato strain with this detailed step-by-step guide.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Hash Hole: Definition, Origins, and Characteristics]]></title>
+        <id>https://leafymate.com/resources/?p=28863</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-hash-hole-definition-origins-and-characteristics"/>
+        <updated>2025-06-18T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Discover the essence of hash holes, their origins, and unique features in cannabis culture.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understand How Much is a Zip of Weed in G: Key Insights]]></title>
         <id>https://leafymate.com/resources/?p=28806</id>
@@ -542,26 +562,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/thai-stick-definition-origins-uses-and-unique-characteristics"/>
         <updated>2025-05-21T05:00:07.000Z</updated>
         <summary type="html"><![CDATA[Discover the essence of Thai Stick, its origins, preparation, and unique characteristics.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Steps to Find 24 Hour Dispensaries Open Near Me]]></title>
-        <id>https://leafymate.com/resources/?p=27824</id>
-        <link href="https://leafymate.com/resources/understanding-dispensaries/4-steps-to-find-24-hour-dispensaries-open-near-me"/>
-        <updated>2025-05-20T05:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to find 24-hour dispensaries open near you with essential tips and resources.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens If You Eat Expired Edible Gummies? Understand the Risks]]></title>
-        <id>https://leafymate.com/resources/?p=27823</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/what-happens-if-you-eat-expired-edible-gummies-understand-the-risks"/>
-        <updated>2025-05-20T05:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Discover what happens if you eat expired edible gummies and the associated risks in this informative guide.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
