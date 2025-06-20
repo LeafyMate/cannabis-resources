@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-19T01:37:51.138Z</updated>
+    <updated>2025-06-20T01:37:04.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Dab Pen? Understanding Its Purpose and Variations]]></title>
+        <id>https://leafymate.com/resources/?p=28895</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-a-dab-pen-understanding-its-purpose-and-variations"/>
+        <updated>2025-06-19T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Discover what a dab pen is and how it enhances cannabis consumption with portability and potency.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use a Bong: Step-by-Step Guide for Beginners]]></title>
+        <id>https://leafymate.com/resources/?p=28892</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/how-to-use-a-bong-step-by-step-guide-for-beginners"/>
+        <updated>2025-06-19T05:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Learn step-by-step how to use a bong for a smoother and more enjoyable smoking experience.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master the Bubblegum Gelato Strain: Step-by-Step Growing Guide]]></title>
         <id>https://leafymate.com/resources/?p=28860</id>
@@ -542,26 +562,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/lemon-pound-cake-strain-origins-effects-and-key-characteristics"/>
         <updated>2025-05-22T05:00:05.000Z</updated>
         <summary type="html"><![CDATA[Discover the unique origins, effects, and characteristics of the lemon pound cake strain.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Essential Tips for New Users of Weed Flower]]></title>
-        <id>https://leafymate.com/resources/?p=27847</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-tips-for-new-users-of-weed-flower"/>
-        <updated>2025-05-21T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Discover essential insights for new users exploring weed flower, from strains to consumption methods.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thai Stick: Definition, Origins, Uses, and Unique Characteristics]]></title>
-        <id>https://leafymate.com/resources/?p=27846</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/thai-stick-definition-origins-uses-and-unique-characteristics"/>
-        <updated>2025-05-21T05:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Discover the essence of Thai Stick, its origins, preparation, and unique characteristics.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
