@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=28943",
+          "author": "Jordan Reyes",
+          "description": "Explore the complexities of marijuana's effects to understand if it's truly a depressant.",
+          "link": "https://leafymate.com/resources/cannabis-and-wellness/is-marijuana-a-depressant-understanding-its-effects-and-risks",
+          "publishedOn": "2025-06-20T05:00:06.000Z",
+          "wordCount": 8386,
+          "title": "Is Marijuana a Depressant? Understanding Its Effects and Risks",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/is-marijuana-a-depressant-understanding-its-effects-and-risks.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=28944",
+          "author": "Jordan Reyes",
+          "description": "Discover the origins, cultivation techniques, and conservation of landrace cannabis strains.",
+          "link": "https://leafymate.com/resources/general/master-landrace-cultivation-techniques-for-new-cannabis-consumers",
+          "publishedOn": "2025-06-20T05:00:06.000Z",
+          "wordCount": 8017,
+          "title": "Master Landrace Cultivation: Techniques for New Cannabis Consumers",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-landrace-cultivation-techniques-for-new-cannabis-consumers.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=28895",
           "author": "Jordan Reyes",
           "description": "Discover what a dab pen is and how it enhances cannabis consumption with portability and potency.",
@@ -544,26 +564,6 @@
           "wordCount": 10824,
           "title": "7 Key Insights About Cherry Gelato Strains for New Consumers",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/7-key-insights-about-cherry-gelato-strains-for-new-consumers.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=27884",
-          "author": "Jordan Reyes",
-          "description": "Discover how long CBD stays in your system and the factors affecting its duration.",
-          "link": "https://leafymate.com/resources/general/how-long-does-cbd-stay-in-your-system-key-factors-explained",
-          "publishedOn": "2025-05-22T05:00:06.000Z",
-          "wordCount": 9176,
-          "title": "How Long Does CBD Stay in Your System? Key Factors Explained",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-long-does-cbd-stay-in-your-system-key-factors-explained.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=27883",
-          "author": "Jordan Reyes",
-          "description": "Discover the unique origins, effects, and characteristics of the lemon pound cake strain.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/lemon-pound-cake-strain-origins-effects-and-key-characteristics",
-          "publishedOn": "2025-05-22T05:00:05.000Z",
-          "wordCount": 7510,
-          "title": "Lemon Pound Cake Strain: Origins, Effects, and Key Characteristics",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/lemon-pound-cake-strain-origins-effects-and-key-characteristics.png"
         }
       ]
     }
