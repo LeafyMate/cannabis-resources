@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T01:27:20.960Z</updated>
+    <updated>2025-06-22T01:44:47.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master 510 Vape Battery Selection: Key Features and Tips]]></title>
+        <id>https://leafymate.com/resources/?p=28994</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-510-vape-battery-selection-key-features-and-tips"/>
+        <updated>2025-06-21T05:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Explore the essentials of choosing the perfect 510 vape battery for your vaping needs.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Triple Scoop Strain: Origins and Effects]]></title>
+        <id>https://leafymate.com/resources/?p=28991</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-triple-scoop-strain-origins-and-effects"/>
+        <updated>2025-06-21T05:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Explore the triple scoop strain's origins, effects, and therapeutic benefits in cannabis use.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Marijuana a Depressant? Understanding Its Effects and Risks]]></title>
         <id>https://leafymate.com/resources/?p=28943</id>
@@ -542,26 +562,6 @@
         <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/master-keif-essential-tools-steps-and-troubleshooting-tips"/>
         <updated>2025-05-24T05:00:04.000Z</updated>
         <summary type="html"><![CDATA[Unlock the benefits and uses of kief with essential tools, steps, and troubleshooting tips.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does Greening Out Mean? Causes, Symptoms, and Management]]></title>
-        <id>https://leafymate.com/resources/?p=27917</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/what-does-greening-out-mean-causes-symptoms-and-management"/>
-        <updated>2025-05-23T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover what greening out means, its causes, symptoms, and effective management strategies.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Key Insights About Cherry Gelato Strains for New Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=27918</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-key-insights-about-cherry-gelato-strains-for-new-consumers"/>
-        <updated>2025-05-23T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Explore Cherry Gelato strains and their benefits for informed cannabis choices.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
