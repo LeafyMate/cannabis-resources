@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T01:44:47.038Z</updated>
+    <updated>2025-06-23T01:43:09.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master the Blunt Roller: Step-by-Step Techniques for Success]]></title>
+        <id>https://leafymate.com/resources/?p=29075</id>
+        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/master-the-blunt-roller-step-by-step-techniques-for-success"/>
+        <updated>2025-06-22T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Learn essential techniques to master the art of using a blunt roller for perfect rolls.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live Rosin vs Live Resin: Key Differences in Flavor, Potency, and Cost]]></title>
+        <id>https://leafymate.com/resources/?p=29073</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/live-rosin-vs-live-resin-key-differences-in-flavor-potency-and-cost"/>
+        <updated>2025-06-22T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Explore the key differences between live rosin vs live resin in flavor, potency, and cost.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master 510 Vape Battery Selection: Key Features and Tips]]></title>
         <id>https://leafymate.com/resources/?p=28994</id>
@@ -542,26 +562,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-irresistible-cake-bars-to-satisfy-every-sweet-tooth"/>
         <updated>2025-05-25T05:00:07.000Z</updated>
         <summary type="html"><![CDATA[Explore 10 delicious cake bars infused with cannabis, perfect for satisfying your sweet cravings.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many Grams in a Quarter: Understanding Cannabis Measurements]]></title>
-        <id>https://leafymate.com/resources/?p=27946</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/how-many-grams-in-a-quarter-understanding-cannabis-measurements"/>
-        <updated>2025-05-24T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover how many grams in a quarter ounce of cannabis and enhance your purchasing knowledge.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Keif: Essential Tools, Steps, and Troubleshooting Tips]]></title>
-        <id>https://leafymate.com/resources/?p=27945</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/master-keif-essential-tools-steps-and-troubleshooting-tips"/>
-        <updated>2025-05-24T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the benefits and uses of kief with essential tools, steps, and troubleshooting tips.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
