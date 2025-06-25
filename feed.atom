@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-24T01:38:00.447Z</updated>
+    <updated>2025-06-25T01:38:24.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -522,26 +522,6 @@
         <link href="https://leafymate.com/resources/responsible-cannabis-use/greening-out-meaning-causes-symptoms-and-management-strategies"/>
         <updated>2025-05-27T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[Understand greening out meaning: its causes, symptoms, and management strategies for safe cannabis use.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Steps to Identify PGR Weed for New Cannabis Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=28006</id>
-        <link href="https://leafymate.com/resources/understanding-dispensaries/4-steps-to-identify-pgr-weed-for-new-cannabis-consumers"/>
-        <updated>2025-05-26T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Learn to identify PGR weed and make informed cannabis choices for safer consumption.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Early Signs of Female Plant for Successful Cannabis Growth]]></title>
-        <id>https://leafymate.com/resources/?p=28009</id>
-        <link href="https://leafymate.com/resources/home-cannabis-cultivation-techniques/7-early-signs-of-female-plant-for-successful-cannabis-growth"/>
-        <updated>2025-05-26T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover the early signs of female cannabis plants for successful cultivation and optimal growth.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
