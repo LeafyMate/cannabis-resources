@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-26T01:37:07.558Z</updated>
+    <updated>2025-06-27T01:38:33.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -482,26 +482,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/garlic-breath-strain-origins-effects-and-consumption-insights"/>
         <updated>2025-05-29T05:00:09.000Z</updated>
         <summary type="html"><![CDATA[Discover the unique flavors, effects, and origins of the garlic breath strain in cannabis.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Steps for Effective Weed Detox: Overcome Challenges and Find Support]]></title>
-        <id>https://leafymate.com/resources/?p=28076</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/4-steps-for-effective-weed-detox-overcome-challenges-and-find-support"/>
-        <updated>2025-05-28T05:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Discover effective steps for weed detox, overcoming challenges, and finding essential support.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grow Amnesia Haze: Essential Steps for Successful Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=28075</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/grow-amnesia-haze-essential-steps-for-successful-cultivation"/>
-        <updated>2025-05-28T05:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Discover the essential steps to successfully grow Amnesia Haze and enjoy its vibrant effects.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
