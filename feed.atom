@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-28T01:26:34.296Z</updated>
+    <updated>2025-06-29T01:46:40.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master the RS 11 Strain: Essential Steps for Successful Growth]]></title>
+        <id>https://leafymate.com/resources/?p=29127</id>
+        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/master-the-rs-11-strain-essential-steps-for-successful-growth"/>
+        <updated>2025-06-28T04:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Discover essential steps for successfully growing the RS 11 strain and maximizing your yield.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Steps to Successfully Take a T Break]]></title>
+        <id>https://leafymate.com/resources/?p=29124</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/3-steps-to-successfully-take-a-t-break"/>
+        <updated>2025-06-28T04:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to take a successful t break to reset your tolerance and enhance your cannabis experience.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master the Blunt Roller: Step-by-Step Techniques for Success]]></title>
         <id>https://leafymate.com/resources/?p=29075</id>
@@ -442,26 +462,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/sour-apple-strain-origins-effects-and-growing-insights"/>
         <updated>2025-05-31T05:00:09.000Z</updated>
         <summary type="html"><![CDATA[Discover the Sour Apple strain's origins, effects, and growing insights for optimal cultivation.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THC Wax: Essential Steps for Decarboxylation Success]]></title>
-        <id>https://leafymate.com/resources/?p=28147</id>
-        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/thc-wax-essential-steps-for-decarboxylation-success"/>
-        <updated>2025-05-30T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Explore THC wax characteristics, decarboxylation methods, and tips for optimal potency.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understand How Much is a Pound of Weed and Its Value]]></title>
-        <id>https://leafymate.com/resources/?p=28148</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/understand-how-much-is-a-pound-of-weed-and-its-value"/>
-        <updated>2025-05-30T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover the costs and factors influencing how much is a pound of weed in today's market.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
