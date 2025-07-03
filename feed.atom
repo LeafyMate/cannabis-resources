@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-02T01:37:53.021Z</updated>
+    <updated>2025-07-03T01:38:13.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Lemon Skunk Strain: Origins, Effects, and Cultivation]]></title>
+        <id>https://leafymate.com/resources/?p=29165</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-lemon-skunk-strain-origins-effects-and-cultivation"/>
+        <updated>2025-07-02T05:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Explore the lemon skunk strain's origins, effects, benefits, and cultivation tips in detail.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oreo Blizzard Strain: Definition, Origins, and Key Effects]]></title>
+        <id>https://leafymate.com/resources/?p=29162</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/oreo-blizzard-strain-definition-origins-and-key-effects"/>
+        <updated>2025-07-02T05:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Discover the Oreo Blizzard strain, its origins, effects, and unique flavor profile in cannabis.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master the RS 11 Strain: Essential Steps for Successful Growth]]></title>
         <id>https://leafymate.com/resources/?p=29127</id>
@@ -382,26 +402,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understand-myrcene-terpene-benefits-strains-and-profiles"/>
         <updated>2025-06-04T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[Discover the myrcene terpene's benefits, flavor profiles, and strains for an enhanced cannabis experience.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Cannabis Flower Selection: Key Steps for New Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=28306</id>
-        <link href="https://leafymate.com/resources/home-cannabis-cultivation-techniques/master-cannabis-flower-selection-key-steps-for-new-consumers"/>
-        <updated>2025-06-03T05:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Discover essential insights on selecting quality cannabis flower for informed consumer choices.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Benefits of the Pink Lemonade Strain You Should Know]]></title>
-        <id>https://leafymate.com/resources/?p=28303</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-benefits-of-the-pink-lemonade-strain-you-should-know"/>
-        <updated>2025-06-03T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover the benefits of the Pink Lemonade strain, from uplifting effects to therapeutic uses.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
