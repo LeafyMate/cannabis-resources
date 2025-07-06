@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-05T01:26:10.629Z</updated>
+    <updated>2025-07-06T01:45:19.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THCA Side Effects: Understanding Risks and Safe Use Practices]]></title>
+        <id>https://leafymate.com/resources/?p=29430</id>
+        <link href="https://leafymate.com/resources/medical-cannabis-insights/thca-side-effects-understanding-risks-and-safe-use-practices"/>
+        <updated>2025-07-05T06:21:35.000Z</updated>
+        <summary type="html"><![CDATA[Explore THCA side effects and safe use practices for effective cannabis consumption.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dab Pen vs Cart: Key Features, Benefits, and Drawbacks Explained]]></title>
+        <id>https://leafymate.com/resources/?p=29428</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/dab-pen-vs-cart-key-features-benefits-and-drawbacks-explained"/>
+        <updated>2025-07-05T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Explore the differences between dab pens and carts to find your ideal cannabis consumption method.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Many Ounces in a Quarter Pound: Step-by-Step Conversion]]></title>
         <id>https://leafymate.com/resources/?p=29341</id>
@@ -384,26 +404,6 @@
         <summary type="html"><![CDATA[Wondering where to safely buy cannabis? This guide walks you through how to find licensed dispensaries, get your medical marijuana card, and choose the right cannabis products in your state.]]></summary>
         <author>
             <name>Nimra Shakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Shatter? Understanding Its Nature and Effects]]></title>
-        <id>https://leafymate.com/resources/?p=28494</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-shatter-understanding-its-nature-and-effects"/>
-        <updated>2025-06-06T05:19:05.000Z</updated>
-        <summary type="html"><![CDATA[Discover what shatter is, its production, effects, and associated risks in cannabis use.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animal Face: Definition, Origins, Effects, and Benefits]]></title>
-        <id>https://leafymate.com/resources/?p=28493</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/animal-face-definition-origins-effects-and-benefits"/>
-        <updated>2025-06-06T05:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Discover the unique hybrid strain Animal Face, its origins, effects, and medical benefits.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
         </author>
     </entry>
 </feed>
