@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-06T01:45:19.512Z</updated>
+    <updated>2025-07-07T01:43:14.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sativa vs Indica for Female Arousal: Key Effects and Comparisons]]></title>
+        <id>https://leafymate.com/resources/?p=29513</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/sativa-vs-indica-for-female-arousal-key-effects-and-comparisons"/>
+        <updated>2025-07-06T05:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Explore the impact of sativa vs indica for female arousal and enhance your intimate experiences.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Strawberry Guava Strain: Origins and Benefits]]></title>
+        <id>https://leafymate.com/resources/?p=29515</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-strawberry-guava-strain-origins-and-benefits"/>
+        <updated>2025-07-06T05:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Discover the origins, effects, and cultivation of the strawberry guava strain.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THCA Side Effects: Understanding Risks and Safe Use Practices]]></title>
         <id>https://leafymate.com/resources/?p=29430</id>
@@ -364,46 +384,6 @@
         <summary type="html"><![CDATA[Discover the Crunch Berries strain's origins, effects, and rising popularity in the cannabis market.]]></summary>
         <author>
             <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reggie Weed: Definition, Origins, and Key Characteristics]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/reggie-weed-definition-origins-and-key-characteristics</id>
-        <link href="https://leafymate.com/resources/cannabis-community-and-influencers/reggie-weed-definition-origins-and-key-characteristics"/>
-        <updated>2025-06-07T05:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Discover the definition, origins, and characteristics of reggie weed in this insightful guide.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Clovis Dispensaries to Explore for Quality Cannabis Products]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/7-clovis-dispensaries-to-explore-for-quality-cannabis-products</id>
-        <link href="https://leafymate.com/resources/understanding-dispensaries/7-clovis-dispensaries-to-explore-for-quality-cannabis-products"/>
-        <updated>2025-06-07T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover top Clovis dispensaries offering quality cannabis products and personalized services.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Cannabis and CBD Products Worth Trying: From Flowers to Edibles]]></title>
-        <id>https://leafymate.com/resources/?p=28188</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/best-cannabis-cbd-products"/>
-        <updated>2025-06-06T17:27:04.000Z</updated>
-        <summary type="html"><![CDATA[Explore the best cannabis and CBD products of 2025, from ultra-potent flower and infused pre-rolls to therapeutic CBD oils and gummies. Learn how to evaluate dispensaries, read product labels, and personalize your cannabis routine for stress relief, sleep, chronic pain, and more.]]></summary>
-        <author>
-            <name>Nimra Shakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find a Legal Cannabis Dispensary Near You: A Complete Guide]]></title>
-        <id>https://leafymate.com/resources/?p=28296</id>
-        <link href="https://leafymate.com/resources/understanding-dispensaries/how-to-find-legal-cannabis-dispensary"/>
-        <updated>2025-06-06T17:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Wondering where to safely buy cannabis? This guide walks you through how to find licensed dispensaries, get your medical marijuana card, and choose the right cannabis products in your state.]]></summary>
-        <author>
-            <name>Nimra Shakil</name>
         </author>
     </entry>
 </feed>
