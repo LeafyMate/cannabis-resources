@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-09T01:39:43.921Z</updated>
+    <updated>2025-07-10T01:39:54.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Cart Weed: Definition, Origins, and Uses Explained]]></title>
+        <id>https://leafymate.com/resources/?p=29787</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-a-cart-weed-definition-origins-and-uses-explained"/>
+        <updated>2025-07-09T05:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Discover the definition, origins, and uses of cart weed in the cannabis market.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Blue Weed: Origins, Characteristics, and Benefits]]></title>
+        <id>https://leafymate.com/resources/?p=29789</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-blue-weed-origins-characteristics-and-benefits"/>
+        <updated>2025-07-09T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Discover the origins, characteristics, and benefits of blue weed in this comprehensive overview.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Essential Weed Grinders for Every Cannabis Consumer]]></title>
         <id>https://leafymate.com/resources/?p=29711</id>
@@ -402,26 +422,6 @@
         <link href="https://leafymate.com/resources/understanding-dispensaries/10-must-visit-brooklyn-dispensary-experiences-for-new-consumers"/>
         <updated>2025-06-11T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[Explore the best Brooklyn dispensary experiences tailored for new cannabis consumers.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Silver Haze Strain: Origins, Characteristics, and Effects]]></title>
-        <id>https://leafymate.com/resources/?p=28599</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/super-silver-haze-strain-origins-characteristics-and-effects"/>
-        <updated>2025-06-10T05:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Discover the origins, characteristics, and effects of the super silver haze strain.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crunch Berries Strain: Origins, Effects, and Market Trends]]></title>
-        <id>https://leafymate.com/resources/?p=28596</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/crunch-berries-strain-origins-effects-and-market-trends"/>
-        <updated>2025-06-10T05:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Discover the Crunch Berries strain's origins, effects, and rising popularity in the cannabis market.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
