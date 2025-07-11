@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T01:39:54.862Z</updated>
+    <updated>2025-07-11T01:41:01.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Capture the Perfect Orange Sunset: Step-by-Step Techniques]]></title>
+        <id>https://leafymate.com/resources/?p=29866</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/capture-the-perfect-orange-sunset-step-by-step-techniques"/>
+        <updated>2025-07-10T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Master techniques to capture stunning orange sunsets with perfect timing and composition.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Must-Try Russian Cream Products for Cannabis Enthusiasts]]></title>
+        <id>https://leafymate.com/resources/?p=29868</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-must-try-russian-cream-products-for-cannabis-enthusiasts"/>
+        <updated>2025-07-10T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Discover 7 essential Russian cream products that elevate your cannabis experience.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Cart Weed: Definition, Origins, and Uses Explained]]></title>
         <id>https://leafymate.com/resources/?p=29787</id>
@@ -402,26 +422,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-must-visit-aurora-co-dispensary-options-for-new-consumers"/>
         <updated>2025-06-12T05:00:05.000Z</updated>
         <summary type="html"><![CDATA[Discover top Aurora CO dispensaries tailored for new cannabis consumers with trusted insights.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Does Marijuana Stay in Urine? Key Factors and Detox Tips]]></title>
-        <id>https://leafymate.com/resources/?p=28609</id>
-        <link href="https://leafymate.com/resources/cannabis-and-wellness/how-long-does-marijuana-stay-in-urine-key-factors-and-detox-tips"/>
-        <updated>2025-06-11T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Discover how long marijuana stays in urine and the factors that influence detection times.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Must-Visit Brooklyn Dispensary Experiences for New Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=28610</id>
-        <link href="https://leafymate.com/resources/understanding-dispensaries/10-must-visit-brooklyn-dispensary-experiences-for-new-consumers"/>
-        <updated>2025-06-11T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Explore the best Brooklyn dispensary experiences tailored for new cannabis consumers.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
