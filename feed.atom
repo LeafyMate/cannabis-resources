@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-14T01:45:32.295Z</updated>
+    <updated>2025-07-15T01:45:49.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sativa vs Indica vs Hybrid Effects: Understanding Their Differences]]></title>
+        <id>https://leafymate.com/resources/?p=30094</id>
+        <link href="https://leafymate.com/resources/home-cannabis-cultivation-techniques/sativa-vs-indica-vs-hybrid-effects-understanding-their-differences"/>
+        <updated>2025-07-14T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Discover the unique traits and impacts of sativa vs indica vs hybrid effects for informed choices.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Difference Between THC and THCA]]></title>
+        <id>https://leafymate.com/resources/?p=30097</id>
+        <link href="https://leafymate.com/resources/understanding-dispensaries/understanding-the-difference-between-thc-and-thca"/>
+        <updated>2025-07-14T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Explore the crucial difference between THC and THCA for informed cannabis consumption.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understand the OMG Strain: Origins, Effects, and Characteristics]]></title>
         <id>https://leafymate.com/resources/?p=30083</id>
@@ -402,26 +422,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-golden-goat-strain-origins-effects-and-uses"/>
         <updated>2025-06-16T05:05:07.000Z</updated>
         <summary type="html"><![CDATA[Explore the golden goat strain: origins, effects, and medicinal benefits. Discover its unique profile!]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Donkey Butter Strain: Key Characteristics and Benefits]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/understanding-the-donkey-butter-strain-key-characteristics-and-benefits</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-donkey-butter-strain-key-characteristics-and-benefits"/>
-        <updated>2025-06-15T05:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Discover the unique characteristics and benefits of the donkey butter strain in cannabis.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Essential Insights Every New Consumer Should Know About Weed Wax]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/10-essential-insights-every-new-consumer-should-know-about-weed-wax</id>
-        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/10-essential-insights-every-new-consumer-should-know-about-weed-wax"/>
-        <updated>2025-06-15T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover vital insights on weed wax, from production to consumption methods and safety tips.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>

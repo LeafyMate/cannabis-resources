@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30094",
+          "author": "Jordan Reyes",
+          "description": "Discover the unique traits and impacts of sativa vs indica vs hybrid effects for informed choices.",
+          "link": "https://leafymate.com/resources/home-cannabis-cultivation-techniques/sativa-vs-indica-vs-hybrid-effects-understanding-their-differences",
+          "publishedOn": "2025-07-14T05:00:04.000Z",
+          "wordCount": 8395,
+          "title": "Sativa vs Indica vs Hybrid Effects: Understanding Their Differences",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/sativa-vs-indica-vs-hybrid-effects-understanding-their-differences.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30097",
+          "author": "Jordan Reyes",
+          "description": "Explore the crucial difference between THC and THCA for informed cannabis consumption.",
+          "link": "https://leafymate.com/resources/understanding-dispensaries/understanding-the-difference-between-thc-and-thca",
+          "publishedOn": "2025-07-14T05:00:04.000Z",
+          "wordCount": 8059,
+          "title": "Understanding the Difference Between THC and THCA",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-difference-between-thc-and-thca.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30083",
           "author": "Jordan Reyes",
           "description": "Discover the unique origins, effects, and characteristics of the omg strain in cannabis.",
@@ -404,26 +424,6 @@
           "wordCount": 8121,
           "title": "Understanding the Golden Goat Strain: Origins, Effects, and Uses",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-golden-goat-strain-origins-effects-and-uses.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/understanding-the-donkey-butter-strain-key-characteristics-and-benefits",
-          "author": "Jordan Reyes",
-          "description": "Discover the unique characteristics and benefits of the donkey butter strain in cannabis.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-donkey-butter-strain-key-characteristics-and-benefits",
-          "publishedOn": "2025-06-15T05:00:07.000Z",
-          "wordCount": 8214,
-          "title": "Understanding the Donkey Butter Strain: Key Characteristics and Benefits",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-donkey-butter-strain-key-characteristics-and-benefits.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/cannabis-101/10-essential-insights-every-new-consumer-should-know-about-weed-wax",
-          "author": "Jordan Reyes",
-          "description": "Discover vital insights on weed wax, from production to consumption methods and safety tips.",
-          "link": "https://leafymate.com/resources/cannabis-legalization-and-policy-updates/10-essential-insights-every-new-consumer-should-know-about-weed-wax",
-          "publishedOn": "2025-06-15T05:00:03.000Z",
-          "wordCount": 11025,
-          "title": "10 Essential Insights Every New Consumer Should Know About Weed Wax",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-essential-insights-every-new-consumer-should-know-about-weed-wax.webp"
         }
       ]
     }
