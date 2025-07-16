@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-15T01:45:49.309Z</updated>
+    <updated>2025-07-16T01:42:33.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master 28g to oz: Step-by-Step Conversion Guide]]></title>
+        <id>https://leafymate.com/resources/?p=30109</id>
+        <link href="https://leafymate.com/resources/general/master-28-g-to-oz-step-by-step-conversion-guide"/>
+        <updated>2025-07-15T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to convert 28g to oz accurately with this step-by-step guide.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master 14g to oz: Simple Steps for Cannabis Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=30106</id>
+        <link href="https://leafymate.com/resources/general/master-14-g-to-oz-simple-steps-for-cannabis-consumers"/>
+        <updated>2025-07-15T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to convert 14g to oz for informed cannabis purchasing and consumption.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sativa vs Indica vs Hybrid Effects: Understanding Their Differences]]></title>
         <id>https://leafymate.com/resources/?p=30094</id>
@@ -402,26 +422,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-watermelon-strain-origins-benefits-and-effects"/>
         <updated>2025-06-17T05:00:04.000Z</updated>
         <summary type="html"><![CDATA[Explore the Watermelon strain's origins, benefits, effects, and unique flavor profile.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross Faded Meaning: Effects, Risks, and Management Tips]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/cross-faded-meaning-effects-risks-and-management-tips</id>
-        <link href="https://leafymate.com/resources/understanding-dispensaries/cross-faded-meaning-effects-risks-and-management-tips"/>
-        <updated>2025-06-16T05:05:09.000Z</updated>
-        <summary type="html"><![CDATA[Discover the meaning of cross faded and explore its effects, risks, and management strategies.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Golden Goat Strain: Origins, Effects, and Uses]]></title>
-        <id>https://leafymate.com/resources/cannabis-101/understanding-the-golden-goat-strain-origins-effects-and-uses</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-golden-goat-strain-origins-effects-and-uses"/>
-        <updated>2025-06-16T05:05:07.000Z</updated>
-        <summary type="html"><![CDATA[Explore the golden goat strain: origins, effects, and medicinal benefits. Discover its unique profile!]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
