@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-16T01:42:33.243Z</updated>
+    <updated>2025-07-17T01:43:24.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Essential Facts Every New Consumer Should Know About Wax Weed]]></title>
+        <id>https://leafymate.com/resources/?p=30124</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-essential-facts-every-new-consumer-should-know-about-wax-weed"/>
+        <updated>2025-07-16T05:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Discover essential insights on wax weed for new consumers navigating its potency and risks.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Black Cherry Strain: Origins, Effects, and Characteristics]]></title>
+        <id>https://leafymate.com/resources/?p=30125</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-black-cherry-strain-origins-effects-and-characteristics"/>
+        <updated>2025-07-16T05:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Discover the black cherry strain's origins, effects, and unique flavor profile in detail.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master 28g to oz: Step-by-Step Conversion Guide]]></title>
         <id>https://leafymate.com/resources/?p=30109</id>
@@ -402,26 +422,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-hash-hole-definition-origins-and-characteristics"/>
         <updated>2025-06-18T05:00:04.000Z</updated>
         <summary type="html"><![CDATA[Discover the essence of hash holes, their origins, and unique features in cannabis culture.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understand How Much is a Zip of Weed in G: Key Insights]]></title>
-        <id>https://leafymate.com/resources/?p=28806</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/understand-how-much-is-a-zip-of-weed-in-g-key-insights"/>
-        <updated>2025-06-17T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Discover how much is a zip of weed in g, covering weight, cost, and longevity of 28 grams.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Watermelon Strain: Origins, Benefits, and Effects]]></title>
-        <id>https://leafymate.com/resources/?p=28809</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-watermelon-strain-origins-benefits-and-effects"/>
-        <updated>2025-06-17T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Explore the Watermelon strain's origins, benefits, effects, and unique flavor profile.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
