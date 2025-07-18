@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T01:43:24.761Z</updated>
+    <updated>2025-07-18T01:44:26.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Pink Champagne Strain: Effects, Genetics, and Cultivation]]></title>
+        <id>https://leafymate.com/resources/?p=30139</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-pink-champagne-strain-effects-genetics-and-cultivation"/>
+        <updated>2025-07-17T07:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Discover the pink champagne strain's effects, genetics, and cultivation tips for enthusiasts.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best Weed Strains for New Cannabis Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=30136</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-best-weed-strains-for-new-cannabis-consumers"/>
+        <updated>2025-07-17T05:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Discover the best weed strains ideal for new cannabis consumers to enhance their experience.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Essential Facts Every New Consumer Should Know About Wax Weed]]></title>
         <id>https://leafymate.com/resources/?p=30124</id>
@@ -402,26 +422,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/how-to-use-a-bong-step-by-step-guide-for-beginners"/>
         <updated>2025-06-19T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[Learn step-by-step how to use a bong for a smoother and more enjoyable smoking experience.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master the Bubblegum Gelato Strain: Step-by-Step Growing Guide]]></title>
-        <id>https://leafymate.com/resources/?p=28860</id>
-        <link href="https://leafymate.com/resources/general/master-the-bubblegum-gelato-strain-step-by-step-growing-guide"/>
-        <updated>2025-06-18T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Learn to grow the bubblegum gelato strain with this detailed step-by-step guide.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Hash Hole: Definition, Origins, and Characteristics]]></title>
-        <id>https://leafymate.com/resources/?p=28863</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-hash-hole-definition-origins-and-characteristics"/>
-        <updated>2025-06-18T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Discover the essence of hash holes, their origins, and unique features in cannabis culture.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
