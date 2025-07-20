@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-19T01:39:54.747Z</updated>
+    <updated>2025-07-20T01:51:09.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -402,26 +402,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-triple-scoop-strain-origins-and-effects"/>
         <updated>2025-06-21T05:00:10.000Z</updated>
         <summary type="html"><![CDATA[Explore the triple scoop strain's origins, effects, and therapeutic benefits in cannabis use.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Marijuana a Depressant? Understanding Its Effects and Risks]]></title>
-        <id>https://leafymate.com/resources/?p=28943</id>
-        <link href="https://leafymate.com/resources/cannabis-and-wellness/is-marijuana-a-depressant-understanding-its-effects-and-risks"/>
-        <updated>2025-06-20T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Explore the complexities of marijuana's effects to understand if it's truly a depressant.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Landrace Cultivation: Techniques for New Cannabis Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=28944</id>
-        <link href="https://leafymate.com/resources/general/master-landrace-cultivation-techniques-for-new-cannabis-consumers"/>
-        <updated>2025-06-20T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover the origins, cultivation techniques, and conservation of landrace cannabis strains.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
