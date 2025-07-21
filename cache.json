@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30156",
+          "author": "Jordan Reyes",
+          "description": "Discover the chocolope strain's origins, effects, and cultivation insights for an uplifting experience.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/chocolope-strain-origins-effects-and-growing-insights",
+          "publishedOn": "2025-07-20T05:00:04.000Z",
+          "wordCount": 9310,
+          "title": "Chocolope Strain: Origins, Effects, and Growing Insights",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/chocolope-strain-origins-effects-and-growing-insights.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30159",
+          "author": "Jordan Reyes",
+          "description": "Discover the jelly donut strain's origins, effects, flavor, and therapeutic benefits.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-jelly-donut-strain-origins-and-key-benefits",
+          "publishedOn": "2025-07-20T05:00:04.000Z",
+          "wordCount": 9839,
+          "title": "Understanding the Jelly Donut Strain: Origins and Key Benefits",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-jelly-donut-strain-origins-and-key-benefits.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30146",
           "author": "Jordan Reyes",
           "description": "Discover how long weed stays in your pee based on usage frequency and individual factors.",
@@ -384,26 +404,6 @@
           "wordCount": 8733,
           "title": "Live Rosin vs Live Resin: Key Differences in Flavor, Potency, and Cost",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/live-rosin-vs-live-resin-key-differences-in-flavor-potency-and-cost.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=28994",
-          "author": "Jordan Reyes",
-          "description": "Explore the essentials of choosing the perfect 510 vape battery for your vaping needs.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/master-510-vape-battery-selection-key-features-and-tips",
-          "publishedOn": "2025-06-21T05:00:12.000Z",
-          "wordCount": 8524,
-          "title": "Master 510 Vape Battery Selection: Key Features and Tips",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-510-vape-battery-selection-key-features-and-tips.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=28991",
-          "author": "Jordan Reyes",
-          "description": "Explore the triple scoop strain's origins, effects, and therapeutic benefits in cannabis use.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-triple-scoop-strain-origins-and-effects",
-          "publishedOn": "2025-06-21T05:00:10.000Z",
-          "wordCount": 7183,
-          "title": "Understanding the Triple Scoop Strain: Origins and Effects",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-triple-scoop-strain-origins-and-effects.webp"
         }
       ]
     }
