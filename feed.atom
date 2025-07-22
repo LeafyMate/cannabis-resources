@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-21T01:48:52.002Z</updated>
+    <updated>2025-07-22T01:43:39.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -382,26 +382,6 @@
         <link href="https://leafymate.com/resources/responsible-cannabis-use/3-steps-to-successfully-take-a-t-break"/>
         <updated>2025-06-28T04:42:13.000Z</updated>
         <summary type="html"><![CDATA[Learn how to take a successful t break to reset your tolerance and enhance your cannabis experience.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master the Blunt Roller: Step-by-Step Techniques for Success]]></title>
-        <id>https://leafymate.com/resources/?p=29075</id>
-        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/master-the-blunt-roller-step-by-step-techniques-for-success"/>
-        <updated>2025-06-22T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Learn essential techniques to master the art of using a blunt roller for perfect rolls.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live Rosin vs Live Resin: Key Differences in Flavor, Potency, and Cost]]></title>
-        <id>https://leafymate.com/resources/?p=29073</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/live-rosin-vs-live-resin-key-differences-in-flavor-potency-and-cost"/>
-        <updated>2025-06-22T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Explore the key differences between live rosin vs live resin in flavor, potency, and cost.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
