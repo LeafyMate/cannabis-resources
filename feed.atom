@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-22T01:43:39.525Z</updated>
+    <updated>2025-07-23T01:44:35.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THC Pills: Understanding Benefits, Risks, and Dosing]]></title>
+        <id>https://leafymate.com/resources/?p=30166</id>
+        <link href="https://leafymate.com/resources/medical-cannabis-insights/thc-pills-understanding-benefits-risks-and-dosing"/>
+        <updated>2025-07-22T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Discover the benefits, risks, and dosing guidelines for THC pills in this comprehensive guide.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chocolope Strain: Origins, Effects, and Growing Insights]]></title>
         <id>https://leafymate.com/resources/?p=30156</id>
