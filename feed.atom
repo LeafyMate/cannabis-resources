@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-23T01:44:35.161Z</updated>
+    <updated>2025-07-24T01:43:54.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Key Insights About Do Si Do Strains for New Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=30173</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-key-insights-about-do-si-do-strains-for-new-consumers"/>
+        <updated>2025-07-23T05:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Discover the essential insights about Do Si Do strains for informed cannabis choices.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the G41 Strain: Origins, Characteristics, and Benefits]]></title>
+        <id>https://leafymate.com/resources/?p=30172</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-g-41-strain-origins-characteristics-and-benefits"/>
+        <updated>2025-07-23T05:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Discover the G41 strain's origins, effects, and unique flavor profile in this comprehensive guide.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THC Pills: Understanding Benefits, Risks, and Dosing]]></title>
         <id>https://leafymate.com/resources/?p=30166</id>
