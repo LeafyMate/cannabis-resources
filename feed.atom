@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-25T01:43:23.450Z</updated>
+    <updated>2025-07-26T01:40:31.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Steps to Take a Successful Tolerance Break]]></title>
+        <id>https://leafymate.com/resources/?p=30193</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/5-steps-to-take-a-successful-tolerance-break"/>
+        <updated>2025-07-25T05:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Learn to take a successful tolerance break and enhance your marijuana experience.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master THC Inhaler Use: Step-by-Step Instructions and Tips]]></title>
+        <id>https://leafymate.com/resources/?p=30192</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-thc-inhaler-use-step-by-step-instructions-and-tips"/>
+        <updated>2025-07-25T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Master the use of thc inhalers with our step-by-step instructions and essential insights.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Craft Cannabis: Definition, Origins, and Key Characteristics]]></title>
         <id>https://leafymate.com/resources/?p=30181</id>
