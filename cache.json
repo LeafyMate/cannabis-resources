@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30212",
+          "author": "Jordan Reyes",
+          "description": "Discover the origins, uses, and health benefits of cannabis butter in your cooking.",
+          "link": "https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/understanding-cannabis-butter-origins-uses-and-benefits",
+          "publishedOn": "2025-07-27T05:29:51.000Z",
+          "wordCount": 8407,
+          "title": "Understanding Cannabis Butter: Origins, Uses, and Benefits",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-cannabis-butter-origins-uses-and-benefits.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30213",
+          "author": "Jordan Reyes",
+          "description": "Master the art of curing weed with essential steps for enhanced flavor, aroma, and potency.",
+          "link": "https://leafymate.com/resources/home-cannabis-cultivation-techniques/curing-weed-essential-steps-for-successful-cannabis-curing",
+          "publishedOn": "2025-07-27T05:00:04.000Z",
+          "wordCount": 8328,
+          "title": "Curing Weed: Essential Steps for Successful Cannabis Curing",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/curing-weed-essential-steps-for-successful-cannabis-curing.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30204",
           "author": "Jordan Reyes",
           "description": "Discover the mandarin cookies strain: a flavorful hybrid with uplifting effects and therapeutic benefits.",
@@ -454,26 +474,6 @@
           "wordCount": 8082,
           "title": "Oreo Blizzard Strain: Definition, Origins, and Key Effects",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/oreo-blizzard-strain-definition-origins-and-key-effects.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=29127",
-          "author": "Jordan Reyes",
-          "description": "Discover essential steps for successfully growing the RS 11 strain and maximizing your yield.",
-          "link": "https://leafymate.com/resources/cannabis-legalization-and-policy-updates/master-the-rs-11-strain-essential-steps-for-successful-growth",
-          "publishedOn": "2025-06-28T04:42:14.000Z",
-          "wordCount": 8557,
-          "title": "Master the RS 11 Strain: Essential Steps for Successful Growth",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-the-rs-11-strain-essential-steps-for-successful-growth.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=29124",
-          "author": "Jordan Reyes",
-          "description": "Learn how to take a successful t break to reset your tolerance and enhance your cannabis experience.",
-          "link": "https://leafymate.com/resources/responsible-cannabis-use/3-steps-to-successfully-take-a-t-break",
-          "publishedOn": "2025-06-28T04:42:13.000Z",
-          "wordCount": 7652,
-          "title": "3 Steps to Successfully Take a T Break",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/3-steps-to-successfully-take-a-t-break.webp"
         }
       ]
     }
