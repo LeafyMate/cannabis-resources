@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30256",
+          "author": "Jordan Reyes",
+          "description": "Discover the alien cookie strain's origins, effects, and therapeutic benefits in cannabis.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-alien-cookie-strain-origins-effects-and-benefits",
+          "publishedOn": "2025-07-31T05:00:08.000Z",
+          "wordCount": 7906,
+          "title": "Understanding the Alien Cookie Strain: Origins, Effects, and Benefits",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-alien-cookie-strain-origins-effects-and-benefits.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30253",
+          "author": "Jordan Reyes",
+          "description": "Discover the uses, origins, and benefits of honeycomb wax in cannabis products.",
+          "link": "https://leafymate.com/resources/cannabis-legalization-and-policy-updates/understanding-honeycomb-wax-uses-origins-and-benefits",
+          "publishedOn": "2025-07-31T05:00:07.000Z",
+          "wordCount": 7589,
+          "title": "Understanding Honeycomb Wax: Uses, Origins, and Benefits",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-honeycomb-wax-uses-origins-and-benefits.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30246",
           "author": "Jordan Reyes",
           "description": "Discover the origins, effects, and cultivation tips for the banana kush strain in this comprehensive guide.",
@@ -514,26 +534,6 @@
           "wordCount": 6900,
           "title": "3 Steps on How to Pass Oral Swab Same Day",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/3-steps-on-how-to-pass-oral-swab-same-day.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=29165",
-          "author": "Jordan Reyes",
-          "description": "Explore the lemon skunk strain's origins, effects, benefits, and cultivation tips in detail.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-lemon-skunk-strain-origins-effects-and-cultivation",
-          "publishedOn": "2025-07-02T05:04:57.000Z",
-          "wordCount": 8432,
-          "title": "Understanding the Lemon Skunk Strain: Origins, Effects, and Cultivation",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-lemon-skunk-strain-origins-effects-and-cultivation.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=29162",
-          "author": "Jordan Reyes",
-          "description": "Discover the Oreo Blizzard strain, its origins, effects, and unique flavor profile in cannabis.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/oreo-blizzard-strain-definition-origins-and-key-effects",
-          "publishedOn": "2025-07-02T05:04:55.000Z",
-          "wordCount": 8082,
-          "title": "Oreo Blizzard Strain: Definition, Origins, and Key Effects",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/oreo-blizzard-strain-definition-origins-and-key-effects.webp"
         }
       ]
     }
