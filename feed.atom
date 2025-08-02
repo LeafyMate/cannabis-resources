@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-01T01:55:27.704Z</updated>
+    <updated>2025-08-02T01:40:47.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Jokerz Candy Strain: Origins, Effects, and Cultivation]]></title>
+        <id>https://leafymate.com/resources/?p=30263</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-jokerz-candy-strain-origins-effects-and-cultivation"/>
+        <updated>2025-08-01T05:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Discover the jokerz candy strain, its origins, effects, and cultivation tips for enthusiasts.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Insights on 2 Grams of Cannabis for New Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=30266</id>
+        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/7-insights-on-2-grams-of-cannabis-for-new-consumers"/>
+        <updated>2025-08-01T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Discover essential insights on consuming 2 grams of cannabis for a safe and enjoyable experience.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the Alien Cookie Strain: Origins, Effects, and Benefits]]></title>
         <id>https://leafymate.com/resources/?p=30256</id>
@@ -512,26 +532,6 @@
         <link href="https://leafymate.com/resources/cannabis-and-wellness/is-weed-a-depressant-understanding-its-effects-and-classifications"/>
         <updated>2025-07-04T05:00:04.000Z</updated>
         <summary type="html"><![CDATA[Discover the complexities of marijuana and explore the question: is weed a depressant?]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Weed Pin: Origins, Significance, and Variations]]></title>
-        <id>https://leafymate.com/resources/?p=29252</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-weed-pin-origins-significance-and-variations"/>
-        <updated>2025-07-03T05:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Explore the significance, origins, and styles of weed pins in cannabis culture.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Steps on How to Pass Oral Swab Same Day]]></title>
-        <id>https://leafymate.com/resources/?p=29251</id>
-        <link href="https://leafymate.com/resources/cannabis-and-wellness/3-steps-on-how-to-pass-oral-swab-same-day"/>
-        <updated>2025-07-03T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Learn essential steps on how to pass oral swab same day drug tests effectively.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
