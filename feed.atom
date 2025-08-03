@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-02T01:40:47.120Z</updated>
+    <updated>2025-08-03T01:53:18.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bacio Gelato: Understanding Its Origins and Unique Characteristics]]></title>
+        <id>https://leafymate.com/resources/?p=30275</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/bacio-gelato-understanding-its-origins-and-unique-characteristics"/>
+        <updated>2025-08-02T05:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Discover the origins, flavors, and effects of the popular Bacio Gelato cannabis strain.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Animal Tsunami Strain: Origins and Benefits]]></title>
+        <id>https://leafymate.com/resources/?p=30276</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-animal-tsunami-strain-origins-and-benefits"/>
+        <updated>2025-08-02T05:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Discover the animal tsunami strain's origins, effects, and cultivation techniques for optimal growth.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the Jokerz Candy Strain: Origins, Effects, and Cultivation]]></title>
         <id>https://leafymate.com/resources/?p=30263</id>
@@ -512,26 +532,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/dab-pen-vs-cart-key-features-benefits-and-drawbacks-explained"/>
         <updated>2025-07-05T05:00:05.000Z</updated>
         <summary type="html"><![CDATA[Explore the differences between dab pens and carts to find your ideal cannabis consumption method.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many Ounces in a Quarter Pound: Step-by-Step Conversion]]></title>
-        <id>https://leafymate.com/resources/?p=29341</id>
-        <link href="https://leafymate.com/resources/general/how-many-ounces-in-a-quarter-pound-step-by-step-conversion"/>
-        <updated>2025-07-04T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Discover how many ounces in a quarter pound with simple step-by-step conversion instructions.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Weed a Depressant? Understanding Its Effects and Classifications]]></title>
-        <id>https://leafymate.com/resources/?p=29338</id>
-        <link href="https://leafymate.com/resources/cannabis-and-wellness/is-weed-a-depressant-understanding-its-effects-and-classifications"/>
-        <updated>2025-07-04T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Discover the complexities of marijuana and explore the question: is weed a depressant?]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>

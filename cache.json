@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30275",
+          "author": "Jordan Reyes",
+          "description": "Discover the origins, flavors, and effects of the popular Bacio Gelato cannabis strain.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/bacio-gelato-understanding-its-origins-and-unique-characteristics",
+          "publishedOn": "2025-08-02T05:05:35.000Z",
+          "wordCount": 8242,
+          "title": "Bacio Gelato: Understanding Its Origins and Unique Characteristics",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/bacio-gelato-understanding-its-origins-and-unique-characteristics.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30276",
+          "author": "Jordan Reyes",
+          "description": "Discover the animal tsunami strain's origins, effects, and cultivation techniques for optimal growth.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-animal-tsunami-strain-origins-and-benefits",
+          "publishedOn": "2025-08-02T05:05:34.000Z",
+          "wordCount": 7433,
+          "title": "Understanding the Animal Tsunami Strain: Origins and Benefits",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-animal-tsunami-strain-origins-and-benefits.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30263",
           "author": "Jordan Reyes",
           "description": "Discover the jokerz candy strain, its origins, effects, and cultivation tips for enthusiasts.",
@@ -514,26 +534,6 @@
           "wordCount": 6762,
           "title": "Dab Pen vs Cart: Key Features, Benefits, and Drawbacks Explained",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/dab-pen-vs-cart-key-features-benefits-and-drawbacks-explained.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=29341",
-          "author": "Jordan Reyes",
-          "description": "Discover how many ounces in a quarter pound with simple step-by-step conversion instructions.",
-          "link": "https://leafymate.com/resources/general/how-many-ounces-in-a-quarter-pound-step-by-step-conversion",
-          "publishedOn": "2025-07-04T05:00:05.000Z",
-          "wordCount": 6855,
-          "title": "How Many Ounces in a Quarter Pound: Step-by-Step Conversion",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-many-ounces-in-a-quarter-pound-step-by-step-conversion.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=29338",
-          "author": "Jordan Reyes",
-          "description": "Discover the complexities of marijuana and explore the question: is weed a depressant?",
-          "link": "https://leafymate.com/resources/cannabis-and-wellness/is-weed-a-depressant-understanding-its-effects-and-classifications",
-          "publishedOn": "2025-07-04T05:00:04.000Z",
-          "wordCount": 8431,
-          "title": "Is Weed a Depressant? Understanding Its Effects and Classifications",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/is-weed-a-depressant-understanding-its-effects-and-classifications.webp"
         }
       ]
     }
