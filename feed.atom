@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-03T01:53:18.701Z</updated>
+    <updated>2025-08-04T01:53:33.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Candy Runtz: Origins, Characteristics, and Cultural Impact]]></title>
+        <id>https://leafymate.com/resources/?p=30287</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/candy-runtz-origins-characteristics-and-cultural-impact"/>
+        <updated>2025-08-03T05:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Explore the origins, effects, and cultural impact of the popular Candy Runtz cannabis strain.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Black Cherry Strains to Explore for Unique Experiences]]></title>
+        <id>https://leafymate.com/resources/?p=30284</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-black-cherry-strains-to-explore-for-unique-experiences"/>
+        <updated>2025-08-03T05:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Explore 10 unique black cherry strains for distinct flavors and effects in your cannabis experience.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bacio Gelato: Understanding Its Origins and Unique Characteristics]]></title>
         <id>https://leafymate.com/resources/?p=30275</id>
@@ -512,26 +532,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-strawberry-guava-strain-origins-and-benefits"/>
         <updated>2025-07-06T05:04:19.000Z</updated>
         <summary type="html"><![CDATA[Discover the origins, effects, and cultivation of the strawberry guava strain.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THCA Side Effects: Understanding Risks and Safe Use Practices]]></title>
-        <id>https://leafymate.com/resources/?p=29430</id>
-        <link href="https://leafymate.com/resources/medical-cannabis-insights/thca-side-effects-understanding-risks-and-safe-use-practices"/>
-        <updated>2025-07-05T06:21:35.000Z</updated>
-        <summary type="html"><![CDATA[Explore THCA side effects and safe use practices for effective cannabis consumption.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dab Pen vs Cart: Key Features, Benefits, and Drawbacks Explained]]></title>
-        <id>https://leafymate.com/resources/?p=29428</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/dab-pen-vs-cart-key-features-benefits-and-drawbacks-explained"/>
-        <updated>2025-07-05T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Explore the differences between dab pens and carts to find your ideal cannabis consumption method.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
