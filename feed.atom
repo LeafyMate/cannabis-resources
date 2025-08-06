@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T01:48:25.361Z</updated>
+    <updated>2025-08-06T01:46:53.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Cheap Dispensary in Michigan Options for Budget-Conscious Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=30305</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-cheap-dispensary-in-michigan-options-for-budget-conscious-consumers"/>
+        <updated>2025-08-05T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Discover budget-friendly options with our top 7 cheap dispensary picks in Michigan.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Decarb Weed: Step-by-Step Guide for Beginners]]></title>
+        <id>https://leafymate.com/resources/?p=30308</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/how-to-decarb-weed-step-by-step-guide-for-beginners"/>
+        <updated>2025-08-05T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to decarb weed effectively to activate cannabinoids for optimal potency and benefits.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Key Insights About 1 Gram of Weed for New Consumers]]></title>
         <id>https://leafymate.com/resources/?p=30295</id>
@@ -512,26 +532,6 @@
         <link href="https://leafymate.com/resources/understanding-dispensaries/10-best-dispensaries-for-new-cannabis-consumers-in-2025"/>
         <updated>2025-07-08T05:00:06.000Z</updated>
         <summary type="html"><![CDATA[Discover the top 10 dispensaries for new cannabis consumers in 2025. Explore quality and education.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Alien Mints Strain: Origins, Effects, and Flavor]]></title>
-        <id>https://leafymate.com/resources/?p=29608</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-alien-mints-strain-origins-effects-and-flavor"/>
-        <updated>2025-07-07T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover the alien mints strain: a potent hybrid with unique effects and flavor profile.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Apes in Space: Contributions and Ethical Insights]]></title>
-        <id>https://leafymate.com/resources/?p=29610</id>
-        <link href="https://leafymate.com/resources/general/understanding-apes-in-space-contributions-and-ethical-insights"/>
-        <updated>2025-07-07T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Explore the significant contributions and ethical insights surrounding apes in space exploration.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
