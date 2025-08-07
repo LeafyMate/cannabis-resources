@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-06T01:46:53.664Z</updated>
+    <updated>2025-08-07T01:47:09.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Long Do Edibles Stay in Your System? Key Factors Explained]]></title>
+        <id>https://leafymate.com/resources/?p=30315</id>
+        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/how-long-do-edibles-stay-in-your-system-key-factors-explained"/>
+        <updated>2025-08-06T05:07:03.000Z</updated>
+        <summary type="html"><![CDATA[Learn how long edibles stay in your system and the factors that influence their duration.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding 420 Friendly Meaning: Origins and Contexts Explained]]></title>
+        <id>https://leafymate.com/resources/?p=30317</id>
+        <link href="https://leafymate.com/resources/general/understanding-420-friendly-meaning-origins-and-contexts-explained"/>
+        <updated>2025-08-06T05:06:52.000Z</updated>
+        <summary type="html"><![CDATA[Discover the origins and significance of "420 friendly meaning" in cannabis culture.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Cheap Dispensary in Michigan Options for Budget-Conscious Consumers]]></title>
         <id>https://leafymate.com/resources/?p=30305</id>
@@ -512,26 +532,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-blue-weed-origins-characteristics-and-benefits"/>
         <updated>2025-07-09T05:00:05.000Z</updated>
         <summary type="html"><![CDATA[Discover the origins, characteristics, and benefits of blue weed in this comprehensive overview.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Essential Weed Grinders for Every Cannabis Consumer]]></title>
-        <id>https://leafymate.com/resources/?p=29711</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/7-essential-weed-grinders-for-every-cannabis-consumer"/>
-        <updated>2025-07-08T07:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Discover essential weed grinders to enhance your cannabis experience with quality and efficiency.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Dispensaries for New Cannabis Consumers in 2025]]></title>
-        <id>https://leafymate.com/resources/?p=29708</id>
-        <link href="https://leafymate.com/resources/understanding-dispensaries/10-best-dispensaries-for-new-cannabis-consumers-in-2025"/>
-        <updated>2025-07-08T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover the top 10 dispensaries for new cannabis consumers in 2025. Explore quality and education.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
