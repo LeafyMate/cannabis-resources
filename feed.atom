@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T01:46:37.665Z</updated>
+    <updated>2025-08-09T01:37:25.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Liquid Diamonds THC: Steps for Effective Use]]></title>
+        <id>https://leafymate.com/resources/?p=30338</id>
+        <link href="https://leafymate.com/resources/understanding-dispensaries/master-liquid-diamonds-thc-steps-for-effective-use"/>
+        <updated>2025-08-08T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to effectively use liquid diamonds THC for an enhanced cannabis experience.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convert Quarter Pound in Grams: A Simple Step-by-Step Guide]]></title>
+        <id>https://leafymate.com/resources/?p=30339</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/convert-quarter-pound-in-grams-a-simple-step-by-step-guide"/>
+        <updated>2025-08-08T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to easily convert a quarter pound in grams for accurate cannabis measurements.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Sensimilla: Cultivation Techniques and Benefits Explained]]></title>
         <id>https://leafymate.com/resources/?p=30325</id>
@@ -512,26 +532,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-tips-for-using-your-disposable-vape-pen-safely"/>
         <updated>2025-07-11T05:00:07.000Z</updated>
         <summary type="html"><![CDATA[Discover essential tips for safe and responsible use of your disposable vape pen.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capture the Perfect Orange Sunset: Step-by-Step Techniques]]></title>
-        <id>https://leafymate.com/resources/?p=29866</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/capture-the-perfect-orange-sunset-step-by-step-techniques"/>
-        <updated>2025-07-10T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Master techniques to capture stunning orange sunsets with perfect timing and composition.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Must-Try Russian Cream Products for Cannabis Enthusiasts]]></title>
-        <id>https://leafymate.com/resources/?p=29868</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-must-try-russian-cream-products-for-cannabis-enthusiasts"/>
-        <updated>2025-07-10T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Discover 7 essential Russian cream products that elevate your cannabis experience.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
