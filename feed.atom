@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-10T01:50:10.716Z</updated>
+    <updated>2025-08-11T01:47:08.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -492,26 +492,6 @@
         <link href="https://leafymate.com/resources/emerging-trends-in-cannabis/weed-tea-step-by-step-brewing-for-new-cannabis-consumers"/>
         <updated>2025-07-13T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[Discover the soothing benefits and step-by-step brewing guide for weed tea.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Best Disposable Vapes for Flavor and Convenience in 2025]]></title>
-        <id>https://leafymate.com/resources/?p=30073</id>
-        <link href="https://leafymate.com/resources/general/7-best-disposable-vapes-for-flavor-and-convenience-in-2025"/>
-        <updated>2025-07-12T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Discover the 7 best disposable vapes in 2025, focusing on flavor and convenience for every user.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Garlic Cocktail Strain Products to Elevate Your Experience]]></title>
-        <id>https://leafymate.com/resources/?p=30070</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-garlic-cocktail-strain-products-to-elevate-your-experience"/>
-        <updated>2025-07-12T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Discover 7 garlic cocktail strain products to enhance your cannabis experience.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
