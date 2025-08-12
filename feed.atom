@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-11T01:47:08.065Z</updated>
+    <updated>2025-08-12T01:36:34.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Smoking Lavender: Essential Steps for Beginners]]></title>
+        <id>https://leafymate.com/resources/?p=30348</id>
+        <link href="https://leafymate.com/resources/general/smoking-lavender-essential-steps-for-beginners"/>
+        <updated>2025-08-11T05:24:15.000Z</updated>
+        <summary type="html"><![CDATA[Discover essential steps for smoking lavender safely and enjoy its calming benefits.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delta 11: Essential Steps for Safe and Informed Use]]></title>
+        <id>https://leafymate.com/resources/?p=30349</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/delta-11-essential-steps-for-safe-and-informed-use"/>
+        <updated>2025-08-11T05:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Discover essential steps for safe and informed use of delta 11 THC and its benefits.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Liquid Diamonds THC: Steps for Effective Use]]></title>
         <id>https://leafymate.com/resources/?p=30338</id>
@@ -472,26 +492,6 @@
         <link href="https://leafymate.com/resources/understanding-dispensaries/understanding-the-difference-between-thc-and-thca"/>
         <updated>2025-07-14T05:00:04.000Z</updated>
         <summary type="html"><![CDATA[Explore the crucial difference between THC and THCA for informed cannabis consumption.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understand the OMG Strain: Origins, Effects, and Characteristics]]></title>
-        <id>https://leafymate.com/resources/?p=30083</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understand-the-omg-strain-origins-effects-and-characteristics"/>
-        <updated>2025-07-13T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover the unique origins, effects, and characteristics of the omg strain in cannabis.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weed Tea: Step-by-Step Brewing for New Cannabis Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=30086</id>
-        <link href="https://leafymate.com/resources/emerging-trends-in-cannabis/weed-tea-step-by-step-brewing-for-new-cannabis-consumers"/>
-        <updated>2025-07-13T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover the soothing benefits and step-by-step brewing guide for weed tea.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>

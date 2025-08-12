@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30348",
+          "author": "Jordan Reyes",
+          "description": "Discover essential steps for smoking lavender safely and enjoy its calming benefits.",
+          "link": "https://leafymate.com/resources/general/smoking-lavender-essential-steps-for-beginners",
+          "publishedOn": "2025-08-11T05:24:15.000Z",
+          "wordCount": 7525,
+          "title": "Smoking Lavender: Essential Steps for Beginners",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/smoking-lavender-essential-steps-for-beginners.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30349",
+          "author": "Jordan Reyes",
+          "description": "Discover essential steps for safe and informed use of delta 11 THC and its benefits.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/delta-11-essential-steps-for-safe-and-informed-use",
+          "publishedOn": "2025-08-11T05:00:19.000Z",
+          "wordCount": 8452,
+          "title": "Delta 11: Essential Steps for Safe and Informed Use",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/delta-11-essential-steps-for-safe-and-informed-use.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30338",
           "author": "Jordan Reyes",
           "description": "Discover how to effectively use liquid diamonds THC for an enhanced cannabis experience.",
@@ -474,26 +494,6 @@
           "wordCount": 8059,
           "title": "Understanding the Difference Between THC and THCA",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-difference-between-thc-and-thca.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30083",
-          "author": "Jordan Reyes",
-          "description": "Discover the unique origins, effects, and characteristics of the omg strain in cannabis.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understand-the-omg-strain-origins-effects-and-characteristics",
-          "publishedOn": "2025-07-13T05:00:03.000Z",
-          "wordCount": 6777,
-          "title": "Understand the OMG Strain: Origins, Effects, and Characteristics",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understand-the-omg-strain-origins-effects-and-characteristics.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30086",
-          "author": "Jordan Reyes",
-          "description": "Discover the soothing benefits and step-by-step brewing guide for weed tea.",
-          "link": "https://leafymate.com/resources/emerging-trends-in-cannabis/weed-tea-step-by-step-brewing-for-new-cannabis-consumers",
-          "publishedOn": "2025-07-13T05:00:03.000Z",
-          "wordCount": 7985,
-          "title": "Weed Tea: Step-by-Step Brewing for New Cannabis Consumers",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/weed-tea-step-by-step-brewing-for-new-cannabis-consumers.webp"
         }
       ]
     }
