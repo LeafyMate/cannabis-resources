@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T01:38:13.824Z</updated>
+    <updated>2025-08-14T01:39:13.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Do I Feel High When I’m Not? Understanding Mind-Body Connections]]></title>
+        <id>https://leafymate.com/resources/?p=30386</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/why-do-i-feel-high-when-im-not-understanding-mind-body-connections"/>
+        <updated>2025-08-13T05:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Explore the mind-body connection to understand why do I feel high when I'm not.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 Live Resin Disposable Vapes for Every Cannabis Enthusiast]]></title>
+        <id>https://leafymate.com/resources/?p=30388</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/9-live-resin-disposable-vapes-for-every-cannabis-enthusiast"/>
+        <updated>2025-08-13T05:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Discover the top 9 live resin disposables for every cannabis enthusiast in 2025.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Key Facts About Half Oz in Grams for Cannabis Consumers]]></title>
         <id>https://leafymate.com/resources/?p=30371</id>
@@ -472,26 +492,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-black-cherry-strain-origins-effects-and-characteristics"/>
         <updated>2025-07-16T05:00:11.000Z</updated>
         <summary type="html"><![CDATA[Discover the black cherry strain's origins, effects, and unique flavor profile in detail.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master 28g to oz: Step-by-Step Conversion Guide]]></title>
-        <id>https://leafymate.com/resources/?p=30109</id>
-        <link href="https://leafymate.com/resources/general/master-28-g-to-oz-step-by-step-conversion-guide"/>
-        <updated>2025-07-15T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to convert 28g to oz accurately with this step-by-step guide.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master 14g to oz: Simple Steps for Cannabis Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=30106</id>
-        <link href="https://leafymate.com/resources/general/master-14-g-to-oz-simple-steps-for-cannabis-consumers"/>
-        <updated>2025-07-15T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to convert 14g to oz for informed cannabis purchasing and consumption.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
