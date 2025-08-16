@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30408",
+          "author": "Jordan Reyes",
+          "description": "Master half ounce measurements with essential tools and tips for accurate cannabis weighing.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/master-half-ounce-measurements-with-essential-tools-and-tips",
+          "publishedOn": "2025-08-15T05:06:15.000Z",
+          "wordCount": 7708,
+          "title": "Master Half Ounce Measurements with Essential Tools and Tips",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-half-ounce-measurements-with-essential-tools-and-tips.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30410",
+          "author": "Jordan Reyes",
+          "description": "Discover the origins, significance, and cultural impact of O.G. in cannabis culture.",
+          "link": "https://leafymate.com/resources/cannabis-community-and-influencers/o-g-meaning-origins-characteristics-and-cultural-impact",
+          "publishedOn": "2025-08-15T05:06:07.000Z",
+          "wordCount": 7756,
+          "title": "O.G. Meaning: Origins, Characteristics, and Cultural Impact",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/o-g-meaning-origins-characteristics-and-cultural-impact.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30397",
           "author": "Jordan Reyes",
           "description": "Discover the origins, effects, and cultivation tips for the tropical cookies strain.",
@@ -474,26 +494,6 @@
           "wordCount": 11267,
           "title": "9 Essential Tips for Using Push Carts in Cannabis Dispensaries",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/9-essential-tips-for-using-push-carts-in-cannabis-dispensaries.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30139",
-          "author": "Jordan Reyes",
-          "description": "Discover the pink champagne strain's effects, genetics, and cultivation tips for enthusiasts.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-pink-champagne-strain-effects-genetics-and-cultivation",
-          "publishedOn": "2025-07-17T07:08:06.000Z",
-          "wordCount": 8989,
-          "title": "Understanding the Pink Champagne Strain: Effects, Genetics, and Cultivation",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-pink-champagne-strain-effects-genetics-and-cultivation.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30136",
-          "author": "Jordan Reyes",
-          "description": "Discover the best weed strains ideal for new cannabis consumers to enhance their experience.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/10-best-weed-strains-for-new-cannabis-consumers",
-          "publishedOn": "2025-07-17T05:01:19.000Z",
-          "wordCount": 11923,
-          "title": "10 Best Weed Strains for New Cannabis Consumers",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-best-weed-strains-for-new-cannabis-consumers.webp"
         }
       ]
     }

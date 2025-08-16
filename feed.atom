@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-15T01:39:26.095Z</updated>
+    <updated>2025-08-16T01:26:15.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Half Ounce Measurements with Essential Tools and Tips]]></title>
+        <id>https://leafymate.com/resources/?p=30408</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-half-ounce-measurements-with-essential-tools-and-tips"/>
+        <updated>2025-08-15T05:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Master half ounce measurements with essential tools and tips for accurate cannabis weighing.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O.G. Meaning: Origins, Characteristics, and Cultural Impact]]></title>
+        <id>https://leafymate.com/resources/?p=30410</id>
+        <link href="https://leafymate.com/resources/cannabis-community-and-influencers/o-g-meaning-origins-characteristics-and-cultural-impact"/>
+        <updated>2025-08-15T05:06:07.000Z</updated>
+        <summary type="html"><![CDATA[Discover the origins, significance, and cultural impact of O.G. in cannabis culture.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the Tropical Cookies Strain: Origins and Effects]]></title>
         <id>https://leafymate.com/resources/?p=30397</id>
@@ -472,26 +492,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/9-essential-tips-for-using-push-carts-in-cannabis-dispensaries"/>
         <updated>2025-07-18T05:00:19.000Z</updated>
         <summary type="html"><![CDATA[Maximize efficiency and sales with essential tips for using push carts in cannabis dispensaries.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Pink Champagne Strain: Effects, Genetics, and Cultivation]]></title>
-        <id>https://leafymate.com/resources/?p=30139</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-pink-champagne-strain-effects-genetics-and-cultivation"/>
-        <updated>2025-07-17T07:08:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover the pink champagne strain's effects, genetics, and cultivation tips for enthusiasts.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Weed Strains for New Cannabis Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=30136</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-best-weed-strains-for-new-cannabis-consumers"/>
-        <updated>2025-07-17T05:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Discover the best weed strains ideal for new cannabis consumers to enhance their experience.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
