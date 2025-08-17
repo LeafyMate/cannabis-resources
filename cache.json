@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30419",
+          "author": "Jordan Reyes",
+          "description": "Discover the limoncello strain's origins, effects, and health benefits in this insightful overview.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/limoncello-strain-origins-characteristics-and-benefits-explained",
+          "publishedOn": "2025-08-16T05:22:40.000Z",
+          "wordCount": 8098,
+          "title": "Limoncello Strain: Origins, Characteristics, and Benefits Explained",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/limoncello-strain-origins-characteristics-and-benefits-explained.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30418",
+          "author": "Jordan Reyes",
+          "description": "Learn how to successfully cultivate super sour diesel with essential steps and care tips.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/5-steps-to-grow-super-sour-diesel-successfully",
+          "publishedOn": "2025-08-16T05:00:03.000Z",
+          "wordCount": 8816,
+          "title": "5 Steps to Grow Super Sour Diesel Successfully",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/5-steps-to-grow-super-sour-diesel-successfully.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30408",
           "author": "Jordan Reyes",
           "description": "Master half ounce measurements with essential tools and tips for accurate cannabis weighing.",
@@ -474,26 +494,6 @@
           "wordCount": 9839,
           "title": "Understanding the Jelly Donut Strain: Origins and Key Benefits",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-jelly-donut-strain-origins-and-key-benefits.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30146",
-          "author": "Jordan Reyes",
-          "description": "Discover how long weed stays in your pee based on usage frequency and individual factors.",
-          "link": "https://leafymate.com/resources/cannabis-and-wellness/how-long-does-weed-stay-in-your-pee-key-factors-explained",
-          "publishedOn": "2025-07-18T05:00:20.000Z",
-          "wordCount": 7982,
-          "title": "How Long Does Weed Stay in Your Pee? Key Factors Explained",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-long-does-weed-stay-in-your-pee-key-factors-explained.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30149",
-          "author": "Jordan Reyes",
-          "description": "Maximize efficiency and sales with essential tips for using push carts in cannabis dispensaries.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/9-essential-tips-for-using-push-carts-in-cannabis-dispensaries",
-          "publishedOn": "2025-07-18T05:00:19.000Z",
-          "wordCount": 11267,
-          "title": "9 Essential Tips for Using Push Carts in Cannabis Dispensaries",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/9-essential-tips-for-using-push-carts-in-cannabis-dispensaries.webp"
         }
       ]
     }

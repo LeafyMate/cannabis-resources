@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-16T01:26:15.839Z</updated>
+    <updated>2025-08-17T01:44:16.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Limoncello Strain: Origins, Characteristics, and Benefits Explained]]></title>
+        <id>https://leafymate.com/resources/?p=30419</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/limoncello-strain-origins-characteristics-and-benefits-explained"/>
+        <updated>2025-08-16T05:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Discover the limoncello strain's origins, effects, and health benefits in this insightful overview.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Steps to Grow Super Sour Diesel Successfully]]></title>
+        <id>https://leafymate.com/resources/?p=30418</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/5-steps-to-grow-super-sour-diesel-successfully"/>
+        <updated>2025-08-16T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to successfully cultivate super sour diesel with essential steps and care tips.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Half Ounce Measurements with Essential Tools and Tips]]></title>
         <id>https://leafymate.com/resources/?p=30408</id>
@@ -472,26 +492,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-jelly-donut-strain-origins-and-key-benefits"/>
         <updated>2025-07-20T05:00:04.000Z</updated>
         <summary type="html"><![CDATA[Discover the jelly donut strain's origins, effects, flavor, and therapeutic benefits.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Does Weed Stay in Your Pee? Key Factors Explained]]></title>
-        <id>https://leafymate.com/resources/?p=30146</id>
-        <link href="https://leafymate.com/resources/cannabis-and-wellness/how-long-does-weed-stay-in-your-pee-key-factors-explained"/>
-        <updated>2025-07-18T05:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Discover how long weed stays in your pee based on usage frequency and individual factors.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 Essential Tips for Using Push Carts in Cannabis Dispensaries]]></title>
-        <id>https://leafymate.com/resources/?p=30149</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/9-essential-tips-for-using-push-carts-in-cannabis-dispensaries"/>
-        <updated>2025-07-18T05:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Maximize efficiency and sales with essential tips for using push carts in cannabis dispensaries.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
