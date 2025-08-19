@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30440",
+          "author": "Jordan Reyes",
+          "description": "Discover the origins, effects, and unique profiles of the space cake strain.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-space-cake-strain-origins-effects-and-profiles",
+          "publishedOn": "2025-08-18T05:00:06.000Z",
+          "wordCount": 7740,
+          "title": "Understanding the Space Cake Strain: Origins, Effects, and Profiles",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-space-cake-strain-origins-effects-and-profiles.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30441",
+          "author": "Jordan Reyes",
+          "description": "Discover the origins, characteristics, and flavors of gelato cake, a unique frozen dessert delight.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-gelato-cake-origins-characteristics-and-flavors",
+          "publishedOn": "2025-08-18T05:00:06.000Z",
+          "wordCount": 7541,
+          "title": "What is Gelato Cake? Origins, Characteristics, and Flavors",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-gelato-cake-origins-characteristics-and-flavors.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30428",
           "author": "Jordan Reyes",
           "description": "Discover how to cultivate Lemon Skunk with our comprehensive step-by-step guide.",
@@ -494,26 +514,6 @@
           "wordCount": 9022,
           "title": "THC Pills: Understanding Benefits, Risks, and Dosing",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/thc-pills-understanding-benefits-risks-and-dosing.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30156",
-          "author": "Jordan Reyes",
-          "description": "Discover the chocolope strain's origins, effects, and cultivation insights for an uplifting experience.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/chocolope-strain-origins-effects-and-growing-insights",
-          "publishedOn": "2025-07-20T05:00:04.000Z",
-          "wordCount": 9310,
-          "title": "Chocolope Strain: Origins, Effects, and Growing Insights",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/chocolope-strain-origins-effects-and-growing-insights.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30159",
-          "author": "Jordan Reyes",
-          "description": "Discover the jelly donut strain's origins, effects, flavor, and therapeutic benefits.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-jelly-donut-strain-origins-and-key-benefits",
-          "publishedOn": "2025-07-20T05:00:04.000Z",
-          "wordCount": 9839,
-          "title": "Understanding the Jelly Donut Strain: Origins and Key Benefits",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-jelly-donut-strain-origins-and-key-benefits.webp"
         }
       ]
     }
