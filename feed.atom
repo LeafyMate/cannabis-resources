@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-22T01:23:57.085Z</updated>
+    <updated>2025-08-23T01:21:21.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Smoke a Joint: Essential Steps for New Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=30481</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/how-to-smoke-a-joint-essential-steps-for-new-consumers"/>
+        <updated>2025-08-22T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn essential steps on how to smoke a joint for a smooth and enjoyable experience.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can You Smoke Lavender? Step-by-Step Guide to Safe Use]]></title>
+        <id>https://leafymate.com/resources/?p=30482</id>
+        <link href="https://leafymate.com/resources/general/can-you-smoke-lavender-step-by-step-guide-to-safe-use"/>
+        <updated>2025-08-22T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Explore if you can smoke lavender safely, along with the steps and risks involved in the process.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master 28 Grams: Essential Techniques for Accurate Measurement]]></title>
         <id>https://leafymate.com/resources/?p=30470</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-thc-inhaler-use-step-by-step-instructions-and-tips"/>
         <updated>2025-07-25T05:00:08.000Z</updated>
         <summary type="html"><![CDATA[Master the use of thc inhalers with our step-by-step instructions and essential insights.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craft Cannabis: Definition, Origins, and Key Characteristics]]></title>
-        <id>https://leafymate.com/resources/?p=30181</id>
-        <link href="https://leafymate.com/resources/home-cannabis-cultivation-techniques/craft-cannabis-definition-origins-and-key-characteristics"/>
-        <updated>2025-07-24T05:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Discover the essence of craft cannabis: quality, artisanal techniques, and unique flavors.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Weed Go Bad? Understanding Cannabis Expiration and Effects]]></title>
-        <id>https://leafymate.com/resources/?p=30183</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/does-weed-go-bad-understanding-cannabis-expiration-and-effects"/>
-        <updated>2025-07-24T05:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Understand if weed goes bad, signs to look for, and how to maintain its quality effectively.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
