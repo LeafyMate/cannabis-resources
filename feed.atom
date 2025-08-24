@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-23T01:21:21.944Z</updated>
+    <updated>2025-08-24T01:40:48.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Canna Butter: Step-by-Step Guide for Beginners]]></title>
+        <id>https://leafymate.com/resources/?p=30491</id>
+        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/master-canna-butter-step-by-step-guide-for-beginners"/>
+        <updated>2025-08-23T05:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to make canna butter with this beginner-friendly, step-by-step guide.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best Weed Strains 2024 for Every Cannabis Enthusiast]]></title>
+        <id>https://leafymate.com/resources/?p=30492</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-best-weed-strains-2024-for-every-cannabis-enthusiast"/>
+        <updated>2025-08-23T05:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Discover the best weed strains 2024 for every cannabis enthusiast's needs and preferences.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Smoke a Joint: Essential Steps for New Consumers]]></title>
         <id>https://leafymate.com/resources/?p=30481</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/14-grams-to-ounces-simple-steps-for-accurate-conversion"/>
         <updated>2025-07-26T05:00:15.000Z</updated>
         <summary type="html"><![CDATA[Learn how to accurately convert 14 grams to ounces for informed cannabis purchases.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Steps to Take a Successful Tolerance Break]]></title>
-        <id>https://leafymate.com/resources/?p=30193</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/5-steps-to-take-a-successful-tolerance-break"/>
-        <updated>2025-07-25T05:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Learn to take a successful tolerance break and enhance your marijuana experience.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master THC Inhaler Use: Step-by-Step Instructions and Tips]]></title>
-        <id>https://leafymate.com/resources/?p=30192</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-thc-inhaler-use-step-by-step-instructions-and-tips"/>
-        <updated>2025-07-25T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Master the use of thc inhalers with our step-by-step instructions and essential insights.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>

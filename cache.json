@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30491",
+          "author": "Jordan Reyes",
+          "description": "Learn how to make canna butter with this beginner-friendly, step-by-step guide.",
+          "link": "https://leafymate.com/resources/cannabis-legalization-and-policy-updates/master-canna-butter-step-by-step-guide-for-beginners",
+          "publishedOn": "2025-08-23T05:00:07.000Z",
+          "wordCount": 7387,
+          "title": "Master Canna Butter: Step-by-Step Guide for Beginners",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-canna-butter-step-by-step-guide-for-beginners.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30492",
+          "author": "Jordan Reyes",
+          "description": "Discover the best weed strains 2024 for every cannabis enthusiast's needs and preferences.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/10-best-weed-strains-2024-for-every-cannabis-enthusiast",
+          "publishedOn": "2025-08-23T05:00:07.000Z",
+          "wordCount": 10075,
+          "title": "10 Best Weed Strains 2024 for Every Cannabis Enthusiast",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-best-weed-strains-2024-for-every-cannabis-enthusiast.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30481",
           "author": "Jordan Reyes",
           "description": "Learn essential steps on how to smoke a joint for a smooth and enjoyable experience.",
@@ -524,26 +544,6 @@
           "wordCount": 7364,
           "title": "14 Grams to Ounces: Simple Steps for Accurate Conversion",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/14-grams-to-ounces-simple-steps-for-accurate-conversion.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30193",
-          "author": "Jordan Reyes",
-          "description": "Learn to take a successful tolerance break and enhance your marijuana experience.",
-          "link": "https://leafymate.com/resources/responsible-cannabis-use/5-steps-to-take-a-successful-tolerance-break",
-          "publishedOn": "2025-07-25T05:28:05.000Z",
-          "wordCount": 8006,
-          "title": "5 Steps to Take a Successful Tolerance Break",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/5-steps-to-take-a-successful-tolerance-break.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30192",
-          "author": "Jordan Reyes",
-          "description": "Master the use of thc inhalers with our step-by-step instructions and essential insights.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/master-thc-inhaler-use-step-by-step-instructions-and-tips",
-          "publishedOn": "2025-07-25T05:00:08.000Z",
-          "wordCount": 7721,
-          "title": "Master THC Inhaler Use: Step-by-Step Instructions and Tips",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-thc-inhaler-use-step-by-step-instructions-and-tips.webp"
         }
       ]
     }
