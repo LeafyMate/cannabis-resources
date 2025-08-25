@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-24T01:40:48.043Z</updated>
+    <updated>2025-08-25T01:27:24.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BHO: Step-by-Step Guide for Safe Usage and Troubleshooting]]></title>
+        <id>https://leafymate.com/resources/?p=30500</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/bho-step-by-step-guide-for-safe-usage-and-troubleshooting"/>
+        <updated>2025-08-24T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Learn safe usage and troubleshooting for Butane Hash Oil (BHO) in this comprehensive guide.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peanut Butter Strain: Origins, Benefits, and Key Characteristics]]></title>
+        <id>https://leafymate.com/resources/?p=30503</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/peanut-butter-strain-origins-benefits-and-key-characteristics"/>
+        <updated>2025-08-24T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Discover the peanut butter strain: origins, benefits, and unique flavor profile.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Canna Butter: Step-by-Step Guide for Beginners]]></title>
         <id>https://leafymate.com/resources/?p=30491</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/home-cannabis-cultivation-techniques/curing-weed-essential-steps-for-successful-cannabis-curing"/>
         <updated>2025-07-27T05:00:04.000Z</updated>
         <summary type="html"><![CDATA[Master the art of curing weed with essential steps for enhanced flavor, aroma, and potency.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Mandarin Cookies Strain: Origins and Effects]]></title>
-        <id>https://leafymate.com/resources/?p=30204</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-mandarin-cookies-strain-origins-and-effects"/>
-        <updated>2025-07-26T05:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover the mandarin cookies strain: a flavorful hybrid with uplifting effects and therapeutic benefits.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14 Grams to Ounces: Simple Steps for Accurate Conversion]]></title>
-        <id>https://leafymate.com/resources/?p=30201</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/14-grams-to-ounces-simple-steps-for-accurate-conversion"/>
-        <updated>2025-07-26T05:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to accurately convert 14 grams to ounces for informed cannabis purchases.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>

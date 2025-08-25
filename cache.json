@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30500",
+          "author": "Jordan Reyes",
+          "description": "Learn safe usage and troubleshooting for Butane Hash Oil (BHO) in this comprehensive guide.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/bho-step-by-step-guide-for-safe-usage-and-troubleshooting",
+          "publishedOn": "2025-08-24T05:00:03.000Z",
+          "wordCount": 7857,
+          "title": "BHO: Step-by-Step Guide for Safe Usage and Troubleshooting",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/bho-step-by-step-guide-for-safe-usage-and-troubleshooting.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30503",
+          "author": "Jordan Reyes",
+          "description": "Discover the peanut butter strain: origins, benefits, and unique flavor profile.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/peanut-butter-strain-origins-benefits-and-key-characteristics",
+          "publishedOn": "2025-08-24T05:00:03.000Z",
+          "wordCount": 7762,
+          "title": "Peanut Butter Strain: Origins, Benefits, and Key Characteristics",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/peanut-butter-strain-origins-benefits-and-key-characteristics.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30491",
           "author": "Jordan Reyes",
           "description": "Learn how to make canna butter with this beginner-friendly, step-by-step guide.",
@@ -524,26 +544,6 @@
           "wordCount": 8328,
           "title": "Curing Weed: Essential Steps for Successful Cannabis Curing",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/curing-weed-essential-steps-for-successful-cannabis-curing.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30204",
-          "author": "Jordan Reyes",
-          "description": "Discover the mandarin cookies strain: a flavorful hybrid with uplifting effects and therapeutic benefits.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-mandarin-cookies-strain-origins-and-effects",
-          "publishedOn": "2025-07-26T05:36:06.000Z",
-          "wordCount": 8156,
-          "title": "Understanding the Mandarin Cookies Strain: Origins and Effects",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-the-mandarin-cookies-strain-origins-and-effects.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30201",
-          "author": "Jordan Reyes",
-          "description": "Learn how to accurately convert 14 grams to ounces for informed cannabis purchases.",
-          "link": "https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/14-grams-to-ounces-simple-steps-for-accurate-conversion",
-          "publishedOn": "2025-07-26T05:00:15.000Z",
-          "wordCount": 7364,
-          "title": "14 Grams to Ounces: Simple Steps for Accurate Conversion",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/14-grams-to-ounces-simple-steps-for-accurate-conversion.webp"
         }
       ]
     }
