@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30511",
+          "author": "Jordan Reyes",
+          "description": "Discover the pancake strain's unique flavor, effects, and therapeutic benefits in cannabis.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/pancake-strain-definition-history-and-key-characteristics",
+          "publishedOn": "2025-08-25T05:04:03.000Z",
+          "wordCount": 7595,
+          "title": "Pancake Strain: Definition, History, and Key Characteristics",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/pancake-strain-definition-history-and-key-characteristics.webp"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30512",
+          "author": "Jordan Reyes",
+          "description": "Discover the calming and pain-relieving benefits of myrcene terpene effects in cannabis.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-myrcene-terpene-effects-for-informed-cannabis-choices",
+          "publishedOn": "2025-08-25T05:04:02.000Z",
+          "wordCount": 8073,
+          "title": "Understanding Myrcene Terpene Effects for Informed Cannabis Choices",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-myrcene-terpene-effects-for-informed-cannabis-choices.webp"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30500",
           "author": "Jordan Reyes",
           "description": "Learn safe usage and troubleshooting for Butane Hash Oil (BHO) in this comprehensive guide.",
@@ -524,26 +544,6 @@
           "wordCount": 7956,
           "title": "4 Steps to Successfully Grow Sinsemilla at Home",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/4-steps-to-successfully-grow-sinsemilla-at-home.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30212",
-          "author": "Jordan Reyes",
-          "description": "Discover the origins, uses, and health benefits of cannabis butter in your cooking.",
-          "link": "https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/understanding-cannabis-butter-origins-uses-and-benefits",
-          "publishedOn": "2025-07-27T05:29:51.000Z",
-          "wordCount": 8407,
-          "title": "Understanding Cannabis Butter: Origins, Uses, and Benefits",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-cannabis-butter-origins-uses-and-benefits.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30213",
-          "author": "Jordan Reyes",
-          "description": "Master the art of curing weed with essential steps for enhanced flavor, aroma, and potency.",
-          "link": "https://leafymate.com/resources/home-cannabis-cultivation-techniques/curing-weed-essential-steps-for-successful-cannabis-curing",
-          "publishedOn": "2025-07-27T05:00:04.000Z",
-          "wordCount": 8328,
-          "title": "Curing Weed: Essential Steps for Successful Cannabis Curing",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/curing-weed-essential-steps-for-successful-cannabis-curing.webp"
         }
       ]
     }
