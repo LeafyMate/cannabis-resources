@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T01:24:59.881Z</updated>
+    <updated>2025-08-27T01:22:14.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding 3.5 Grams of Cannabis: Importance and Uses]]></title>
+        <id>https://leafymate.com/resources/?p=30526</id>
+        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/understanding-3-5-grams-of-cannabis-importance-and-uses"/>
+        <updated>2025-08-26T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Discover the significance and versatility of 3.5 grams of cannabis for informed consumption.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Pink Weed? Origins, Effects, and Variations Explained]]></title>
+        <id>https://leafymate.com/resources/?p=30527</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-pink-weed-origins-effects-and-variations-explained"/>
+        <updated>2025-08-26T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Discover pink weed's origins, effects, and unique strain variations in cannabis culture.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pancake Strain: Definition, History, and Key Characteristics]]></title>
         <id>https://leafymate.com/resources/?p=30511</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/responsible-cannabis-use/can-weed-get-old-factors-storage-and-safety-explained"/>
         <updated>2025-07-29T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[Explore whether can weed get old, how aging impacts quality, potency, and storage methods.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delta 10 vs Delta 8: Key Differences and Uses Explained]]></title>
-        <id>https://leafymate.com/resources/?p=30222</id>
-        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/delta-10-vs-delta-8-key-differences-and-uses-explained"/>
-        <updated>2025-07-28T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Discover the key differences and uses of delta 10 vs delta 8 cannabinoids.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Steps to Successfully Grow Sinsemilla at Home]]></title>
-        <id>https://leafymate.com/resources/?p=30223</id>
-        <link href="https://leafymate.com/resources/cannabis-community-and-influencers/4-steps-to-successfully-grow-sinsemilla-at-home"/>
-        <updated>2025-07-28T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Learn to grow sinsemilla at home with essential tools, techniques, and troubleshooting tips.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
