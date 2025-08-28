@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-27T01:22:14.984Z</updated>
+    <updated>2025-08-28T01:21:39.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is a Cart Drug? Understanding Its Role in Cannabis]]></title>
+        <id>https://leafymate.com/resources/?p=30546</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-a-cart-drug-understanding-its-role-in-cannabis"/>
+        <updated>2025-08-27T05:22:37.000Z</updated>
+        <summary type="html"><![CDATA[Discover what a cart drug is and its significance in the cannabis industry today.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Legend OG Strain? Origins, Effects, and Popularity]]></title>
+        <id>https://leafymate.com/resources/?p=30547</id>
+        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/what-is-the-legend-og-strain-origins-effects-and-popularity"/>
+        <updated>2025-08-27T05:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Discover the legend OG strain's origins, effects, and rising popularity in cannabis culture.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding 3.5 Grams of Cannabis: Importance and Uses]]></title>
         <id>https://leafymate.com/resources/?p=30526</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/7-exciting-4-20-events-near-me-to-celebrate-this-year"/>
         <updated>2025-07-30T05:04:14.000Z</updated>
         <summary type="html"><![CDATA[Discover exciting 4/20 events near me to celebrate with local cannabis enthusiasts this year!]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Vanilla Frosting Strain: Origins and Effects]]></title>
-        <id>https://leafymate.com/resources/?p=30233</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-vanilla-frosting-strain-origins-and-effects"/>
-        <updated>2025-07-29T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover the origins, effects, and cultivation of the vanilla frosting strain in this insightful guide.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Weed Get Old? Factors, Storage, and Safety Explained]]></title>
-        <id>https://leafymate.com/resources/?p=30231</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/can-weed-get-old-factors-storage-and-safety-explained"/>
-        <updated>2025-07-29T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Explore whether can weed get old, how aging impacts quality, potency, and storage methods.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
