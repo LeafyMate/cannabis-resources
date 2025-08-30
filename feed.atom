@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-29T01:21:59.031Z</updated>
+    <updated>2025-08-30T01:17:57.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Delta 11 THC? Understanding Its Impact and Benefits]]></title>
+        <id>https://leafymate.com/resources/?p=30574</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-delta-11-thc-understanding-its-impact-and-benefits"/>
+        <updated>2025-08-29T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Discover delta 11 THC: its effects, benefits, and legal complexities in the cannabis landscape.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Carts? A Complete Guide for New Cannabis Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=30577</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-are-carts-a-complete-guide-for-new-cannabis-consumers"/>
+        <updated>2025-08-29T05:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Discover what are carts and their significance in cannabis consumption and market trends.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Eucalyptol? Origins, Benefits, and Safety in Cannabis]]></title>
         <id>https://leafymate.com/resources/?p=30563</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/7-insights-on-2-grams-of-cannabis-for-new-consumers"/>
         <updated>2025-08-01T05:00:05.000Z</updated>
         <summary type="html"><![CDATA[Discover essential insights on consuming 2 grams of cannabis for a safe and enjoyable experience.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Alien Cookie Strain: Origins, Effects, and Benefits]]></title>
-        <id>https://leafymate.com/resources/?p=30256</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-alien-cookie-strain-origins-effects-and-benefits"/>
-        <updated>2025-07-31T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Discover the alien cookie strain's origins, effects, and therapeutic benefits in cannabis.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Honeycomb Wax: Uses, Origins, and Benefits]]></title>
-        <id>https://leafymate.com/resources/?p=30253</id>
-        <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/understanding-honeycomb-wax-uses-origins-and-benefits"/>
-        <updated>2025-07-31T05:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Discover the uses, origins, and benefits of honeycomb wax in cannabis products.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
