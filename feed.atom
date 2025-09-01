@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T01:26:43.540Z</updated>
+    <updated>2025-09-01T01:42:47.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Mango Kush: Step-by-Step Growing Guide for Beginners]]></title>
+        <id>https://leafymate.com/resources/?p=30606</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-mango-kush-step-by-step-growing-guide-for-beginners"/>
+        <updated>2025-08-31T05:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Learn to grow mango kush with this comprehensive step-by-step guide for beginners.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Cannabis Cafe? Understanding Its Origins and Impact]]></title>
+        <id>https://leafymate.com/resources/?p=30605</id>
+        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/what-is-a-cannabis-cafe-understanding-its-origins-and-impact"/>
+        <updated>2025-08-31T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Explore the cultural significance and growing impact of cannabis cafes in today's society.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Does ‘Sesh’ Mean in Cannabis Culture?]]></title>
         <id>https://leafymate.com/resources/?p=30585</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-black-cherry-strains-to-explore-for-unique-experiences"/>
         <updated>2025-08-03T05:00:09.000Z</updated>
         <summary type="html"><![CDATA[Explore 10 unique black cherry strains for distinct flavors and effects in your cannabis experience.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bacio Gelato: Understanding Its Origins and Unique Characteristics]]></title>
-        <id>https://leafymate.com/resources/?p=30275</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/bacio-gelato-understanding-its-origins-and-unique-characteristics"/>
-        <updated>2025-08-02T05:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Discover the origins, flavors, and effects of the popular Bacio Gelato cannabis strain.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Animal Tsunami Strain: Origins and Benefits]]></title>
-        <id>https://leafymate.com/resources/?p=30276</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-animal-tsunami-strain-origins-and-benefits"/>
-        <updated>2025-08-02T05:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Discover the animal tsunami strain's origins, effects, and cultivation techniques for optimal growth.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
