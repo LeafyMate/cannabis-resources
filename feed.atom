@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-01T01:42:47.485Z</updated>
+    <updated>2025-09-02T01:22:57.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Ice Cream Cone Edibles: A Step-by-Step Guide]]></title>
+        <id>https://leafymate.com/resources/?p=30624</id>
+        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/master-ice-cream-cone-edibles-a-step-by-step-guide"/>
+        <updated>2025-09-01T05:26:54.000Z</updated>
+        <summary type="html"><![CDATA[Create delicious ice cream cone edibles with our easy step-by-step guide to enhance your experience!]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Afghani Strain? Origins, Effects, and Cultivation]]></title>
+        <id>https://leafymate.com/resources/?p=30623</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-afghani-strain-origins-effects-and-cultivation"/>
+        <updated>2025-09-01T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Discover the origins, effects, and cultivation tips for the afghani strain of cannabis.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Mango Kush: Step-by-Step Growing Guide for Beginners]]></title>
         <id>https://leafymate.com/resources/?p=30606</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/5-steps-to-successfully-grow-afghan-kush-at-home"/>
         <updated>2025-08-04T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[Learn to cultivate Afghan Kush at home with essential steps for successful growth and harvest.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Candy Runtz: Origins, Characteristics, and Cultural Impact]]></title>
-        <id>https://leafymate.com/resources/?p=30287</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/candy-runtz-origins-characteristics-and-cultural-impact"/>
-        <updated>2025-08-03T05:36:59.000Z</updated>
-        <summary type="html"><![CDATA[Explore the origins, effects, and cultural impact of the popular Candy Runtz cannabis strain.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Black Cherry Strains to Explore for Unique Experiences]]></title>
-        <id>https://leafymate.com/resources/?p=30284</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-black-cherry-strains-to-explore-for-unique-experiences"/>
-        <updated>2025-08-03T05:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Explore 10 unique black cherry strains for distinct flavors and effects in your cannabis experience.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
