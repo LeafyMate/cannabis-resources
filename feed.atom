@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-02T01:22:57.663Z</updated>
+    <updated>2025-09-03T01:18:01.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is the Lemon Drop Strain? Origins, Effects, and Benefits]]></title>
+        <id>https://leafymate.com/resources/?p=30662</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-lemon-drop-strain-origins-effects-and-benefits"/>
+        <updated>2025-09-02T05:17:05.000Z</updated>
+        <summary type="html"><![CDATA[Discover the uplifting effects and origins of the lemon drop strain, a citrus-flavored hybrid.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Whitezilla? Origins, Characteristics, and Significance]]></title>
+        <id>https://leafymate.com/resources/?p=30661</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-whitezilla-origins-characteristics-and-significance"/>
+        <updated>2025-09-02T05:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Discover Whitezilla, a potent hybrid strain known for its balanced effects and unique flavor profile.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Ice Cream Cone Edibles: A Step-by-Step Guide]]></title>
         <id>https://leafymate.com/resources/?p=30624</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/responsible-cannabis-use/how-to-decarb-weed-step-by-step-guide-for-beginners"/>
         <updated>2025-08-05T05:00:08.000Z</updated>
         <summary type="html"><![CDATA[Learn how to decarb weed effectively to activate cannabinoids for optimal potency and benefits.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Key Insights About 1 Gram of Weed for New Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=30295</id>
-        <link href="https://leafymate.com/resources/emerging-trends-in-cannabis/10-key-insights-about-1-gram-of-weed-for-new-consumers"/>
-        <updated>2025-08-04T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover essential insights about 1 gram of weed for new consumers navigating cannabis measurements.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Steps to Successfully Grow Afghan Kush at Home]]></title>
-        <id>https://leafymate.com/resources/?p=30298</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/5-steps-to-successfully-grow-afghan-kush-at-home"/>
-        <updated>2025-08-04T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Learn to cultivate Afghan Kush at home with essential steps for successful growth and harvest.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
