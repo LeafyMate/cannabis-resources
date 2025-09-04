@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-03T01:18:01.443Z</updated>
+    <updated>2025-09-04T01:18:02.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Does CBD Show Up on Drug Tests? Key Insights for New Users]]></title>
+        <id>https://leafymate.com/resources/?p=30691</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/does-cbd-show-up-on-drug-tests-key-insights-for-new-users"/>
+        <updated>2025-09-03T05:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Learn if CBD shows up on drug tests and what factors influence detection. Stay informed!]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Weed Drink? Origins, Types, and Benefits Explained]]></title>
+        <id>https://leafymate.com/resources/?p=30690</id>
+        <link href="https://leafymate.com/resources/emerging-trends-in-cannabis/what-is-a-weed-drink-origins-types-and-benefits-explained"/>
+        <updated>2025-09-03T05:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Discover the origins, types, and benefits of weed drinks, the modern cannabis beverage trend.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is the Lemon Drop Strain? Origins, Effects, and Benefits]]></title>
         <id>https://leafymate.com/resources/?p=30662</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/general/understanding-420-friendly-meaning-origins-and-contexts-explained"/>
         <updated>2025-08-06T05:06:52.000Z</updated>
         <summary type="html"><![CDATA[Discover the origins and significance of "420 friendly meaning" in cannabis culture.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Cheap Dispensary in Michigan Options for Budget-Conscious Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=30305</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-cheap-dispensary-in-michigan-options-for-budget-conscious-consumers"/>
-        <updated>2025-08-05T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Discover budget-friendly options with our top 7 cheap dispensary picks in Michigan.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Decarb Weed: Step-by-Step Guide for Beginners]]></title>
-        <id>https://leafymate.com/resources/?p=30308</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/how-to-decarb-weed-step-by-step-guide-for-beginners"/>
-        <updated>2025-08-05T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to decarb weed effectively to activate cannabinoids for optimal potency and benefits.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
