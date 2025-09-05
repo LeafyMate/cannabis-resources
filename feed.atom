@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-04T01:18:02.549Z</updated>
+    <updated>2025-09-05T01:19:43.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Navigate Anaheim Dispensaries: A New Consumer’s Guide]]></title>
+        <id>https://leafymate.com/resources/?p=30700</id>
+        <link href="https://leafymate.com/resources/understanding-dispensaries/navigate-anaheim-dispensaries-a-new-consumers-guide"/>
+        <updated>2025-09-04T05:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Discover essential tips for navigating Anaheim dispensaries and making informed choices.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master CBD Drug Test Success: Key Steps for New Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=30703</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-cbd-drug-test-success-key-steps-for-new-consumers"/>
+        <updated>2025-09-04T05:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Navigate CBD drug tests successfully with essential insights on product selection and safety.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does CBD Show Up on Drug Tests? Key Insights for New Users]]></title>
         <id>https://leafymate.com/resources/?p=30691</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-pink-starburst-strain-origins-and-key-traits"/>
         <updated>2025-08-07T05:00:04.000Z</updated>
         <summary type="html"><![CDATA[Discover the pink starburst strain: a sativa-dominant hybrid known for its uplifting effects.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Do Edibles Stay in Your System? Key Factors Explained]]></title>
-        <id>https://leafymate.com/resources/?p=30315</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/how-long-do-edibles-stay-in-your-system-key-factors-explained"/>
-        <updated>2025-08-06T05:07:03.000Z</updated>
-        <summary type="html"><![CDATA[Learn how long edibles stay in your system and the factors that influence their duration.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding 420 Friendly Meaning: Origins and Contexts Explained]]></title>
-        <id>https://leafymate.com/resources/?p=30317</id>
-        <link href="https://leafymate.com/resources/general/understanding-420-friendly-meaning-origins-and-contexts-explained"/>
-        <updated>2025-08-06T05:06:52.000Z</updated>
-        <summary type="html"><![CDATA[Discover the origins and significance of "420 friendly meaning" in cannabis culture.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
