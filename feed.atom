@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-06T01:17:51.261Z</updated>
+    <updated>2025-09-07T01:25:24.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Many Hits of a Cart to Green Out: A Step-by-Step Guide]]></title>
+        <id>https://leafymate.com/resources/?p=30720</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/how-many-hits-of-a-cart-to-green-out-a-step-by-step-guide"/>
+        <updated>2025-09-06T05:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Learn how many hits of a cart to green out and recognize its effects for safer cannabis use.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Signs of Under Ripe Buds Every New Grower Should Know]]></title>
+        <id>https://leafymate.com/resources/?p=30723</id>
+        <link href="https://leafymate.com/resources/emerging-trends-in-cannabis/8-signs-of-under-ripe-buds-every-new-grower-should-know"/>
+        <updated>2025-09-06T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Discover key signs of under ripe buds to enhance your cannabis cultivation success.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is the Agent Orange Weed Strain? Origins and Benefits Explained]]></title>
         <id>https://leafymate.com/resources/?p=30711</id>
@@ -522,26 +542,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/delta-11-essential-steps-for-safe-and-informed-use"/>
         <updated>2025-08-11T05:00:19.000Z</updated>
         <summary type="html"><![CDATA[Discover essential steps for safe and informed use of delta 11 THC and its benefits.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Liquid Diamonds THC: Steps for Effective Use]]></title>
-        <id>https://leafymate.com/resources/?p=30338</id>
-        <link href="https://leafymate.com/resources/understanding-dispensaries/master-liquid-diamonds-thc-steps-for-effective-use"/>
-        <updated>2025-08-08T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to effectively use liquid diamonds THC for an enhanced cannabis experience.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convert Quarter Pound in Grams: A Simple Step-by-Step Guide]]></title>
-        <id>https://leafymate.com/resources/?p=30339</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/convert-quarter-pound-in-grams-a-simple-step-by-step-guide"/>
-        <updated>2025-08-08T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to easily convert a quarter pound in grams for accurate cannabis measurements.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
