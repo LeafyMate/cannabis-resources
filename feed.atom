@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-07T01:25:24.025Z</updated>
+    <updated>2025-09-08T01:23:45.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Devil’s Lettuce? Origins, Uses, and Misconceptions]]></title>
+        <id>https://leafymate.com/resources/?p=30733</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-devils-lettuce-origins-uses-and-misconceptions"/>
+        <updated>2025-09-07T05:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Discover the origins, uses, and misconceptions of devils lettuce in cannabis culture.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Blue Zkittlez Strain? Origins, Effects, and Growing Tips]]></title>
+        <id>https://leafymate.com/resources/?p=30730</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-blue-zkittlez-strain-origins-effects-and-growing-tips"/>
+        <updated>2025-09-07T05:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Discover the blue zkittlez strain, its origins, effects, and cultivation tips for enthusiasts.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Many Hits of a Cart to Green Out: A Step-by-Step Guide]]></title>
         <id>https://leafymate.com/resources/?p=30720</id>
