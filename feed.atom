@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T01:23:45.781Z</updated>
+    <updated>2025-09-09T01:21:11.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is the Agent Orange Strain? Origins, Effects, and Cultivation]]></title>
+        <id>https://leafymate.com/resources/?p=30746</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-agent-orange-strain-origins-effects-and-cultivation"/>
+        <updated>2025-09-08T05:10:58.000Z</updated>
+        <summary type="html"><![CDATA[Discover the Agent Orange strain: origins, effects, and cultivation tips for cannabis enthusiasts.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an Eighth of Weed? Definition and Key Insights]]></title>
+        <id>https://leafymate.com/resources/?p=30745</id>
+        <link href="https://leafymate.com/resources/understanding-dispensaries/what-is-an-eighth-of-weed-definition-and-key-insights"/>
+        <updated>2025-09-08T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Understand the eighth of weed, its measurement, and its role in cannabis culture and consumption.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Devil’s Lettuce? Origins, Uses, and Misconceptions]]></title>
         <id>https://leafymate.com/resources/?p=30733</id>
