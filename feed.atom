@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-09T01:21:11.656Z</updated>
+    <updated>2025-09-10T01:18:42.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -562,26 +562,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/thc-distillate-definition-production-uses-and-benefits"/>
         <updated>2025-08-12T05:00:17.000Z</updated>
         <summary type="html"><![CDATA[Discover the definition, production, uses, and benefits of THC distillate in cannabis products.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smoking Lavender: Essential Steps for Beginners]]></title>
-        <id>https://leafymate.com/resources/?p=30348</id>
-        <link href="https://leafymate.com/resources/general/smoking-lavender-essential-steps-for-beginners"/>
-        <updated>2025-08-11T05:24:15.000Z</updated>
-        <summary type="html"><![CDATA[Discover essential steps for smoking lavender safely and enjoy its calming benefits.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delta 11: Essential Steps for Safe and Informed Use]]></title>
-        <id>https://leafymate.com/resources/?p=30349</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/delta-11-essential-steps-for-safe-and-informed-use"/>
-        <updated>2025-08-11T05:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Discover essential steps for safe and informed use of delta 11 THC and its benefits.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
