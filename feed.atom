@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-10T01:18:42.599Z</updated>
+    <updated>2025-09-11T01:20:29.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Linalool Terpene Effects for New Cannabis Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=30756</id>
+        <link href="https://leafymate.com/resources/medical-cannabis-insights/unlocking-linalool-terpene-effects-for-new-cannabis-consumers"/>
+        <updated>2025-09-10T05:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Discover the calming and therapeutic benefits of linalool terpene effects in cannabis.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover the Best Edibles for New Cannabis Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=30759</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/discover-the-best-edibles-for-new-cannabis-consumers"/>
+        <updated>2025-09-10T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Explore the best edibles for new cannabis consumers, featuring top brands and delicious options.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is the Agent Orange Strain? Origins, Effects, and Cultivation]]></title>
         <id>https://leafymate.com/resources/?p=30746</id>
@@ -542,26 +562,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/9-live-resin-disposable-vapes-for-every-cannabis-enthusiast"/>
         <updated>2025-08-13T05:00:43.000Z</updated>
         <summary type="html"><![CDATA[Discover the top 9 live resin disposables for every cannabis enthusiast in 2025.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Key Facts About Half Oz in Grams for Cannabis Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=30371</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/7-key-facts-about-half-oz-in-grams-for-cannabis-consumers"/>
-        <updated>2025-08-12T05:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Discover the conversion of half oz in grams for cannabis consumers and make informed choices.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THC Distillate: Definition, Production, Uses, and Benefits]]></title>
-        <id>https://leafymate.com/resources/?p=30372</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/thc-distillate-definition-production-uses-and-benefits"/>
-        <updated>2025-08-12T05:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Discover the definition, production, uses, and benefits of THC distillate in cannabis products.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
