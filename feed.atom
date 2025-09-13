@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-12T01:17:19.471Z</updated>
+    <updated>2025-09-13T01:14:11.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Blueberry Haze Strain: Effects, Origins, and Benefits]]></title>
+        <id>https://leafymate.com/resources/?p=30777</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-blueberry-haze-strain-effects-origins-and-benefits"/>
+        <updated>2025-09-12T05:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Discover the blueberry haze strain's effects, origins, and benefits for creativity and relaxation.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Garlic Juice Strain? Origins and Significance Explained]]></title>
+        <id>https://leafymate.com/resources/?p=30780</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-garlic-juice-strain-origins-and-significance-explained"/>
+        <updated>2025-09-12T05:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Discover the garlic juice strain: its origins, unique flavors, and therapeutic benefits.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Explore 8 Top Carlsbad Dispensaries for New Cannabis Consumers]]></title>
         <id>https://leafymate.com/resources/?p=30766</id>
@@ -542,26 +562,6 @@
         <link href="https://leafymate.com/resources/cannabis-community-and-influencers/o-g-meaning-origins-characteristics-and-cultural-impact"/>
         <updated>2025-08-15T05:06:07.000Z</updated>
         <summary type="html"><![CDATA[Discover the origins, significance, and cultural impact of O.G. in cannabis culture.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Tropical Cookies Strain: Origins and Effects]]></title>
-        <id>https://leafymate.com/resources/?p=30397</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-tropical-cookies-strain-origins-and-effects"/>
-        <updated>2025-08-14T05:22:32.000Z</updated>
-        <summary type="html"><![CDATA[Discover the origins, effects, and cultivation tips for the tropical cookies strain.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Unique White Weed Strains to Explore Today]]></title>
-        <id>https://leafymate.com/resources/?p=30396</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/10-unique-white-weed-strains-to-explore-today"/>
-        <updated>2025-08-14T05:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Discover 10 unique white weed strains, each offering distinct flavors and effects. Explore now!]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
