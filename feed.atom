@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-15T01:24:36.497Z</updated>
+    <updated>2025-09-16T01:18:37.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[If You Hit a Cart, How Long Does THC Stay in Your System?]]></title>
+        <id>https://leafymate.com/resources/?p=30797</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/if-you-hit-a-cart-how-long-does-thc-stay-in-your-system"/>
+        <updated>2025-09-15T05:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Learn if you hit a cart, how long does it stay in your system and the factors affecting detection time.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlock Caryophyllene Terpene Effects for Pain Relief and More]]></title>
         <id>https://leafymate.com/resources/?p=30789</id>
@@ -522,26 +532,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-gelato-cake-origins-characteristics-and-flavors"/>
         <updated>2025-08-18T05:00:06.000Z</updated>
         <summary type="html"><![CDATA[Discover the origins, characteristics, and flavors of gelato cake, a unique frozen dessert delight.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Lemon Skunk: Step-by-Step Cultivation Guide]]></title>
-        <id>https://leafymate.com/resources/?p=30428</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-lemon-skunk-step-by-step-cultivation-guide"/>
-        <updated>2025-08-17T05:24:11.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to cultivate Lemon Skunk with our comprehensive step-by-step guide.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Triangle Kush: Definition, Origins, and Key Characteristics]]></title>
-        <id>https://leafymate.com/resources/?p=30431</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/triangle-kush-definition-origins-and-key-characteristics"/>
-        <updated>2025-08-17T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Discover Triangle Kush: its origins, key traits, and therapeutic benefits in cannabis culture.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
