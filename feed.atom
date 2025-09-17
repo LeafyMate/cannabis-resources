@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-16T01:18:37.107Z</updated>
+    <updated>2025-09-17T01:18:38.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -512,26 +512,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-dabbing-a-deep-dive-into-cannabis-concentrates"/>
         <updated>2025-08-19T05:00:17.000Z</updated>
         <summary type="html"><![CDATA[Discover what is dabbing and explore the technique of consuming cannabis concentrates.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Space Cake Strain: Origins, Effects, and Profiles]]></title>
-        <id>https://leafymate.com/resources/?p=30440</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/understanding-the-space-cake-strain-origins-effects-and-profiles"/>
-        <updated>2025-08-18T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover the origins, effects, and unique profiles of the space cake strain.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Gelato Cake? Origins, Characteristics, and Flavors]]></title>
-        <id>https://leafymate.com/resources/?p=30441</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-gelato-cake-origins-characteristics-and-flavors"/>
-        <updated>2025-08-18T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover the origins, characteristics, and flavors of gelato cake, a unique frozen dessert delight.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
