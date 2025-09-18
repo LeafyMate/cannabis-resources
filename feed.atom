@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-17T01:18:38.859Z</updated>
+    <updated>2025-09-18T01:18:14.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8 Key Insights on 500 mg Edible Gummies for New Consumers]]></title>
+        <id>https://leafymate.com/resources/?p=30810</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/8-key-insights-on-500-mg-edible-gummies-for-new-consumers"/>
+        <updated>2025-09-17T05:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Discover essential insights on 500 mg edible gummies for new consumers navigating safe usage.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Long Will One Hit of a Cart Stay in Your System?]]></title>
+        <id>https://leafymate.com/resources/?p=30807</id>
+        <link href="https://leafymate.com/resources/responsible-cannabis-use/how-long-will-one-hit-of-a-cart-stay-in-your-system"/>
+        <updated>2025-09-17T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Learn how long one hit of a cart stays in your system and the key factors affecting THC detection.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If You Hit a Cart, How Long Does THC Stay in Your System?]]></title>
         <id>https://leafymate.com/resources/?p=30797</id>
@@ -492,26 +512,6 @@
         <link href="https://leafymate.com/resources/cannabis-and-wellness/10-key-facts-about-mouth-swab-drug-test-weed-you-need-to-know"/>
         <updated>2025-08-20T05:00:05.000Z</updated>
         <summary type="html"><![CDATA[Discover essential facts about mouth swab drug tests for weed and navigate your cannabis use confidently.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Essential Facts About Pre Rolled Blunts You Need to Know]]></title>
-        <id>https://leafymate.com/resources/?p=30451</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/8-essential-facts-about-pre-rolled-blunts-you-need-to-know"/>
-        <updated>2025-08-19T05:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Discover essential facts about pre rolled blunts, their benefits, types, and storage tips.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Dabbing? A Deep Dive into Cannabis Concentrates]]></title>
-        <id>https://leafymate.com/resources/?p=30450</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-dabbing-a-deep-dive-into-cannabis-concentrates"/>
-        <updated>2025-08-19T05:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Discover what is dabbing and explore the technique of consuming cannabis concentrates.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
