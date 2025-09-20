@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30830",
+          "author": "Jordan Reyes",
+          "description": "Discover essential insights on liquid THC for new consumers, including effects, methods, and safety.",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-insights-for-new-consumers-on-liquid-thc",
+          "publishedOn": "2025-09-19T05:49:12.000Z",
+          "wordCount": 12170,
+          "title": "10 Essential Insights for New Consumers on Liquid THC",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-essential-insights-for-new-consumers-on-liquid-thc.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30827",
+          "author": "Jordan Reyes",
+          "description": "Discover essential cannabis pens for beginners and enhance your vaping experience today!",
+          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/10-essential-cannabis-pens-every-new-user-should-know-about",
+          "publishedOn": "2025-09-19T05:00:22.000Z",
+          "wordCount": 9389,
+          "title": "10 Essential Cannabis Pens Every New User Should Know About",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-essential-cannabis-pens-every-new-user-should-know-about.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30819",
           "author": "Jordan Reyes",
           "description": "Unlock the secrets of successful cannabis cultivation with essential pheno hunting tips.",
@@ -494,26 +514,6 @@
           "wordCount": 7735,
           "title": "Can You Smoke Lavender? Step-by-Step Guide to Safe Use",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/can-you-smoke-lavender-step-by-step-guide-to-safe-use.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30470",
-          "author": "Jordan Reyes",
-          "description": "Master the techniques for accurate measurement of 28 grams in cooking and cannabis.",
-          "link": "https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/master-28-grams-essential-techniques-for-accurate-measurement",
-          "publishedOn": "2025-08-21T05:16:14.000Z",
-          "wordCount": 8265,
-          "title": "Master 28 Grams: Essential Techniques for Accurate Measurement",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/master-28-grams-essential-techniques-for-accurate-measurement.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30472",
-          "author": "Jordan Reyes",
-          "description": "Learn how to effectively use shake weed for smoking, cooking, and more in three simple steps.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/3-steps-to-use-shake-weed-effectively-for-new-consumers",
-          "publishedOn": "2025-08-21T05:00:22.000Z",
-          "wordCount": 7185,
-          "title": "3 Steps to Use Shake Weed Effectively for New Consumers",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/3-steps-to-use-shake-weed-effectively-for-new-consumers.webp"
         }
       ]
     }
