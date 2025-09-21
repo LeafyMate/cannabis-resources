@@ -6,6 +6,26 @@
       "siteUrl": "https://leafymate.com/resources",
       "articles": [
         {
+          "id": "https://leafymate.com/resources/?p=30839",
+          "author": "Jordan Reyes",
+          "description": "Discover the role of amber trichomes in cannabis quality and potency.",
+          "link": "https://leafymate.com/resources/emerging-trends-in-cannabis/understanding-amber-trichomes-key-to-quality-cannabis",
+          "publishedOn": "2025-09-20T05:40:35.000Z",
+          "wordCount": 7895,
+          "title": "Understanding Amber Trichomes: Key to Quality Cannabis",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/understanding-amber-trichomes-key-to-quality-cannabis.png"
+        },
+        {
+          "id": "https://leafymate.com/resources/?p=30841",
+          "author": "Jordan Reyes",
+          "description": "Learn effective steps on how to get THC out of your system and detoxify efficiently.",
+          "link": "https://leafymate.com/resources/general/how-to-get-thc-out-of-your-system-effective-detox-steps",
+          "publishedOn": "2025-09-20T05:00:14.000Z",
+          "wordCount": 8512,
+          "title": "How to Get THC Out of Your System: Effective Detox Steps",
+          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-get-thc-out-of-your-system-effective-detox-steps.png"
+        },
+        {
           "id": "https://leafymate.com/resources/?p=30830",
           "author": "Jordan Reyes",
           "description": "Discover essential insights on liquid THC for new consumers, including effects, methods, and safety.",
@@ -494,26 +514,6 @@
           "wordCount": 10075,
           "title": "10 Best Weed Strains 2024 for Every Cannabis Enthusiast",
           "imageUrl": "https://leafymate.com/resources/wp-content/uploads/10-best-weed-strains-2024-for-every-cannabis-enthusiast.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30481",
-          "author": "Jordan Reyes",
-          "description": "Learn essential steps on how to smoke a joint for a smooth and enjoyable experience.",
-          "link": "https://leafymate.com/resources/responsible-cannabis-use/how-to-smoke-a-joint-essential-steps-for-new-consumers",
-          "publishedOn": "2025-08-22T05:00:08.000Z",
-          "wordCount": 8721,
-          "title": "How to Smoke a Joint: Essential Steps for New Consumers",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/how-to-smoke-a-joint-essential-steps-for-new-consumers.webp"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30482",
-          "author": "Jordan Reyes",
-          "description": "Explore if you can smoke lavender safely, along with the steps and risks involved in the process.",
-          "link": "https://leafymate.com/resources/general/can-you-smoke-lavender-step-by-step-guide-to-safe-use",
-          "publishedOn": "2025-08-22T05:00:08.000Z",
-          "wordCount": 7735,
-          "title": "Can You Smoke Lavender? Step-by-Step Guide to Safe Use",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/can-you-smoke-lavender-step-by-step-guide-to-safe-use.webp"
         }
       ]
     }
