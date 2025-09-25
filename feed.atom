@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T01:19:43.478Z</updated>
+    <updated>2025-09-25T01:20:24.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Live Resin Vape? Benefits, Types, and Production Explained]]></title>
+        <id>https://leafymate.com/resources/?p=30925</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-live-resin-vape-benefits-types-and-production-explained"/>
+        <updated>2025-09-24T05:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Discover what live resin vape is, its benefits, types, and production methods in this comprehensive guide.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s a Zip in Cannabis Slang? Definition and Key Insights]]></title>
+        <id>https://leafymate.com/resources/?p=30922</id>
+        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/whats-a-zip-in-cannabis-slang-definition-and-key-insights"/>
+        <updated>2025-09-24T05:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Explore the term "whats a zip slang" to understand its meaning, cost, and usage in cannabis culture.]]></summary>
+        <author>
+            <name>Jordan Reyes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Are Sun Rocks? Key Facts Every New Cannabis Consumer Should Know]]></title>
         <id>https://leafymate.com/resources/?p=30910</id>
@@ -472,26 +492,6 @@
         <link href="https://leafymate.com/resources/cannabis-legalization-and-policy-updates/what-is-the-legend-og-strain-origins-effects-and-popularity"/>
         <updated>2025-08-27T05:00:07.000Z</updated>
         <summary type="html"><![CDATA[Discover the legend OG strain's origins, effects, and rising popularity in cannabis culture.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding 3.5 Grams of Cannabis: Importance and Uses]]></title>
-        <id>https://leafymate.com/resources/?p=30526</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/understanding-3-5-grams-of-cannabis-importance-and-uses"/>
-        <updated>2025-08-26T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover the significance and versatility of 3.5 grams of cannabis for informed consumption.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Pink Weed? Origins, Effects, and Variations Explained]]></title>
-        <id>https://leafymate.com/resources/?p=30527</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-pink-weed-origins-effects-and-variations-explained"/>
-        <updated>2025-08-26T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discover pink weed's origins, effects, and unique strain variations in cannabis culture.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
