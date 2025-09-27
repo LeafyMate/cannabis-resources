@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-26T01:19:58.349Z</updated>
+    <updated>2025-09-27T01:17:03.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -452,26 +452,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-are-carts-a-complete-guide-for-new-cannabis-consumers"/>
         <updated>2025-08-29T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[Discover what are carts and their significance in cannabis consumption and market trends.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Eucalyptol? Origins, Benefits, and Safety in Cannabis]]></title>
-        <id>https://leafymate.com/resources/?p=30563</id>
-        <link href="https://leafymate.com/resources/medical-cannabis-insights/what-is-eucalyptol-origins-benefits-and-safety-in-cannabis"/>
-        <updated>2025-08-28T05:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Discover the origins, benefits, and safety of eucalyptol in cannabis and natural remedies.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Weed Legal in the UK? A Step-by-Step Guide for New Consumers]]></title>
-        <id>https://leafymate.com/resources/?p=30564</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/is-weed-legal-in-the-uk-a-step-by-step-guide-for-new-consumers"/>
-        <updated>2025-08-28T05:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Discover if weed is legal in the UK, emphasizing the regulations around medical use and access.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
