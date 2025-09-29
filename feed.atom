@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-28T01:27:30.706Z</updated>
+    <updated>2025-09-29T01:21:59.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -412,26 +412,6 @@
         <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/what-is-a-cannabis-cafe-understanding-its-origins-and-impact"/>
         <updated>2025-08-31T05:00:05.000Z</updated>
         <summary type="html"><![CDATA[Explore the cultural significance and growing impact of cannabis cafes in today's society.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does ‘Sesh’ Mean in Cannabis Culture?]]></title>
-        <id>https://leafymate.com/resources/?p=30585</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/what-does-sesh-mean-in-cannabis-culture"/>
-        <updated>2025-08-30T05:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Discover the meaning of 'sesh' in cannabis culture and its role in fostering community connections.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does Greening Out Mean? Causes, Symptoms, and Solutions]]></title>
-        <id>https://leafymate.com/resources/?p=30586</id>
-        <link href="https://leafymate.com/resources/cannabis-community-and-influencers/what-does-greening-out-mean-causes-symptoms-and-solutions"/>
-        <updated>2025-08-30T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Explore what greening out means, its causes, symptoms, and effective management strategies.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
