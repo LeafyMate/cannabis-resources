@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-29T01:21:59.447Z</updated>
+    <updated>2025-09-30T01:20:53.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -392,26 +392,6 @@
         <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-afghani-strain-origins-effects-and-cultivation"/>
         <updated>2025-09-01T05:00:04.000Z</updated>
         <summary type="html"><![CDATA[Discover the origins, effects, and cultivation tips for the afghani strain of cannabis.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Mango Kush: Step-by-Step Growing Guide for Beginners]]></title>
-        <id>https://leafymate.com/resources/?p=30606</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/master-mango-kush-step-by-step-growing-guide-for-beginners"/>
-        <updated>2025-08-31T05:17:47.000Z</updated>
-        <summary type="html"><![CDATA[Learn to grow mango kush with this comprehensive step-by-step guide for beginners.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Cannabis Cafe? Understanding Its Origins and Impact]]></title>
-        <id>https://leafymate.com/resources/?p=30605</id>
-        <link href="https://leafymate.com/resources/cannabis-edibles-recipes-and-benefits/what-is-a-cannabis-cafe-understanding-its-origins-and-impact"/>
-        <updated>2025-08-31T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Explore the cultural significance and growing impact of cannabis cafes in today's society.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
