@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-01T01:36:52.774Z</updated>
+    <updated>2025-10-02T01:18:22.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -352,26 +352,6 @@
         <link href="https://leafymate.com/resources/emerging-trends-in-cannabis/what-is-a-weed-drink-origins-types-and-benefits-explained"/>
         <updated>2025-09-03T05:00:18.000Z</updated>
         <summary type="html"><![CDATA[Discover the origins, types, and benefits of weed drinks, the modern cannabis beverage trend.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Lemon Drop Strain? Origins, Effects, and Benefits]]></title>
-        <id>https://leafymate.com/resources/?p=30662</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-lemon-drop-strain-origins-effects-and-benefits"/>
-        <updated>2025-09-02T05:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Discover the uplifting effects and origins of the lemon drop strain, a citrus-flavored hybrid.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Whitezilla? Origins, Characteristics, and Significance]]></title>
-        <id>https://leafymate.com/resources/?p=30661</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-whitezilla-origins-characteristics-and-significance"/>
-        <updated>2025-09-02T05:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Discover Whitezilla, a potent hybrid strain known for its balanced effects and unique flavor profile.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
