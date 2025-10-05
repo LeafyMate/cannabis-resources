@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-04T01:16:07.367Z</updated>
+    <updated>2025-10-05T01:26:50.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -292,26 +292,6 @@
         <link href="https://leafymate.com/resources/emerging-trends-in-cannabis/8-signs-of-under-ripe-buds-every-new-grower-should-know"/>
         <updated>2025-09-06T05:00:06.000Z</updated>
         <summary type="html"><![CDATA[Discover key signs of under ripe buds to enhance your cannabis cultivation success.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Agent Orange Weed Strain? Origins and Benefits Explained]]></title>
-        <id>https://leafymate.com/resources/?p=30711</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-agent-orange-weed-strain-origins-and-benefits-explained"/>
-        <updated>2025-09-05T05:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Discover the agent orange weed strain's origins, effects, and therapeutic benefits.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Miracle Alien Cookies Strain? Origins and Benefits Explained]]></title>
-        <id>https://leafymate.com/resources/?p=30712</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-miracle-alien-cookies-strain-origins-and-benefits-explained"/>
-        <updated>2025-09-05T05:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Discover the miracle alien cookies strain's origins, effects, and unique flavor profile.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
