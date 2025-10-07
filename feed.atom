@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T01:20:41.302Z</updated>
+    <updated>2025-10-07T01:19:24.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -252,26 +252,6 @@
         <link href="https://leafymate.com/resources/understanding-dispensaries/what-is-an-eighth-of-weed-definition-and-key-insights"/>
         <updated>2025-09-08T05:00:05.000Z</updated>
         <summary type="html"><![CDATA[Understand the eighth of weed, its measurement, and its role in cannabis culture and consumption.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Devil’s Lettuce? Origins, Uses, and Misconceptions]]></title>
-        <id>https://leafymate.com/resources/?p=30733</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-devils-lettuce-origins-uses-and-misconceptions"/>
-        <updated>2025-09-07T05:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Discover the origins, uses, and misconceptions of devils lettuce in cannabis culture.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Blue Zkittlez Strain? Origins, Effects, and Growing Tips]]></title>
-        <id>https://leafymate.com/resources/?p=30730</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-the-blue-zkittlez-strain-origins-effects-and-growing-tips"/>
-        <updated>2025-09-07T05:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Discover the blue zkittlez strain, its origins, effects, and cultivation tips for enthusiasts.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
