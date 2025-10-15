@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-14T01:20:16.561Z</updated>
+    <updated>2025-10-15T01:22:13.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
@@ -142,16 +142,6 @@
         <link href="https://leafymate.com/resources/responsible-cannabis-use/how-long-will-one-hit-of-a-cart-stay-in-your-system"/>
         <updated>2025-09-17T05:00:05.000Z</updated>
         <summary type="html"><![CDATA[Learn how long one hit of a cart stays in your system and the key factors affecting THC detection.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If You Hit a Cart, How Long Does THC Stay in Your System?]]></title>
-        <id>https://leafymate.com/resources/?p=30797</id>
-        <link href="https://leafymate.com/resources/responsible-cannabis-use/if-you-hit-a-cart-how-long-does-thc-stay-in-your-system"/>
-        <updated>2025-09-15T05:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Learn if you hit a cart, how long does it stay in your system and the factors affecting detection time.]]></summary>
         <author>
             <name>Jordan Reyes</name>
         </author>
