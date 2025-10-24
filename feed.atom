@@ -2,28 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leafymate.github.io/cannabis-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-23T01:22:58.554Z</updated>
+    <updated>2025-10-24T01:19:25.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://leafymate.github.io/cannabis-resources/index.html"/>
     <link rel="self" href="https://leafymate.github.io/cannabis-resources/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[What Is Live Resin Vape? Benefits, Types, and Production Explained]]></title>
-        <id>https://leafymate.com/resources/?p=30925</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-live-resin-vape-benefits-types-and-production-explained"/>
-        <updated>2025-09-24T05:25:28.000Z</updated>
-        <summary type="html"><![CDATA[Discover what live resin vape is, its benefits, types, and production methods in this comprehensive guide.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s a Zip in Cannabis Slang? Definition and Key Insights]]></title>
-        <id>https://leafymate.com/resources/?p=30922</id>
-        <link href="https://leafymate.com/resources/choosing-the-right-cannabis-products/whats-a-zip-in-cannabis-slang-definition-and-key-insights"/>
-        <updated>2025-09-24T05:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Explore the term "whats a zip slang" to understand its meaning, cost, and usage in cannabis culture.]]></summary>
-        <author>
-            <name>Jordan Reyes</name>
-        </author>
-    </entry>
 </feed>

@@ -4,28 +4,7 @@
       "title": "Leafy Mate",
       "feedUrl": "https://leafymate.com/resources/feed",
       "siteUrl": "https://leafymate.com/resources",
-      "articles": [
-        {
-          "id": "https://leafymate.com/resources/?p=30925",
-          "author": "Jordan Reyes",
-          "description": "Discover what live resin vape is, its benefits, types, and production methods in this comprehensive guide.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/what-is-live-resin-vape-benefits-types-and-production-explained",
-          "publishedOn": "2025-09-24T05:25:28.000Z",
-          "wordCount": 8610,
-          "title": "What Is Live Resin Vape? Benefits, Types, and Production Explained",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/what-is-live-resin-vape-benefits-types-and-production-explained.png"
-        },
-        {
-          "id": "https://leafymate.com/resources/?p=30922",
-          "author": "Jordan Reyes",
-          "description": "Explore the term \"whats a zip slang\" to understand its meaning, cost, and usage in cannabis culture.",
-          "link": "https://leafymate.com/resources/choosing-the-right-cannabis-products/whats-a-zip-in-cannabis-slang-definition-and-key-insights",
-          "publishedOn": "2025-09-24T05:00:07.000Z",
-          "wordCount": 7753,
-          "title": "What’s a Zip in Cannabis Slang? Definition and Key Insights",
-          "imageUrl": "https://leafymate.com/resources/wp-content/uploads/whats-a-zip-in-cannabis-slang-definition-and-key-insights.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
